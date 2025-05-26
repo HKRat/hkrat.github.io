@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/PCA-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>PCA visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/PCA-files/logo.png" />
+	<img class="preload-hidden" src="/sets/PCA-files/icon.png" />
+		<img class="preload-hidden" src="/sets/TOC-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="PCA"><img src="/sets/PCA-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="TOC"><img src="/sets/TOC-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/PCA-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets\PCA-files\img\12_Her Majesty Justicia.png" id="12_Her Majesty Justicia" data-flag="@X" onclick="openSidebar('12_Her Majesty Justicia',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\42_Caitisan's Conquest.png" id="42_Caitisans Conquest" data-flag="@X" onclick="openSidebar('42_Caitisans Conquest',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\84_Eavesdrop Adept.png" id="84_Eavesdrop Adept" data-flag="@X" onclick="openSidebar('84_Eavesdrop Adept',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\142_Ruby Spade Swashbuckler.png" id="142_Ruby Spade Swashbuckler" data-flag="@X" onclick="openSidebar('142_Ruby Spade Swashbuckler',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\154_Coastrender.png" id="154_Coastrender" data-flag="@X" onclick="openSidebar('154_Coastrender',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\22_Razorwind Griffin.png" id="22_Razorwind Griffin" data-flag="@X" onclick="openSidebar('22_Razorwind Griffin',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\41_Arrogant Helmsman.png" id="41_Arrogant Helmsman" data-flag="@X" onclick="openSidebar('41_Arrogant Helmsman',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\103_Pearl Black the Dreadwight.png" id="103_Pearl Black the Dreadwight" data-flag="@X" onclick="openSidebar('103_Pearl Black the Dreadwight',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\114_Abandon Ship.png" id="114_Abandon Ship" data-flag="@X" onclick="openSidebar('114_Abandon Ship',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\163_Halyard Lookout.png" id="163_Halyard Lookout" data-flag="@X" onclick="openSidebar('163_Halyard Lookout',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\10_Evergrove Matron.png" id="10_Evergrove Matron" data-flag="@X" onclick="openSidebar('10_Evergrove Matron',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\51_Ghost Crew's Curse.png" id="51_Ghost Crews Curse" data-flag="@X" onclick="openSidebar('51_Ghost Crews Curse',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\80_Crimson Jack of the Moonracer.png" id="80_Crimson Jack of the Moonracer" data-flag="@X" onclick="openSidebar('80_Crimson Jack of the Moonracer',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\115_Archipelago Tyrant.png" id="115_Archipelago Tyrant" data-flag="@X" onclick="openSidebar('115_Archipelago Tyrant',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\167_Kitchen Slinks.png" id="167_Kitchen Slinks" data-flag="@X" onclick="openSidebar('167_Kitchen Slinks',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\13_Her Majesty's Armory.png" id="13_Her Majestys Armory" data-flag="@X" onclick="openSidebar('13_Her Majestys Armory',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\55_Lucelle of the Twin Galleons.png" id="55_Lucelle of the Twin Galleons" data-flag="@X" onclick="openSidebar('55_Lucelle of the Twin Galleons',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\88_Fractured Morality.png" id="88_Fractured Morality" data-flag="@X" onclick="openSidebar('88_Fractured Morality',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\119_Captain's Gathering.png" id="119_Captains Gathering" data-flag="@X" onclick="openSidebar('119_Captains Gathering',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\169_Merfolk Shorestalker.png" id="169_Merfolk Shorestalker" data-flag="@X" onclick="openSidebar('169_Merfolk Shorestalker',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\19_Master Armsmith.png" id="19_Master Armsmith" data-flag="@X" onclick="openSidebar('19_Master Armsmith',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\57_Majestic Spectacle.png" id="57_Majestic Spectacle" data-flag="@X" onclick="openSidebar('57_Majestic Spectacle',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\89_Ghost Crew.png" id="89_Ghost Crew" data-flag="@X" onclick="openSidebar('89_Ghost Crew',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\129_Goldhunter Dragon.png" id="129_Goldhunter Dragon" data-flag="@X" onclick="openSidebar('129_Goldhunter Dragon',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\178_Stormfarer.png" id="178_Stormfarer" data-flag="@X" onclick="openSidebar('178_Stormfarer',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\21_Portside Collector.png" id="21_Portside Collector" data-flag="@X" onclick="openSidebar('21_Portside Collector',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\58_Mariner's Skill.png" id="58_Mariners Skill" data-flag="@X" onclick="openSidebar('58_Mariners Skill',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\90_Greed's Goaded.png" id="90_Greeds Goaded" data-flag="@X" onclick="openSidebar('90_Greeds Goaded',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\130_Gunpowder Buccaneer.png" id="130_Gunpowder Buccaneer" data-flag="@X" onclick="openSidebar('130_Gunpowder Buccaneer',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\181_Tracker's Revelation.png" id="181_Trackers Revelation" data-flag="@X" onclick="openSidebar('181_Trackers Revelation',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\26_Royal Helmsguard.png" id="26_Royal Helmsguard" data-flag="@X" onclick="openSidebar('26_Royal Helmsguard',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\67_Spellweaver Harpy.png" id="67_Spellweaver Harpy" data-flag="@X" onclick="openSidebar('67_Spellweaver Harpy',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\96_Law of the Sea.png" id="96_Law of the Sea" data-flag="@X" onclick="openSidebar('96_Law of the Sea',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\134_Myra of the Twin Galleons.png" id="134_Myra of the Twin Galleons" data-flag="@X" onclick="openSidebar('134_Myra of the Twin Galleons',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\182_Turn the Tides.png" id="182_Turn the Tides" data-flag="@X" onclick="openSidebar('182_Turn the Tides',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\27_Royal Lieutenant.png" id="27_Royal Lieutenant" data-flag="@X" onclick="openSidebar('27_Royal Lieutenant',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\71_Treasures Lost and Sunken.png" id="71_Treasures Lost and Sunken" data-flag="@X" onclick="openSidebar('71_Treasures Lost and Sunken',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\101_Notoriety.png" id="101_Notoriety" data-flag="@X" onclick="openSidebar('101_Notoriety',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\135_Myra's Acquisitioner.png" id="135_Myras Acquisitioner" data-flag="@X" onclick="openSidebar('135_Myras Acquisitioner',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\184_Wilds Warden.png" id="184_Wilds Warden" data-flag="@X" onclick="openSidebar('184_Wilds Warden',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\29_Sanctimony Ward.png" id="29_Sanctimony Ward" data-flag="@X" onclick="openSidebar('29_Sanctimony Ward',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\75_Wellweather Christener.png" id="75_Wellweather Christener" data-flag="@X" onclick="openSidebar('75_Wellweather Christener',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\107_Scoundril's Bounty.png" id="107_Scoundrils Bounty" data-flag="@X" onclick="openSidebar('107_Scoundrils Bounty',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\144_Shipwreck Stalker.png" id="144_Shipwreck Stalker" data-flag="@X" onclick="openSidebar('144_Shipwreck Stalker',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\155_Deadwater Ringleader.png" id="155_Deadwater Ringleader" data-flag="@X" onclick="openSidebar('155_Deadwater Ringleader',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\35_Sunk at Sea.png" id="35_Sunk at Sea" data-flag="@X" onclick="openSidebar('35_Sunk at Sea',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\52_Her Majesty's Will.png" id="52_Her Majestys Will" data-flag="@X" onclick="openSidebar('52_Her Majestys Will',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\111_Sulfurous Wanderer.png" id="111_Sulfurous Wanderer" data-flag="@X" onclick="openSidebar('111_Sulfurous Wanderer',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\122_Curse of Confrontation.png" id="122_Curse of Confrontation" data-flag="@X" onclick="openSidebar('122_Curse of Confrontation',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\159_Evergrove Wanderer.png" id="159_Evergrove Wanderer" data-flag="@X" onclick="openSidebar('159_Evergrove Wanderer',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\3_Brandish.png" id="3_Brandish" data-flag="@X" onclick="openSidebar('3_Brandish',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\54_Kraken's Claim.png" id="54_Krakens Claim" data-flag="@X" onclick="openSidebar('54_Krakens Claim',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\77_Checkmate.png" id="77_Checkmate" data-flag="@X" onclick="openSidebar('77_Checkmate',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\123_Curse of Parley.png" id="123_Curse of Parley" data-flag="@X" onclick="openSidebar('123_Curse of Parley',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\160_Gezroil's Demise.png" id="160_Gezroils Demise" data-flag="@X" onclick="openSidebar('160_Gezroils Demise',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\4_Brigand's Bargain.png" id="4_Brigands Bargain" data-flag="@X" onclick="openSidebar('4_Brigands Bargain',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\56_Lucelle's Demise.png" id="56_Lucelles Demise" data-flag="@X" onclick="openSidebar('56_Lucelles Demise',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\78_Contract Killer.png" id="78_Contract Killer" data-flag="@X" onclick="openSidebar('78_Contract Killer',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\125_Explosive Entrance.png" id="125_Explosive Entrance" data-flag="@X" onclick="openSidebar('125_Explosive Entrance',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\165_In Spades.png" id="165_In Spades" data-flag="@X" onclick="openSidebar('165_In Spades',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\8_Doctrine Director.png" id="8_Doctrine Director" data-flag="@X" onclick="openSidebar('8_Doctrine Director',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\59_Merfolk Wavemaster.png" id="59_Merfolk Wavemaster" data-flag="@X" onclick="openSidebar('59_Merfolk Wavemaster',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\81_Crimson Jack's Demise.png" id="81_Crimson Jacks Demise" data-flag="@X" onclick="openSidebar('81_Crimson Jacks Demise',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\127_Fool's Allure.png" id="127_Fools Allure" data-flag="@X" onclick="openSidebar('127_Fools Allure',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\166_Into the Unknown.png" id="166_Into the Unknown" data-flag="@X" onclick="openSidebar('166_Into the Unknown',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\9_Espaza's Betrayal.png" id="9_Espazas Betrayal" data-flag="@X" onclick="openSidebar('9_Espazas Betrayal',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\62_Renegade Tidemaster.png" id="62_Renegade Tidemaster" data-flag="@X" onclick="openSidebar('62_Renegade Tidemaster',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\92_Hands of Fate.png" id="92_Hands of Fate" data-flag="@X" onclick="openSidebar('92_Hands of Fate',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\131_Havoc Admiral.png" id="131_Havoc Admiral" data-flag="@X" onclick="openSidebar('131_Havoc Admiral',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\168_Leaf Wanderer.png" id="168_Leaf Wanderer" data-flag="@X" onclick="openSidebar('168_Leaf Wanderer',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\11_Glorious Redemption.png" id="11_Glorious Redemption" data-flag="@X" onclick="openSidebar('11_Glorious Redemption',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\63_Sailor's Slip.png" id="63_Sailors Slip" data-flag="@X" onclick="openSidebar('63_Sailors Slip',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\93_Haunting Memory.png" id="93_Haunting Memory" data-flag="@X" onclick="openSidebar('93_Haunting Memory',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\136_Myra's Demise.png" id="136_Myras Demise" data-flag="@X" onclick="openSidebar('136_Myras Demise',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\171_Porta Bay Pest.png" id="171_Porta Bay Pest" data-flag="@X" onclick="openSidebar('171_Porta Bay Pest',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\14_Her Majesty's Blessing.png" id="14_Her Majestys Blessing" data-flag="@X" onclick="openSidebar('14_Her Majestys Blessing',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\64_Scourge of Infamy.png" id="64_Scourge of Infamy" data-flag="@X" onclick="openSidebar('64_Scourge of Infamy',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\98_Mark of the Sea.png" id="98_Mark of the Sea" data-flag="@X" onclick="openSidebar('98_Mark of the Sea',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\138_Personal Armsmith.png" id="138_Personal Armsmith" data-flag="@X" onclick="openSidebar('138_Personal Armsmith',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\173_Sails to Adventure.png" id="173_Sails to Adventure" data-flag="@X" onclick="openSidebar('173_Sails to Adventure',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\23_Recruiter General.png" id="23_Recruiter General" data-flag="@X" onclick="openSidebar('23_Recruiter General',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\65_Shiphunter.png" id="65_Shiphunter" data-flag="@X" onclick="openSidebar('65_Shiphunter',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\99_Master Manipulator.png" id="99_Master Manipulator" data-flag="@X" onclick="openSidebar('99_Master Manipulator',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\139_Plunder and Pillage.png" id="139_Plunder and Pillage" data-flag="@X" onclick="openSidebar('139_Plunder and Pillage',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\175_Shiprender.png" id="175_Shiprender" data-flag="@X" onclick="openSidebar('175_Shiprender',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\30_Seaside Peddler.png" id="30_Seaside Peddler" data-flag="@X" onclick="openSidebar('30_Seaside Peddler',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\66_Sickening Seas.png" id="66_Sickening Seas" data-flag="@X" onclick="openSidebar('66_Sickening Seas',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\100_Merciless Stalker.png" id="100_Merciless Stalker" data-flag="@X" onclick="openSidebar('100_Merciless Stalker',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\146_Tamper.png" id="146_Tamper" data-flag="@X" onclick="openSidebar('146_Tamper',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\179_Tallora Traveler.png" id="179_Tallora Traveler" data-flag="@X" onclick="openSidebar('179_Tallora Traveler',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\31_Second Burst.png" id="31_Second Burst" data-flag="@X" onclick="openSidebar('31_Second Burst',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\68_Summon the Skysailer.png" id="68_Summon the Skysailer" data-flag="@X" onclick="openSidebar('68_Summon the Skysailer',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\104_Plundered Secrets.png" id="104_Plundered Secrets" data-flag="@X" onclick="openSidebar('104_Plundered Secrets',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\148_Unquenchable Flame.png" id="148_Unquenchable Flame" data-flag="@X" onclick="openSidebar('148_Unquenchable Flame',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\186_Wreckage Lurker.png" id="186_Wreckage Lurker" data-flag="@X" onclick="openSidebar('186_Wreckage Lurker',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\36_Twinblade Adept.png" id="36_Twinblade Adept" data-flag="@X" onclick="openSidebar('36_Twinblade Adept',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\70_Tideseer Captain.png" id="70_Tideseer Captain" data-flag="@X" onclick="openSidebar('70_Tideseer Captain',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\108_Smuggler Captain.png" id="108_Smuggler Captain" data-flag="@X" onclick="openSidebar('108_Smuggler Captain',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\150_Wayward Plunderer.png" id="150_Wayward Plunderer" data-flag="@X" onclick="openSidebar('150_Wayward Plunderer',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\151_Agall Brute.png" id="151_Agall Brute" data-flag="@X" onclick="openSidebar('151_Agall Brute',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\37_Valiant Fencers.png" id="37_Valiant Fencers" data-flag="@X" onclick="openSidebar('37_Valiant Fencers',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\39_Agall Renegade.png" id="39_Agall Renegade" data-flag="@X" onclick="openSidebar('39_Agall Renegade',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\109_Stagger Back.png" id="109_Stagger Back" data-flag="@X" onclick="openSidebar('109_Stagger Back',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\116_Braizen Captain.png" id="116_Braizen Captain" data-flag="@X" onclick="openSidebar('116_Braizen Captain',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\152_Ahba Shorewalker.png" id="152_Ahba Shorewalker" data-flag="@X" onclick="openSidebar('152_Ahba Shorewalker',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\1_Ahba Island Battalion.png" id="1_Ahba Island Battalion" data-flag="@X" onclick="openSidebar('1_Ahba Island Battalion',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\40_Agall Spymaster.png" id="40_Agall Spymaster" data-flag="@X" onclick="openSidebar('40_Agall Spymaster',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\76_Bravado.png" id="76_Bravado" data-flag="@X" onclick="openSidebar('76_Bravado',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\117_Braizen Plunder.png" id="117_Braizen Plunder" data-flag="@X" onclick="openSidebar('117_Braizen Plunder',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\153_Ancient Snapper.png" id="153_Ancient Snapper" data-flag="@X" onclick="openSidebar('153_Ancient Snapper',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\2_Ahba Island Healer.png" id="2_Ahba Island Healer" data-flag="@X" onclick="openSidebar('2_Ahba Island Healer',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\43_Coastal Adept.png" id="43_Coastal Adept" data-flag="@X" onclick="openSidebar('43_Coastal Adept',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\79_A Crime for Liars.png" id="79_A Crime for Liars" data-flag="@X" onclick="openSidebar('79_A Crime for Liars',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\118_Brilliant Trove.png" id="118_Brilliant Trove" data-flag="@X" onclick="openSidebar('118_Brilliant Trove',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\156_Elven Linebreaker.png" id="156_Elven Linebreaker" data-flag="@X" onclick="openSidebar('156_Elven Linebreaker',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\5_Coastal Explorer.png" id="5_Coastal Explorer" data-flag="@X" onclick="openSidebar('5_Coastal Explorer',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\44_Current Seer.png" id="44_Current Seer" data-flag="@X" onclick="openSidebar('44_Current Seer',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\82_Curse of Doomed Voyages.png" id="82_Curse of Doomed Voyages" data-flag="@X" onclick="openSidebar('82_Curse of Doomed Voyages',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\120_Careless Buccaneer.png" id="120_Careless Buccaneer" data-flag="@X" onclick="openSidebar('120_Careless Buccaneer',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\157_Elven Sailor.png" id="157_Elven Sailor" data-flag="@X" onclick="openSidebar('157_Elven Sailor',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\6_Cursebreak.png" id="6_Cursebreak" data-flag="@X" onclick="openSidebar('6_Cursebreak',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\45_Curse of Disrespect.png" id="45_Curse of Disrespect" data-flag="@X" onclick="openSidebar('45_Curse of Disrespect',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\83_Deadwater Vermin.png" id="83_Deadwater Vermin" data-flag="@X" onclick="openSidebar('83_Deadwater Vermin',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\121_Charted Course.png" id="121_Charted Course" data-flag="@X" onclick="openSidebar('121_Charted Course',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\158_Evergrove Pilgrim.png" id="158_Evergrove Pilgrim" data-flag="@X" onclick="openSidebar('158_Evergrove Pilgrim',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\7_Deploy.png" id="7_Deploy" data-flag="@X" onclick="openSidebar('7_Deploy',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\46_Curse of Loose Lips.png" id="46_Curse of Loose Lips" data-flag="@X" onclick="openSidebar('46_Curse of Loose Lips',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\85_Elvish Swashbuckler.png" id="85_Elvish Swashbuckler" data-flag="@X" onclick="openSidebar('85_Elvish Swashbuckler',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\124_Dragonfire.png" id="124_Dragonfire" data-flag="@X" onclick="openSidebar('124_Dragonfire',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\161_Giant Growth.png" id="161_Giant Growth" data-flag="@X" onclick="openSidebar('161_Giant Growth',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\15_Highrock Griffin.png" id="15_Highrock Griffin" data-flag="@X" onclick="openSidebar('15_Highrock Griffin',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\47_Defensive Ward.png" id="47_Defensive Ward" data-flag="@X" onclick="openSidebar('47_Defensive Ward',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\86_Fall from Grace.png" id="86_Fall from Grace" data-flag="@X" onclick="openSidebar('86_Fall from Grace',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\126_Flintlock Sharpshot.png" id="126_Flintlock Sharpshot" data-flag="@X" onclick="openSidebar('126_Flintlock Sharpshot',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\162_Glit-Cove Guardians.png" id="162_Glit-Cove Guardians" data-flag="@X" onclick="openSidebar('162_Glit-Cove Guardians',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\16_Hold Captive.png" id="16_Hold Captive" data-flag="@X" onclick="openSidebar('16_Hold Captive',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\48_Delayed Voyage.png" id="48_Delayed Voyage" data-flag="@X" onclick="openSidebar('48_Delayed Voyage',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\87_Festerpriest.png" id="87_Festerpriest" data-flag="@X" onclick="openSidebar('87_Festerpriest',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\128_Give Chase.png" id="128_Give Chase" data-flag="@X" onclick="openSidebar('128_Give Chase',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\164_il-Verde Archers.png" id="164_il-Verde Archers" data-flag="@X" onclick="openSidebar('164_il-Verde Archers',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\17_Judgmental Orator.png" id="17_Judgmental Orator" data-flag="@X" onclick="openSidebar('17_Judgmental Orator',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\49_Fluttering Flock.png" id="49_Fluttering Flock" data-flag="@X" onclick="openSidebar('49_Fluttering Flock',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\91_Grim Bastion's Call.png" id="91_Grim Bastions Call" data-flag="@X" onclick="openSidebar('91_Grim Bastions Call',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\132_Her Majesty's Deliverance.png" id="132_Her Majestys Deliverance" data-flag="@X" onclick="openSidebar('132_Her Majestys Deliverance',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\170_Plunder Patrols.png" id="170_Plunder Patrols" data-flag="@X" onclick="openSidebar('170_Plunder Patrols',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\18_Keelhaul.png" id="18_Keelhaul" data-flag="@X" onclick="openSidebar('18_Keelhaul',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\50_Getaway Leader.png" id="50_Getaway Leader" data-flag="@X" onclick="openSidebar('50_Getaway Leader',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\94_Hold Hostage.png" id="94_Hold Hostage" data-flag="@X" onclick="openSidebar('94_Hold Hostage',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\133_Moonracer Cannoneer.png" id="133_Moonracer Cannoneer" data-flag="@X" onclick="openSidebar('133_Moonracer Cannoneer',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\172_Rampant Growth.png" id="172_Rampant Growth" data-flag="@X" onclick="openSidebar('172_Rampant Growth',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\20_Porta Bay Ramparts.png" id="20_Porta Bay Ramparts" data-flag="@X" onclick="openSidebar('20_Porta Bay Ramparts',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\53_Into the Ocean.png" id="53_Into the Ocean" data-flag="@X" onclick="openSidebar('53_Into the Ocean',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\95_il-Verde Cutthroat.png" id="95_il-Verde Cutthroat" data-flag="@X" onclick="openSidebar('95_il-Verde Cutthroat',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\137_Novice Drunkard.png" id="137_Novice Drunkard" data-flag="@X" onclick="openSidebar('137_Novice Drunkard',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\174_Settle Infamy.png" id="174_Settle Infamy" data-flag="@X" onclick="openSidebar('174_Settle Infamy',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\24_Reed Walkers.png" id="24_Reed Walkers" data-flag="@X" onclick="openSidebar('24_Reed Walkers',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\60_The Only Cure.png" id="60_The Only Cure" data-flag="@X" onclick="openSidebar('60_The Only Cure',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\97_A Lonely Death.png" id="97_A Lonely Death" data-flag="@X" onclick="openSidebar('97_A Lonely Death',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\140_Raid Leader.png" id="140_Raid Leader" data-flag="@X" onclick="openSidebar('140_Raid Leader',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\176_Shorebound.png" id="176_Shorebound" data-flag="@X" onclick="openSidebar('176_Shorebound',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\25_Rookie Recruit.png" id="25_Rookie Recruit" data-flag="@X" onclick="openSidebar('25_Rookie Recruit',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\61_Provisions Expert.png" id="61_Provisions Expert" data-flag="@X" onclick="openSidebar('61_Provisions Expert',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\102_Overboard!.png" id="102_Overboard!" data-flag="@X" onclick="openSidebar('102_Overboard!',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\141_Rowdy Freebooter.png" id="141_Rowdy Freebooter" data-flag="@X" onclick="openSidebar('141_Rowdy Freebooter',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\177_Soulsworn Mystic.png" id="177_Soulsworn Mystic" data-flag="@X" onclick="openSidebar('177_Soulsworn Mystic',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\28_Salvage Expert.png" id="28_Salvage Expert" data-flag="@X" onclick="openSidebar('28_Salvage Expert',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\69_Sunk Below.png" id="69_Sunk Below" data-flag="@X" onclick="openSidebar('69_Sunk Below',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\105_Rigging Rider.png" id="105_Rigging Rider" data-flag="@X" onclick="openSidebar('105_Rigging Rider',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\143_Salty Sailor.png" id="143_Salty Sailor" data-flag="@X" onclick="openSidebar('143_Salty Sailor',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\180_Tallora Wakerider.png" id="180_Tallora Wakerider" data-flag="@X" onclick="openSidebar('180_Tallora Wakerider',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\32_Spirit of Sonder.png" id="32_Spirit of Sonder" data-flag="@X" onclick="openSidebar('32_Spirit of Sonder',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\72_Undertow Mystic.png" id="72_Undertow Mystic" data-flag="@X" onclick="openSidebar('72_Undertow Mystic',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\106_Ripclaw Harpy.png" id="106_Ripclaw Harpy" data-flag="@X" onclick="openSidebar('106_Ripclaw Harpy',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\145_Show of Arms.png" id="145_Show of Arms" data-flag="@X" onclick="openSidebar('145_Show of Arms',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\183_Vale Rider.png" id="183_Vale Rider" data-flag="@X" onclick="openSidebar('183_Vale Rider',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\33_Spirit Sea-Singer.png" id="33_Spirit Sea-Singer" data-flag="@X" onclick="openSidebar('33_Spirit Sea-Singer',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\73_Vibrant Watcher.png" id="73_Vibrant Watcher" data-flag="@X" onclick="openSidebar('73_Vibrant Watcher',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\110_Stowawaif.png" id="110_Stowawaif" data-flag="@X" onclick="openSidebar('110_Stowawaif',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\147_Treasure Dragon.png" id="147_Treasure Dragon" data-flag="@X" onclick="openSidebar('147_Treasure Dragon',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\185_Wonder Weaver.png" id="185_Wonder Weaver" data-flag="@X" onclick="openSidebar('185_Wonder Weaver',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\34_Splendid Preservation.png" id="34_Splendid Preservation" data-flag="@X" onclick="openSidebar('34_Splendid Preservation',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\74_Voyage's End.png" id="74_Voyages End" data-flag="@X" onclick="openSidebar('74_Voyages End',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\112_Torch Snuffer.png" id="112_Torch Snuffer" data-flag="@X" onclick="openSidebar('112_Torch Snuffer',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\149_Vale Vanguard.png" id="149_Vale Vanguard" data-flag="@X" onclick="openSidebar('149_Vale Vanguard',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\38_Westerly Dockhand.png" id="38_Westerly Dockhand" data-flag="@X" onclick="openSidebar('38_Westerly Dockhand',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\113_Wellweather Distracter.png" id="113_Wellweather Distracter" data-flag="@X" onclick="openSidebar('113_Wellweather Distracter',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="gold" class="anchor"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\199_Shoreline Cartographer.png" id="199_Shoreline Cartographer" data-flag="@X" onclick="openSidebar('199_Shoreline Cartographer',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\190_Gezroil of the Sunken Gem.png" id="190_Gezroil of the Sunken Gem" data-flag="@X" onclick="openSidebar('190_Gezroil of the Sunken Gem',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\187_Captain of Vigor.png" id="187_Captain of Vigor" data-flag="@X" onclick="openSidebar('187_Captain of Vigor',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\200_Territorial Runt.png" id="200_Territorial Runt" data-flag="@X" onclick="openSidebar('200_Territorial Runt',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\192_Guardian of Growth.png" id="192_Guardian of Growth" data-flag="@X" onclick="openSidebar('192_Guardian of Growth',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\194_Malignant Malcrafter.png" id="194_Malignant Malcrafter" data-flag="@X" onclick="openSidebar('194_Malignant Malcrafter',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\196_Sanctifying Light.png" id="196_Sanctifying Light" data-flag="@X" onclick="openSidebar('196_Sanctifying Light',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\188_Commodore Ana Axela.png" id="188_Commodore Ana Axela" data-flag="@X" onclick="openSidebar('188_Commodore Ana Axela',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\191_Green-Hunt Olivera.png" id="191_Green-Hunt Olivera" data-flag="@X" onclick="openSidebar('191_Green-Hunt Olivera',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\195_Royal Instructor.png" id="195_Royal Instructor" data-flag="@X" onclick="openSidebar('195_Royal Instructor',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\193_Illypso, Sea's Majesty.png" id="193_Illypso, Seas Majesty" data-flag="@X" onclick="openSidebar('193_Illypso, Seas Majesty',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\189_Espaza of the Sparrow.png" id="189_Espaza of the Sparrow" data-flag="@X" onclick="openSidebar('189_Espaza of the Sparrow',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\198_Shallows Fisher.png" id="198_Shallows Fisher" data-flag="@X" onclick="openSidebar('198_Shallows Fisher',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\197_Scourge of the Seas.png" id="197_Scourge of the Seas" data-flag="@X" onclick="openSidebar('197_Scourge of the Seas',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\201_Traitorous Admiral.png" id="201_Traitorous Admiral" data-flag="@X" onclick="openSidebar('201_Traitorous Admiral',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="colorless" class="anchor"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\212_Island Sinker.png" id="212_Island Sinker" data-flag="@X" onclick="openSidebar('212_Island Sinker',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\225_Skysailer, Axela's Pride.png" id="225_Skysailer, Axelas Pride" data-flag="@X" onclick="openSidebar('225_Skysailer, Axelas Pride',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\202_Ancient Heirloom.png" id="202_Ancient Heirloom" data-flag="@X" onclick="openSidebar('202_Ancient Heirloom',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\210_Heavy Cannonade.png" id="210_Heavy Cannonade" data-flag="@X" onclick="openSidebar('210_Heavy Cannonade',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\218_Pirate Market.png" id="218_Pirate Market" data-flag="@X" onclick="openSidebar('218_Pirate Market',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\220_Queen's Revenge.png" id="220_Queens Revenge" data-flag="@X" onclick="openSidebar('220_Queens Revenge',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\221_Renowned Flagship.png" id="221_Renowned Flagship" data-flag="@X" onclick="openSidebar('221_Renowned Flagship',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\224_Scatter Shot.png" id="224_Scatter Shot" data-flag="@X" onclick="openSidebar('224_Scatter Shot',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\226_Skysailer's Beacon.png" id="226_Skysailers Beacon" data-flag="@X" onclick="openSidebar('226_Skysailers Beacon',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\232_Swiftwater Frigate.png" id="232_Swiftwater Frigate" data-flag="@X" onclick="openSidebar('232_Swiftwater Frigate',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\206_Disabling Shot.png" id="206_Disabling Shot" data-flag="@X" onclick="openSidebar('206_Disabling Shot',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\209_Fool's Fortune.png" id="209_Fools Fortune" data-flag="@X" onclick="openSidebar('209_Fools Fortune',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\215_Merchant Sloop.png" id="215_Merchant Sloop" data-flag="@X" onclick="openSidebar('215_Merchant Sloop',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\216_Ocean Spyglass.png" id="216_Ocean Spyglass" data-flag="@X" onclick="openSidebar('216_Ocean Spyglass',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\217_Pirate Chaser.png" id="217_Pirate Chaser" data-flag="@X" onclick="openSidebar('217_Pirate Chaser',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\223_Scallywag's Slicer.png" id="223_Scallywags Slicer" data-flag="@X" onclick="openSidebar('223_Scallywags Slicer',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\227_Sleek Schooner.png" id="227_Sleek Schooner" data-flag="@X" onclick="openSidebar('227_Sleek Schooner',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\228_Smoldering Flintlock.png" id="228_Smoldering Flintlock" data-flag="@X" onclick="openSidebar('228_Smoldering Flintlock',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\230_Stalwart Galleon.png" id="230_Stalwart Galleon" data-flag="@X" onclick="openSidebar('230_Stalwart Galleon',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\231_Stowaway's Knife.png" id="231_Stowaways Knife" data-flag="@X" onclick="openSidebar('231_Stowaways Knife',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\203_Captain's Hat.png" id="203_Captains Hat" data-flag="@X" onclick="openSidebar('203_Captains Hat',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\204_Colossal Landsailer.png" id="204_Colossal Landsailer" data-flag="@X" onclick="openSidebar('204_Colossal Landsailer',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\205_Decoy Skiff.png" id="205_Decoy Skiff" data-flag="@X" onclick="openSidebar('205_Decoy Skiff',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\207_Drifting Skiff.png" id="207_Drifting Skiff" data-flag="@X" onclick="openSidebar('207_Drifting Skiff',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\208_False Flintlock.png" id="208_False Flintlock" data-flag="@X" onclick="openSidebar('208_False Flintlock',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\211_Iron Shot.png" id="211_Iron Shot" data-flag="@X" onclick="openSidebar('211_Iron Shot',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\213_Leyline Convergence.png" id="213_Leyline Convergence" data-flag="@X" onclick="openSidebar('213_Leyline Convergence',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\214_Merchant Caravan.png" id="214_Merchant Caravan" data-flag="@X" onclick="openSidebar('214_Merchant Caravan',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\219_Prying Blade.png" id="219_Prying Blade" data-flag="@X" onclick="openSidebar('219_Prying Blade',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\222_Royal Fleet.png" id="222_Royal Fleet" data-flag="@X" onclick="openSidebar('222_Royal Fleet',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\229_Solemn Wreck.png" id="229_Solemn Wreck" data-flag="@X" onclick="openSidebar('229_Solemn Wreck',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\233_Treacherous Map.png" id="233_Treacherous Map" data-flag="@X" onclick="openSidebar('233_Treacherous Map',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\234_Trusty Rapier.png" id="234_Trusty Rapier" data-flag="@X" onclick="openSidebar('234_Trusty Rapier',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="land" class="anchor"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\241_Open Shore.png" id="241_Open Shore" data-flag="@X" onclick="openSidebar('241_Open Shore',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\243_Seaside Market.png" id="243_Seaside Market" data-flag="@X" onclick="openSidebar('243_Seaside Market',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\244_Smuggler's Cove.png" id="244_Smugglers Cove" data-flag="@X" onclick="openSidebar('244_Smugglers Cove',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\245_Towering Spires.png" id="245_Towering Spires" data-flag="@X" onclick="openSidebar('245_Towering Spires',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\236_Coral Cove.png" id="236_Coral Cove" data-flag="@X" onclick="openSidebar('236_Coral Cove',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\242_Pool of Light.png" id="242_Pool of Light" data-flag="@X" onclick="openSidebar('242_Pool of Light',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\237_Flooded Morass.png" id="237_Flooded Morass" data-flag="@X" onclick="openSidebar('237_Flooded Morass',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\240_Lavatorn Fields.png" id="240_Lavatorn Fields" data-flag="@X" onclick="openSidebar('240_Lavatorn Fields',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\238_Flourishing Crevasse.png" id="238_Flourishing Crevasse" data-flag="@X" onclick="openSidebar('238_Flourishing Crevasse',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\239_Heart of the Glade.png" id="239_Heart of the Glade" data-flag="@X" onclick="openSidebar('239_Heart of the Glade',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\246_Wayfarer's Shrine.png" id="246_Wayfarers Shrine" data-flag="@X" onclick="openSidebar('246_Wayfarers Shrine',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\235_Adrift Wreckage.png" id="235_Adrift Wreckage" data-flag="@X" onclick="openSidebar('235_Adrift Wreckage',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\249_Plains.png" id="249_Plains" data-flag="@X" onclick="openSidebar('249_Plains',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\251_Island.png" id="251_Island" data-flag="@X" onclick="openSidebar('251_Island',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\254_Swamp.png" id="254_Swamp" data-flag="@X" onclick="openSidebar('254_Swamp',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\261_Forest.png" id="261_Forest" data-flag="@X" onclick="openSidebar('261_Forest',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\257_Mountain.png" id="257_Mountain" data-flag="@X" onclick="openSidebar('257_Mountain',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\260_Forest.png" id="260_Forest" data-flag="@X" onclick="openSidebar('260_Forest',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\250_Island.png" id="250_Island" data-flag="@X" onclick="openSidebar('250_Island',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\248_Plains.png" id="248_Plains" data-flag="@X" onclick="openSidebar('248_Plains',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\255_Swamp.png" id="255_Swamp" data-flag="@X" onclick="openSidebar('255_Swamp',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\258_Mountain.png" id="258_Mountain" data-flag="@X" onclick="openSidebar('258_Mountain',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\259_Forest.png" id="259_Forest" data-flag="@X" onclick="openSidebar('259_Forest',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\252_Island.png" id="252_Island" data-flag="@X" onclick="openSidebar('252_Island',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\256_Mountain.png" id="256_Mountain" data-flag="@X" onclick="openSidebar('256_Mountain',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\247_Plains.png" id="247_Plains" data-flag="@X" onclick="openSidebar('247_Plains',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\253_Swamp.png" id="253_Swamp" data-flag="@X" onclick="openSidebar('253_Swamp',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="token" class="anchor"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\3t_Pirate.png" id="3t_Pirate" data-flag="@X" onclick="openSidebar('3t_Pirate',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\4t_Pirate.png" id="4t_Pirate" data-flag="@X" onclick="openSidebar('4t_Pirate',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\5t_Equipment.png" id="5t_Equipment" data-flag="@X" onclick="openSidebar('5t_Equipment',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\6t_Equipment.png" id="6t_Equipment" data-flag="@X" onclick="openSidebar('6t_Equipment',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\7t_Treasure.png" id="7t_Treasure" data-flag="@X" onclick="openSidebar('7t_Treasure',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\8t_Treasure.png" id="8t_Treasure" data-flag="@X" onclick="openSidebar('8t_Treasure',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\1t_Soldier.png" id="1t_Soldier" data-flag="@X" onclick="openSidebar('1t_Soldier',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\2t_Merfolk.png" id="2t_Merfolk" data-flag="@X" onclick="openSidebar('2t_Merfolk',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="masterpiece" class="anchor"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\1_Frostfire Geysers.png" id="1_Frostfire Geysers" data-flag="@X" onclick="openSidebar('1_Frostfire Geysers',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\2_Fungal Mire.png" id="2_Fungal Mire" data-flag="@X" onclick="openSidebar('2_Fungal Mire',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\3_Gloomcover Steppe.png" id="3_Gloomcover Steppe" data-flag="@X" onclick="openSidebar('3_Gloomcover Steppe',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\4_Lush Oasis.png" id="4_Lush Oasis" data-flag="@X" onclick="openSidebar('4_Lush Oasis',false)"></div>
+			<div class="container"><img alt="/sets\PCA-files\img\5_Spiraling Canyon.png" id="5_Spiraling Canyon" data-flag="@X" onclick="openSidebar('5_Spiraling Canyon',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>

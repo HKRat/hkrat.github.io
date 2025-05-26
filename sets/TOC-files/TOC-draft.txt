@@ -995,9 +995,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Pirate",
-			"collector_number": "165",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/165_Rowdy Crowd.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/164_Rowdy Crowd.png"
 			}
 		},
 		{
@@ -1341,13 +1341,13 @@
 			}
 		},
 		{
-			"name": "Ransack",
+			"name": "Ruffian's Rummage",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
-			"collector_number": "162",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/162_Ransack.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/165_Ruffian's Rummage.png"
 			}
 		},
 		{
@@ -1695,9 +1695,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Human Pirate",
-			"collector_number": "163",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/163_Relic Acquisitioner.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/162_Relic Acquisitioner.png"
 			}
 		},
 		{
@@ -1735,9 +1735,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Instant",
-			"collector_number": "164",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/164_Rising Power.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/163_Rising Power.png"
 			}
 		},
 		{
@@ -2445,9 +2445,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/13_Treasure.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/14_Treasure.png"
 			}
 		},
 		{
@@ -2705,9 +2705,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/14_Treasure.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/15_Treasure.png"
 			}
 		},
 		{
@@ -3195,9 +3195,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/15_Treasure.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/16_Treasure.png"
 			}
 		},
 		{
@@ -3625,9 +3625,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Land — Island",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/16_Island.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/17_Island.png"
 			}
 		},
 		{
@@ -3635,9 +3635,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/12_Equipment.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/13_Equipment.png"
 			}
 		},
 		{
@@ -3648,6 +3648,16 @@
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/TOC-files/img/5_Illusion.png"
+			}
+		},
+		{
+			"name": "Pirate",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Pirate",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOC-files/img/12_Pirate.png"
 			}
 		},
 	]
@@ -3911,7 +3921,7 @@
 	8 Celestial Wayfaring
 	8 Curse of Worry
 	8 Seasoned Barrelman
-	8 Ransack
+	8 Ruffian's Rummage
 	8 Fast Hands
 	8 Baybound Carrack
 	8 Rogue's Carrack
@@ -4079,7 +4089,7 @@
 	15 What Lurks at World's End
 	15 Mutinous Castaways
 	6 Seasoned Barrelman
-	6 Ransack
+	6 Ruffian's Rummage
 	15 Adventure Seeker
 	15 Shore Omen
 	15 Six Feet and Sixty Pence

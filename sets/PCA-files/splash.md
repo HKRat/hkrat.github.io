@@ -1,0 +1,2 @@
+![](https://i.imgur.com/JZYV7Py.png "Set is presented as-is")
+Please Note that this set (Pirates of Caitisan) is presented as-is for posterity and ease of viewing. It will not be updated and is not intended to be drafted.

@@ -1,0 +1,3240 @@
+[CustomCards]
+	[
+		{
+			"name": "Queen's Revenge",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/220_Queen's Revenge.png"
+			}
+		},
+		{
+			"name": "Commodore Ana Axela",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Planeswalker — Ana",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/188_Commodore Ana Axela.png"
+			}
+		},
+		{
+			"name": "Trusty Rapier",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/234_Trusty Rapier.png"
+			}
+		},
+		{
+			"name": "Recruiter General",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/23_Recruiter General.png"
+			}
+		},
+		{
+			"name": "Vibrant Watcher",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Harpy",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/73_Vibrant Watcher.png"
+			}
+		},
+		{
+			"name": "Deadwater Vermin",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Rat Rogue",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/83_Deadwater Vermin.png"
+			}
+		},
+		{
+			"name": "Personal Armsmith",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/138_Personal Armsmith.png"
+			}
+		},
+		{
+			"name": "Ahba Shorewalker",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Merfolk",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/152_Ahba Shorewalker.png"
+			}
+		},
+		{
+			"name": "Wellweather Distracter",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Rat Rogue",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/113_Wellweather Distracter.png"
+			}
+		},
+		{
+			"name": "Agall Spymaster",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/40_Agall Spymaster.png"
+			}
+		},
+		{
+			"name": "Wonder Weaver",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/185_Wonder Weaver.png"
+			}
+		},
+		{
+			"name": "Moonracer Cannoneer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/133_Moonracer Cannoneer.png"
+			}
+		},
+		{
+			"name": "Westerly Dockhand",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/38_Westerly Dockhand.png"
+			}
+		},
+		{
+			"name": "Her Majesty's Armory",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/13_Her Majesty's Armory.png"
+			}
+		},
+		{
+			"name": "Tideseer Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Pirate",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/70_Tideseer Captain.png"
+			}
+		},
+		{
+			"name": "Smuggler Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/108_Smuggler Captain.png"
+			}
+		},
+		{
+			"name": "Careless Buccaneer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/120_Careless Buccaneer.png"
+			}
+		},
+		{
+			"name": "Porta Bay Pest",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Bird",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/171_Porta Bay Pest.png"
+			}
+		},
+		{
+			"name": "Greed's Goaded",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Rat Pirate",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/90_Greed's Goaded.png"
+			}
+		},
+		{
+			"name": "Her Majesty's Will",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/52_Her Majesty's Will.png"
+			}
+		},
+		{
+			"name": "Evergrove Wanderer",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/159_Evergrove Wanderer.png"
+			}
+		},
+		{
+			"name": "Myra's Acquisitioner",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/135_Myra's Acquisitioner.png"
+			}
+		},
+		{
+			"name": "Doctrine Director",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Elf Advisor",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/8_Doctrine Director.png"
+			}
+		},
+		{
+			"name": "Royal Lieutenant",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/27_Royal Lieutenant.png"
+			}
+		},
+		{
+			"name": "Treasures Lost and Sunken",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/71_Treasures Lost and Sunken.png"
+			}
+		},
+		{
+			"name": "Ghost Crew",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Zombie Pirate",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/89_Ghost Crew.png"
+			}
+		},
+		{
+			"name": "Halyard Lookout",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/163_Halyard Lookout.png"
+			}
+		},
+		{
+			"name": "Master Manipulator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/99_Master Manipulator.png"
+			}
+		},
+		{
+			"name": "Wellweather Christener",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/75_Wellweather Christener.png"
+			}
+		},
+		{
+			"name": "Kitchen Slinks",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Monkey",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/167_Kitchen Slinks.png"
+			}
+		},
+		{
+			"name": "Unquenchable Flame",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/148_Unquenchable Flame.png"
+			}
+		},
+		{
+			"name": "Highrock Griffin",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/15_Highrock Griffin.png"
+			}
+		},
+		{
+			"name": "Merchant Sloop",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/215_Merchant Sloop.png"
+			}
+		},
+		{
+			"name": "Stormfarer",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/178_Stormfarer.png"
+			}
+		},
+		{
+			"name": "Swiftwater Frigate",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/232_Swiftwater Frigate.png"
+			}
+		},
+		{
+			"name": "Stowawaif",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/110_Stowawaif.png"
+			}
+		},
+		{
+			"name": "Myra of the Twin Galleons",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/134_Myra of the Twin Galleons.png"
+			}
+		},
+		{
+			"name": "Crimson Jack of the Moonracer",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/80_Crimson Jack of the Moonracer.png"
+			}
+		},
+		{
+			"name": "Lucelle of the Twin Galleons",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/55_Lucelle of the Twin Galleons.png"
+			}
+		},
+		{
+			"name": "Gezroil of the Sunken Gem",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Merfolk Pirate",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/190_Gezroil of the Sunken Gem.png"
+			}
+		},
+		{
+			"name": "Espaza of the Sparrow",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Pirate",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/189_Espaza of the Sparrow.png"
+			}
+		},
+		{
+			"name": "Contract Killer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/78_Contract Killer.png"
+			}
+		},
+		{
+			"name": "Curse of Loose Lips",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/46_Curse of Loose Lips.png"
+			}
+		},
+		{
+			"name": "Kraken's Claim",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/54_Kraken's Claim.png"
+			}
+		},
+		{
+			"name": "Evergrove Pilgrim",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/158_Evergrove Pilgrim.png"
+			}
+		},
+		{
+			"name": "Turn the Tides",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/182_Turn the Tides.png"
+			}
+		},
+		{
+			"name": "In Spades",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Instant",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/165_In Spades.png"
+			}
+		},
+		{
+			"name": "Give Chase",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/128_Give Chase.png"
+			}
+		},
+		{
+			"name": "Braizen Plunder",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/117_Braizen Plunder.png"
+			}
+		},
+		{
+			"name": "Seaside Peddler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/30_Seaside Peddler.png"
+			}
+		},
+		{
+			"name": "Glorious Redemption",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/11_Glorious Redemption.png"
+			}
+		},
+		{
+			"name": "Razorwind Griffin",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/22_Razorwind Griffin.png"
+			}
+		},
+		{
+			"name": "Rookie Recruit",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/25_Rookie Recruit.png"
+			}
+		},
+		{
+			"name": "Agall Renegade",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Merfolk Pirate",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/39_Agall Renegade.png"
+			}
+		},
+		{
+			"name": "Torch Snuffer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/112_Torch Snuffer.png"
+			}
+		},
+		{
+			"name": "Raid Leader",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/140_Raid Leader.png"
+			}
+		},
+		{
+			"name": "Agall Brute",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Merfolk",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/151_Agall Brute.png"
+			}
+		},
+		{
+			"name": "Ahba Island Battalion",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/1_Ahba Island Battalion.png"
+			}
+		},
+		{
+			"name": "Coastal Adept",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/43_Coastal Adept.png"
+			}
+		},
+		{
+			"name": "il-Verde Cutthroat",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Elf Pirate",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/95_il-Verde Cutthroat.png"
+			}
+		},
+		{
+			"name": "Rowdy Freebooter",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/141_Rowdy Freebooter.png"
+			}
+		},
+		{
+			"name": "Tallora Wakerider",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Merfolk Druid",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/180_Tallora Wakerider.png"
+			}
+		},
+		{
+			"name": "Porta Bay Ramparts",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Wall",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/20_Porta Bay Ramparts.png"
+			}
+		},
+		{
+			"name": "Undertow Mystic",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/72_Undertow Mystic.png"
+			}
+		},
+		{
+			"name": "Rigging Rider",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/105_Rigging Rider.png"
+			}
+		},
+		{
+			"name": "Brilliant Trove",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/118_Brilliant Trove.png"
+			}
+		},
+		{
+			"name": "Vale Rider",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Merfolk",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/183_Vale Rider.png"
+			}
+		},
+		{
+			"name": "Salvage Expert",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/28_Salvage Expert.png"
+			}
+		},
+		{
+			"name": "Defensive Ward",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/47_Defensive Ward.png"
+			}
+		},
+		{
+			"name": "Festerpriest",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Rat Cleric",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/87_Festerpriest.png"
+			}
+		},
+		{
+			"name": "Salty Sailor",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/143_Salty Sailor.png"
+			}
+		},
+		{
+			"name": "Soulsworn Mystic",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/177_Soulsworn Mystic.png"
+			}
+		},
+		{
+			"name": "Ahba Island Healer",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/2_Ahba Island Healer.png"
+			}
+		},
+		{
+			"name": "The Only Cure",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/60_The Only Cure.png"
+			}
+		},
+		{
+			"name": "Ripclaw Harpy",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Harpy",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/106_Ripclaw Harpy.png"
+			}
+		},
+		{
+			"name": "Settle Infamy",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/174_Settle Infamy.png"
+			}
+		},
+		{
+			"name": "Second Burst",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/31_Second Burst.png"
+			}
+		},
+		{
+			"name": "Lucelle's Demise",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/56_Lucelle's Demise.png"
+			}
+		},
+		{
+			"name": "Hands of Fate",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/92_Hands of Fate.png"
+			}
+		},
+		{
+			"name": "Curse of Parley",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/123_Curse of Parley.png"
+			}
+		},
+		{
+			"name": "Gezroil's Demise",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/160_Gezroil's Demise.png"
+			}
+		},
+		{
+			"name": "Espaza's Betrayal",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/9_Espaza's Betrayal.png"
+			}
+		},
+		{
+			"name": "Summon the Skysailer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/68_Summon the Skysailer.png"
+			}
+		},
+		{
+			"name": "Deadwater Ringleader",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/155_Deadwater Ringleader.png"
+			}
+		},
+		{
+			"name": "Twinblade Adept",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/36_Twinblade Adept.png"
+			}
+		},
+		{
+			"name": "Crimson Jack's Demise",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/81_Crimson Jack's Demise.png"
+			}
+		},
+		{
+			"name": "Vale Vanguard",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/149_Vale Vanguard.png"
+			}
+		},
+		{
+			"name": "Wreckage Lurker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Merfolk",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/186_Wreckage Lurker.png"
+			}
+		},
+		{
+			"name": "Master Armsmith",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Human",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/19_Master Armsmith.png"
+			}
+		},
+		{
+			"name": "Sickening Seas",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/66_Sickening Seas.png"
+			}
+		},
+		{
+			"name": "Goldhunter Dragon",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/129_Goldhunter Dragon.png"
+			}
+		},
+		{
+			"name": "Wilds Warden",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/184_Wilds Warden.png"
+			}
+		},
+		{
+			"name": "Portside Collector",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/21_Portside Collector.png"
+			}
+		},
+		{
+			"name": "Law of the Sea",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/96_Law of the Sea.png"
+			}
+		},
+		{
+			"name": "Captain's Gathering",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/119_Captain's Gathering.png"
+			}
+		},
+		{
+			"name": "Keelhaul",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/18_Keelhaul.png"
+			}
+		},
+		{
+			"name": "Getaway Leader",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/50_Getaway Leader.png"
+			}
+		},
+		{
+			"name": "Fall from Grace",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/86_Fall from Grace.png"
+			}
+		},
+		{
+			"name": "Tamper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/146_Tamper.png"
+			}
+		},
+		{
+			"name": "Glit-Cove Guardians",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/162_Glit-Cove Guardians.png"
+			}
+		},
+		{
+			"name": "Deploy",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/7_Deploy.png"
+			}
+		},
+		{
+			"name": "Delayed Voyage",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/48_Delayed Voyage.png"
+			}
+		},
+		{
+			"name": "Curse of Doomed Voyages",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/82_Curse of Doomed Voyages.png"
+			}
+		},
+		{
+			"name": "Rampant Growth",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/172_Rampant Growth.png"
+			}
+		},
+		{
+			"name": "Splendid Preservation",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/34_Splendid Preservation.png"
+			}
+		},
+		{
+			"name": "Sunk Below",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/69_Sunk Below.png"
+			}
+		},
+		{
+			"name": "Overboard!",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/102_Overboard!.png"
+			}
+		},
+		{
+			"name": "Dragonfire",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/124_Dragonfire.png"
+			}
+		},
+		{
+			"name": "Giant Growth",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/161_Giant Growth.png"
+			}
+		},
+		{
+			"name": "Her Majesty's Blessing",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/14_Her Majesty's Blessing.png"
+			}
+		},
+		{
+			"name": "Scourge of Infamy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/64_Scourge of Infamy.png"
+			}
+		},
+		{
+			"name": "Haunting Memory",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/93_Haunting Memory.png"
+			}
+		},
+		{
+			"name": "Myra's Demise",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/136_Myra's Demise.png"
+			}
+		},
+		{
+			"name": "Tallora Traveler",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{G}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/179_Tallora Traveler.png"
+			}
+		},
+		{
+			"name": "Valiant Fencers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/37_Valiant Fencers.png"
+			}
+		},
+		{
+			"name": "Ghost Crew's Curse",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/51_Ghost Crew's Curse.png"
+			}
+		},
+		{
+			"name": "Mark of the Sea",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/98_Mark of the Sea.png"
+			}
+		},
+		{
+			"name": "Havoc Admiral",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/131_Havoc Admiral.png"
+			}
+		},
+		{
+			"name": "Into the Unknown",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/166_Into the Unknown.png"
+			}
+		},
+		{
+			"name": "Evergrove Matron",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Avatar",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/10_Evergrove Matron.png"
+			}
+		},
+		{
+			"name": "Arrogant Helmsman",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/41_Arrogant Helmsman.png"
+			}
+		},
+		{
+			"name": "Sulfurous Wanderer",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}{B}",
+			"type": "Creature — Rat",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/111_Sulfurous Wanderer.png"
+			}
+		},
+		{
+			"name": "Merfolk Shorestalker",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/169_Merfolk Shorestalker.png"
+			}
+		},
+		{
+			"name": "Sunk at Sea",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/35_Sunk at Sea.png"
+			}
+		},
+		{
+			"name": "Spellweaver Harpy",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Harpy",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/67_Spellweaver Harpy.png"
+			}
+		},
+		{
+			"name": "Notoriety",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/101_Notoriety.png"
+			}
+		},
+		{
+			"name": "Shipwreck Stalker",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/144_Shipwreck Stalker.png"
+			}
+		},
+		{
+			"name": "Iron Shot",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/211_Iron Shot.png"
+			}
+		},
+		{
+			"name": "Treacherous Map",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/233_Treacherous Map.png"
+			}
+		},
+		{
+			"name": "Decoy Skiff",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/205_Decoy Skiff.png"
+			}
+		},
+		{
+			"name": "Fool's Fortune",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/209_Fool's Fortune.png"
+			}
+		},
+		{
+			"name": "Sleek Schooner",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/227_Sleek Schooner.png"
+			}
+		},
+		{
+			"name": "Disabling Shot",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/206_Disabling Shot.png"
+			}
+		},
+		{
+			"name": "Pirate Chaser",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/217_Pirate Chaser.png"
+			}
+		},
+		{
+			"name": "Renowned Flagship",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/221_Renowned Flagship.png"
+			}
+		},
+		{
+			"name": "Scatter Shot",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/224_Scatter Shot.png"
+			}
+		},
+		{
+			"name": "Skysailer, Axela's Pride",
+			"rarity": "mythic",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/225_Skysailer, Axela's Pride.png"
+			}
+		},
+		{
+			"name": "Shoreline Cartographer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/199_Shoreline Cartographer.png"
+			}
+		},
+		{
+			"name": "Malignant Malcrafter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Harpy",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/194_Malignant Malcrafter.png"
+			}
+		},
+		{
+			"name": "Captain of Vigor",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/187_Captain of Vigor.png"
+			}
+		},
+		{
+			"name": "Territorial Runt",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Dragon",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/200_Territorial Runt.png"
+			}
+		},
+		{
+			"name": "Guardian of Growth",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Creature — Avatar",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/192_Guardian of Growth.png"
+			}
+		},
+		{
+			"name": "Royal Instructor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/195_Royal Instructor.png"
+			}
+		},
+		{
+			"name": "Scourge of the Seas",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Merfolk",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/197_Scourge of the Seas.png"
+			}
+		},
+		{
+			"name": "Sanctifying Light",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Instant",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/196_Sanctifying Light.png"
+			}
+		},
+		{
+			"name": "Traitorous Admiral",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/201_Traitorous Admiral.png"
+			}
+		},
+		{
+			"name": "Shallows Fisher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/198_Shallows Fisher.png"
+			}
+		},
+		{
+			"name": "Her Majesty Justicia",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/12_Her Majesty Justicia.png"
+			}
+		},
+		{
+			"name": "Caitisan's Conquest",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/42_Caitisan's Conquest.png"
+			}
+		},
+		{
+			"name": "Pearl Black the Dreadwight",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Zombie Pirate",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/103_Pearl Black the Dreadwight.png"
+			}
+		},
+		{
+			"name": "Ruby Spade Swashbuckler",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/142_Ruby Spade Swashbuckler.png"
+			}
+		},
+		{
+			"name": "Fractured Morality",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/88_Fractured Morality.png"
+			}
+		},
+		{
+			"name": "Scallywag's Slicer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/223_Scallywag's Slicer.png"
+			}
+		},
+		{
+			"name": "Stalwart Galleon",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/230_Stalwart Galleon.png"
+			}
+		},
+		{
+			"name": "Pirate Market",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/218_Pirate Market.png"
+			}
+		},
+		{
+			"name": "Royal Fleet",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/222_Royal Fleet.png"
+			}
+		},
+		{
+			"name": "Captain's Hat",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/203_Captain's Hat.png"
+			}
+		},
+		{
+			"name": "Drifting Skiff",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/207_Drifting Skiff.png"
+			}
+		},
+		{
+			"name": "Solemn Wreck",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/229_Solemn Wreck.png"
+			}
+		},
+		{
+			"name": "Prying Blade",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/219_Prying Blade.png"
+			}
+		},
+		{
+			"name": "Heavy Cannonade",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/210_Heavy Cannonade.png"
+			}
+		},
+		{
+			"name": "Hold Captive",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/16_Hold Captive.png"
+			}
+		},
+		{
+			"name": "Fluttering Flock",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Harpy",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/49_Fluttering Flock.png"
+			}
+		},
+		{
+			"name": "Hold Hostage",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/94_Hold Hostage.png"
+			}
+		},
+		{
+			"name": "Show of Arms",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/145_Show of Arms.png"
+			}
+		},
+		{
+			"name": "il-Verde Archers",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/164_il-Verde Archers.png"
+			}
+		},
+		{
+			"name": "Spirit of Sonder",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/32_Spirit of Sonder.png"
+			}
+		},
+		{
+			"name": "Curse of Disrespect",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/45_Curse of Disrespect.png"
+			}
+		},
+		{
+			"name": "A Crime for Liars",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/79_A Crime for Liars.png"
+			}
+		},
+		{
+			"name": "Curse of Confrontation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/122_Curse of Confrontation.png"
+			}
+		},
+		{
+			"name": "Shorebound",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/176_Shorebound.png"
+			}
+		},
+		{
+			"name": "Reed Walkers",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/24_Reed Walkers.png"
+			}
+		},
+		{
+			"name": "Provisions Expert",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Pirate",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/61_Provisions Expert.png"
+			}
+		},
+		{
+			"name": "Elvish Swashbuckler",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Elf Pirate",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/85_Elvish Swashbuckler.png"
+			}
+		},
+		{
+			"name": "Charted Course",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/121_Charted Course.png"
+			}
+		},
+		{
+			"name": "Elven Linebreaker",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/156_Elven Linebreaker.png"
+			}
+		},
+		{
+			"name": "Spirit Sea-Singer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/33_Spirit Sea-Singer.png"
+			}
+		},
+		{
+			"name": "Shiphunter",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Kraken",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/65_Shiphunter.png"
+			}
+		},
+		{
+			"name": "Checkmate",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/77_Checkmate.png"
+			}
+		},
+		{
+			"name": "Fool's Allure",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/127_Fool's Allure.png"
+			}
+		},
+		{
+			"name": "Leaf Wanderer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/168_Leaf Wanderer.png"
+			}
+		},
+		{
+			"name": "Ocean Spyglass",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/216_Ocean Spyglass.png"
+			}
+		},
+		{
+			"name": "Smoldering Flintlock",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/228_Smoldering Flintlock.png"
+			}
+		},
+		{
+			"name": "Coastal Explorer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/5_Coastal Explorer.png"
+			}
+		},
+		{
+			"name": "Grim Bastion's Call",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/91_Grim Bastion's Call.png"
+			}
+		},
+		{
+			"name": "Treasure Dragon",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/147_Treasure Dragon.png"
+			}
+		},
+		{
+			"name": "Ancient Snapper",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Turtle",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/153_Ancient Snapper.png"
+			}
+		},
+		{
+			"name": "Royal Helmsguard",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/26_Royal Helmsguard.png"
+			}
+		},
+		{
+			"name": "Majestic Spectacle",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/57_Majestic Spectacle.png"
+			}
+		},
+		{
+			"name": "Gunpowder Buccaneer",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/130_Gunpowder Buccaneer.png"
+			}
+		},
+		{
+			"name": "Coastrender",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/154_Coastrender.png"
+			}
+		},
+		{
+			"name": "Flooded Morass",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/237_Flooded Morass.png"
+			}
+		},
+		{
+			"name": "Lavatorn Fields",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/240_Lavatorn Fields.png"
+			}
+		},
+		{
+			"name": "Heart of the Glade",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/239_Heart of the Glade.png"
+			}
+		},
+		{
+			"name": "Flourishing Crevasse",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/238_Flourishing Crevasse.png"
+			}
+		},
+		{
+			"name": "Ancient Heirloom",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment Treasure",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/202_Ancient Heirloom.png"
+			}
+		},
+		{
+			"name": "Colossal Landsailer",
+			"rarity": "common",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/204_Colossal Landsailer.png"
+			}
+		},
+		{
+			"name": "Skysailer's Beacon",
+			"rarity": "rare",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/226_Skysailer's Beacon.png"
+			}
+		},
+		{
+			"name": "Eavesdrop Adept",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/84_Eavesdrop Adept.png"
+			}
+		},
+		{
+			"name": "Leyline Convergence",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/213_Leyline Convergence.png"
+			}
+		},
+		{
+			"name": "Merchant Caravan",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/214_Merchant Caravan.png"
+			}
+		},
+		{
+			"name": "False Flintlock",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/208_False Flintlock.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/249_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/251_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/254_Swamp.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/261_Forest.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/257_Mountain.png"
+			}
+		},
+		{
+			"name": "Equipment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/5_Equipment.png"
+			}
+		},
+		{
+			"name": "Equipment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/6_Equipment.png"
+			}
+		},
+		{
+			"name": "Judgmental Orator",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/17_Judgmental Orator.png"
+			}
+		},
+		{
+			"name": "Current Seer",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Merfolk Wizard",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/44_Current Seer.png"
+			}
+		},
+		{
+			"name": "A Lonely Death",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/97_A Lonely Death.png"
+			}
+		},
+		{
+			"name": "Novice Drunkard",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/137_Novice Drunkard.png"
+			}
+		},
+		{
+			"name": "Plunder Patrols",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Merfolk Scout",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/170_Plunder Patrols.png"
+			}
+		},
+		{
+			"name": "Mariner's Skill",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/58_Mariner's Skill.png"
+			}
+		},
+		{
+			"name": "Sanctimony Ward",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/29_Sanctimony Ward.png"
+			}
+		},
+		{
+			"name": "Scoundril's Bounty",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/107_Scoundril's Bounty.png"
+			}
+		},
+		{
+			"name": "Abandon Ship",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/114_Abandon Ship.png"
+			}
+		},
+		{
+			"name": "Tracker's Revelation",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/181_Tracker's Revelation.png"
+			}
+		},
+		{
+			"name": "Adrift Wreckage",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/235_Adrift Wreckage.png"
+			}
+		},
+		{
+			"name": "Merfolk",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Merfolk Pirate",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/2_Merfolk.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/260_Forest.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/250_Island.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/248_Plains.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/255_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/258_Mountain.png"
+			}
+		},
+		{
+			"name": "Merfolk Wavemaster",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/59_Merfolk Wavemaster.png"
+			}
+		},
+		{
+			"name": "Plundered Secrets",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura Curse",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/104_Plundered Secrets.png"
+			}
+		},
+		{
+			"name": "Wayward Plunderer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/150_Wayward Plunderer.png"
+			}
+		},
+		{
+			"name": "Sails to Adventure",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/173_Sails to Adventure.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/1_Soldier.png"
+			}
+		},
+		{
+			"name": "Pirate",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Pirate",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/3_Pirate.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/7_Treasure.png"
+			}
+		},
+		{
+			"name": "Coral Cove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/236_Coral Cove.png"
+			}
+		},
+		{
+			"name": "Towering Spires",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/245_Towering Spires.png"
+			}
+		},
+		{
+			"name": "Smuggler's Cove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/244_Smuggler's Cove.png"
+			}
+		},
+		{
+			"name": "Seaside Market",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/243_Seaside Market.png"
+			}
+		},
+		{
+			"name": "Open Shore",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/241_Open Shore.png"
+			}
+		},
+		{
+			"name": "Illypso, Sea's Majesty",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{U}{U}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/193_Illypso, Sea's Majesty.png"
+			}
+		},
+		{
+			"name": "Stowaway's Knife",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/231_Stowaway's Knife.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/8_Treasure.png"
+			}
+		},
+		{
+			"name": "Pool of Light",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/242_Pool of Light.png"
+			}
+		},
+		{
+			"name": "Wayfarer's Shrine",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/246_Wayfarer's Shrine.png"
+			}
+		},
+		{
+			"name": "Lush Oasis",
+			"rarity": "masterpiece",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/4_Lush Oasis.png"
+			}
+		},
+		{
+			"name": "Frostfire Geysers",
+			"rarity": "masterpiece",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/1_Frostfire Geysers.png"
+			}
+		},
+		{
+			"name": "Spiraling Canyon",
+			"rarity": "masterpiece",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/5_Spiraling Canyon.png"
+			}
+		},
+		{
+			"name": "Gloomcover Steppe",
+			"rarity": "masterpiece",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/3_Gloomcover Steppe.png"
+			}
+		},
+		{
+			"name": "Fungal Mire",
+			"rarity": "masterpiece",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/2_Fungal Mire.png"
+			}
+		},
+		{
+			"name": "Cursebreak",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/6_Cursebreak.png"
+			}
+		},
+		{
+			"name": "Into the Ocean",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/53_Into the Ocean.png"
+			}
+		},
+		{
+			"name": "Bravado",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/76_Bravado.png"
+			}
+		},
+		{
+			"name": "Braizen Captain",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/116_Braizen Captain.png"
+			}
+		},
+		{
+			"name": "Elven Sailor",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/157_Elven Sailor.png"
+			}
+		},
+		{
+			"name": "Brandish",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/3_Brandish.png"
+			}
+		},
+		{
+			"name": "Renegade Tidemaster",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/62_Renegade Tidemaster.png"
+			}
+		},
+		{
+			"name": "Merciless Stalker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/100_Merciless Stalker.png"
+			}
+		},
+		{
+			"name": "Shiprender",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Merfolk Warrior",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/175_Shiprender.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/259_Forest.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/252_Island.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/256_Mountain.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/247_Plains.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/253_Swamp.png"
+			}
+		},
+		{
+			"name": "Island Sinker",
+			"rarity": "mythic",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/212_Island Sinker.png"
+			}
+		},
+		{
+			"name": "Brigand's Bargain",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/4_Brigand's Bargain.png"
+			}
+		},
+		{
+			"name": "Sailor's Slip",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/63_Sailor's Slip.png"
+			}
+		},
+		{
+			"name": "Voyage's End",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/74_Voyage's End.png"
+			}
+		},
+		{
+			"name": "Stagger Back",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/109_Stagger Back.png"
+			}
+		},
+		{
+			"name": "Archipelago Tyrant",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/115_Archipelago Tyrant.png"
+			}
+		},
+		{
+			"name": "Plunder and Pillage",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/139_Plunder and Pillage.png"
+			}
+		},
+		{
+			"name": "Explosive Entrance",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/125_Explosive Entrance.png"
+			}
+		},
+		{
+			"name": "Flintlock Sharpshot",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Pirate Wizard",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/126_Flintlock Sharpshot.png"
+			}
+		},
+		{
+			"name": "Her Majesty's Deliverance",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/132_Her Majesty's Deliverance.png"
+			}
+		},
+		{
+			"name": "Pirate",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Pirate",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/4_Pirate.png"
+			}
+		},
+		{
+			"name": "Green-Hunt Olivera",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Elf Archer",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/PCA-files/img/191_Green-Hunt Olivera.png"
+			}
+		},
+	]
+
+[rare(1)]
+	2 Queen's Revenge
+	1 Commodore Ana Axela
+	2 Her Majesty's Armory
+	2 Greed's Goaded
+	2 Myra's Acquisitioner
+	2 Royal Lieutenant
+	2 Treasures Lost and Sunken
+	2 Ghost Crew
+	2 Halyard Lookout
+	2 Wellweather Christener
+	2 Kitchen Slinks
+	2 Stormfarer
+	2 Swiftwater Frigate
+	2 Myra of the Twin Galleons
+	2 Crimson Jack of the Moonracer
+	2 Lucelle of the Twin Galleons
+	1 Gezroil of the Sunken Gem
+	1 Espaza of the Sparrow
+	2 Turn the Tides
+	1 Razorwind Griffin
+	2 Master Armsmith
+	2 Goldhunter Dragon
+	2 Wilds Warden
+	2 Portside Collector
+	2 Law of the Sea
+	2 Captain's Gathering
+	2 Ghost Crew's Curse
+	2 Evergrove Matron
+	2 Arrogant Helmsman
+	2 Sulfurous Wanderer
+	2 Merfolk Shorestalker
+	2 Sunk at Sea
+	2 Spellweaver Harpy
+	2 Notoriety
+	2 Shipwreck Stalker
+	2 Renowned Flagship
+	2 Scatter Shot
+	1 Skysailer, Axela's Pride
+	1 Her Majesty Justicia
+	1 Caitisan's Conquest
+	1 Pearl Black the Dreadwight
+	1 Ruby Spade Swashbuckler
+	2 Fractured Morality
+	2 Pirate Market
+	2 Heavy Cannonade
+	2 Royal Helmsguard
+	2 Majestic Spectacle
+	2 Gunpowder Buccaneer
+	2 Coastrender
+	2 Flooded Morass
+	2 Lavatorn Fields
+	2 Heart of the Glade
+	2 Flourishing Crevasse
+	2 Ancient Heirloom
+	2 Skysailer's Beacon
+	1 Eavesdrop Adept
+	2 Mariner's Skill
+	2 Sanctimony Ward
+	2 Scoundril's Bounty
+	2 Abandon Ship
+	2 Tracker's Revelation
+	1 Illypso, Sea's Majesty
+	2 Pool of Light
+	2 Wayfarer's Shrine
+	1 Island Sinker
+	2 Archipelago Tyrant
+	1 Green-Hunt Olivera
+[uncommon(4)]
+	4 Recruiter General
+	4 Personal Armsmith
+	4 Tideseer Captain
+	4 Smuggler Captain
+	4 Porta Bay Pest
+	4 Her Majesty's Will
+	4 Evergrove Wanderer
+	4 Doctrine Director
+	4 Master Manipulator
+	4 Unquenchable Flame
+	4 Merchant Sloop
+	4 Contract Killer
+	4 Kraken's Claim
+	4 In Spades
+	4 Seaside Peddler
+	4 Glorious Redemption
+	4 Second Burst
+	4 Lucelle's Demise
+	4 Hands of Fate
+	4 Curse of Parley
+	4 Gezroil's Demise
+	4 Espaza's Betrayal
+	4 Summon the Skysailer
+	4 Deadwater Ringleader
+	4 Twinblade Adept
+	4 Crimson Jack's Demise
+	4 Wreckage Lurker
+	4 Sickening Seas
+	4 Tamper
+	4 Her Majesty's Blessing
+	4 Scourge of Infamy
+	4 Haunting Memory
+	4 Myra's Demise
+	4 Tallora Traveler
+	4 Valiant Fencers
+	4 Mark of the Sea
+	4 Havoc Admiral
+	4 Into the Unknown
+	4 Fool's Fortune
+	4 Sleek Schooner
+	4 Disabling Shot
+	4 Pirate Chaser
+	4 Shoreline Cartographer
+	4 Malignant Malcrafter
+	4 Captain of Vigor
+	4 Territorial Runt
+	4 Guardian of Growth
+	4 Royal Instructor
+	4 Scourge of the Seas
+	4 Sanctifying Light
+	4 Traitorous Admiral
+	4 Shallows Fisher
+	4 Scallywag's Slicer
+	4 Stalwart Galleon
+	4 Curse of Confrontation
+	4 Shiphunter
+	4 Checkmate
+	4 Fool's Allure
+	4 Leaf Wanderer
+	4 Ocean Spyglass
+	4 Smoldering Flintlock
+	4 Adrift Wreckage
+	4 Merfolk Wavemaster
+	4 Plundered Secrets
+	4 Wayward Plunderer
+	4 Sails to Adventure
+	4 Stowaway's Knife
+	4 Brandish
+	4 Renegade Tidemaster
+	4 Merciless Stalker
+	4 Shiprender
+	4 Brigand's Bargain
+	4 Sailor's Slip
+	4 Stagger Back
+	4 Plunder and Pillage
+	4 Explosive Entrance
+[common(7)]
+	8 Trusty Rapier
+	8 Vibrant Watcher
+	8 Deadwater Vermin
+	8 Ahba Shorewalker
+	8 Wellweather Distracter
+	8 Agall Spymaster
+	8 Wonder Weaver
+	8 Moonracer Cannoneer
+	8 Westerly Dockhand
+	8 Careless Buccaneer
+	8 Highrock Griffin
+	8 Stowawaif
+	8 Curse of Loose Lips
+	8 Evergrove Pilgrim
+	8 Give Chase
+	8 Braizen Plunder
+	8 Rookie Recruit
+	8 Agall Renegade
+	8 Torch Snuffer
+	8 Raid Leader
+	8 Agall Brute
+	8 Ahba Island Battalion
+	8 Coastal Adept
+	8 il-Verde Cutthroat
+	8 Rowdy Freebooter
+	8 Tallora Wakerider
+	8 Porta Bay Ramparts
+	8 Undertow Mystic
+	8 Rigging Rider
+	8 Brilliant Trove
+	8 Vale Rider
+	8 Salvage Expert
+	8 Defensive Ward
+	8 Festerpriest
+	8 Salty Sailor
+	8 Soulsworn Mystic
+	8 Ahba Island Healer
+	8 The Only Cure
+	8 Ripclaw Harpy
+	8 Settle Infamy
+	8 Vale Vanguard
+	8 Keelhaul
+	8 Getaway Leader
+	8 Fall from Grace
+	8 Glit-Cove Guardians
+	8 Deploy
+	8 Delayed Voyage
+	8 Curse of Doomed Voyages
+	8 Rampant Growth
+	8 Splendid Preservation
+	8 Sunk Below
+	8 Overboard!
+	8 Dragonfire
+	8 Giant Growth
+	8 Iron Shot
+	8 Treacherous Map
+	8 Decoy Skiff
+	8 Royal Fleet
+	8 Captain's Hat
+	8 Drifting Skiff
+	8 Solemn Wreck
+	8 Prying Blade
+	8 Hold Captive
+	8 Fluttering Flock
+	8 Hold Hostage
+	8 Show of Arms
+	8 il-Verde Archers
+	8 Spirit of Sonder
+	8 Curse of Disrespect
+	8 A Crime for Liars
+	8 Shorebound
+	8 Reed Walkers
+	8 Provisions Expert
+	8 Elvish Swashbuckler
+	8 Charted Course
+	8 Elven Linebreaker
+	8 Spirit Sea-Singer
+	8 Coastal Explorer
+	8 Grim Bastion's Call
+	8 Treasure Dragon
+	8 Ancient Snapper
+	8 Colossal Landsailer
+	8 Leyline Convergence
+	8 Merchant Caravan
+	8 False Flintlock
+	8 Judgmental Orator
+	8 Current Seer
+	8 A Lonely Death
+	8 Novice Drunkard
+	8 Plunder Patrols
+	8 Coral Cove
+	8 Towering Spires
+	8 Smuggler's Cove
+	8 Seaside Market
+	8 Open Shore
+	8 Cursebreak
+	8 Into the Ocean
+	8 Bravado
+	8 Braizen Captain
+	8 Elven Sailor
+	8 Voyage's End
+	8 Flintlock Sharpshot
+	8 Her Majesty's Deliverance
+[wildcard(2)]
+	7 Queen's Revenge
+	4 Commodore Ana Axela
+	6 Trusty Rapier
+	15 Recruiter General
+	6 Vibrant Watcher
+	6 Deadwater Vermin
+	15 Personal Armsmith
+	6 Ahba Shorewalker
+	6 Wellweather Distracter
+	6 Agall Spymaster
+	6 Wonder Weaver
+	6 Moonracer Cannoneer
+	6 Westerly Dockhand
+	7 Her Majesty's Armory
+	15 Tideseer Captain
+	15 Smuggler Captain
+	6 Careless Buccaneer
+	15 Porta Bay Pest
+	7 Greed's Goaded
+	15 Her Majesty's Will
+	15 Evergrove Wanderer
+	7 Myra's Acquisitioner
+	15 Doctrine Director
+	7 Royal Lieutenant
+	7 Treasures Lost and Sunken
+	7 Ghost Crew
+	7 Halyard Lookout
+	15 Master Manipulator
+	7 Wellweather Christener
+	7 Kitchen Slinks
+	15 Unquenchable Flame
+	6 Highrock Griffin
+	15 Merchant Sloop
+	7 Stormfarer
+	7 Swiftwater Frigate
+	6 Stowawaif
+	7 Myra of the Twin Galleons
+	7 Crimson Jack of the Moonracer
+	7 Lucelle of the Twin Galleons
+	4 Gezroil of the Sunken Gem
+	4 Espaza of the Sparrow
+	15 Contract Killer
+	6 Curse of Loose Lips
+	15 Kraken's Claim
+	6 Evergrove Pilgrim
+	7 Turn the Tides
+	15 In Spades
+	6 Give Chase
+	6 Braizen Plunder
+	15 Seaside Peddler
+	15 Glorious Redemption
+	4 Razorwind Griffin
+	6 Rookie Recruit
+	6 Agall Renegade
+	6 Torch Snuffer
+	6 Raid Leader
+	6 Agall Brute
+	6 Ahba Island Battalion
+	6 Coastal Adept
+	6 il-Verde Cutthroat
+	6 Rowdy Freebooter
+	6 Tallora Wakerider
+	6 Porta Bay Ramparts
+	6 Undertow Mystic
+	6 Rigging Rider
+	6 Brilliant Trove
+	6 Vale Rider
+	6 Salvage Expert
+	6 Defensive Ward
+	6 Festerpriest
+	6 Salty Sailor
+	6 Soulsworn Mystic
+	6 Ahba Island Healer
+	6 The Only Cure
+	6 Ripclaw Harpy
+	6 Settle Infamy
+	15 Second Burst
+	15 Lucelle's Demise
+	15 Hands of Fate
+	15 Curse of Parley
+	15 Gezroil's Demise
+	15 Espaza's Betrayal
+	15 Summon the Skysailer
+	15 Deadwater Ringleader
+	15 Twinblade Adept
+	15 Crimson Jack's Demise
+	6 Vale Vanguard
+	15 Wreckage Lurker
+	7 Master Armsmith
+	15 Sickening Seas
+	7 Goldhunter Dragon
+	7 Wilds Warden
+	7 Portside Collector
+	7 Law of the Sea
+	7 Captain's Gathering
+	6 Keelhaul
+	6 Getaway Leader
+	6 Fall from Grace
+	15 Tamper
+	6 Glit-Cove Guardians
+	6 Deploy
+	6 Delayed Voyage
+	6 Curse of Doomed Voyages
+	6 Rampant Growth
+	6 Splendid Preservation
+	6 Sunk Below
+	6 Overboard!
+	6 Dragonfire
+	6 Giant Growth
+	15 Her Majesty's Blessing
+	15 Scourge of Infamy
+	15 Haunting Memory
+	15 Myra's Demise
+	15 Tallora Traveler
+	15 Valiant Fencers
+	7 Ghost Crew's Curse
+	15 Mark of the Sea
+	15 Havoc Admiral
+	15 Into the Unknown
+	7 Evergrove Matron
+	7 Arrogant Helmsman
+	7 Sulfurous Wanderer
+	7 Merfolk Shorestalker
+	7 Sunk at Sea
+	7 Spellweaver Harpy
+	7 Notoriety
+	7 Shipwreck Stalker
+	6 Iron Shot
+	6 Treacherous Map
+	6 Decoy Skiff
+	15 Fool's Fortune
+	15 Sleek Schooner
+	15 Disabling Shot
+	15 Pirate Chaser
+	7 Renowned Flagship
+	7 Scatter Shot
+	4 Skysailer, Axela's Pride
+	15 Shoreline Cartographer
+	15 Malignant Malcrafter
+	15 Captain of Vigor
+	15 Territorial Runt
+	15 Guardian of Growth
+	15 Royal Instructor
+	15 Scourge of the Seas
+	15 Sanctifying Light
+	15 Traitorous Admiral
+	15 Shallows Fisher
+	4 Her Majesty Justicia
+	4 Caitisan's Conquest
+	4 Pearl Black the Dreadwight
+	4 Ruby Spade Swashbuckler
+	7 Fractured Morality
+	15 Scallywag's Slicer
+	15 Stalwart Galleon
+	7 Pirate Market
+	6 Royal Fleet
+	6 Captain's Hat
+	6 Drifting Skiff
+	6 Solemn Wreck
+	6 Prying Blade
+	7 Heavy Cannonade
+	6 Hold Captive
+	6 Fluttering Flock
+	6 Hold Hostage
+	6 Show of Arms
+	6 il-Verde Archers
+	6 Spirit of Sonder
+	6 Curse of Disrespect
+	6 A Crime for Liars
+	15 Curse of Confrontation
+	6 Shorebound
+	6 Reed Walkers
+	6 Provisions Expert
+	6 Elvish Swashbuckler
+	6 Charted Course
+	6 Elven Linebreaker
+	6 Spirit Sea-Singer
+	15 Shiphunter
+	15 Checkmate
+	15 Fool's Allure
+	15 Leaf Wanderer
+	15 Ocean Spyglass
+	15 Smoldering Flintlock
+	6 Coastal Explorer
+	6 Grim Bastion's Call
+	6 Treasure Dragon
+	6 Ancient Snapper
+	7 Royal Helmsguard
+	7 Majestic Spectacle
+	7 Gunpowder Buccaneer
+	7 Coastrender
+	7 Flooded Morass
+	7 Lavatorn Fields
+	7 Heart of the Glade
+	7 Flourishing Crevasse
+	7 Ancient Heirloom
+	6 Colossal Landsailer
+	7 Skysailer's Beacon
+	4 Eavesdrop Adept
+	6 Leyline Convergence
+	6 Merchant Caravan
+	6 False Flintlock
+	6 Judgmental Orator
+	6 Current Seer
+	6 A Lonely Death
+	6 Novice Drunkard
+	6 Plunder Patrols
+	7 Mariner's Skill
+	7 Sanctimony Ward
+	7 Scoundril's Bounty
+	7 Abandon Ship
+	7 Tracker's Revelation
+	15 Adrift Wreckage
+	15 Merfolk Wavemaster
+	15 Plundered Secrets
+	15 Wayward Plunderer
+	15 Sails to Adventure
+	6 Coral Cove
+	6 Towering Spires
+	6 Smuggler's Cove
+	6 Seaside Market
+	6 Open Shore
+	4 Illypso, Sea's Majesty
+	15 Stowaway's Knife
+	7 Pool of Light
+	7 Wayfarer's Shrine
+	6 Cursebreak
+	6 Into the Ocean
+	6 Bravado
+	6 Braizen Captain
+	6 Elven Sailor
+	15 Brandish
+	15 Renegade Tidemaster
+	15 Merciless Stalker
+	15 Shiprender
+	4 Island Sinker
+	15 Brigand's Bargain
+	15 Sailor's Slip
+	6 Voyage's End
+	15 Stagger Back
+	7 Archipelago Tyrant
+	15 Plunder and Pillage
+	15 Explosive Entrance
+	6 Flintlock Sharpshot
+	6 Her Majesty's Deliverance
+	4 Green-Hunt Olivera
