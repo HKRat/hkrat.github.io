@@ -2441,16 +2441,6 @@
 			}
 		},
 		{
-			"name": "Treasure",
-			"rarity": "special",
-			"mana_cost": "",
-			"type": "Token Artifact — Treasure",
-			"collector_number": "14",
-			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/14_Treasure.png"
-			}
-		},
-		{
 			"name": "Monument to Justicia",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
@@ -2705,9 +2695,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "15",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/15_Treasure.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/14_Treasure.png"
 			}
 		},
 		{
@@ -3195,9 +3185,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "16",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/16_Treasure.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/15_Treasure.png"
 			}
 		},
 		{
@@ -3625,9 +3615,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Land — Island",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/17_Island.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/16_Island.png"
 			}
 		},
 		{

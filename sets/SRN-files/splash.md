@@ -1,0 +1,3 @@
+![](https://i.imgur.com/8RIIq8X.png "Skyrim Remastered: Nine Divines Edition")
+Released in 2017 as Skyrim Remastered, the set recieved two aesthetic and performance overhauls in 2018 to better bring it in line with Magic sets of the time.
+Earn perks, complete quests from the various guilds, and even learn the dragon language of old as you draft this set. With five tri-color arcuns, 15 traditional dual-color arcuns, and an additional 5 flexible hybrid options, there's no shortage of draft strategies to try out.

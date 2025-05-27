@@ -61,7 +61,7 @@
             "color2": "U",
             "type2": "Sorcery \u2014 Adventure",
             "cost2": "{U}",
-            "rules_text2": "Target player mills two cards. Draw a card. [i](Then exile this card. You may cast the creature later from exile.)[/i]",
+            "rules_text2": "Inspect two cards. Put one of them into your hand and the other into your graveyard. [i](To inspect cards, look at them from your library.)[/i]",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -213,7 +213,7 @@
             "number": 73,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
-            "rules_text": "[i]Trove[/i] \u2014 Target opponent looks at the top three cards of your library and separates them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard. If your team controls three or more tokens, put both piles into your hand instead.",
+            "rules_text": "[i]Trove[/i] \u2014 Target opponent inspects three cards of your library and separates them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard. If your team controls three or more tokens, put both piles into your hand instead.",
             "flavor_text": "[i]\u201cA bad deal? Maybe for you.\u201d[/i]",
             "pt": "",
             "special_text": "",
@@ -231,7 +231,7 @@
             "number": 86,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Your team doesn't lose the game for a player on it drawing a card while their library has no cards in it.\nSkulduggery\u2014{2}{U}, Sacrifice Volitan Lurker: Choose target player on your team. An opponent chooses five cards in that player's graveyard. [i](Your team may activate this.)[/i]",
+            "rules_text": "Your team doesn't lose the game for a player on it drawing a card while their library has no cards in it.\nSkulduggery\u2014{2}{U}{U}, {T}, Exile Volitan Lurker: Exile all cards from a player on your team's library. Then shuffle that player's graveyard into their library. Activate only as a sorcery. [i](Your team may activate this.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -2089,7 +2089,7 @@
             "number": 212,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "Accolade 1 [i](When this deals combat damage to a player, if it isn't legendary, you may have it become legendary and put a +1/+1 counter on it.)[/i]\nWhenever one or more +1/+1 counters are placed on Sly Bandit, reveal the top card of your library. If it's a land card, you may put it onto the battlefield tapped. Otherwise, put it into your hand.",
+            "rules_text": "Accolade 1 [i](When this deals combat damage to a player, if it isn't legendary, you may have it become legendary and put a +1/+1 counter on it.)[/i]\nWhenever one or more +1/+1 counters are placed on Sly Bandit, inspect three cards. You may reveal a land card from among them and put it into your hand. Put the rest into your graveyard. [i](To inspect cards, look at them from your library.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2097,7 +2097,7 @@
             "set": "TOC",
             "loyalty": "",
             "artist": "Sam Perin",
-            "notes": "Accolade 1 (When this deals combat damage to a player, if it isn't legendary, you may have it become legendary and put a +1/+1 counter on it.)\nWhen Sly Bandit becomes legendary, create a 1/1 green Elf Pirate creature token, then put a +1/+1 counter on each creature your team controls."
+            "notes": "Accolade 1 (When this deals combat damage to a player, if it isn't legendary, you may have it become legendary and put a +1/+1 counter on it.)\nWhen Sly Bandit becomes legendary, create a 1/1 green Elf Pirate creature token, then put a +1/+1 counter on each creature your team controls.\n\n\nInspect two cards. Put one of them into your hand and the other into your graveyard. \n\nreveal the top card of your library. If it's a land card, you may put it onto the battlefield tapped. Otherwise, put it into your hand."
         },
         {
             "card_name": "Challenge the Storm",
@@ -2168,7 +2168,7 @@
             "shape": "normal",
             "set": "TOC",
             "loyalty": "",
-            "artist": "@janesartstuffs",
+            "artist": "Geoffrey Bire",
             "notes": ""
         },
         {
@@ -3497,7 +3497,7 @@
             "special_text2": "",
             "loyalty2": "",
             "artist2": "",
-            "notes": "Inspect six cards. You may put a creature card from among them onto the battlefield and the rest into your graveyard. It gains haste.\n\n\nYou may spend mana as though it were mana of any type to cast Adventure spells or spells that have an Adventure.\n\nSurveil 6, then reveal the top card. If a creature card is revealed this way, put it onto the battlefield. It gains haste until end of turn.\n\nReveal the top ten cards of your library. Put a creature card from among them onto the battlefield. It gains haste until end of turn. Then shuffle.\n\n1, T: Add two mana in any combination of colors. If that mana is spent on an Adventure spell, that spell can't be countered."
+            "notes": "Inspect six cards. You may put a creature card from among them onto the battlefield and the rest into your graveyard. It gains haste.\n\nSurveil 6, then reveal the top card. If a permanent card is revealed this way, put it onto the battlefield. It gains haste until end of turn.\n\n\nYou may spend mana as though it were mana of any type to cast Adventure spells or spells that have an Adventure.\n\nSurveil 6, then reveal the top card. If a creature card is revealed this way, put it onto the battlefield. It gains haste until end of turn.\n\nReveal the top ten cards of your library. Put a creature card from among them onto the battlefield. It gains haste until end of turn. Then shuffle.\n\n1, T: Add two mana in any combination of colors. If that mana is spent on an Adventure spell, that spell can't be countered."
         },
         {
             "card_name": "River-Reed Weaver",
@@ -3543,7 +3543,7 @@
             "number": 206,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "You may look at the top card of your library any time.\nYou may play lands and cast legendary permanent spells from the top of your library.\nWhenever a permanent you control enters tapped, if it entered from your library or you cast it from your library, untap it.",
+            "rules_text": "You may inspect a card any time.\nYou may play lands and cast legendary spells from the top of your library.\nWhenever a permanent you control enters tapped, if it entered from your library or you cast it from your library, untap it.",
             "flavor_text": "[i][/i]",
             "pt": "3/4",
             "special_text": "",
@@ -4445,14 +4445,14 @@
             "number": 273,
             "color_identity": "C",
             "cost": "{1}",
-            "rules_text": "{T}: Exile target card from a graveyard and put a song counter on Piece of Pirates' Call.\n{3}, {T}, Sacrifice Piece of Pirates' Call: Search your library for a Pirate card with mana value less than or equal to the number of song counters on Piece of Pirates' Call, put it onto the battlefield, then shuffle.",
+            "rules_text": "{T}: Exile up to one target card from a graveyard. If a card is exiled this way, put a song counter on Piece of Pirates' Call.\n{3}, {T}, Remove X song counters from Piece of Pirates' Call: Inspect X cards. Put one of them into your hand and the rest on the bottom of your library in a random order.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "TOC",
             "loyalty": "",
-            "artist": "Grant Griffin",
+            "artist": "Austin Hartell",
             "notes": "1: Exile target card from a graveyard. If it was a Pirate card, put a charge counter on Piece of Pirates' Call.\nT, Sacrifice Piece of Pirates' Call: Search your library for a Pirate card with mana value equal to the number of charge counters on Piece of Pirates' Call, put it onto the battlefield, then shuffle."
         },
         {
@@ -4708,24 +4708,6 @@
             "notes": ""
         },
         {
-            "card_name": "Treasure",
-            "color": "",
-            "rarity": "special",
-            "type": "Token Artifact \u2014 Treasure",
-            "number": 14,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "token",
-            "set": "TOC",
-            "loyalty": "",
-            "artist": "Austin Hartell",
-            "notes": ""
-        },
-        {
             "card_name": "Monument to Justicia",
             "color": "",
             "rarity": "uncommon",
@@ -4830,7 +4812,7 @@
             "shape": "normal",
             "set": "TOC",
             "loyalty": "",
-            "artist": "polosatkin on dA",
+            "artist": "David Alvarez",
             "notes": ""
         },
         {
@@ -4848,7 +4830,7 @@
             "shape": "normal",
             "set": "TOC",
             "loyalty": "",
-            "artist": "Will Noviss & Nic Klein",
+            "artist": "Lucas Staniec",
             "notes": ""
         },
         {
@@ -4866,7 +4848,7 @@
             "shape": "normal",
             "set": "TOC",
             "loyalty": "",
-            "artist": "Firat Solhan",
+            "artist": "Stephanie McDowell",
             "notes": ""
         },
         {
@@ -4884,7 +4866,7 @@
             "shape": "normal",
             "set": "TOC",
             "loyalty": "",
-            "artist": "Wildweasel339 on dA",
+            "artist": "Jules Bacon",
             "notes": ""
         },
         {
@@ -4902,7 +4884,7 @@
             "shape": "normal",
             "set": "TOC",
             "loyalty": "",
-            "artist": "Up-Tchi",
+            "artist": "Sina Hayati",
             "notes": "When Coral Haven enters the battlefield, surveil 1."
         },
         {
@@ -5180,7 +5162,7 @@
             "color": "",
             "rarity": "special",
             "type": "Token Artifact \u2014 Treasure",
-            "number": 15,
+            "number": 14,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
@@ -6062,7 +6044,7 @@
             "color": "",
             "rarity": "special",
             "type": "Token Artifact \u2014 Treasure",
-            "number": 16,
+            "number": 15,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
@@ -6072,7 +6054,7 @@
             "shape": "token",
             "set": "TOC",
             "loyalty": "",
-            "artist": "Mary Davydova",
+            "artist": "Joshua Esmeralda",
             "notes": ""
         },
         {
@@ -6173,7 +6155,7 @@
             "number": 190,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Inspect five cards. You may reveal a legendary card or land card from among them and put it into your hand. Then put the rest on the bottom of your library in any order.",
+            "rules_text": "Inspect five cards. You may reveal a legendary card or land card from among them and put it into your hand. Then put the rest on the bottom of your library in any order. [i](To inspect cards, look at them from your library.)[/i]",
             "flavor_text": "[i]At the heart of every story of the sea lies the allure of the unknown.[/i]",
             "pt": "",
             "special_text": "",
@@ -6191,7 +6173,7 @@
             "number": 179,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "[i]Trove[/i] \u2014 Reveal the top three cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard. If your team controls three or more tokens, you gain 3 life.",
+            "rules_text": "[i]Trove[/i] \u2014 Mill three cards. Put all land cards from among the milled cards into your hand. If your team controls three or more tokens, you gain 3 life.",
             "flavor_text": "[i]\u201cFortune smiled upon the Castaway after the storm. The fog had parted to reveal a small island on the horizon.\u201d\u2014[/i]The Sixth Sea[i][/i]",
             "pt": "",
             "special_text": "",
@@ -6199,7 +6181,7 @@
             "set": "TOC",
             "loyalty": "",
             "artist": "Amir Khan Dj. Afschar",
-            "notes": ""
+            "notes": "Reveal the top three cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard. If your team controls three or more tokens, you gain 3 life."
         },
         {
             "card_name": "Here be Dragons",
@@ -6836,7 +6818,7 @@
             "color": "",
             "rarity": "special",
             "type": "Token Land \u2014 Island",
-            "number": 17,
+            "number": 16,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
