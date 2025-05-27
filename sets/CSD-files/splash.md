@@ -1,0 +1,2 @@
+# Clash of Sordell
+Tamiyo and Jace travel through the ruins of Sordell a few years before the phyrexian invasion. On their journey they learn about an event known as the Dragon Fallout that occurred over 1000 years ago and brought about the destruction of an entire continent.

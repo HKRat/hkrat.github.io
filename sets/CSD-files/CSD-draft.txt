@@ -1,0 +1,3484 @@
+[CustomCards]
+	[
+		{
+			"name": "Crossroads Wanderer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/11_Crossroads Wanderer.png"
+			}
+		},
+		{
+			"name": "Kitchen Gossips",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Elf Citizen",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/25_Kitchen Gossips.png"
+			}
+		},
+		{
+			"name": "Elnbeth Chaplain",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/13_Elnbeth Chaplain.png"
+			}
+		},
+		{
+			"name": "Elven Innmaiden",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Citizen",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/15_Elven Innmaiden.png"
+			}
+		},
+		{
+			"name": "War Medic",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/43_War Medic.png"
+			}
+		},
+		{
+			"name": "Auramancer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/4_Auramancer.png"
+			}
+		},
+		{
+			"name": "Bravest Guard",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Mouse Knight",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/8_Bravest Guard.png"
+			}
+		},
+		{
+			"name": "Faithmender",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/20_Faithmender.png"
+			}
+		},
+		{
+			"name": "Prayer Giver",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Dinosaur Cleric",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/33_Prayer Giver.png"
+			}
+		},
+		{
+			"name": "Dragonbond Trainee",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/12_Dragonbond Trainee.png"
+			}
+		},
+		{
+			"name": "Lay to Rest",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/27_Lay to Rest.png"
+			}
+		},
+		{
+			"name": "Rend in Light",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/35_Rend in Light.png"
+			}
+		},
+		{
+			"name": "Patrol the Grounds",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/32_Patrol the Grounds.png"
+			}
+		},
+		{
+			"name": "Lesser Aeromancy",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/28_Lesser Aeromancy.png"
+			}
+		},
+		{
+			"name": "Boon of Lordship",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/6_Boon of Lordship.png"
+			}
+		},
+		{
+			"name": "Ardent Charger",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/2_Ardent Charger.png"
+			}
+		},
+		{
+			"name": "Loreweaver Runes",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/30_Loreweaver Runes.png"
+			}
+		},
+		{
+			"name": "Bottled Luck",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/7_Bottled Luck.png"
+			}
+		},
+		{
+			"name": "Arrest",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/3_Arrest.png"
+			}
+		},
+		{
+			"name": "Take to the Skies",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/41_Take to the Skies.png"
+			}
+		},
+		{
+			"name": "Agent of Waves",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Knight",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/45_Agent of Waves.png"
+			}
+		},
+		{
+			"name": "Curio Curator",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/55_Curio Curator.png"
+			}
+		},
+		{
+			"name": "Castle Correspondent",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/50_Castle Correspondent.png"
+			}
+		},
+		{
+			"name": "Cloudskies Marauder",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Cat Rogue",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/52_Cloudskies Marauder.png"
+			}
+		},
+		{
+			"name": "Wandering Mystic",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Nomad Wizard",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/85_Wandering Mystic.png"
+			}
+		},
+		{
+			"name": "Seabaren Lorekeepers",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/77_Seabaren Lorekeepers.png"
+			}
+		},
+		{
+			"name": "Fables Historian",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/58_Fables Historian.png"
+			}
+		},
+		{
+			"name": "Make Do",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/70_Make Do.png"
+			}
+		},
+		{
+			"name": "Murkwater Lurker",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/73_Murkwater Lurker.png"
+			}
+		},
+		{
+			"name": "Forlorn and Forgotten",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/62_Forlorn and Forgotten.png"
+			}
+		},
+		{
+			"name": "Wallow's Court",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Faerie Citizen",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/84_Wallow's Court.png"
+			}
+		},
+		{
+			"name": "Arcane Chronicler",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/46_Arcane Chronicler.png"
+			}
+		},
+		{
+			"name": "Impromptu Passway",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/65_Impromptu Passway.png"
+			}
+		},
+		{
+			"name": "Traitorous Eyes",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/81_Traitorous Eyes.png"
+			}
+		},
+		{
+			"name": "Fickle Fatereader",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Djinn Bard",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/60_Fickle Fatereader.png"
+			}
+		},
+		{
+			"name": "Just the Bait",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Tribal Instant — Rogue",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/67_Just the Bait.png"
+			}
+		},
+		{
+			"name": "Impact Bubble",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/64_Impact Bubble.png"
+			}
+		},
+		{
+			"name": "Mental Breakdown",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/72_Mental Breakdown.png"
+			}
+		},
+		{
+			"name": "Cassowary Warden",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/49_Cassowary Warden.png"
+			}
+		},
+		{
+			"name": "Guard's Narc",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/107_Guard's Narc.png"
+			}
+		},
+		{
+			"name": "Doomskater",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/95_Doomskater.png"
+			}
+		},
+		{
+			"name": "Shadowed Striker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/123_Shadowed Striker.png"
+			}
+		},
+		{
+			"name": "Cultist Infiltrator",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/94_Cultist Infiltrator.png"
+			}
+		},
+		{
+			"name": "Dusk Fiend",
+			"rarity": "common",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/99_Dusk Fiend.png"
+			}
+		},
+		{
+			"name": "Skittering Snitch",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Rat",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/125_Skittering Snitch.png"
+			}
+		},
+		{
+			"name": "Leave the Tomb",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Tribal Sorcery — Dragon",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/109_Leave the Tomb.png"
+			}
+		},
+		{
+			"name": "Scourge of Coasts",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Cat Pirate",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/120_Scourge of Coasts.png"
+			}
+		},
+		{
+			"name": "Agent of the Unseen",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/88_Agent of the Unseen.png"
+			}
+		},
+		{
+			"name": "Eyes Above",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Tribal Instant — Dragon",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/101_Eyes Above.png"
+			}
+		},
+		{
+			"name": "Unholy Rebirth",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/130_Unholy Rebirth.png"
+			}
+		},
+		{
+			"name": "Midnight Visit",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/111_Midnight Visit.png"
+			}
+		},
+		{
+			"name": "Dragonskin",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/98_Dragonskin.png"
+			}
+		},
+		{
+			"name": "Information Highway",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/108_Information Highway.png"
+			}
+		},
+		{
+			"name": "Smear Campaign",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Tribal Instant — Rogue",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/126_Smear Campaign.png"
+			}
+		},
+		{
+			"name": "Foolhardy Knight",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/106_Foolhardy Knight.png"
+			}
+		},
+		{
+			"name": "Millwater Ruffian",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/112_Millwater Ruffian.png"
+			}
+		},
+		{
+			"name": "Estwyle Sneak",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Citizen Rogue",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/100_Estwyle Sneak.png"
+			}
+		},
+		{
+			"name": "Return to the Nymphs",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/117_Return to the Nymphs.png"
+			}
+		},
+		{
+			"name": "Ruinous Retribution",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Tribal Instant — Dragon",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/119_Ruinous Retribution.png"
+			}
+		},
+		{
+			"name": "Skvorang Cliffwalker",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/166_Skvorang Cliffwalker.png"
+			}
+		},
+		{
+			"name": "Ember Mage",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard Citizen",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/142_Ember Mage.png"
+			}
+		},
+		{
+			"name": "Cragbound Dragon",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/135_Cragbound Dragon.png"
+			}
+		},
+		{
+			"name": "Dragonfire Rider",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/138_Dragonfire Rider.png"
+			}
+		},
+		{
+			"name": "Scorchwielder",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/162_Scorchwielder.png"
+			}
+		},
+		{
+			"name": "Joust Trumpeteer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Knight Citizen",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/151_Joust Trumpeteer.png"
+			}
+		},
+		{
+			"name": "Joust Liberator",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/150_Joust Liberator.png"
+			}
+		},
+		{
+			"name": "Elnbeth Guardian",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/141_Elnbeth Guardian.png"
+			}
+		},
+		{
+			"name": "Bloodsea Merchant",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/132_Bloodsea Merchant.png"
+			}
+		},
+		{
+			"name": "Rend the Coast",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/160_Rend the Coast.png"
+			}
+		},
+		{
+			"name": "Sundering Breath",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Tribal Instant — Dragon",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/170_Sundering Breath.png"
+			}
+		},
+		{
+			"name": "Wealdwalker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Cat Citizen",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/173_Wealdwalker.png"
+			}
+		},
+		{
+			"name": "Stormrider",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/169_Stormrider.png"
+			}
+		},
+		{
+			"name": "Profound Understanding",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/158_Profound Understanding.png"
+			}
+		},
+		{
+			"name": "Draco Knight",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/136_Draco Knight.png"
+			}
+		},
+		{
+			"name": "Tandem Maneuver",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/172_Tandem Maneuver.png"
+			}
+		},
+		{
+			"name": "Egg of Ash",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/140_Egg of Ash.png"
+			}
+		},
+		{
+			"name": "Dragonheart",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Tribal Enchantment — Dragon Aura",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/139_Dragonheart.png"
+			}
+		},
+		{
+			"name": "Skilled Steel",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/163_Skilled Steel.png"
+			}
+		},
+		{
+			"name": "Gleeful Mayhem",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/146_Gleeful Mayhem.png"
+			}
+		},
+		{
+			"name": "Yafarrin Hermit",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/216_Yafarrin Hermit.png"
+			}
+		},
+		{
+			"name": "Pouncing Badwolf",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/204_Pouncing Badwolf.png"
+			}
+		},
+		{
+			"name": "In Reverence",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/195_In Reverence.png"
+			}
+		},
+		{
+			"name": "Gylleon Warden",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/191_Gylleon Warden.png"
+			}
+		},
+		{
+			"name": "Southweald Tracker",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/208_Southweald Tracker.png"
+			}
+		},
+		{
+			"name": "Gyrwelds Nightwarden",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Citizen",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/193_Gyrwelds Nightwarden.png"
+			}
+		},
+		{
+			"name": "Cerator Preacher",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dinosaur Cleric",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/182_Cerator Preacher.png"
+			}
+		},
+		{
+			"name": "Northlands Herald",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Nomad",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/202_Northlands Herald.png"
+			}
+		},
+		{
+			"name": "Elven Ranger",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Archer",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/186_Elven Ranger.png"
+			}
+		},
+		{
+			"name": "Cerator Orator",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dinosaur Citizen",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/181_Cerator Orator.png"
+			}
+		},
+		{
+			"name": "Titanize",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/211_Titanize.png"
+			}
+		},
+		{
+			"name": "Rootform",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/206_Rootform.png"
+			}
+		},
+		{
+			"name": "Autumn's Reward",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/176_Autumn's Reward.png"
+			}
+		},
+		{
+			"name": "Forest Trek",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/188_Forest Trek.png"
+			}
+		},
+		{
+			"name": "Magmatic Emergence",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/198_Magmatic Emergence.png"
+			}
+		},
+		{
+			"name": "Woodsman's Dilemma",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/214_Woodsman's Dilemma.png"
+			}
+		},
+		{
+			"name": "Bound by Oath",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/177_Bound by Oath.png"
+			}
+		},
+		{
+			"name": "To New Shores",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/212_To New Shores.png"
+			}
+		},
+		{
+			"name": "Leafsprout",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Tribal Instant — Elf",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/196_Leafsprout.png"
+			}
+		},
+		{
+			"name": "Nature's Favor",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Tribal Enchantment — Elf",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/201_Nature's Favor.png"
+			}
+		},
+		{
+			"name": "Enlightment Apparition",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/16_Enlightment Apparition.png"
+			}
+		},
+		{
+			"name": "Gyrwelds Bowman",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Elf Archer",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/24_Gyrwelds Bowman.png"
+			}
+		},
+		{
+			"name": "Gylleon Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Elf Knight Citizen",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/23_Gylleon Champion.png"
+			}
+		},
+		{
+			"name": "Yafarrin Soothsayer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/44_Yafarrin Soothsayer.png"
+			}
+		},
+		{
+			"name": "Court's Patrol",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/10_Court's Patrol.png"
+			}
+		},
+		{
+			"name": "Summoner's Circle",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/39_Summoner's Circle.png"
+			}
+		},
+		{
+			"name": "Estwyle Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Tribal Instant — Knight",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/18_Estwyle Charm.png"
+			}
+		},
+		{
+			"name": "Twist of Fate",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/42_Twist of Fate.png"
+			}
+		},
+		{
+			"name": "Rise to the Challenge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/37_Rise to the Challenge.png"
+			}
+		},
+		{
+			"name": "Greater Aeromancy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/21_Greater Aeromancy.png"
+			}
+		},
+		{
+			"name": "Faerie Mendmother",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Faerie Citizen",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/19_Faerie Mendmother.png"
+			}
+		},
+		{
+			"name": "Thousand-Year Slumber",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/80_Thousand-Year Slumber.png"
+			}
+		},
+		{
+			"name": "Coastline Hatchlings",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Griffin",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/54_Coastline Hatchlings.png"
+			}
+		},
+		{
+			"name": "Favorable Winds",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/59_Favorable Winds.png"
+			}
+		},
+		{
+			"name": "Escape Unnoticed",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/57_Escape Unnoticed.png"
+			}
+		},
+		{
+			"name": "Mengrin Hustler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Djinn Wizard",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/71_Mengrin Hustler.png"
+			}
+		},
+		{
+			"name": "Rhythm of the Wave",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/74_Rhythm of the Wave.png"
+			}
+		},
+		{
+			"name": "Whisk Away",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/86_Whisk Away.png"
+			}
+		},
+		{
+			"name": "Bestoleth Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Tribal Instant — Wizard",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/48_Bestoleth Charm.png"
+			}
+		},
+		{
+			"name": "Unauthorized Mount",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Griffin Rogue",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/82_Unauthorized Mount.png"
+			}
+		},
+		{
+			"name": "Curse of Transmutation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/56_Curse of Transmutation.png"
+			}
+		},
+		{
+			"name": "Flutter Thoughts",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/61_Flutter Thoughts.png"
+			}
+		},
+		{
+			"name": "Dragon Cult Recruiter",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/97_Dragon Cult Recruiter.png"
+			}
+		},
+		{
+			"name": "Tavern Traveler",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/129_Tavern Traveler.png"
+			}
+		},
+		{
+			"name": "Consult the Past",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/92_Consult the Past.png"
+			}
+		},
+		{
+			"name": "Cult Conspirant",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/93_Cult Conspirant.png"
+			}
+		},
+		{
+			"name": "Sootbelcher",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/127_Sootbelcher.png"
+			}
+		},
+		{
+			"name": "Murder at Midnight",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Tribal Enchantment — Rogue",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/113_Murder at Midnight.png"
+			}
+		},
+		{
+			"name": "False-Lead Miscreant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Cat Rogue",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/104_False-Lead Miscreant.png"
+			}
+		},
+		{
+			"name": "Faerie Liemother",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Faerie Rogue",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/103_Faerie Liemother.png"
+			}
+		},
+		{
+			"name": "Selnite Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Tribal Instant — Rogue",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/122_Selnite Charm.png"
+			}
+		},
+		{
+			"name": "Face the Axe",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/102_Face the Axe.png"
+			}
+		},
+		{
+			"name": "Siphon Soul",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/124_Siphon Soul.png"
+			}
+		},
+		{
+			"name": "Stalk Through the Night",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/128_Stalk Through the Night.png"
+			}
+		},
+		{
+			"name": "Claim the Firstborn",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/134_Claim the Firstborn.png"
+			}
+		},
+		{
+			"name": "Mother Knows Best",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/154_Mother Knows Best.png"
+			}
+		},
+		{
+			"name": "Feudal Fall",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/143_Feudal Fall.png"
+			}
+		},
+		{
+			"name": "Skvorang Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Tribal Instant — Dragon",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/165_Skvorang Charm.png"
+			}
+		},
+		{
+			"name": "Paralyzing Prophecy",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Tribal Instant — Dragon",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/156_Paralyzing Prophecy.png"
+			}
+		},
+		{
+			"name": "Regal Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/159_Regal Blade.png"
+			}
+		},
+		{
+			"name": "Syr Dralock the Swift",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/171_Syr Dralock the Swift.png"
+			}
+		},
+		{
+			"name": "Into the Future",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Tribal Enchantment — Wizard",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/149_Into the Future.png"
+			}
+		},
+		{
+			"name": "Banneret Journeyman",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/131_Banneret Journeyman.png"
+			}
+		},
+		{
+			"name": "Ruinous Brimstone",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Tribal Sorcery — Dragon",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/161_Ruinous Brimstone.png"
+			}
+		},
+		{
+			"name": "Priest of Immolation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/157_Priest of Immolation.png"
+			}
+		},
+		{
+			"name": "Crack the Foundations",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/183_Crack the Foundations.png"
+			}
+		},
+		{
+			"name": "Stalked Traveler",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/209_Stalked Traveler.png"
+			}
+		},
+		{
+			"name": "Expanding Horizons",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Instant",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/187_Expanding Horizons.png"
+			}
+		},
+		{
+			"name": "Storied Songstress",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Dinosaur Druid",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/210_Storied Songstress.png"
+			}
+		},
+		{
+			"name": "Manaweft Druid",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/199_Manaweft Druid.png"
+			}
+		},
+		{
+			"name": "Gylleon Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Tribal Instant — Elf",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/190_Gylleon Charm.png"
+			}
+		},
+		{
+			"name": "Canopy Drifter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/179_Canopy Drifter.png"
+			}
+		},
+		{
+			"name": "Brushfire Knight",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/178_Brushfire Knight.png"
+			}
+		},
+		{
+			"name": "Argin's Resolve",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/175_Argin's Resolve.png"
+			}
+		},
+		{
+			"name": "Pristine Vista",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/205_Pristine Vista.png"
+			}
+		},
+		{
+			"name": "Carniflage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/180_Carniflage.png"
+			}
+		},
+		{
+			"name": "Underbrush Crusher",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/213_Underbrush Crusher.png"
+			}
+		},
+		{
+			"name": "Estwyle Calvary",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/17_Estwyle Calvary.png"
+			}
+		},
+		{
+			"name": "Bestoleth Scholars",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Dinosaur Noble",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/5_Bestoleth Scholars.png"
+			}
+		},
+		{
+			"name": "Save From the Beast",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/38_Save From the Beast.png"
+			}
+		},
+		{
+			"name": "Leyline of Sanctity",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/29_Leyline of Sanctity.png"
+			}
+		},
+		{
+			"name": "Mousecapade Ranger",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Mouse Knight Citizen",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/31_Mousecapade Ranger.png"
+			}
+		},
+		{
+			"name": "Cloudsunder Titan",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Leviathan",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/53_Cloudsunder Titan.png"
+			}
+		},
+		{
+			"name": "Selnite Sneak",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/78_Selnite Sneak.png"
+			}
+		},
+		{
+			"name": "Leyline of Perception",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/68_Leyline of Perception.png"
+			}
+		},
+		{
+			"name": "Center Self",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/51_Center Self.png"
+			}
+		},
+		{
+			"name": "Sail the Cloudskies",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/75_Sail the Cloudskies.png"
+			}
+		},
+		{
+			"name": "Love Beyond Time",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/69_Love Beyond Time.png"
+			}
+		},
+		{
+			"name": "Huiltaii Fisher",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/63_Huiltaii Fisher.png"
+			}
+		},
+		{
+			"name": "Bestoleth Calvary",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Creature — Human Knight Wizard",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/47_Bestoleth Calvary.png"
+			}
+		},
+		{
+			"name": "Reign Supreme",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/116_Reign Supreme.png"
+			}
+		},
+		{
+			"name": "Ransacking Ruffian",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Knight Rogue",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/115_Ransacking Ruffian.png"
+			}
+		},
+		{
+			"name": "Dragon Cult Deathwise",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/96_Dragon Cult Deathwise.png"
+			}
+		},
+		{
+			"name": "Condemn the Soul",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/91_Condemn the Soul.png"
+			}
+		},
+		{
+			"name": "Leyline of Finality",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/110_Leyline of Finality.png"
+			}
+		},
+		{
+			"name": "Flight of Soot",
+			"rarity": "rare",
+			"mana_cost": "{9}{B}{B}",
+			"type": "Tribal Sorcery — Dragon",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/105_Flight of Soot.png"
+			}
+		},
+		{
+			"name": "Alkani's Scaledancer",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Naga Warlock",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/90_Alkani's Scaledancer.png"
+			}
+		},
+		{
+			"name": "Selnite Calvary",
+			"rarity": "rare",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Creature — Human Knight",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/121_Selnite Calvary.png"
+			}
+		},
+		{
+			"name": "Skvorang Calvary",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/164_Skvorang Calvary.png"
+			}
+		},
+		{
+			"name": "Cinderblade Paladin",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Knight Wizard",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/133_Cinderblade Paladin.png"
+			}
+		},
+		{
+			"name": "Leyline of Velocity",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/152_Leyline of Velocity.png"
+			}
+		},
+		{
+			"name": "Gravel Lane Lancer",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Knight",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/147_Gravel Lane Lancer.png"
+			}
+		},
+		{
+			"name": "Forsaken Stories",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/144_Forsaken Stories.png"
+			}
+		},
+		{
+			"name": "Shifting Groves Druid",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/207_Shifting Groves Druid.png"
+			}
+		},
+		{
+			"name": "Meandering Brunwick",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/200_Meandering Brunwick.png"
+			}
+		},
+		{
+			"name": "Crushrunner Wurm",
+			"rarity": "rare",
+			"mana_cost": "{7}{G}{G}",
+			"type": "Creature — Wurm",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/184_Crushrunner Wurm.png"
+			}
+		},
+		{
+			"name": "Leyline of Fertility",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/197_Leyline of Fertility.png"
+			}
+		},
+		{
+			"name": "Oakblossom Druid",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Dryad Druid",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/203_Oakblossom Druid.png"
+			}
+		},
+		{
+			"name": "Gylleon Calvary",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Creature — Elf Knight",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/189_Gylleon Calvary.png"
+			}
+		},
+		{
+			"name": "Elnbeth Justiciar",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/14_Elnbeth Justiciar.png"
+			}
+		},
+		{
+			"name": "Jace, Sublime Mentalist",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Jace",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/66_Jace, Sublime Mentalist.png"
+			}
+		},
+		{
+			"name": "Alkani Calden",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Planeswalker — Alkani",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/89_Alkani Calden.png"
+			}
+		},
+		{
+			"name": "Huiltaii Hydra",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/194_Huiltaii Hydra.png"
+			}
+		},
+		{
+			"name": "Lunar Scholar",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Cat Noble",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/233_Lunar Scholar.png"
+			}
+		},
+		{
+			"name": "Crossed Stars",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{W}{U}",
+			"type": "Instant",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/221_Crossed Stars.png"
+			}
+		},
+		{
+			"name": "Loch Songstress",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Merfolk Rogue",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/232_Loch Songstress.png"
+			}
+		},
+		{
+			"name": "Growing Concern",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/227_Growing Concern.png"
+			}
+		},
+		{
+			"name": "Swift Redfang",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/241_Swift Redfang.png"
+			}
+		},
+		{
+			"name": "Roaming Band",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/238_Roaming Band.png"
+			}
+		},
+		{
+			"name": "Syrs Kel and Arnd of Gylleon",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}{G}",
+			"type": "Legendary Creature — Elf Knight",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/243_Syrs Kel and Arnd of Gylleon.png"
+			}
+		},
+		{
+			"name": "Tender of Unbound Groves",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/245_Tender of Unbound Groves.png"
+			}
+		},
+		{
+			"name": "Leafweaver Druid",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Elf Druid Citizen",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/231_Leafweaver Druid.png"
+			}
+		},
+		{
+			"name": "Pontif of Profits",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Human Noble",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/236_Pontif of Profits.png"
+			}
+		},
+		{
+			"name": "Sequester to Safety",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Instant",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/239_Sequester to Safety.png"
+			}
+		},
+		{
+			"name": "Cinder Raven",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Bird",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/219_Cinder Raven.png"
+			}
+		},
+		{
+			"name": "The Heir Lay Sleeping",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/230_The Heir Lay Sleeping.png"
+			}
+		},
+		{
+			"name": "Smear Fiend",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/240_Smear Fiend.png"
+			}
+		},
+		{
+			"name": "Hargran Intimidator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Human Citizen Rogue",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/228_Hargran Intimidator.png"
+			}
+		},
+		{
+			"name": "Dragonbond General",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/224_Dragonbond General.png"
+			}
+		},
+		{
+			"name": "Valorous Squire",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/247_Valorous Squire.png"
+			}
+		},
+		{
+			"name": "Wondrous Genesis",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Instant",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/249_Wondrous Genesis.png"
+			}
+		},
+		{
+			"name": "Order and Fealty",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/235_Order and Fealty.png"
+			}
+		},
+		{
+			"name": "Duskwinnow Duelist",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Human Knight Wizard",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/226_Duskwinnow Duelist.png"
+			}
+		},
+		{
+			"name": "Destiny Approaches",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/223_Destiny Approaches.png"
+			}
+		},
+		{
+			"name": "Maternal Brunwick",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/234_Maternal Brunwick.png"
+			}
+		},
+		{
+			"name": "Heartstrings Minstrel",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Human Knight Bard",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/229_Heartstrings Minstrel.png"
+			}
+		},
+		{
+			"name": "Cinder Scholar",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Wizard Noble",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/220_Cinder Scholar.png"
+			}
+		},
+		{
+			"name": "Brunwick Devastator",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/218_Brunwick Devastator.png"
+			}
+		},
+		{
+			"name": "Wendell, Scorned Embers",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/248_Wendell, Scorned Embers.png"
+			}
+		},
+		{
+			"name": "Crossways Bandit",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Elf Warrior Rogue",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/222_Crossways Bandit.png"
+			}
+		},
+		{
+			"name": "Elnbeth the Kings' Court",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land — Castle",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/253_Elnbeth the Kings' Court.png"
+			}
+		},
+		{
+			"name": "Wallow the Kingspore",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Creature — Faerie Noble",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/83_Wallow the Kingspore.png"
+			}
+		},
+		{
+			"name": "Argin, Seeker Valiant",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Legendary Planeswalker — Argin",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/174_Argin, Seeker Valiant.png"
+			}
+		},
+		{
+			"name": "Alfonz, Model g0105",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Planeswalker — Alfonz",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/1_Alfonz, Model g0105.png"
+			}
+		},
+		{
+			"name": "Mayana, Arrow in the Crowd",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Planeswalker — Mayana",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/153_Mayana, Arrow in the Crowd.png"
+			}
+		},
+		{
+			"name": "Prelate Zekala",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Legendary Planeswalker — Zekala",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/237_Prelate Zekala.png"
+			}
+		},
+		{
+			"name": "Preposterous Peddler",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/114_Preposterous Peddler.png"
+			}
+		},
+		{
+			"name": "Boltscale Titan",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/217_Boltscale Titan.png"
+			}
+		},
+		{
+			"name": "Gregor, Multiverse Duelist",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Planeswalker — Gregor",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/22_Gregor, Multiverse Duelist.png"
+			}
+		},
+		{
+			"name": "Alpine Meadow",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/251_Alpine Meadow.png"
+			}
+		},
+		{
+			"name": "Fiery Chasm",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/256_Fiery Chasm.png"
+			}
+		},
+		{
+			"name": "Highland Vale",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/258_Highland Vale.png"
+			}
+		},
+		{
+			"name": "Sodden Cavern",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/261_Sodden Cavern.png"
+			}
+		},
+		{
+			"name": "Tranquil Stream",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/262_Tranquil Stream.png"
+			}
+		},
+		{
+			"name": "Estwyle, the Gleaming Palace",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Castle",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/254_Estwyle, the Gleaming Palace.png"
+			}
+		},
+		{
+			"name": "Gylleon, the Tranquil Court",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Castle",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/257_Gylleon, the Tranquil Court.png"
+			}
+		},
+		{
+			"name": "Selnite, the Creeping Power",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Castle",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/259_Selnite, the Creeping Power.png"
+			}
+		},
+		{
+			"name": "Skvorang, the Rocky Beacon",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Castle",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/260_Skvorang, the Rocky Beacon.png"
+			}
+		},
+		{
+			"name": "Bestoleth, the Scholar's Bastion",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Castle",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/252_Bestoleth, the Scholar's Bastion.png"
+			}
+		},
+		{
+			"name": "Ring the Alarm",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/36_Ring the Alarm.png"
+			}
+		},
+		{
+			"name": "Regal Prose",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Tribal Enchantment — Knight",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/34_Regal Prose.png"
+			}
+		},
+		{
+			"name": "Court Marshal",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/9_Court Marshal.png"
+			}
+		},
+		{
+			"name": "Paleodraconis",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/155_Paleodraconis.png"
+			}
+		},
+		{
+			"name": "Skvorang Rallier",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Barbarian",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/167_Skvorang Rallier.png"
+			}
+		},
+		{
+			"name": "Gyrwelds Ambusher",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Elf Warrior Rogue",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/192_Gyrwelds Ambusher.png"
+			}
+		},
+		{
+			"name": "Yafarrin Cultivator",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/215_Yafarrin Cultivator.png"
+			}
+		},
+		{
+			"name": "Dryad of Eternal Aegis",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Dryad",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/225_Dryad of Eternal Aegis.png"
+			}
+		},
+		{
+			"name": "Elf Citizen",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Elf Citizen",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/7_Elf Citizen.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/10_Soldier.png"
+			}
+		},
+		{
+			"name": "Syr Meereth the Halcyon",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/40_Syr Meereth the Halcyon.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/265_Plains.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/264_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/267_Island.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/266_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/268_Swamp.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/269_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/270_Mountain.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/271_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/272_Forest.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/273_Forest.png"
+			}
+		},
+		{
+			"name": "Dragon",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Dragon",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/6_Dragon.png"
+			}
+		},
+		{
+			"name": "Wizard",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Wizard",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/11_Wizard.png"
+			}
+		},
+		{
+			"name": "Scatter Array",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/76_Scatter Array.png"
+			}
+		},
+		{
+			"name": "Snake",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Snake",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/8_Snake.png"
+			}
+		},
+		{
+			"name": "Assassin",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Assassin",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/5_Assassin.png"
+			}
+		},
+		{
+			"name": "Illusion",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Illusion",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/4_Illusion.png"
+			}
+		},
+		{
+			"name": "Faerie Citizen",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie Citizen",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/2_Faerie Citizen.png"
+			}
+		},
+		{
+			"name": "Oakblossom Druid",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Dryad Druid",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/3_Oakblossom Druid.png"
+			}
+		},
+		{
+			"name": "Otherworldly Orrery",
+			"rarity": "mythic",
+			"mana_cost": "{8}",
+			"type": "Legendary Artifact",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/250_Otherworldly Orrery.png"
+			}
+		},
+		{
+			"name": "Starmapping",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/79_Starmapping.png"
+			}
+		},
+		{
+			"name": "Tamiyo of the Orrery",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Planeswalker — Tamiyo",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/244_Tamiyo of the Orrery.png"
+			}
+		},
+		{
+			"name": "Tamiyo's Deduction",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/274_Tamiyo's Deduction.png"
+			}
+		},
+		{
+			"name": "Knight",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Knight",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/1_Knight.png"
+			}
+		},
+		{
+			"name": "Syr Geigh, Wilds Wanderer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Human Scout",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/242_Syr Geigh, Wilds Wanderer.png"
+			}
+		},
+		{
+			"name": "Roaring Cascade",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/278_Roaring Cascade.png"
+			}
+		},
+		{
+			"name": "Rainforest Spring",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/277_Rainforest Spring.png"
+			}
+		},
+		{
+			"name": "Jagged Crag",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/276_Jagged Crag.png"
+			}
+		},
+		{
+			"name": "Desolate Barrens",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/275_Desolate Barrens.png"
+			}
+		},
+		{
+			"name": "Somber Marsh",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/279_Somber Marsh.png"
+			}
+		},
+		{
+			"name": "Fish",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Fish",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/3_Fish.png"
+			}
+		},
+		{
+			"name": "Gambit",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/145_Gambit.png"
+			}
+		},
+		{
+			"name": "Ransacking Ruffian",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Knight Rogue",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/1_Ransacking Ruffian.png"
+			}
+		},
+		{
+			"name": "Wolf",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Wolf",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/9_Wolf.png"
+			}
+		},
+		{
+			"name": "Infamy",
+			"rarity": "mythic",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/148_Infamy.png"
+			}
+		},
+		{
+			"name": "Piracy",
+			"rarity": "masterpiece",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/2_Piracy.png"
+			}
+		},
+		{
+			"name": "Southweald Flameweave",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/168_Southweald Flameweave.png"
+			}
+		},
+		{
+			"name": "Evolving Wilds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/255_Evolving Wilds.png"
+			}
+		},
+		{
+			"name": "Witches Hovel",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/263_Witches Hovel.png"
+			}
+		},
+		{
+			"name": "Tender of Unbound Groves",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/4_Tender of Unbound Groves.png"
+			}
+		},
+		{
+			"name": "Unshackle the Beast",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/246_Unshackle the Beast.png"
+			}
+		},
+		{
+			"name": "Knight Armaments",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/26_Knight Armaments.png"
+			}
+		},
+		{
+			"name": "Wizard's Cauldron",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/87_Wizard's Cauldron.png"
+			}
+		},
+		{
+			"name": "Rogue's Garb",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/118_Rogue's Garb.png"
+			}
+		},
+		{
+			"name": "Dragon Saddle",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/137_Dragon Saddle.png"
+			}
+		},
+		{
+			"name": "Elven Bow",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/185_Elven Bow.png"
+			}
+		},
+		{
+			"name": "Unshackle the Beast",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/CSD-files/img/5_Unshackle the Beast.png"
+			}
+		},
+	]
+
+[rare(1)]
+	2 Brushfire Knight
+	2 Estwyle Calvary
+	2 Bestoleth Scholars
+	2 Save From the Beast
+	2 Leyline of Sanctity
+	2 Mousecapade Ranger
+	2 Cloudsunder Titan
+	2 Selnite Sneak
+	2 Leyline of Perception
+	2 Center Self
+	2 Sail the Cloudskies
+	2 Love Beyond Time
+	2 Huiltaii Fisher
+	2 Bestoleth Calvary
+	2 Reign Supreme
+	2 Ransacking Ruffian
+	2 Dragon Cult Deathwise
+	2 Condemn the Soul
+	2 Leyline of Finality
+	2 Flight of Soot
+	2 Alkani's Scaledancer
+	2 Selnite Calvary
+	2 Skvorang Calvary
+	2 Cinderblade Paladin
+	2 Leyline of Velocity
+	2 Gravel Lane Lancer
+	2 Forsaken Stories
+	2 Shifting Groves Druid
+	2 Crushrunner Wurm
+	2 Leyline of Fertility
+	2 Oakblossom Druid
+	2 Gylleon Calvary
+	1 Elnbeth Justiciar
+	1 Jace, Sublime Mentalist
+	1 Alkani Calden
+	1 Huiltaii Hydra
+	2 Order and Fealty
+	2 Duskwinnow Duelist
+	2 Destiny Approaches
+	2 Maternal Brunwick
+	2 Heartstrings Minstrel
+	2 Cinder Scholar
+	2 Brunwick Devastator
+	2 Wendell, Scorned Embers
+	1 Elnbeth the Kings' Court
+	1 Wallow the Kingspore
+	1 Argin, Seeker Valiant
+	1 Alfonz, Model g0105
+	1 Mayana, Arrow in the Crowd
+	1 Prelate Zekala
+	1 Preposterous Peddler
+	1 Boltscale Titan
+	1 Gregor, Multiverse Duelist
+	2 Estwyle, the Gleaming Palace
+	2 Gylleon, the Tranquil Court
+	2 Selnite, the Creeping Power
+	2 Skvorang, the Rocky Beacon
+	2 Bestoleth, the Scholar's Bastion
+	2 Regal Prose
+	2 Court Marshal
+	2 Paleodraconis
+	2 Skvorang Rallier
+	2 Gyrwelds Ambusher
+	2 Yafarrin Cultivator
+	2 Dryad of Eternal Aegis
+	2 Syr Meereth the Halcyon
+	1 Otherworldly Orrery
+	1 Tamiyo of the Orrery
+	2 Syr Geigh, Wilds Wanderer
+	1 Infamy
+	2 Southweald Flameweave
+[uncommon(4)]
+	4 Leave the Tomb
+	4 Smear Campaign
+	4 Enlightment Apparition
+	4 Gyrwelds Bowman
+	4 Gylleon Champion
+	4 Yafarrin Soothsayer
+	4 Court's Patrol
+	4 Summoner's Circle
+	4 Estwyle Charm
+	4 Twist of Fate
+	4 Rise to the Challenge
+	4 Greater Aeromancy
+	4 Faerie Mendmother
+	4 Thousand-Year Slumber
+	4 Coastline Hatchlings
+	4 Favorable Winds
+	4 Escape Unnoticed
+	4 Mengrin Hustler
+	4 Rhythm of the Wave
+	4 Whisk Away
+	4 Bestoleth Charm
+	4 Unauthorized Mount
+	4 Curse of Transmutation
+	4 Flutter Thoughts
+	4 Dragon Cult Recruiter
+	4 Tavern Traveler
+	4 Consult the Past
+	4 Sootbelcher
+	4 Murder at Midnight
+	4 False-Lead Miscreant
+	4 Faerie Liemother
+	4 Selnite Charm
+	4 Face the Axe
+	4 Stalk Through the Night
+	4 Claim the Firstborn
+	4 Mother Knows Best
+	4 Feudal Fall
+	4 Skvorang Charm
+	4 Paralyzing Prophecy
+	4 Regal Blade
+	4 Syr Dralock the Swift
+	4 Into the Future
+	4 Banneret Journeyman
+	4 Ruinous Brimstone
+	4 Priest of Immolation
+	4 Crack the Foundations
+	4 Stalked Traveler
+	4 Expanding Horizons
+	4 Storied Songstress
+	4 Manaweft Druid
+	4 Gylleon Charm
+	4 Canopy Drifter
+	4 Argin's Resolve
+	4 Pristine Vista
+	4 Carniflage
+	4 Underbrush Crusher
+	4 Meandering Brunwick
+	4 Lunar Scholar
+	4 Crossed Stars
+	4 Loch Songstress
+	4 Growing Concern
+	4 Swift Redfang
+	4 Roaming Band
+	4 Syrs Kel and Arnd of Gylleon
+	4 Tender of Unbound Groves
+	4 Leafweaver Druid
+	4 Pontif of Profits
+	4 Sequester to Safety
+	4 Cinder Raven
+	4 The Heir Lay Sleeping
+	4 Smear Fiend
+	4 Hargran Intimidator
+	4 Dragonbond General
+	4 Valorous Squire
+	4 Wondrous Genesis
+	4 Crossways Bandit
+	4 Ring the Alarm
+	4 Scatter Array
+	4 Gambit
+	4 Witches Hovel
+	4 Unshackle the Beast
+[common(7)]
+	8 Crossroads Wanderer
+	8 Kitchen Gossips
+	8 Elnbeth Chaplain
+	8 Elven Innmaiden
+	8 War Medic
+	8 Auramancer
+	8 Bravest Guard
+	8 Faithmender
+	8 Prayer Giver
+	8 Dragonbond Trainee
+	8 Lay to Rest
+	8 Rend in Light
+	8 Patrol the Grounds
+	8 Lesser Aeromancy
+	8 Boon of Lordship
+	8 Ardent Charger
+	8 Loreweaver Runes
+	8 Bottled Luck
+	8 Arrest
+	8 Take to the Skies
+	8 Agent of Waves
+	8 Curio Curator
+	8 Castle Correspondent
+	8 Cloudskies Marauder
+	8 Wandering Mystic
+	8 Seabaren Lorekeepers
+	8 Fables Historian
+	8 Make Do
+	8 Murkwater Lurker
+	8 Forlorn and Forgotten
+	8 Wallow's Court
+	8 Arcane Chronicler
+	8 Impromptu Passway
+	8 Traitorous Eyes
+	8 Fickle Fatereader
+	8 Just the Bait
+	8 Impact Bubble
+	8 Mental Breakdown
+	8 Cassowary Warden
+	8 Guard's Narc
+	8 Doomskater
+	8 Shadowed Striker
+	8 Cultist Infiltrator
+	8 Dusk Fiend
+	8 Skittering Snitch
+	8 Scourge of Coasts
+	8 Agent of the Unseen
+	8 Eyes Above
+	8 Unholy Rebirth
+	8 Midnight Visit
+	8 Dragonskin
+	8 Information Highway
+	8 Foolhardy Knight
+	8 Millwater Ruffian
+	8 Estwyle Sneak
+	8 Return to the Nymphs
+	8 Ruinous Retribution
+	8 Skvorang Cliffwalker
+	8 Ember Mage
+	8 Cragbound Dragon
+	8 Dragonfire Rider
+	8 Scorchwielder
+	8 Joust Trumpeteer
+	8 Joust Liberator
+	8 Elnbeth Guardian
+	8 Bloodsea Merchant
+	8 Rend the Coast
+	8 Sundering Breath
+	8 Wealdwalker
+	8 Stormrider
+	8 Profound Understanding
+	8 Draco Knight
+	8 Tandem Maneuver
+	8 Egg of Ash
+	8 Dragonheart
+	8 Skilled Steel
+	8 Gleeful Mayhem
+	8 Yafarrin Hermit
+	8 Pouncing Badwolf
+	8 In Reverence
+	8 Gylleon Warden
+	8 Southweald Tracker
+	8 Gyrwelds Nightwarden
+	8 Cerator Preacher
+	8 Northlands Herald
+	8 Elven Ranger
+	8 Cerator Orator
+	8 Titanize
+	8 Rootform
+	8 Autumn's Reward
+	8 Forest Trek
+	8 Magmatic Emergence
+	8 Woodsman's Dilemma
+	8 Bound by Oath
+	8 To New Shores
+	8 Leafsprout
+	8 Nature's Favor
+	8 Cult Conspirant
+	8 Siphon Soul
+	8 Alpine Meadow
+	8 Fiery Chasm
+	8 Highland Vale
+	8 Sodden Cavern
+	8 Tranquil Stream
+	8 Starmapping
+	8 Evolving Wilds
+	8 Knight Armaments
+	8 Wizard's Cauldron
+	8 Rogue's Garb
+	8 Dragon Saddle
+	8 Elven Bow
+[wildcard(2)]
+	6 Crossroads Wanderer
+	6 Kitchen Gossips
+	6 Elnbeth Chaplain
+	6 Elven Innmaiden
+	6 War Medic
+	6 Auramancer
+	6 Bravest Guard
+	6 Faithmender
+	6 Prayer Giver
+	6 Dragonbond Trainee
+	6 Lay to Rest
+	6 Rend in Light
+	6 Patrol the Grounds
+	6 Lesser Aeromancy
+	6 Boon of Lordship
+	6 Ardent Charger
+	6 Loreweaver Runes
+	6 Bottled Luck
+	6 Arrest
+	6 Take to the Skies
+	6 Agent of Waves
+	6 Curio Curator
+	6 Castle Correspondent
+	6 Cloudskies Marauder
+	6 Wandering Mystic
+	6 Seabaren Lorekeepers
+	6 Fables Historian
+	6 Make Do
+	6 Murkwater Lurker
+	6 Forlorn and Forgotten
+	6 Wallow's Court
+	6 Arcane Chronicler
+	6 Impromptu Passway
+	6 Traitorous Eyes
+	6 Fickle Fatereader
+	6 Just the Bait
+	6 Impact Bubble
+	6 Mental Breakdown
+	6 Cassowary Warden
+	6 Guard's Narc
+	6 Doomskater
+	6 Shadowed Striker
+	6 Cultist Infiltrator
+	6 Dusk Fiend
+	6 Skittering Snitch
+	15 Leave the Tomb
+	6 Scourge of Coasts
+	6 Agent of the Unseen
+	6 Eyes Above
+	6 Unholy Rebirth
+	6 Midnight Visit
+	6 Dragonskin
+	6 Information Highway
+	15 Smear Campaign
+	6 Foolhardy Knight
+	6 Millwater Ruffian
+	6 Estwyle Sneak
+	6 Return to the Nymphs
+	6 Ruinous Retribution
+	6 Skvorang Cliffwalker
+	6 Ember Mage
+	6 Cragbound Dragon
+	6 Dragonfire Rider
+	6 Scorchwielder
+	6 Joust Trumpeteer
+	6 Joust Liberator
+	6 Elnbeth Guardian
+	6 Bloodsea Merchant
+	6 Rend the Coast
+	6 Sundering Breath
+	6 Wealdwalker
+	6 Stormrider
+	6 Profound Understanding
+	6 Draco Knight
+	6 Tandem Maneuver
+	6 Egg of Ash
+	6 Dragonheart
+	6 Skilled Steel
+	6 Gleeful Mayhem
+	6 Yafarrin Hermit
+	6 Pouncing Badwolf
+	6 In Reverence
+	6 Gylleon Warden
+	6 Southweald Tracker
+	6 Gyrwelds Nightwarden
+	6 Cerator Preacher
+	6 Northlands Herald
+	6 Elven Ranger
+	6 Cerator Orator
+	6 Titanize
+	6 Rootform
+	6 Autumn's Reward
+	6 Forest Trek
+	6 Magmatic Emergence
+	6 Woodsman's Dilemma
+	6 Bound by Oath
+	6 To New Shores
+	6 Leafsprout
+	6 Nature's Favor
+	15 Enlightment Apparition
+	15 Gyrwelds Bowman
+	15 Gylleon Champion
+	15 Yafarrin Soothsayer
+	15 Court's Patrol
+	15 Summoner's Circle
+	15 Estwyle Charm
+	15 Twist of Fate
+	15 Rise to the Challenge
+	15 Greater Aeromancy
+	15 Faerie Mendmother
+	15 Thousand-Year Slumber
+	15 Coastline Hatchlings
+	15 Favorable Winds
+	15 Escape Unnoticed
+	15 Mengrin Hustler
+	15 Rhythm of the Wave
+	15 Whisk Away
+	15 Bestoleth Charm
+	15 Unauthorized Mount
+	15 Curse of Transmutation
+	15 Flutter Thoughts
+	15 Dragon Cult Recruiter
+	15 Tavern Traveler
+	15 Consult the Past
+	6 Cult Conspirant
+	15 Sootbelcher
+	15 Murder at Midnight
+	15 False-Lead Miscreant
+	15 Faerie Liemother
+	15 Selnite Charm
+	15 Face the Axe
+	6 Siphon Soul
+	15 Stalk Through the Night
+	15 Claim the Firstborn
+	15 Mother Knows Best
+	15 Feudal Fall
+	15 Skvorang Charm
+	15 Paralyzing Prophecy
+	15 Regal Blade
+	15 Syr Dralock the Swift
+	15 Into the Future
+	15 Banneret Journeyman
+	15 Ruinous Brimstone
+	15 Priest of Immolation
+	15 Crack the Foundations
+	15 Stalked Traveler
+	15 Expanding Horizons
+	15 Storied Songstress
+	15 Manaweft Druid
+	15 Gylleon Charm
+	15 Canopy Drifter
+	7 Brushfire Knight
+	15 Argin's Resolve
+	15 Pristine Vista
+	15 Carniflage
+	15 Underbrush Crusher
+	7 Estwyle Calvary
+	7 Bestoleth Scholars
+	7 Save From the Beast
+	7 Leyline of Sanctity
+	7 Mousecapade Ranger
+	7 Cloudsunder Titan
+	7 Selnite Sneak
+	7 Leyline of Perception
+	7 Center Self
+	7 Sail the Cloudskies
+	7 Love Beyond Time
+	7 Huiltaii Fisher
+	7 Bestoleth Calvary
+	7 Reign Supreme
+	7 Ransacking Ruffian
+	7 Dragon Cult Deathwise
+	7 Condemn the Soul
+	7 Leyline of Finality
+	7 Flight of Soot
+	7 Alkani's Scaledancer
+	7 Selnite Calvary
+	7 Skvorang Calvary
+	7 Cinderblade Paladin
+	7 Leyline of Velocity
+	7 Gravel Lane Lancer
+	7 Forsaken Stories
+	7 Shifting Groves Druid
+	15 Meandering Brunwick
+	7 Crushrunner Wurm
+	7 Leyline of Fertility
+	7 Oakblossom Druid
+	7 Gylleon Calvary
+	4 Elnbeth Justiciar
+	4 Jace, Sublime Mentalist
+	4 Alkani Calden
+	4 Huiltaii Hydra
+	15 Lunar Scholar
+	15 Crossed Stars
+	15 Loch Songstress
+	15 Growing Concern
+	15 Swift Redfang
+	15 Roaming Band
+	15 Syrs Kel and Arnd of Gylleon
+	15 Tender of Unbound Groves
+	15 Leafweaver Druid
+	15 Pontif of Profits
+	15 Sequester to Safety
+	15 Cinder Raven
+	15 The Heir Lay Sleeping
+	15 Smear Fiend
+	15 Hargran Intimidator
+	15 Dragonbond General
+	15 Valorous Squire
+	15 Wondrous Genesis
+	7 Order and Fealty
+	7 Duskwinnow Duelist
+	7 Destiny Approaches
+	7 Maternal Brunwick
+	7 Heartstrings Minstrel
+	7 Cinder Scholar
+	7 Brunwick Devastator
+	7 Wendell, Scorned Embers
+	15 Crossways Bandit
+	4 Elnbeth the Kings' Court
+	4 Wallow the Kingspore
+	4 Argin, Seeker Valiant
+	4 Alfonz, Model g0105
+	4 Mayana, Arrow in the Crowd
+	4 Prelate Zekala
+	4 Preposterous Peddler
+	4 Boltscale Titan
+	4 Gregor, Multiverse Duelist
+	6 Alpine Meadow
+	6 Fiery Chasm
+	6 Highland Vale
+	6 Sodden Cavern
+	6 Tranquil Stream
+	7 Estwyle, the Gleaming Palace
+	7 Gylleon, the Tranquil Court
+	7 Selnite, the Creeping Power
+	7 Skvorang, the Rocky Beacon
+	7 Bestoleth, the Scholar's Bastion
+	15 Ring the Alarm
+	7 Regal Prose
+	7 Court Marshal
+	7 Paleodraconis
+	7 Skvorang Rallier
+	7 Gyrwelds Ambusher
+	7 Yafarrin Cultivator
+	7 Dryad of Eternal Aegis
+	7 Syr Meereth the Halcyon
+	15 Scatter Array
+	4 Otherworldly Orrery
+	6 Starmapping
+	4 Tamiyo of the Orrery
+	7 Syr Geigh, Wilds Wanderer
+	15 Gambit
+	4 Infamy
+	7 Southweald Flameweave
+	6 Evolving Wilds
+	15 Witches Hovel
+	15 Unshackle the Beast
+	6 Knight Armaments
+	6 Wizard's Cauldron
+	6 Rogue's Garb
+	6 Dragon Saddle
+	6 Elven Bow
