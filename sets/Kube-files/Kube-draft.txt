@@ -1,0 +1,5367 @@
+[CustomCards]
+	[
+		{
+			"name": "Cryptic Sphinx",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Sphinx",
+			"collector_number": "460",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/460_Cryptic Sphinx.png"
+			}
+		},
+		{
+			"name": "Eldritch Intrusion",
+			"rarity": "cube",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/87_Eldritch Intrusion.png"
+			}
+		},
+		{
+			"name": "Eldrazi Horror",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Token Creature — Eldrazi Horror",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/1_Eldrazi Horror.png"
+			}
+		},
+		{
+			"name": "Kefnet's Denial",
+			"rarity": "cube",
+			"mana_cost": "{7}{U}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/97_Kefnet's Denial.png"
+			}
+		},
+		{
+			"name": "Odelia Huntwarden",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "463",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/463_Odelia Huntwarden.png"
+			}
+		},
+		{
+			"name": "Death Incarnate",
+			"rarity": "cube",
+			"mana_cost": "{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "461",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/461_Death Incarnate.png"
+			}
+		},
+		{
+			"name": "Unraveling Zero Dawn",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment — Saga",
+			"collector_number": "465",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://hkrat.github.io/sets/Kube-files/img/465_Unraveling Zero Dawn_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/465_Unraveling Zero Dawn_front.png"
+			}
+		},
+		{
+			"name": "Elder Skaal of Odelia",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Snow Creature — Human",
+			"collector_number": "462",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/462_Elder Skaal of Odelia.png"
+			}
+		},
+		{
+			"name": "Flittering Wisp",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/348_Flittering Wisp.png"
+			}
+		},
+		{
+			"name": "Caravan Recruiter",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Cat Soldier",
+			"collector_number": "458",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/458_Caravan Recruiter.png"
+			}
+		},
+		{
+			"name": "Crossways Bandit",
+			"rarity": "cube",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Elf Warrior Rogue",
+			"collector_number": "459",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/459_Crossways Bandit.png"
+			}
+		},
+		{
+			"name": "Plema, Titan of Life's Spiral",
+			"rarity": "cube",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Elder Giant",
+			"collector_number": "464",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/464_Plema, Titan of Life's Spiral.png"
+			}
+		},
+		{
+			"name": "Serpent's Devout",
+			"rarity": "cube",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/58_Serpent's Devout.png"
+			}
+		},
+		{
+			"name": "Serpent's Diviner",
+			"rarity": "cube",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/317_Serpent's Diviner.png"
+			}
+		},
+		{
+			"name": "Skittering Fiend",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Eldrazi Drone",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/258_Skittering Fiend.png"
+			}
+		},
+		{
+			"name": "Revelers of Lost Gods",
+			"rarity": "cube",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Centaur Berserker",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/250_Revelers of Lost Gods.png"
+			}
+		},
+		{
+			"name": "Liliana, Dread Reckoner",
+			"rarity": "cube",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Planeswalker — Liliana",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/170_Liliana, Dread Reckoner.png"
+			}
+		},
+		{
+			"name": "Embrace Shadows",
+			"rarity": "cube",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/157_Embrace Shadows.png"
+			}
+		},
+		{
+			"name": "Dwemer-Bound Specter",
+			"rarity": "cube",
+			"mana_cost": "{7}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/86_Dwemer-Bound Specter.png"
+			}
+		},
+		{
+			"name": "Greedy Hands",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/93_Greedy Hands.png"
+			}
+		},
+		{
+			"name": "Creeping Crypts",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/150_Creeping Crypts.png"
+			}
+		},
+		{
+			"name": "Ransacking Ruffian",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Knight Rogue",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/185_Ransacking Ruffian.png"
+			}
+		},
+		{
+			"name": "Tavern Traveler",
+			"rarity": "cube",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/196_Tavern Traveler.png"
+			}
+		},
+		{
+			"name": "Scatter Array",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/116_Scatter Array.png"
+			}
+		},
+		{
+			"name": "Seabaren Lorekeepers",
+			"rarity": "cube",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/117_Seabaren Lorekeepers.png"
+			}
+		},
+		{
+			"name": "Thousand-Year Slumber",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/127_Thousand-Year Slumber.png"
+			}
+		},
+		{
+			"name": "Huiltaii Hydra",
+			"rarity": "cube",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/293_Huiltaii Hydra.png"
+			}
+		},
+		{
+			"name": "Oakblossom Druid",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Dryad Druid",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/306_Oakblossom Druid.png"
+			}
+		},
+		{
+			"name": "Infamy",
+			"rarity": "cube",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/232_Infamy.png"
+			}
+		},
+		{
+			"name": "Court Marshal",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/9_Court Marshal.png"
+			}
+		},
+		{
+			"name": "Cold Grave",
+			"rarity": "cube",
+			"mana_cost": "{0}",
+			"type": "Snow Artifact",
+			"collector_number": "380",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/380_Cold Grave.png"
+			}
+		},
+		{
+			"name": "Fated Challenge",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/89_Fated Challenge.png"
+			}
+		},
+		{
+			"name": "Fell the Feeble",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/218_Fell the Feeble.png"
+			}
+		},
+		{
+			"name": "Winter's Exhaustion",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/271_Winter's Exhaustion.png"
+			}
+		},
+		{
+			"name": "Impulsive Plan",
+			"rarity": "cube",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/231_Impulsive Plan.png"
+			}
+		},
+		{
+			"name": "Province Guardian",
+			"rarity": "cube",
+			"mana_cost": "{R}",
+			"type": "Snow Creature — Human Warrior",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/244_Province Guardian.png"
+			}
+		},
+		{
+			"name": "Fjorda of Jorundar",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Human Nomad",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/18_Fjorda of Jorundar.png"
+			}
+		},
+		{
+			"name": "Scavenging Trek",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/188_Scavenging Trek.png"
+			}
+		},
+		{
+			"name": "Splitting Bloom",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/321_Splitting Bloom.png"
+			}
+		},
+		{
+			"name": "Stalwart Galleon",
+			"rarity": "cube",
+			"mana_cost": "{1}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "395",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/395_Stalwart Galleon.png"
+			}
+		},
+		{
+			"name": "Stowawaif",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/195_Stowawaif.png"
+			}
+		},
+		{
+			"name": "Caitisan's Conquest",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/74_Caitisan's Conquest.png"
+			}
+		},
+		{
+			"name": "Charted Course",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/212_Charted Course.png"
+			}
+		},
+		{
+			"name": "Her Majesty Justicia",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Avatar",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/34_Her Majesty Justicia.png"
+			}
+		},
+		{
+			"name": "Royal Helmsguard",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/56_Royal Helmsguard.png"
+			}
+		},
+		{
+			"name": "Doomed Sauropod",
+			"rarity": "cube",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/155_Doomed Sauropod.png"
+			}
+		},
+		{
+			"name": "Scavenging Grounds",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/187_Scavenging Grounds.png"
+			}
+		},
+		{
+			"name": "Dinosaur",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Token Creature — Dinosaur",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/18_Dinosaur.png"
+			}
+		},
+		{
+			"name": "Seronia, Consecrated Oracle",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}{U}{UP}",
+			"type": "Legendary Planeswalker — Seronia",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/119_Seronia, Consecrated Oracle.png"
+			}
+		},
+		{
+			"name": "Phyrexian Sphinx",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Token Creature — Phyrexian Sphinx",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/10_Phyrexian Sphinx.png"
+			}
+		},
+		{
+			"name": "Wandering Caravan",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/332_Wandering Caravan.png"
+			}
+		},
+		{
+			"name": "Warpath Carnivore",
+			"rarity": "cube",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/333_Warpath Carnivore.png"
+			}
+		},
+		{
+			"name": "Survive the Hunt",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/324_Survive the Hunt.png"
+			}
+		},
+		{
+			"name": "Sanctuary Door",
+			"rarity": "cube",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "392",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/392_Sanctuary Door.png"
+			}
+		},
+		{
+			"name": "Gibbering Scamp",
+			"rarity": "cube",
+			"mana_cost": "{B}",
+			"type": "Creature — Imp",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/159_Gibbering Scamp.png"
+			}
+		},
+		{
+			"name": "Oblivion Invader",
+			"rarity": "cube",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/181_Oblivion Invader.png"
+			}
+		},
+		{
+			"name": "Elsweyr Marshlurker",
+			"rarity": "cube",
+			"mana_cost": "{U}",
+			"type": "Creature — Crocodile",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/88_Elsweyr Marshlurker.png"
+			}
+		},
+		{
+			"name": "Mudcrab Den",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/103_Mudcrab Den.png"
+			}
+		},
+		{
+			"name": "Nulling Atronach",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/107_Nulling Atronach.png"
+			}
+		},
+		{
+			"name": "Rime Daedra",
+			"rarity": "cube",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Demon Wizard",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/112_Rime Daedra.png"
+			}
+		},
+		{
+			"name": "Torment Halls",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/129_Torment Halls.png"
+			}
+		},
+		{
+			"name": "Everblossom Spriggan",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dryad Druid",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/286_Everblossom Spriggan.png"
+			}
+		},
+		{
+			"name": "Aedra Chaplain",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/273_Aedra Chaplain.png"
+			}
+		},
+		{
+			"name": "Force Through",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/287_Force Through.png"
+			}
+		},
+		{
+			"name": "Magicka Instructor",
+			"rarity": "cube",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/302_Magicka Instructor.png"
+			}
+		},
+		{
+			"name": "Traversal",
+			"rarity": "cube",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/329_Traversal.png"
+			}
+		},
+		{
+			"name": "Catalyzing Lightning",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/211_Catalyzing Lightning.png"
+			}
+		},
+		{
+			"name": "Noble's Shadow",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/240_Noble's Shadow.png"
+			}
+		},
+		{
+			"name": "Obliterating Lightning",
+			"rarity": "cube",
+			"mana_cost": "{10}{R}{R}{R}",
+			"type": "Instant",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/242_Obliterating Lightning.png"
+			}
+		},
+		{
+			"name": "Reunification of Tamriel",
+			"rarity": "cube",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/54_Reunification of Tamriel.png"
+			}
+		},
+		{
+			"name": "Valiant Nord",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/66_Valiant Nord.png"
+			}
+		},
+		{
+			"name": "Astrid the Black Hand",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Assassin",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/138_Astrid the Black Hand.png"
+			}
+		},
+		{
+			"name": "Blood Sacrament",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/141_Blood Sacrament.png"
+			}
+		},
+		{
+			"name": "Morag Tong Agent",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Elf Assassin",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/177_Morag Tong Agent.png"
+			}
+		},
+		{
+			"name": "Crypt Discovery",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/78_Crypt Discovery.png"
+			}
+		},
+		{
+			"name": "Volta Hearth",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Planeswalker — Volta",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/133_Volta Hearth.png"
+			}
+		},
+		{
+			"name": "Engulf",
+			"rarity": "cube",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/283_Engulf.png"
+			}
+		},
+		{
+			"name": "Envoy of Autumn",
+			"rarity": "cube",
+			"mana_cost": "{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/284_Envoy of Autumn.png"
+			}
+		},
+		{
+			"name": "Lost to the Ages",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/300_Lost to the Ages.png"
+			}
+		},
+		{
+			"name": "Ashen Atronach",
+			"rarity": "cube",
+			"mana_cost": "{X}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/207_Ashen Atronach.png"
+			}
+		},
+		{
+			"name": "Scorching Scourge",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/255_Scorching Scourge.png"
+			}
+		},
+		{
+			"name": "Miraak's Dragon Uprising",
+			"rarity": "cube",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/238_Miraak's Dragon Uprising.png"
+			}
+		},
+		{
+			"name": "Dexion Reads the Elder Scroll",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/11_Dexion Reads the Elder Scroll.png"
+			}
+		},
+		{
+			"name": "Brotherhood Conspirant",
+			"rarity": "cube",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/144_Brotherhood Conspirant.png"
+			}
+		},
+		{
+			"name": "Chaos in Bloom",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/147_Chaos in Bloom.png"
+			}
+		},
+		{
+			"name": "Constant Conjuring",
+			"rarity": "cube",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/149_Constant Conjuring.png"
+			}
+		},
+		{
+			"name": "M'aiq the Liar",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Creature — Cat",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/173_M'aiq the Liar.png"
+			}
+		},
+		{
+			"name": "Unbound Dremora",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Demon Knight",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/198_Unbound Dremora.png"
+			}
+		},
+		{
+			"name": "Dungeon Dive",
+			"rarity": "cube",
+			"mana_cost": "{U}",
+			"type": "Enchantment",
+			"collector_number": "84",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://hkrat.github.io/sets/Kube-files/img/84_Dungeon Dive_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/84_Dungeon Dive_front.png"
+			}
+		},
+		{
+			"name": "Dungeon Tinkerer",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Elf Artificer",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/85_Dungeon Tinkerer.png"
+			}
+		},
+		{
+			"name": "Nocturnal's Informant",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Cat Rogue",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/106_Nocturnal's Informant.png"
+			}
+		},
+		{
+			"name": "Pyrelight Guide",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/110_Pyrelight Guide.png"
+			}
+		},
+		{
+			"name": "Life Unfettered",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "299",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://hkrat.github.io/sets/Kube-files/img/299_Life Unfettered_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/299_Life Unfettered_front.png"
+			}
+		},
+		{
+			"name": "Elvish Opportunist",
+			"rarity": "cube",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/281_Elvish Opportunist.png"
+			}
+		},
+		{
+			"name": "Guild Opportunist",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/226_Guild Opportunist.png"
+			}
+		},
+		{
+			"name": "Disgruntled Nord",
+			"rarity": "cube",
+			"mana_cost": "{W}",
+			"type": "Creature — Human",
+			"collector_number": "12",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://hkrat.github.io/sets/Kube-files/img/12_Disgruntled Nord_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/12_Disgruntled Nord_front.png"
+			}
+		},
+		{
+			"name": "Ulfric's Legion",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/64_Ulfric's Legion.png"
+			}
+		},
+		{
+			"name": "Sparking Automaton",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/60_Sparking Automaton.png"
+			}
+		},
+		{
+			"name": "Xotiala the Ritualist",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Snake Shaman",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/340_Xotiala the Ritualist.png"
+			}
+		},
+		{
+			"name": "Ancano, Thalmor Agent",
+			"rarity": "cube",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Legendary Creature — Elf Wizard",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/70_Ancano, Thalmor Agent.png"
+			}
+		},
+		{
+			"name": "Party Crasher",
+			"rarity": "cube",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/183_Party Crasher.png"
+			}
+		},
+		{
+			"name": "Nighthallow Ritual",
+			"rarity": "cube",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/180_Nighthallow Ritual.png"
+			}
+		},
+		{
+			"name": "Muzzarlo the Spellweaver",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/104_Muzzarlo the Spellweaver.png"
+			}
+		},
+		{
+			"name": "City Sprawl",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/279_City Sprawl.png"
+			}
+		},
+		{
+			"name": "Incense Expert",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Citizen",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/296_Incense Expert.png"
+			}
+		},
+		{
+			"name": "Voracious Hydradile",
+			"rarity": "cube",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Hydra Crocodile",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/331_Voracious Hydradile.png"
+			}
+		},
+		{
+			"name": "Night's Ring Instructor",
+			"rarity": "cube",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/239_Night's Ring Instructor.png"
+			}
+		},
+		{
+			"name": "Maddening Compulsion",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/237_Maddening Compulsion.png"
+			}
+		},
+		{
+			"name": "Vitalia Historian",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Azra Citizen",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/268_Vitalia Historian.png"
+			}
+		},
+		{
+			"name": "Angel of Ephemeral Life",
+			"rarity": "cube",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/3_Angel of Ephemeral Life.png"
+			}
+		},
+		{
+			"name": "Gather at the Scene",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/27_Gather at the Scene.png"
+			}
+		},
+		{
+			"name": "Citizen",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Token Creature — Citizen",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/4_Citizen.png"
+			}
+		},
+		{
+			"name": "Maelo, Corrupt Official",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/43_Maelo, Corrupt Official.png"
+			}
+		},
+		{
+			"name": "Castaway Skulkers",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/146_Castaway Skulkers.png"
+			}
+		},
+		{
+			"name": "Dread Resurrection",
+			"rarity": "cube",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/156_Dread Resurrection.png"
+			}
+		},
+		{
+			"name": "Gifter of Lineages",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/161_Gifter of Lineages.png"
+			}
+		},
+		{
+			"name": "Nest Watchers",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Spider",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/179_Nest Watchers.png"
+			}
+		},
+		{
+			"name": "Soulfire Rogue",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/193_Soulfire Rogue.png"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/12_Zombie.png"
+			}
+		},
+		{
+			"name": "Rend by Tide",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/111_Rend by Tide.png"
+			}
+		},
+		{
+			"name": "Sage of All",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/315_Sage of All.png"
+			}
+		},
+		{
+			"name": "Tezoculpa Rust-Priest",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/325_Tezoculpa Rust-Priest.png"
+			}
+		},
+		{
+			"name": "Wolf",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Token Creature — Wolf",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/17_Wolf.png"
+			}
+		},
+		{
+			"name": "Forging the Sun",
+			"rarity": "cube",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/222_Forging the Sun.png"
+			}
+		},
+		{
+			"name": "Shining Legionnaire",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/256_Shining Legionnaire.png"
+			}
+		},
+		{
+			"name": "Unstable Ground",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/264_Unstable Ground.png"
+			}
+		},
+		{
+			"name": "War-Horn Raider",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/269_War-Horn Raider.png"
+			}
+		},
+		{
+			"name": "Disseminate",
+			"rarity": "cube",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/13_Disseminate.png"
+			}
+		},
+		{
+			"name": "Bitter Brawler",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Snow Creature — Human Warrior",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/139_Bitter Brawler.png"
+			}
+		},
+		{
+			"name": "Jorundar Starscribe",
+			"rarity": "cube",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/96_Jorundar Starscribe.png"
+			}
+		},
+		{
+			"name": "Jorundar Aspirant",
+			"rarity": "cube",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "95",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://hkrat.github.io/sets/Kube-files/img/95_Jorundar Aspirant_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/95_Jorundar Aspirant_front.png"
+			}
+		},
+		{
+			"name": "Archer of Old Hunts",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Snow Creature — Elf Warrior Scout",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/274_Archer of Old Hunts.png"
+			}
+		},
+		{
+			"name": "Elf Warrior",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Token Creature — Elf Warrior",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/15_Elf Warrior.png"
+			}
+		},
+		{
+			"name": "Proclaimer of Ages",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/310_Proclaimer of Ages.png"
+			}
+		},
+		{
+			"name": "Spirit Speaker",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Snow Creature — Elf Shaman",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/320_Spirit Speaker.png"
+			}
+		},
+		{
+			"name": "Winterheath Druid",
+			"rarity": "cube",
+			"mana_cost": "{G}",
+			"type": "Snow Creature — Elf Druid",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/337_Winterheath Druid.png"
+			}
+		},
+		{
+			"name": "Goblin Snowriders",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Snow Creature — Goblin",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/224_Goblin Snowriders.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/6_Human.png"
+			}
+		},
+		{
+			"name": "Aetherborn Renegade",
+			"rarity": "cube",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Aetherborn Rogue",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/137_Aetherborn Renegade.png"
+			}
+		},
+		{
+			"name": "Mephidross Devastator",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Dragon",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/174_Mephidross Devastator.png"
+			}
+		},
+		{
+			"name": "Plaguerend",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/184_Plaguerend.png"
+			}
+		},
+		{
+			"name": "Wandering Khenra",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie Jackal",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/202_Wandering Khenra.png"
+			}
+		},
+		{
+			"name": "Silumgar Gravecaller",
+			"rarity": "cube",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Snake Shaman",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/191_Silumgar Gravecaller.png"
+			}
+		},
+		{
+			"name": "Dies",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/154_Dies.png"
+			}
+		},
+		{
+			"name": "Hate Stoker",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon Warlock",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/164_Hate Stoker.png"
+			}
+		},
+		{
+			"name": "Murder Most Foul",
+			"rarity": "cube",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/178_Murder Most Foul.png"
+			}
+		},
+		{
+			"name": "Moorland Inquisitor",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/176_Moorland Inquisitor.png"
+			}
+		},
+		{
+			"name": "Cosmic Insight",
+			"rarity": "cube",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/77_Cosmic Insight.png"
+			}
+		},
+		{
+			"name": "Destabilize",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/83_Destabilize.png"
+			}
+		},
+		{
+			"name": "Memory Palace",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/102_Memory Palace.png"
+			}
+		},
+		{
+			"name": "Skosgred Runesmith",
+			"rarity": "cube",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Giant Artificer",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/120_Skosgred Runesmith.png"
+			}
+		},
+		{
+			"name": "Rimewind Mage",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/113_Rimewind Mage.png"
+			}
+		},
+		{
+			"name": "Spellbane",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/122_Spellbane.png"
+			}
+		},
+		{
+			"name": "Earthcrafter Mage",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/280_Earthcrafter Mage.png"
+			}
+		},
+		{
+			"name": "Kyne's Anamist",
+			"rarity": "cube",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/298_Kyne's Anamist.png"
+			}
+		},
+		{
+			"name": "Prismatic Elf",
+			"rarity": "cube",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/309_Prismatic Elf.png"
+			}
+		},
+		{
+			"name": "Akatosh's Intervention",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/205_Akatosh's Intervention.png"
+			}
+		},
+		{
+			"name": "J'hiari, Secunda's Might",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Planeswalker — J'hiari",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/233_J'hiari, Secunda's Might.png"
+			}
+		},
+		{
+			"name": "Pyrewinder Sorcerer",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/247_Pyrewinder Sorcerer.png"
+			}
+		},
+		{
+			"name": "Against the Odds",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/1_Against the Odds.png"
+			}
+		},
+		{
+			"name": "Geistcaller Cathar",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/90_Geistcaller Cathar.png"
+			}
+		},
+		{
+			"name": "Lurk from Above",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/101_Lurk from Above.png"
+			}
+		},
+		{
+			"name": "Ulvenwald Haunt",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/131_Ulvenwald Haunt.png"
+			}
+		},
+		{
+			"name": "Selhoff Ritualist",
+			"rarity": "cube",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/189_Selhoff Ritualist.png"
+			}
+		},
+		{
+			"name": "Niblis of Regret",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/105_Niblis of Regret.png"
+			}
+		},
+		{
+			"name": "Archbishop of Discord",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/206_Archbishop of Discord.png"
+			}
+		},
+		{
+			"name": "Gid, Bearer of Knowledge",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/160_Gid, Bearer of Knowledge.png"
+			}
+		},
+		{
+			"name": "Mockery of Death",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/175_Mockery of Death.png"
+			}
+		},
+		{
+			"name": "Olfdenmyr Prowler",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Snow Creature — Zombie Bear",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/182_Olfdenmyr Prowler.png"
+			}
+		},
+		{
+			"name": "Ravage the Guild",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/186_Ravage the Guild.png"
+			}
+		},
+		{
+			"name": "Winter Wanders Near",
+			"rarity": "cube",
+			"mana_cost": "{X}{X}{B}{B}",
+			"type": "Snow Enchantment",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/204_Winter Wanders Near.png"
+			}
+		},
+		{
+			"name": "Completely Frozen",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Snow Enchantment",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/76_Completely Frozen.png"
+			}
+		},
+		{
+			"name": "Patient Skald",
+			"rarity": "cube",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Cat Wizard",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/109_Patient Skald.png"
+			}
+		},
+		{
+			"name": "On a Journey",
+			"rarity": "cube",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/108_On a Journey.png"
+			}
+		},
+		{
+			"name": "Rough Seas",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/114_Rough Seas.png"
+			}
+		},
+		{
+			"name": "Secrets of the Drowngod",
+			"rarity": "cube",
+			"mana_cost": "{X}{U}{U}",
+			"type": "Instant",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/118_Secrets of the Drowngod.png"
+			}
+		},
+		{
+			"name": "Stormsight",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Snow Sorcery",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/124_Stormsight.png"
+			}
+		},
+		{
+			"name": "Stribius's Cutpurse",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Cat Rogue",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/125_Stribius's Cutpurse.png"
+			}
+		},
+		{
+			"name": "Think Ahead",
+			"rarity": "cube",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/126_Think Ahead.png"
+			}
+		},
+		{
+			"name": "Witness the Beast",
+			"rarity": "cube",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/136_Witness the Beast.png"
+			}
+		},
+		{
+			"name": "Trail of Irrblossoms",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Snow Sorcery",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/130_Trail of Irrblossoms.png"
+			}
+		},
+		{
+			"name": "Bear-King of Hrostgard",
+			"rarity": "cube",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Legendary Snow Creature — Bear",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/275_Bear-King of Hrostgard.png"
+			}
+		},
+		{
+			"name": "Charging Yeti",
+			"rarity": "cube",
+			"mana_cost": "{3}{G}",
+			"type": "Snow Creature — Yeti",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/277_Charging Yeti.png"
+			}
+		},
+		{
+			"name": "Braid of Growth",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/276_Braid of Growth.png"
+			}
+		},
+		{
+			"name": "Chart New Lands",
+			"rarity": "cube",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Instant",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/278_Chart New Lands.png"
+			}
+		},
+		{
+			"name": "Ever-Twisting Cycle",
+			"rarity": "cube",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Instant",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/285_Ever-Twisting Cycle.png"
+			}
+		},
+		{
+			"name": "Frost-Den Spider",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Snow Creature — Spider",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/288_Frost-Den Spider.png"
+			}
+		},
+		{
+			"name": "Gigantimorph",
+			"rarity": "cube",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/289_Gigantimorph.png"
+			}
+		},
+		{
+			"name": "Hardened Grovetender",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dwarf Druid",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/290_Hardened Grovetender.png"
+			}
+		},
+		{
+			"name": "History Reclaimed",
+			"rarity": "cube",
+			"mana_cost": "{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/292_History Reclaimed.png"
+			}
+		},
+		{
+			"name": "Herald of Spring's Bounty",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Spirit Elk",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/291_Herald of Spring's Bounty.png"
+			}
+		},
+		{
+			"name": "Hunter of the Old Valley",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Archer",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/294_Hunter of the Old Valley.png"
+			}
+		},
+		{
+			"name": "Impromptu Fortifications",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/295_Impromptu Fortifications.png"
+			}
+		},
+		{
+			"name": "Olfdenmyr All-Seer",
+			"rarity": "cube",
+			"mana_cost": "{G}",
+			"type": "Creature — Squirrel",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/307_Olfdenmyr All-Seer.png"
+			}
+		},
+		{
+			"name": "Province Conqueror",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Snow Creature — Human Warrior",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/311_Province Conqueror.png"
+			}
+		},
+		{
+			"name": "Rampaging Springhide",
+			"rarity": "cube",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/312_Rampaging Springhide.png"
+			}
+		},
+		{
+			"name": "Run Over",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Snow Instant",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/314_Run Over.png"
+			}
+		},
+		{
+			"name": "Snowfield Mother",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Snow Creature — Bear",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/319_Snowfield Mother.png"
+			}
+		},
+		{
+			"name": "Slay the Beast",
+			"rarity": "cube",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/318_Slay the Beast.png"
+			}
+		},
+		{
+			"name": "Trace the Aurora",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/327_Trace the Aurora.png"
+			}
+		},
+		{
+			"name": "Valley Crusher",
+			"rarity": "cube",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Snow Creature — Giant",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/330_Valley Crusher.png"
+			}
+		},
+		{
+			"name": "Wayward Seeker",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/334_Wayward Seeker.png"
+			}
+		},
+		{
+			"name": "Wonder of Worlds",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Spirit",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/338_Wonder of Worlds.png"
+			}
+		},
+		{
+			"name": "Weald Walker",
+			"rarity": "cube",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/335_Weald Walker.png"
+			}
+		},
+		{
+			"name": "Conduit of Stribius",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/213_Conduit of Stribius.png"
+			}
+		},
+		{
+			"name": "Fervor of Frost",
+			"rarity": "cube",
+			"mana_cost": "{R}",
+			"type": "Snow Instant",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/219_Fervor of Frost.png"
+			}
+		},
+		{
+			"name": "Consuming Fire",
+			"rarity": "cube",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/214_Consuming Fire.png"
+			}
+		},
+		{
+			"name": "Fjall Scavenger",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Snow Creature — Goblin Shaman",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/220_Fjall Scavenger.png"
+			}
+		},
+		{
+			"name": "Last Lash",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/235_Last Lash.png"
+			}
+		},
+		{
+			"name": "Flame Axe",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/221_Flame Axe.png"
+			}
+		},
+		{
+			"name": "Psychotic Strike",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Snow Instant",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/245_Psychotic Strike.png"
+			}
+		},
+		{
+			"name": "Rallied Rabble",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Berserker",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/248_Rallied Rabble.png"
+			}
+		},
+		{
+			"name": "Runescribe of Stribius",
+			"rarity": "cube",
+			"mana_cost": "{3}{R}",
+			"type": "Snow Creature — Human Shaman",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/251_Runescribe of Stribius.png"
+			}
+		},
+		{
+			"name": "Saigura Brutalizer",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Cat Soldier",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/253_Saigura Brutalizer.png"
+			}
+		},
+		{
+			"name": "Snowbreach Packmaster",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Snow Creature — Goblin",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/259_Snowbreach Packmaster.png"
+			}
+		},
+		{
+			"name": "Viridan Harvester",
+			"rarity": "cube",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Spirit",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/266_Viridan Harvester.png"
+			}
+		},
+		{
+			"name": "Frostbite",
+			"rarity": "cube",
+			"mana_cost": "{W}",
+			"type": "Snow Enchantment — Aura",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/21_Frostbite.png"
+			}
+		},
+		{
+			"name": "Giant's Wake",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/28_Giant's Wake.png"
+			}
+		},
+		{
+			"name": "Human",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/7_Human.png"
+			}
+		},
+		{
+			"name": "Second Chances",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/57_Second Chances.png"
+			}
+		},
+		{
+			"name": "Squadron Surgeon",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Snow Creature — Dwarf Cleric",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/61_Squadron Surgeon.png"
+			}
+		},
+		{
+			"name": "Into Strange Unknowns",
+			"rarity": "cube",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/297_Into Strange Unknowns.png"
+			}
+		},
+		{
+			"name": "Lotus Dryad",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/301_Lotus Dryad.png"
+			}
+		},
+		{
+			"name": "Black Lotus",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/19_Black Lotus.png"
+			}
+		},
+		{
+			"name": "Under Heel",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/199_Under Heel.png"
+			}
+		},
+		{
+			"name": "Underbelly's Eyes",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact Creature — Human Rogue",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/200_Underbelly's Eyes.png"
+			}
+		},
+		{
+			"name": "Bustling Streets",
+			"rarity": "cube",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/73_Bustling Streets.png"
+			}
+		},
+		{
+			"name": "Backdoor",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/71_Backdoor.png"
+			}
+		},
+		{
+			"name": "Cybertech Sparkworker",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/79_Cybertech Sparkworker.png"
+			}
+		},
+		{
+			"name": "Data Convergence",
+			"rarity": "cube",
+			"mana_cost": "{9}{U}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/80_Data Convergence.png"
+			}
+		},
+		{
+			"name": "Denied Clearance",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/82_Denied Clearance.png"
+			}
+		},
+		{
+			"name": "Toxic Ventilation",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/326_Toxic Ventilation.png"
+			}
+		},
+		{
+			"name": "Storage Hub",
+			"rarity": "cube",
+			"mana_cost": "{G}",
+			"type": "Artifact",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/323_Storage Hub.png"
+			}
+		},
+		{
+			"name": "Weathered Wanderer",
+			"rarity": "cube",
+			"mana_cost": "{G}",
+			"type": "Artifact Creature — Human Nomad",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/336_Weathered Wanderer.png"
+			}
+		},
+		{
+			"name": "Source Code Engineer",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/261_Source Code Engineer.png"
+			}
+		},
+		{
+			"name": "Punk Prowler",
+			"rarity": "cube",
+			"mana_cost": "{R}",
+			"type": "Artifact Creature — Human Citizen",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/246_Punk Prowler.png"
+			}
+		},
+		{
+			"name": "Compilation Adept",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/7_Compilation Adept.png"
+			}
+		},
+		{
+			"name": "Gale Street Gearsmith",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/24_Gale Street Gearsmith.png"
+			}
+		},
+		{
+			"name": "Power Savant",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/50_Power Savant.png"
+			}
+		},
+		{
+			"name": "Streetwise Urchin",
+			"rarity": "cube",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/62_Streetwise Urchin.png"
+			}
+		},
+		{
+			"name": "Gilded Slicer",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Construct Soldier",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/29_Gilded Slicer.png"
+			}
+		},
+		{
+			"name": "Heavy-weapons Buyer",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/165_Heavy-weapons Buyer.png"
+			}
+		},
+		{
+			"name": "Invasion of Festenya",
+			"rarity": "cube",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Battle — Siege",
+			"collector_number": "169",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://hkrat.github.io/sets/Kube-files/img/169_Invasion of Festenya_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/169_Invasion of Festenya_front.png"
+			}
+		},
+		{
+			"name": "Machiavelle, Senator of Commerce",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Enchantment Creature — Faerie Advisor",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/172_Machiavelle, Senator of Commerce.png"
+			}
+		},
+		{
+			"name": "Thieving Stray",
+			"rarity": "cube",
+			"mana_cost": "{B}",
+			"type": "Creature — Cat",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/197_Thieving Stray.png"
+			}
+		},
+		{
+			"name": "Adventurous Messenger",
+			"rarity": "cube",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/69_Adventurous Messenger.png"
+			}
+		},
+		{
+			"name": "Gelessa, Senator of Sciences",
+			"rarity": "cube",
+			"mana_cost": "{X}{U}{U}{U}",
+			"type": "Legendary Creature — Moonfolk Advisor",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/91_Gelessa, Senator of Sciences.png"
+			}
+		},
+		{
+			"name": "Whispers Thief",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Faerie Rogue",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/135_Whispers Thief.png"
+			}
+		},
+		{
+			"name": "Deco Wings",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/81_Deco Wings.png"
+			}
+		},
+		{
+			"name": "Moment of Growth",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/305_Moment of Growth.png"
+			}
+		},
+		{
+			"name": "Pinnacle of Vigor",
+			"rarity": "cube",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/308_Pinnacle of Vigor.png"
+			}
+		},
+		{
+			"name": "Romana, Senator of Tradition",
+			"rarity": "cube",
+			"mana_cost": "{X}{1}{G}{G}",
+			"type": "Legendary Creature — Elf Advisor",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/313_Romana, Senator of Tradition.png"
+			}
+		},
+		{
+			"name": "Stern Groundskeepers",
+			"rarity": "cube",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/322_Stern Groundskeepers.png"
+			}
+		},
+		{
+			"name": "Doomed Detective",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/216_Doomed Detective.png"
+			}
+		},
+		{
+			"name": "Dealbroker",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Azra Citizen",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/215_Dealbroker.png"
+			}
+		},
+		{
+			"name": "Election Campaign",
+			"rarity": "cube",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Saga",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/217_Election Campaign.png"
+			}
+		},
+		{
+			"name": "Illicit Operations",
+			"rarity": "cube",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/230_Illicit Operations.png"
+			}
+		},
+		{
+			"name": "Speakeasy Stalker",
+			"rarity": "cube",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/262_Speakeasy Stalker.png"
+			}
+		},
+		{
+			"name": "Towering Heights Peddler",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/263_Towering Heights Peddler.png"
+			}
+		},
+		{
+			"name": "Vitalia Freelancer",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Azra Rogue",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/267_Vitalia Freelancer.png"
+			}
+		},
+		{
+			"name": "Anachronism",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/2_Anachronism.png"
+			}
+		},
+		{
+			"name": "Haranguing Hanged",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Skeleton Soldier",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/163_Haranguing Hanged.png"
+			}
+		},
+		{
+			"name": "Loose Cargo",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/171_Loose Cargo.png"
+			}
+		},
+		{
+			"name": "Cut-Sails Ulril",
+			"rarity": "cube",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Elf Rogue",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/151_Cut-Sails Ulril.png"
+			}
+		},
+		{
+			"name": "Kelp Sifter",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Merfolk Beast Wizard",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/98_Kelp Sifter.png"
+			}
+		},
+		{
+			"name": "Spirit of Adventure",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Spirit",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/123_Spirit of Adventure.png"
+			}
+		},
+		{
+			"name": "Volitan Lurker",
+			"rarity": "cube",
+			"mana_cost": "{U}",
+			"type": "Creature — Merfolk Beast Rogue",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/132_Volitan Lurker.png"
+			}
+		},
+		{
+			"name": "Broadside!",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/210_Broadside!.png"
+			}
+		},
+		{
+			"name": "Haul Harvester",
+			"rarity": "cube",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/228_Haul Harvester.png"
+			}
+		},
+		{
+			"name": "Relic Acquisitioner",
+			"rarity": "cube",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/249_Relic Acquisitioner.png"
+			}
+		},
+		{
+			"name": "Six Feet and Sixty Pence",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/257_Six Feet and Sixty Pence.png"
+			}
+		},
+		{
+			"name": "Galavanting Seafarer",
+			"rarity": "cube",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/23_Galavanting Seafarer.png"
+			}
+		},
+		{
+			"name": "Supreme Galleon",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/63_Supreme Galleon.png"
+			}
+		},
+		{
+			"name": "Deceit",
+			"rarity": "cube",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/153_Deceit.png"
+			}
+		},
+		{
+			"name": "Linebreaker Assassin",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/236_Linebreaker Assassin.png"
+			}
+		},
+		{
+			"name": "Induction Ceremony",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/40_Induction Ceremony.png"
+			}
+		},
+		{
+			"name": "Assault Strategist",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/208_Assault Strategist.png"
+			}
+		},
+		{
+			"name": "Overwhelming Advantage",
+			"rarity": "cube",
+			"mana_cost": "{X}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/48_Overwhelming Advantage.png"
+			}
+		},
+		{
+			"name": "Influence Exerter",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Knight Rogue",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/168_Influence Exerter.png"
+			}
+		},
+		{
+			"name": "Assassin",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Token Creature — Assassin",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/13_Assassin.png"
+			}
+		},
+		{
+			"name": "Blood on the Ice",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/344_Blood on the Ice.png"
+			}
+		},
+		{
+			"name": "Spiritweaver",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/194_Spiritweaver.png"
+			}
+		},
+		{
+			"name": "Death Anoints Fjalki",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/10_Death Anoints Fjalki.png"
+			}
+		},
+		{
+			"name": "Pinnacle of Immortality",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/49_Pinnacle of Immortality.png"
+			}
+		},
+		{
+			"name": "Skorgrad Valkyrie",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/59_Skorgrad Valkyrie.png"
+			}
+		},
+		{
+			"name": "Alabaster Boa",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Snake",
+			"collector_number": "456",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/456_Alabaster Boa.png"
+			}
+		},
+		{
+			"name": "Bloodsea Privateer",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Azra Pirate",
+			"collector_number": "457",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/457_Bloodsea Privateer.png"
+			}
+		},
+		{
+			"name": "Glorious Renewal",
+			"rarity": "cube",
+			"mana_cost": "{2}{WB}{WB}",
+			"type": "Sorcery",
+			"collector_number": "370",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/370_Glorious Renewal.png"
+			}
+		},
+		{
+			"name": "Catastrophic Emergence",
+			"rarity": "cube",
+			"mana_cost": "{1}{RG}",
+			"type": "Sorcery",
+			"collector_number": "367",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/367_Catastrophic Emergence.png"
+			}
+		},
+		{
+			"name": "Volta Hearth, Technoadept",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Planeswalker — Volta",
+			"collector_number": "362",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/362_Volta Hearth, Technoadept.png"
+			}
+		},
+		{
+			"name": "Heraldry of Flame",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/229_Heraldry of Flame.png"
+			}
+		},
+		{
+			"name": "Call to the Ravens",
+			"rarity": "cube",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/145_Call to the Ravens.png"
+			}
+		},
+		{
+			"name": "Leyline Guide",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/99_Leyline Guide.png"
+			}
+		},
+		{
+			"name": "Peakpoint Presence",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/243_Peakpoint Presence.png"
+			}
+		},
+		{
+			"name": "Gana-Mali Procession",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/26_Gana-Mali Procession.png"
+			}
+		},
+		{
+			"name": "Warrior",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Token Creature — Warrior",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/9_Warrior.png"
+			}
+		},
+		{
+			"name": "Valus, Gold-Crowned",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Planeswalker — Valus",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/201_Valus, Gold-Crowned.png"
+			}
+		},
+		{
+			"name": "You Hear a Noise",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Instant",
+			"collector_number": "363",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/363_You Hear a Noise.png"
+			}
+		},
+		{
+			"name": "Unbecome",
+			"rarity": "cube",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/65_Unbecome.png"
+			}
+		},
+		{
+			"name": "Mim-Reiki Caeseus",
+			"rarity": "cube",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Legendary Planeswalker — Mim-Reiki",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/304_Mim-Reiki Caeseus.png"
+			}
+		},
+		{
+			"name": "Rally-Cry Nord",
+			"rarity": "cube",
+			"mana_cost": "{GW}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "371",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/371_Rally-Cry Nord.png"
+			}
+		},
+		{
+			"name": "Before the Storm",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/5_Before the Storm.png"
+			}
+		},
+		{
+			"name": "Helvalla, God of Glory",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Creature — God",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/33_Helvalla, God of Glory.png"
+			}
+		},
+		{
+			"name": "Ondu Wayguide",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Scout Ally",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/47_Ondu Wayguide.png"
+			}
+		},
+		{
+			"name": "Veteran Cathar",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/67_Veteran Cathar.png"
+			}
+		},
+		{
+			"name": "Hermaeus Mora, Lorekeeper",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Demon",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/166_Hermaeus Mora, Lorekeeper.png"
+			}
+		},
+		{
+			"name": "Grok, Vengeful Giant",
+			"rarity": "cube",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Legendary Creature — Giant Warrior",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/225_Grok, Vengeful Giant.png"
+			}
+		},
+		{
+			"name": "Arngeir, Greybeard's Voice",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/341_Arngeir, Greybeard's Voice.png"
+			}
+		},
+		{
+			"name": "Bestoleth Charm",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Tribal Instant — Wizard",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/72_Bestoleth Charm.png"
+			}
+		},
+		{
+			"name": "Cassowary Warden",
+			"rarity": "cube",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/75_Cassowary Warden.png"
+			}
+		},
+		{
+			"name": "Sail the Cloudskies",
+			"rarity": "cube",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/115_Sail the Cloudskies.png"
+			}
+		},
+		{
+			"name": "Destiny Approaches",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/347_Destiny Approaches.png"
+			}
+		},
+		{
+			"name": "Impending Doom",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/167_Impending Doom.png"
+			}
+		},
+		{
+			"name": "Snowsculptor",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Snow Creature — Human Shaman",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/121_Snowsculptor.png"
+			}
+		},
+		{
+			"name": "Helvalla Warmonger",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Snow Creature — Angel",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/349_Helvalla Warmonger.png"
+			}
+		},
+		{
+			"name": "Lost in the Drifts",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Snow Enchantment",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/100_Lost in the Drifts.png"
+			}
+		},
+		{
+			"name": "Bonechilling Bite",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/142_Bonechilling Bite.png"
+			}
+		},
+		{
+			"name": "Valley Pouncer",
+			"rarity": "cube",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Snow Creature — Yeti",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/265_Valley Pouncer.png"
+			}
+		},
+		{
+			"name": "Province Banner",
+			"rarity": "cube",
+			"mana_cost": "{2}",
+			"type": "Snow Artifact",
+			"collector_number": "390",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/390_Province Banner.png"
+			}
+		},
+		{
+			"name": "Bitter Spawn",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Snow Creature — Zombie Warrior",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/140_Bitter Spawn.png"
+			}
+		},
+		{
+			"name": "Chill of the Grave",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Snow Instant",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/148_Chill of the Grave.png"
+			}
+		},
+		{
+			"name": "Demon Bear",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Token Snow Creature — Demon Bear",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/11_Demon Bear.png"
+			}
+		},
+		{
+			"name": "Wandering Yeti",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Snow Creature — Yeti",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/134_Wandering Yeti.png"
+			}
+		},
+		{
+			"name": "Unhallowed Dead",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Snow Creature — Zombie",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/360_Unhallowed Dead.png"
+			}
+		},
+		{
+			"name": "Aurora Reader",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Snow Creature — Human Wizard",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/342_Aurora Reader.png"
+			}
+		},
+		{
+			"name": "Frost-Weald Explorer",
+			"rarity": "cube",
+			"mana_cost": "{R}",
+			"type": "Snow Creature — Human Nomad",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/223_Frost-Weald Explorer.png"
+			}
+		},
+		{
+			"name": "Realmhopper Giant",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Giant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/52_Realmhopper Giant.png"
+			}
+		},
+		{
+			"name": "Wispheim Titan",
+			"rarity": "cube",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Giant",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/272_Wispheim Titan.png"
+			}
+		},
+		{
+			"name": "Angel",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Token Creature — Angel",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/3_Angel.png"
+			}
+		},
+		{
+			"name": "Forguard Summons",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/20_Forguard Summons.png"
+			}
+		},
+		{
+			"name": "Game Hunters",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/25_Game Hunters.png"
+			}
+		},
+		{
+			"name": "Frostweaver",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Snow Creature — Cat Wizard",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/22_Frostweaver.png"
+			}
+		},
+		{
+			"name": "Giant",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Token Creature — Giant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/5_Giant.png"
+			}
+		},
+		{
+			"name": "Guide to Grace",
+			"rarity": "cube",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/31_Guide to Grace.png"
+			}
+		},
+		{
+			"name": "Gunvar Stillgrave",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Creature — Dwarf Warrior",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/32_Gunvar Stillgrave.png"
+			}
+		},
+		{
+			"name": "Fjorda's Oath",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "19",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://hkrat.github.io/sets/Kube-files/img/19_Fjorda's Oath_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/19_Fjorda's Oath_front.png"
+			}
+		},
+		{
+			"name": "Yvara Springhart",
+			"rarity": "cube",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Planeswalker — Yvara",
+			"collector_number": "364",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/364_Yvara Springhart.png"
+			}
+		},
+		{
+			"name": "Spirit Bear",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit Bear",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/16_Spirit Bear.png"
+			}
+		},
+		{
+			"name": "Nose to the Grindstone",
+			"rarity": "cube",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/241_Nose to the Grindstone.png"
+			}
+		},
+		{
+			"name": "Dwarf Warrior",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Token Creature — Dwarf Warrior",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/14_Dwarf Warrior.png"
+			}
+		},
+		{
+			"name": "Eldrazi Spawn",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Token Creature — Eldrazi Spawn",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/2_Eldrazi Spawn.png"
+			}
+		},
+		{
+			"name": "Seek Gold",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/316_Seek Gold.png"
+			}
+		},
+		{
+			"name": "Rear Admiral",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/53_Rear Admiral.png"
+			}
+		},
+		{
+			"name": "Divined Barrelman",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/14_Divined Barrelman.png"
+			}
+		},
+		{
+			"name": "Into Port",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/41_Into Port.png"
+			}
+		},
+		{
+			"name": "Morgata Quartermaster",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/44_Morgata Quartermaster.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/8_Soldier.png"
+			}
+		},
+		{
+			"name": "Avatar of the Sister Gods",
+			"rarity": "cube",
+			"mana_cost": "{5}{W}{B}",
+			"type": "Creature — Avatar",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/343_Avatar of the Sister Gods.png"
+			}
+		},
+		{
+			"name": "Desert Bluffs",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "403",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/403_Desert Bluffs.png"
+			}
+		},
+		{
+			"name": "Endorheic Lake",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "404",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/404_Endorheic Lake.png"
+			}
+		},
+		{
+			"name": "Irrigated Terrace",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "412",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/412_Irrigated Terrace.png"
+			}
+		},
+		{
+			"name": "Luminous Reef",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "416",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/416_Luminous Reef.png"
+			}
+		},
+		{
+			"name": "Pristine Pools",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "425",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/425_Pristine Pools.png"
+			}
+		},
+		{
+			"name": "Rooted Falls",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "429",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/429_Rooted Falls.png"
+			}
+		},
+		{
+			"name": "Smoking Crater",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "433",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/433_Smoking Crater.png"
+			}
+		},
+		{
+			"name": "Stranding Shoal",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "436",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/436_Stranding Shoal.png"
+			}
+		},
+		{
+			"name": "Sunken Depths",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "438",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/438_Sunken Depths.png"
+			}
+		},
+		{
+			"name": "Weirding Tropics",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "443",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/443_Weirding Tropics.png"
+			}
+		},
+		{
+			"name": "Grave of the Sparrow",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Artifact",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/30_Grave of the Sparrow.png"
+			}
+		},
+		{
+			"name": "Grave of the Obsidian Heart",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/92_Grave of the Obsidian Heart.png"
+			}
+		},
+		{
+			"name": "Buccaneer Turncoat",
+			"rarity": "cube",
+			"mana_cost": "{BR}{BR}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "366",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/366_Buccaneer Turncoat.png"
+			}
+		},
+		{
+			"name": "Here be Dragons",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Instant",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/351_Here be Dragons.png"
+			}
+		},
+		{
+			"name": "Hentus, Seed of Doubt",
+			"rarity": "cube",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Enchantment Creature — Demigod",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/350_Hentus, Seed of Doubt.png"
+			}
+		},
+		{
+			"name": "Sandstone Berserker",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Berserker",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/254_Sandstone Berserker.png"
+			}
+		},
+		{
+			"name": "Tracker's Revelation",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/328_Tracker's Revelation.png"
+			}
+		},
+		{
+			"name": "Razorwind Griffin",
+			"rarity": "cube",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Griffin",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/51_Razorwind Griffin.png"
+			}
+		},
+		{
+			"name": "Cerat, Asari Hunter",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Planeswalker — Cerat",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/345_Cerat, Asari Hunter.png"
+			}
+		},
+		{
+			"name": "Roaming Negotiator",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/55_Roaming Negotiator.png"
+			}
+		},
+		{
+			"name": "The Hunt Begins!",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/38_The Hunt Begins!.png"
+			}
+		},
+		{
+			"name": "Wayward Traveler",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Nomad",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/68_Wayward Traveler.png"
+			}
+		},
+		{
+			"name": "Kwama Tender",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elf Nomad",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/234_Kwama Tender.png"
+			}
+		},
+		{
+			"name": "Sithis Throatslitter",
+			"rarity": "cube",
+			"mana_cost": "{BG}{BG}{BG}",
+			"type": "Creature — Viashino Assassin",
+			"collector_number": "373",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/373_Sithis Throatslitter.png"
+			}
+		},
+		{
+			"name": "Gate Guard",
+			"rarity": "cube",
+			"mana_cost": "{RW}{RW}{RW}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "369",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/369_Gate Guard.png"
+			}
+		},
+		{
+			"name": "Humble",
+			"rarity": "cube",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/37_Humble.png"
+			}
+		},
+		{
+			"name": "Sadistic Sadist",
+			"rarity": "cube",
+			"mana_cost": "{1}{UB}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "372",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/372_Sadistic Sadist.png"
+			}
+		},
+		{
+			"name": "Imperial Smith",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/352_Imperial Smith.png"
+			}
+		},
+		{
+			"name": "Conscripted Service",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "8",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://hkrat.github.io/sets/Kube-files/img/8_Conscripted Service_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/8_Conscripted Service_front.png"
+			}
+		},
+		{
+			"name": "Remorse",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/358_Remorse.png"
+			}
+		},
+		{
+			"name": "In Good Health",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/39_In Good Health.png"
+			}
+		},
+		{
+			"name": "Hard Daze Knight",
+			"rarity": "cube",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Knight Wizard",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/94_Hard Daze Knight.png"
+			}
+		},
+		{
+			"name": "Elvish Scoutwarden",
+			"rarity": "cube",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/282_Elvish Scoutwarden.png"
+			}
+		},
+		{
+			"name": "Widow of the Silent Mire",
+			"rarity": "cube",
+			"mana_cost": "{B}",
+			"type": "Creature — Wraith Warlock",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/203_Widow of the Silent Mire.png"
+			}
+		},
+		{
+			"name": "Dragon Cross Recruit",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/15_Dragon Cross Recruit.png"
+			}
+		},
+		{
+			"name": "Dragonslayer Troupe",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/16_Dragonslayer Troupe.png"
+			}
+		},
+		{
+			"name": "New Skvor Detachment",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight Survivor",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/45_New Skvor Detachment.png"
+			}
+		},
+		{
+			"name": "Beauty of Prose",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/209_Beauty of Prose.png"
+			}
+		},
+		{
+			"name": "Gwendyla, Senator of Arts",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/227_Gwendyla, Senator of Arts.png"
+			}
+		},
+		{
+			"name": "Chilling Constellation",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "399",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/399_Chilling Constellation.png"
+			}
+		},
+		{
+			"name": "Glacial Wonder",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "407",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/407_Glacial Wonder.png"
+			}
+		},
+		{
+			"name": "Lumbering Valley",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "415",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/415_Lumbering Valley.png"
+			}
+		},
+		{
+			"name": "Muckroot Falls",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "419",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/419_Muckroot Falls.png"
+			}
+		},
+		{
+			"name": "Ravaging Runes",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "426",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/426_Ravaging Runes.png"
+			}
+		},
+		{
+			"name": "Roaming Remains",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "428",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/428_Roaming Remains.png"
+			}
+		},
+		{
+			"name": "Sleeping Cairn",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "431",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/431_Sleeping Cairn.png"
+			}
+		},
+		{
+			"name": "Spirit Valley",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "434",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/434_Spirit Valley.png"
+			}
+		},
+		{
+			"name": "Sundering Terrain",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "437",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/437_Sundering Terrain.png"
+			}
+		},
+		{
+			"name": "Unshaken Oak",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "441",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/441_Unshaken Oak.png"
+			}
+		},
+		{
+			"name": "Northern Holdout",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "420",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/420_Northern Holdout.png"
+			}
+		},
+		{
+			"name": "Winterheath Snowbanks",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "444",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/444_Winterheath Snowbanks.png"
+			}
+		},
+		{
+			"name": "Winterheath Tundra",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "445",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/445_Winterheath Tundra.png"
+			}
+		},
+		{
+			"name": "Expansive Sprawl",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Forest Plains",
+			"collector_number": "405",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/405_Expansive Sprawl.png"
+			}
+		},
+		{
+			"name": "Weathered Slums",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Island Swamp",
+			"collector_number": "442",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/442_Weathered Slums.png"
+			}
+		},
+		{
+			"name": "Greengate Mall",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest",
+			"collector_number": "408",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/408_Greengate Mall.png"
+			}
+		},
+		{
+			"name": "Lakeside Market",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Plains Island",
+			"collector_number": "413",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/413_Lakeside Market.png"
+			}
+		},
+		{
+			"name": "Smokeheap Slums",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain",
+			"collector_number": "432",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/432_Smokeheap Slums.png"
+			}
+		},
+		{
+			"name": "Lowland Mire",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Plains Swamp",
+			"collector_number": "414",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/414_Lowland Mire.png"
+			}
+		},
+		{
+			"name": "Coral Pools",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Island Mountain",
+			"collector_number": "401",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/401_Coral Pools.png"
+			}
+		},
+		{
+			"name": "Stagnant Bog",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Swamp Forest",
+			"collector_number": "435",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/435_Stagnant Bog.png"
+			}
+		},
+		{
+			"name": "Tropical Estuary",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Forest Island",
+			"collector_number": "440",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/440_Tropical Estuary.png"
+			}
+		},
+		{
+			"name": "Ritual Stones",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Mountain Plains",
+			"collector_number": "427",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/427_Ritual Stones.png"
+			}
+		},
+		{
+			"name": "Cumulozoa",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "402",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/402_Cumulozoa.png"
+			}
+		},
+		{
+			"name": "Field of Regrowth",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "406",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/406_Field of Regrowth.png"
+			}
+		},
+		{
+			"name": "Errant Castaway",
+			"rarity": "cube",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/17_Errant Castaway.png"
+			}
+		},
+		{
+			"name": "Krxtach, Anointed Chorus",
+			"rarity": "cube",
+			"mana_cost": "{3}{WP}{W}",
+			"type": "Legendary Planeswalker — Krskith",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/42_Krxtach, Anointed Chorus.png"
+			}
+		},
+		{
+			"name": "Hired Investigator",
+			"rarity": "cube",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/35_Hired Investigator.png"
+			}
+		},
+		{
+			"name": "Homicide Detectives",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/36_Homicide Detectives.png"
+			}
+		},
+		{
+			"name": "Astral Overlook",
+			"rarity": "cube",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/4_Astral Overlook.png"
+			}
+		},
+		{
+			"name": "Bloodcall Savior",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Vampire Citizen",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/6_Bloodcall Savior.png"
+			}
+		},
+		{
+			"name": "Constant Genesis",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/346_Constant Genesis.png"
+			}
+		},
+		{
+			"name": "Zenith, Chitinous Isle",
+			"rarity": "cube",
+			"mana_cost": "{6}{B}{G}{U}",
+			"type": "Legendary Creature — Crab Beast",
+			"collector_number": "365",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/365_Zenith, Chitinous Isle.png"
+			}
+		},
+		{
+			"name": "Stormshell, Voracious Terror",
+			"rarity": "cube",
+			"mana_cost": "{8}{U}{R}",
+			"type": "Legendary Creature — Turtle Beast",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/359_Stormshell, Voracious Terror.png"
+			}
+		},
+		{
+			"name": "Karstaag, Ghost Titan",
+			"rarity": "cube",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Snow Creature — Spirit Giant",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/353_Karstaag, Ghost Titan.png"
+			}
+		},
+		{
+			"name": "Njolbur, Aurorascale",
+			"rarity": "cube",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Snow Creature — Elemental Dragon",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/356_Njolbur, Aurorascale.png"
+			}
+		},
+		{
+			"name": "Otherworldly Orrery",
+			"rarity": "cube",
+			"mana_cost": "{8}",
+			"type": "Legendary Artifact",
+			"collector_number": "387",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/387_Otherworldly Orrery.png"
+			}
+		},
+		{
+			"name": "On Winds of Adventure",
+			"rarity": "cube",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/46_On Winds of Adventure.png"
+			}
+		},
+		{
+			"name": "Nicol Bolas, Mastermind",
+			"rarity": "cube",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Legendary Planeswalker — Bolas",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/355_Nicol Bolas, Mastermind.png"
+			}
+		},
+		{
+			"name": "Ardent Guardians",
+			"rarity": "cube",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "378",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/378_Ardent Guardians.png"
+			}
+		},
+		{
+			"name": "Spellweaver's Vial",
+			"rarity": "cube",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "394",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/394_Spellweaver's Vial.png"
+			}
+		},
+		{
+			"name": "Obsidian Manalith",
+			"rarity": "cube",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "386",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/386_Obsidian Manalith.png"
+			}
+		},
+		{
+			"name": "Kingmaker, Gem of Authority",
+			"rarity": "cube",
+			"mana_cost": "{X}{X}",
+			"type": "Legendary Artifact",
+			"collector_number": "384",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/384_Kingmaker, Gem of Authority.png"
+			}
+		},
+		{
+			"name": "Fossil Slab",
+			"rarity": "cube",
+			"mana_cost": "{1}",
+			"type": "Artifact — Clue",
+			"collector_number": "383",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/383_Fossil Slab.png"
+			}
+		},
+		{
+			"name": "Magus's Talisman",
+			"rarity": "cube",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "385",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/385_Magus's Talisman.png"
+			}
+		},
+		{
+			"name": "Pilfered Purse",
+			"rarity": "cube",
+			"mana_cost": "{2}",
+			"type": "Artifact — Clue",
+			"collector_number": "388",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/388_Pilfered Purse.png"
+			}
+		},
+		{
+			"name": "Prizewinner",
+			"rarity": "cube",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "389",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/389_Prizewinner.png"
+			}
+		},
+		{
+			"name": "Aurora Lotus",
+			"rarity": "cube",
+			"mana_cost": "{0}",
+			"type": "Snow Artifact",
+			"collector_number": "379",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/379_Aurora Lotus.png"
+			}
+		},
+		{
+			"name": "Dubious Designs",
+			"rarity": "cube",
+			"mana_cost": "{X}{X}{1}",
+			"type": "Artifact",
+			"collector_number": "382",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/382_Dubious Designs.png"
+			}
+		},
+		{
+			"name": "Thawing Township",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "439",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/439_Thawing Township.png"
+			}
+		},
+		{
+			"name": "Pale Valley",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Snow Land",
+			"collector_number": "423",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/423_Pale Valley.png"
+			}
+		},
+		{
+			"name": "Magmatic Horizon",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "417",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/417_Magmatic Horizon.png"
+			}
+		},
+		{
+			"name": "Ancestor Glade",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "396",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/396_Ancestor Glade.png"
+			}
+		},
+		{
+			"name": "Hist Grove",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "411",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/411_Hist Grove.png"
+			}
+		},
+		{
+			"name": "Numidium's Tomb",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "421",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/421_Numidium's Tomb.png"
+			}
+		},
+		{
+			"name": "Bruma Guildhall",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "397",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/397_Bruma Guildhall.png"
+			}
+		},
+		{
+			"name": "Skyshard Sanctuary",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Plains",
+			"collector_number": "430",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/430_Skyshard Sanctuary.png"
+			}
+		},
+		{
+			"name": "Oblivion Deadlands",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Swamp",
+			"collector_number": "422",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/422_Oblivion Deadlands.png"
+			}
+		},
+		{
+			"name": "Harvest Fields",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "410",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/410_Harvest Fields.png"
+			}
+		},
+		{
+			"name": "Cold Pass",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "400",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/400_Cold Pass.png"
+			}
+		},
+		{
+			"name": "Guild Tower",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "409",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/409_Guild Tower.png"
+			}
+		},
+		{
+			"name": "Market Center",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Plains",
+			"collector_number": "418",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/418_Market Center.png"
+			}
+		},
+		{
+			"name": "Burial Grounds",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land — Swamp",
+			"collector_number": "398",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/398_Burial Grounds.png"
+			}
+		},
+		{
+			"name": "Planar Market",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "424",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/424_Planar Market.png"
+			}
+		},
+		{
+			"name": "Snow-Covered Forest",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Basic Snow Land — Forest",
+			"collector_number": "455",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/455_Snow-Covered Forest.png"
+			}
+		},
+		{
+			"name": "Snow-Covered Island",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Basic Snow Land — Island",
+			"collector_number": "449",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/449_Snow-Covered Island.png"
+			}
+		},
+		{
+			"name": "Snow-Covered Mountain",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Basic Snow Land — Mountain",
+			"collector_number": "453",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/453_Snow-Covered Mountain.png"
+			}
+		},
+		{
+			"name": "Snow-Covered Plains",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Basic Snow Land — Plains",
+			"collector_number": "447",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/447_Snow-Covered Plains.png"
+			}
+		},
+		{
+			"name": "Snow-Covered Swamp",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Basic Snow Land — Swamp",
+			"collector_number": "450",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/450_Snow-Covered Swamp.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "451",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/451_Swamp.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "448",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/448_Island.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "446",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/446_Plains.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "452",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/452_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "454",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/454_Forest.png"
+			}
+		},
+		{
+			"name": "Wuuld Nomad",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Giant Nomad",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/339_Wuuld Nomad.png"
+			}
+		},
+		{
+			"name": "Solar Flare",
+			"rarity": "cube",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/260_Solar Flare.png"
+			}
+		},
+		{
+			"name": "Mammalian Dawn",
+			"rarity": "cube",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/303_Mammalian Dawn.png"
+			}
+		},
+		{
+			"name": "Warpath Orahan",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Orc Berserker",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/270_Warpath Orahan.png"
+			}
+		},
+		{
+			"name": "Hand of Ravenwood",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Snow Creature — Human Warrior",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/162_Hand of Ravenwood.png"
+			}
+		},
+		{
+			"name": "Forced Penance",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Snow Sorcery",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/158_Forced Penance.png"
+			}
+		},
+		{
+			"name": "Damping Stone",
+			"rarity": "cube",
+			"mana_cost": "{X}{X}",
+			"type": "Artifact",
+			"collector_number": "381",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/381_Damping Stone.png"
+			}
+		},
+		{
+			"name": "Ruination Engine",
+			"rarity": "cube",
+			"mana_cost": "{7}",
+			"type": "Artifact",
+			"collector_number": "391",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/391_Ruination Engine.png"
+			}
+		},
+		{
+			"name": "Ancient Heirloom",
+			"rarity": "cube",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment Treasure",
+			"collector_number": "377",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/377_Ancient Heirloom.png"
+			}
+		},
+		{
+			"name": "Ancient Guardstone",
+			"rarity": "cube",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "376",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/376_Ancient Guardstone.png"
+			}
+		},
+		{
+			"name": "The Second Wave",
+			"rarity": "cube",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Vehicle",
+			"collector_number": "393",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/393_The Second Wave.png"
+			}
+		},
+		{
+			"name": "Mjeld Bonebreaker",
+			"rarity": "cube",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Minotaur Soldier",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/354_Mjeld Bonebreaker.png"
+			}
+		},
+		{
+			"name": "Sheoldred, Doom Engine",
+			"rarity": "cube",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Phyrexian Praetor",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/190_Sheoldred, Doom Engine.png"
+			}
+		},
+		{
+			"name": "Sparkwork Adept",
+			"rarity": "cube",
+			"mana_cost": "{WU}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "374",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/374_Sparkwork Adept.png"
+			}
+		},
+		{
+			"name": "Titan of Cold Nights",
+			"rarity": "cube",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Snow Creature — Spirit Giant",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/128_Titan of Cold Nights.png"
+			}
+		},
+		{
+			"name": "Smash and Grab",
+			"rarity": "cube",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/192_Smash and Grab.png"
+			}
+		},
+		{
+			"name": "Profane Aristocrat",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Eldrazi Vampire",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/357_Profane Aristocrat.png"
+			}
+		},
+		{
+			"name": "Decaying Decadence",
+			"rarity": "cube",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/152_Decaying Decadence.png"
+			}
+		},
+		{
+			"name": "Vile Rotbile",
+			"rarity": "cube",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Ooze Fungus",
+			"collector_number": "361",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/361_Vile Rotbile.png"
+			}
+		},
+		{
+			"name": "Spoken-Force Greybeard",
+			"rarity": "cube",
+			"mana_cost": "{UR}{UR}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "375",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/375_Spoken-Force Greybeard.png"
+			}
+		},
+		{
+			"name": "Game Hunt",
+			"rarity": "cube",
+			"mana_cost": "{1}{GU}",
+			"type": "Sorcery",
+			"collector_number": "368",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/368_Game Hunt.png"
+			}
+		},
+		{
+			"name": "Ruthless Scalebeard",
+			"rarity": "cube",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Dragon Pirate",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/252_Ruthless Scalebeard.png"
+			}
+		},
+		{
+			"name": "Bounty Hawker",
+			"rarity": "cube",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Cat Rogue",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/143_Bounty Hawker.png"
+			}
+		},
+		{
+			"name": "The Call",
+			"rarity": "cube",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "0",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/0_The Call.png"
+			}
+		},
+	]
+
+[cube(15)]
+	5 Cryptic Sphinx
+	5 Eldritch Intrusion
+	5 Kefnet's Denial
+	5 Odelia Huntwarden
+	5 Death Incarnate
+	5 Unraveling Zero Dawn
+	5 Elder Skaal of Odelia
+	5 Flittering Wisp
+	5 Caravan Recruiter
+	5 Crossways Bandit
+	5 Plema, Titan of Life's Spiral
+	5 Serpent's Devout
+	5 Serpent's Diviner
+	5 Skittering Fiend
+	5 Revelers of Lost Gods
+	5 Liliana, Dread Reckoner
+	5 Embrace Shadows
+	5 Dwemer-Bound Specter
+	5 Greedy Hands
+	5 Creeping Crypts
+	5 Ransacking Ruffian
+	5 Tavern Traveler
+	5 Scatter Array
+	5 Seabaren Lorekeepers
+	5 Thousand-Year Slumber
+	5 Huiltaii Hydra
+	5 Oakblossom Druid
+	5 Infamy
+	5 Court Marshal
+	5 Cold Grave
+	5 Fated Challenge
+	5 Fell the Feeble
+	5 Winter's Exhaustion
+	5 Impulsive Plan
+	5 Province Guardian
+	5 Fjorda of Jorundar
+	5 Scavenging Trek
+	5 Splitting Bloom
+	5 Stalwart Galleon
+	5 Stowawaif
+	5 Caitisan's Conquest
+	5 Charted Course
+	5 Her Majesty Justicia
+	5 Royal Helmsguard
+	5 Doomed Sauropod
+	5 Scavenging Grounds
+	5 Seronia, Consecrated Oracle
+	5 Wandering Caravan
+	5 Warpath Carnivore
+	5 Survive the Hunt
+	5 Sanctuary Door
+	5 Gibbering Scamp
+	5 Oblivion Invader
+	5 Elsweyr Marshlurker
+	5 Mudcrab Den
+	5 Nulling Atronach
+	5 Rime Daedra
+	5 Torment Halls
+	5 Everblossom Spriggan
+	5 Aedra Chaplain
+	5 Force Through
+	5 Magicka Instructor
+	5 Traversal
+	5 Catalyzing Lightning
+	5 Noble's Shadow
+	5 Obliterating Lightning
+	5 Reunification of Tamriel
+	5 Valiant Nord
+	5 Astrid the Black Hand
+	5 Blood Sacrament
+	5 Morag Tong Agent
+	5 Crypt Discovery
+	5 Volta Hearth
+	5 Engulf
+	5 Envoy of Autumn
+	5 Lost to the Ages
+	5 Ashen Atronach
+	5 Scorching Scourge
+	5 Miraak's Dragon Uprising
+	5 Dexion Reads the Elder Scroll
+	5 Brotherhood Conspirant
+	5 Chaos in Bloom
+	5 Constant Conjuring
+	5 M'aiq the Liar
+	5 Unbound Dremora
+	5 Dungeon Dive
+	5 Dungeon Tinkerer
+	5 Nocturnal's Informant
+	5 Pyrelight Guide
+	5 Life Unfettered
+	5 Elvish Opportunist
+	5 Guild Opportunist
+	5 Disgruntled Nord
+	5 Ulfric's Legion
+	5 Sparking Automaton
+	5 Xotiala the Ritualist
+	5 Ancano, Thalmor Agent
+	5 Party Crasher
+	5 Nighthallow Ritual
+	5 Muzzarlo the Spellweaver
+	5 City Sprawl
+	5 Incense Expert
+	5 Voracious Hydradile
+	5 Night's Ring Instructor
+	5 Maddening Compulsion
+	5 Vitalia Historian
+	5 Angel of Ephemeral Life
+	5 Gather at the Scene
+	5 Maelo, Corrupt Official
+	5 Castaway Skulkers
+	5 Dread Resurrection
+	5 Gifter of Lineages
+	5 Nest Watchers
+	5 Soulfire Rogue
+	5 Rend by Tide
+	5 Sage of All
+	5 Tezoculpa Rust-Priest
+	5 Forging the Sun
+	5 Shining Legionnaire
+	5 Unstable Ground
+	5 War-Horn Raider
+	5 Disseminate
+	5 Bitter Brawler
+	5 Jorundar Starscribe
+	5 Jorundar Aspirant
+	5 Archer of Old Hunts
+	5 Proclaimer of Ages
+	5 Spirit Speaker
+	5 Winterheath Druid
+	5 Goblin Snowriders
+	5 Aetherborn Renegade
+	5 Mephidross Devastator
+	5 Plaguerend
+	5 Wandering Khenra
+	5 Silumgar Gravecaller
+	5 Dies
+	5 Hate Stoker
+	5 Murder Most Foul
+	5 Moorland Inquisitor
+	5 Cosmic Insight
+	5 Destabilize
+	5 Memory Palace
+	5 Skosgred Runesmith
+	5 Rimewind Mage
+	5 Spellbane
+	5 Earthcrafter Mage
+	5 Kyne's Anamist
+	5 Prismatic Elf
+	5 Akatosh's Intervention
+	5 J'hiari, Secunda's Might
+	5 Pyrewinder Sorcerer
+	5 Against the Odds
+	5 Geistcaller Cathar
+	5 Lurk from Above
+	5 Ulvenwald Haunt
+	5 Selhoff Ritualist
+	5 Niblis of Regret
+	5 Archbishop of Discord
+	5 Gid, Bearer of Knowledge
+	5 Mockery of Death
+	5 Olfdenmyr Prowler
+	5 Ravage the Guild
+	5 Winter Wanders Near
+	5 Completely Frozen
+	5 Patient Skald
+	5 On a Journey
+	5 Rough Seas
+	5 Secrets of the Drowngod
+	5 Stormsight
+	5 Stribius's Cutpurse
+	5 Think Ahead
+	5 Witness the Beast
+	5 Trail of Irrblossoms
+	5 Bear-King of Hrostgard
+	5 Charging Yeti
+	5 Braid of Growth
+	5 Chart New Lands
+	5 Ever-Twisting Cycle
+	5 Frost-Den Spider
+	5 Gigantimorph
+	5 Hardened Grovetender
+	5 History Reclaimed
+	5 Herald of Spring's Bounty
+	5 Hunter of the Old Valley
+	5 Impromptu Fortifications
+	5 Olfdenmyr All-Seer
+	5 Province Conqueror
+	5 Rampaging Springhide
+	5 Run Over
+	5 Snowfield Mother
+	5 Slay the Beast
+	5 Trace the Aurora
+	5 Valley Crusher
+	5 Wayward Seeker
+	5 Wonder of Worlds
+	5 Weald Walker
+	5 Conduit of Stribius
+	5 Fervor of Frost
+	5 Consuming Fire
+	5 Fjall Scavenger
+	5 Last Lash
+	5 Flame Axe
+	5 Psychotic Strike
+	5 Rallied Rabble
+	5 Runescribe of Stribius
+	5 Saigura Brutalizer
+	5 Snowbreach Packmaster
+	5 Viridan Harvester
+	5 Frostbite
+	5 Giant's Wake
+	5 Second Chances
+	5 Squadron Surgeon
+	5 Into Strange Unknowns
+	5 Lotus Dryad
+	5 Under Heel
+	5 Underbelly's Eyes
+	5 Bustling Streets
+	5 Backdoor
+	5 Cybertech Sparkworker
+	5 Data Convergence
+	5 Denied Clearance
+	5 Toxic Ventilation
+	5 Storage Hub
+	5 Weathered Wanderer
+	5 Source Code Engineer
+	5 Punk Prowler
+	5 Compilation Adept
+	5 Gale Street Gearsmith
+	5 Power Savant
+	5 Streetwise Urchin
+	5 Gilded Slicer
+	5 Heavy-weapons Buyer
+	5 Invasion of Festenya
+	5 Machiavelle, Senator of Commerce
+	5 Thieving Stray
+	5 Adventurous Messenger
+	5 Gelessa, Senator of Sciences
+	5 Whispers Thief
+	5 Deco Wings
+	5 Moment of Growth
+	5 Pinnacle of Vigor
+	5 Romana, Senator of Tradition
+	5 Stern Groundskeepers
+	5 Doomed Detective
+	5 Dealbroker
+	5 Election Campaign
+	5 Illicit Operations
+	5 Speakeasy Stalker
+	5 Towering Heights Peddler
+	5 Vitalia Freelancer
+	5 Anachronism
+	5 Haranguing Hanged
+	5 Loose Cargo
+	5 Cut-Sails Ulril
+	5 Kelp Sifter
+	5 Spirit of Adventure
+	5 Volitan Lurker
+	5 Broadside!
+	5 Haul Harvester
+	5 Relic Acquisitioner
+	5 Six Feet and Sixty Pence
+	5 Galavanting Seafarer
+	5 Supreme Galleon
+	5 Deceit
+	5 Linebreaker Assassin
+	5 Induction Ceremony
+	5 Assault Strategist
+	5 Overwhelming Advantage
+	5 Influence Exerter
+	5 Blood on the Ice
+	5 Spiritweaver
+	5 Death Anoints Fjalki
+	5 Pinnacle of Immortality
+	5 Skorgrad Valkyrie
+	5 Alabaster Boa
+	5 Bloodsea Privateer
+	5 Glorious Renewal
+	5 Catastrophic Emergence
+	5 Volta Hearth, Technoadept
+	5 Heraldry of Flame
+	5 Call to the Ravens
+	5 Leyline Guide
+	5 Peakpoint Presence
+	5 Gana-Mali Procession
+	5 Valus, Gold-Crowned
+	5 You Hear a Noise
+	5 Unbecome
+	5 Mim-Reiki Caeseus
+	5 Rally-Cry Nord
+	5 Before the Storm
+	5 Helvalla, God of Glory
+	5 Ondu Wayguide
+	5 Veteran Cathar
+	5 Hermaeus Mora, Lorekeeper
+	5 Grok, Vengeful Giant
+	5 Arngeir, Greybeard's Voice
+	5 Bestoleth Charm
+	5 Cassowary Warden
+	5 Sail the Cloudskies
+	5 Destiny Approaches
+	5 Impending Doom
+	5 Snowsculptor
+	5 Helvalla Warmonger
+	5 Lost in the Drifts
+	5 Bonechilling Bite
+	5 Valley Pouncer
+	5 Province Banner
+	5 Bitter Spawn
+	5 Chill of the Grave
+	5 Wandering Yeti
+	5 Unhallowed Dead
+	5 Aurora Reader
+	5 Frost-Weald Explorer
+	5 Realmhopper Giant
+	5 Wispheim Titan
+	5 Forguard Summons
+	5 Game Hunters
+	5 Frostweaver
+	5 Guide to Grace
+	5 Gunvar Stillgrave
+	5 Fjorda's Oath
+	5 Yvara Springhart
+	5 Nose to the Grindstone
+	5 Seek Gold
+	5 Rear Admiral
+	5 Divined Barrelman
+	5 Into Port
+	5 Morgata Quartermaster
+	5 Avatar of the Sister Gods
+	5 Desert Bluffs
+	5 Endorheic Lake
+	5 Irrigated Terrace
+	5 Luminous Reef
+	5 Pristine Pools
+	5 Rooted Falls
+	5 Smoking Crater
+	5 Stranding Shoal
+	5 Sunken Depths
+	5 Weirding Tropics
+	5 Grave of the Sparrow
+	5 Grave of the Obsidian Heart
+	5 Buccaneer Turncoat
+	5 Here be Dragons
+	5 Hentus, Seed of Doubt
+	5 Sandstone Berserker
+	5 Tracker's Revelation
+	5 Razorwind Griffin
+	5 Cerat, Asari Hunter
+	5 Roaming Negotiator
+	5 The Hunt Begins!
+	5 Wayward Traveler
+	5 Kwama Tender
+	5 Sithis Throatslitter
+	5 Gate Guard
+	5 Humble
+	5 Sadistic Sadist
+	5 Imperial Smith
+	5 Conscripted Service
+	5 Remorse
+	5 In Good Health
+	5 Hard Daze Knight
+	5 Elvish Scoutwarden
+	5 Widow of the Silent Mire
+	5 Dragon Cross Recruit
+	5 Dragonslayer Troupe
+	5 New Skvor Detachment
+	5 Beauty of Prose
+	5 Gwendyla, Senator of Arts
+	5 Chilling Constellation
+	5 Glacial Wonder
+	5 Lumbering Valley
+	5 Muckroot Falls
+	5 Ravaging Runes
+	5 Roaming Remains
+	5 Sleeping Cairn
+	5 Spirit Valley
+	5 Sundering Terrain
+	5 Unshaken Oak
+	5 Northern Holdout
+	5 Winterheath Snowbanks
+	5 Winterheath Tundra
+	5 Expansive Sprawl
+	5 Weathered Slums
+	5 Greengate Mall
+	5 Lakeside Market
+	5 Smokeheap Slums
+	5 Lowland Mire
+	5 Coral Pools
+	5 Stagnant Bog
+	5 Tropical Estuary
+	5 Ritual Stones
+	5 Cumulozoa
+	5 Field of Regrowth
+	5 Errant Castaway
+	5 Krxtach, Anointed Chorus
+	5 Hired Investigator
+	5 Homicide Detectives
+	5 Astral Overlook
+	5 Bloodcall Savior
+	5 Constant Genesis
+	5 Zenith, Chitinous Isle
+	5 Stormshell, Voracious Terror
+	5 Karstaag, Ghost Titan
+	5 Njolbur, Aurorascale
+	5 Otherworldly Orrery
+	5 On Winds of Adventure
+	5 Nicol Bolas, Mastermind
+	5 Ardent Guardians
+	5 Spellweaver's Vial
+	5 Obsidian Manalith
+	5 Kingmaker, Gem of Authority
+	5 Fossil Slab
+	5 Magus's Talisman
+	5 Pilfered Purse
+	5 Prizewinner
+	5 Aurora Lotus
+	5 Dubious Designs
+	5 Thawing Township
+	5 Pale Valley
+	5 Magmatic Horizon
+	5 Ancestor Glade
+	5 Hist Grove
+	5 Numidium's Tomb
+	5 Bruma Guildhall
+	5 Skyshard Sanctuary
+	5 Oblivion Deadlands
+	5 Harvest Fields
+	5 Cold Pass
+	5 Guild Tower
+	5 Market Center
+	5 Burial Grounds
+	5 Planar Market
+	5 Wuuld Nomad
+	5 Solar Flare
+	5 Mammalian Dawn
+	5 Warpath Orahan
+	5 Hand of Ravenwood
+	5 Forced Penance
+	5 Damping Stone
+	5 Ruination Engine
+	5 Ancient Heirloom
+	5 Ancient Guardstone
+	5 The Second Wave
+	5 Mjeld Bonebreaker
+	5 Sheoldred, Doom Engine
+	5 Sparkwork Adept
+	5 Titan of Cold Nights
+	5 Smash and Grab
+	5 Profane Aristocrat
+	5 Decaying Decadence
+	5 Vile Rotbile
+	5 Spoken-Force Greybeard
+	5 Game Hunt
+	5 Ruthless Scalebeard
+	5 Bounty Hawker
+	5 The Call

@@ -1,0 +1,2958 @@
+[CustomCards]
+	[
+		{
+			"name": "Aedra's Whimsy",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}",
+			"type": "Instant",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/1_Aedra's Whimsy.png"
+			}
+		},
+		{
+			"name": "M'aiq, Quick Witted",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Legendary Creature — Cat",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/173_M'aiq, Quick Witted.png"
+			}
+		},
+		{
+			"name": "Inigo the Brave",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature — Cat Warrior",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/170_Inigo the Brave.png"
+			}
+		},
+		{
+			"name": "Oblivion Invader",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/59_Oblivion Invader.png"
+			}
+		},
+		{
+			"name": "Confounding Confluence",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/24_Confounding Confluence.png"
+			}
+		},
+		{
+			"name": "Telendride the Sanctifier",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Elf Wizard",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/195_Telendride the Sanctifier.png"
+			}
+		},
+		{
+			"name": "Invasion Engine",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Demon Beast",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/171_Invasion Engine.png"
+			}
+		},
+		{
+			"name": "Gatekeeper of the Isles",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Creature — Demon Zombie",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/155_Gatekeeper of the Isles.png"
+			}
+		},
+		{
+			"name": "Sheogorath, Unending Insanity",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Demon Noble",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/190_Sheogorath, Unending Insanity.png"
+			}
+		},
+		{
+			"name": "Gibbering Scamp",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Imp",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/52_Gibbering Scamp.png"
+			}
+		},
+		{
+			"name": "Whithering Scamp",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Imp",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/69_Whithering Scamp.png"
+			}
+		},
+		{
+			"name": "Derelict Gate",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/220_Derelict Gate.png"
+			}
+		},
+		{
+			"name": "Denaelin the Soul Thief",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Elf Warlock",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/140_Denaelin the Soul Thief.png"
+			}
+		},
+		{
+			"name": "Gem",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Gem",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/7_Gem.png"
+			}
+		},
+		{
+			"name": "Guard Captain Morilius",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/161_Guard Captain Morilius.png"
+			}
+		},
+		{
+			"name": "Jauffre IV, Mentor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/172_Jauffre IV, Mentor.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/1_Soldier.png"
+			}
+		},
+		{
+			"name": "Dwemer-Made Gate",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/221_Dwemer-Made Gate.png"
+			}
+		},
+		{
+			"name": "Student of Souls",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/40_Student of Souls.png"
+			}
+		},
+		{
+			"name": "Muraz Cult-Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Orc Soldier",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/178_Muraz Cult-Hunter.png"
+			}
+		},
+		{
+			"name": "Blades Upstart",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/6_Blades Upstart.png"
+			}
+		},
+		{
+			"name": "Do'ri, Mythic Dawn Initiate",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Cat Warlock",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/142_Do'ri, Mythic Dawn Initiate.png"
+			}
+		},
+		{
+			"name": "Martena, Bolt Channeler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/175_Martena, Bolt Channeler.png"
+			}
+		},
+		{
+			"name": "Garzog, Oblivion Speaker",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Legendary Creature — Goblin Shaman",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/154_Garzog, Oblivion Speaker.png"
+			}
+		},
+		{
+			"name": "Ah-Kajee, Hist Keeper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Viashino Shaman",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/118_Ah-Kajee, Hist Keeper.png"
+			}
+		},
+		{
+			"name": "Start of a Journey",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/113_Start of a Journey.png"
+			}
+		},
+		{
+			"name": "Obliterating Lightning",
+			"rarity": "rare",
+			"mana_cost": "{10}{R}{R}{R}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/82_Obliterating Lightning.png"
+			}
+		},
+		{
+			"name": "Farmer's Amulet",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/222_Farmer's Amulet.png"
+			}
+		},
+		{
+			"name": "Traveler's Amulet",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/226_Traveler's Amulet.png"
+			}
+		},
+		{
+			"name": "Amulet of Kings",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "217",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://hkrat.github.io/sets/TOB-files/img/217_Amulet of Kings_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/217_Amulet of Kings_front.png"
+			}
+		},
+		{
+			"name": "Rime Daedra",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Demon Wizard",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/38_Rime Daedra.png"
+			}
+		},
+		{
+			"name": "Combative Invader",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/48_Combative Invader.png"
+			}
+		},
+		{
+			"name": "Nulling Atronach",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/37_Nulling Atronach.png"
+			}
+		},
+		{
+			"name": "Grim Decadence",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/53_Grim Decadence.png"
+			}
+		},
+		{
+			"name": "Murder",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/57_Murder.png"
+			}
+		},
+		{
+			"name": "Ego Bleed",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/50_Ego Bleed.png"
+			}
+		},
+		{
+			"name": "Poison the Party",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/61_Poison the Party.png"
+			}
+		},
+		{
+			"name": "Bone Reader",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/47_Bone Reader.png"
+			}
+		},
+		{
+			"name": "Stronghold Brute",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/65_Stronghold Brute.png"
+			}
+		},
+		{
+			"name": "Persistent Imp",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Imp",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/60_Persistent Imp.png"
+			}
+		},
+		{
+			"name": "Namira Soultaker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Vampire Rogue",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/58_Namira Soultaker.png"
+			}
+		},
+		{
+			"name": "Impish Invader",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Imp",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/55_Impish Invader.png"
+			}
+		},
+		{
+			"name": "Imperial Necromancer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/54_Imperial Necromancer.png"
+			}
+		},
+		{
+			"name": "Vulturous Twilight",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/67_Vulturous Twilight.png"
+			}
+		},
+		{
+			"name": "Summoner's Bubble",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/41_Summoner's Bubble.png"
+			}
+		},
+		{
+			"name": "Martin's Musings",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/33_Martin's Musings.png"
+			}
+		},
+		{
+			"name": "Daedric Cultist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/25_Daedric Cultist.png"
+			}
+		},
+		{
+			"name": "Magical Anomaly",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/32_Magical Anomaly.png"
+			}
+		},
+		{
+			"name": "Venerated Teacher",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/46_Venerated Teacher.png"
+			}
+		},
+		{
+			"name": "Guild Agent",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/31_Guild Agent.png"
+			}
+		},
+		{
+			"name": "Snapping Slaughterfish",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Fish",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/39_Snapping Slaughterfish.png"
+			}
+		},
+		{
+			"name": "Merchant of Wares",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elf",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/34_Merchant of Wares.png"
+			}
+		},
+		{
+			"name": "Grip of Cowardice",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/30_Grip of Cowardice.png"
+			}
+		},
+		{
+			"name": "Rummaging Vagabond",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/85_Rummaging Vagabond.png"
+			}
+		},
+		{
+			"name": "Iliac Bay Cannoneer",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Pirate",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/78_Iliac Bay Cannoneer.png"
+			}
+		},
+		{
+			"name": "Ornery Farmer",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/83_Ornery Farmer.png"
+			}
+		},
+		{
+			"name": "Scorcher of Kvatch",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/86_Scorcher of Kvatch.png"
+			}
+		},
+		{
+			"name": "Cultist of Dagon",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/72_Cultist of Dagon.png"
+			}
+		},
+		{
+			"name": "Exuberant Guard",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/76_Exuberant Guard.png"
+			}
+		},
+		{
+			"name": "Thieving Impulse",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/90_Thieving Impulse.png"
+			}
+		},
+		{
+			"name": "Swordpoint",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/89_Swordpoint.png"
+			}
+		},
+		{
+			"name": "Through the Cairn",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/91_Through the Cairn.png"
+			}
+		},
+		{
+			"name": "Dangerous Wager",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/73_Dangerous Wager.png"
+			}
+		},
+		{
+			"name": "Aedra Chaplain",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/94_Aedra Chaplain.png"
+			}
+		},
+		{
+			"name": "Kwama Wayfinder",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/107_Kwama Wayfinder.png"
+			}
+		},
+		{
+			"name": "Mystic Defense",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/109_Mystic Defense.png"
+			}
+		},
+		{
+			"name": "Elvish Hoarder",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/101_Elvish Hoarder.png"
+			}
+		},
+		{
+			"name": "Bloodied Alit",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Lizard",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/95_Bloodied Alit.png"
+			}
+		},
+		{
+			"name": "Domesticated Guar",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Lizard",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/99_Domesticated Guar.png"
+			}
+		},
+		{
+			"name": "Bounty Hunt",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/96_Bounty Hunt.png"
+			}
+		},
+		{
+			"name": "Headstrong",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/105_Headstrong.png"
+			}
+		},
+		{
+			"name": "Rampant Growth",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/110_Rampant Growth.png"
+			}
+		},
+		{
+			"name": "Magicka Instructor",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/108_Magicka Instructor.png"
+			}
+		},
+		{
+			"name": "Warrior's Call",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/23_Warrior's Call.png"
+			}
+		},
+		{
+			"name": "Diplomacy",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/8_Diplomacy.png"
+			}
+		},
+		{
+			"name": "Altmer Cleric",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/2_Altmer Cleric.png"
+			}
+		},
+		{
+			"name": "Nord Kinsman",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/14_Nord Kinsman.png"
+			}
+		},
+		{
+			"name": "Venerated Captain",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/22_Venerated Captain.png"
+			}
+		},
+		{
+			"name": "Longing Geist",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/11_Longing Geist.png"
+			}
+		},
+		{
+			"name": "Imperial Gatebreakers",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/9_Imperial Gatebreakers.png"
+			}
+		},
+		{
+			"name": "Supply Runner",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/20_Supply Runner.png"
+			}
+		},
+		{
+			"name": "Anointed Rider",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/3_Anointed Rider.png"
+			}
+		},
+		{
+			"name": "Avenging Light",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/5_Avenging Light.png"
+			}
+		},
+		{
+			"name": "Muck Dreugh",
+			"rarity": "common",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Homarid Rogue",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/177_Muck Dreugh.png"
+			}
+		},
+		{
+			"name": "Dreugh Titan",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Homarid",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/26_Dreugh Titan.png"
+			}
+		},
+		{
+			"name": "Witching Hour",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/205_Witching Hour.png"
+			}
+		},
+		{
+			"name": "Battlewise Elf",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/124_Battlewise Elf.png"
+			}
+		},
+		{
+			"name": "Glittering Saint",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Demon Warrior",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/157_Glittering Saint.png"
+			}
+		},
+		{
+			"name": "Flamesight",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Instant",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/151_Flamesight.png"
+			}
+		},
+		{
+			"name": "Ungrateful Occupier",
+			"rarity": "common",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/199_Ungrateful Occupier.png"
+			}
+		},
+		{
+			"name": "Gem Collector",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/156_Gem Collector.png"
+			}
+		},
+		{
+			"name": "Rookie Soldier",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Creature — Human Soldier Coward",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/187_Rookie Soldier.png"
+			}
+		},
+		{
+			"name": "Hist Saptender",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Viashino Druid",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/168_Hist Saptender.png"
+			}
+		},
+		{
+			"name": "Hired Hand",
+			"rarity": "common",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Viashino Soldier",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/167_Hired Hand.png"
+			}
+		},
+		{
+			"name": "Firewhip Seducer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Demon Warrior",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/150_Firewhip Seducer.png"
+			}
+		},
+		{
+			"name": "Dunmeri Seer",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/100_Dunmeri Seer.png"
+			}
+		},
+		{
+			"name": "Nord Snowrunner",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/180_Nord Snowrunner.png"
+			}
+		},
+		{
+			"name": "Precinct Captain",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/15_Precinct Captain.png"
+			}
+		},
+		{
+			"name": "Hideaway Trail",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Instant",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/165_Hideaway Trail.png"
+			}
+		},
+		{
+			"name": "Banish to Oblivion",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/123_Banish to Oblivion.png"
+			}
+		},
+		{
+			"name": "Night's Haul",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Instant",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/179_Night's Haul.png"
+			}
+		},
+		{
+			"name": "Skim History",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Instant",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/191_Skim History.png"
+			}
+		},
+		{
+			"name": "Firestarter",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Imp",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/149_Firestarter.png"
+			}
+		},
+		{
+			"name": "Deathless Brew",
+			"rarity": "common",
+			"mana_cost": "{B}{G}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/139_Deathless Brew.png"
+			}
+		},
+		{
+			"name": "Harvester of Beyonds",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/162_Harvester of Beyonds.png"
+			}
+		},
+		{
+			"name": "Drag Below",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Instant",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/144_Drag Below.png"
+			}
+		},
+		{
+			"name": "Adamant Presence",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/116_Adamant Presence.png"
+			}
+		},
+		{
+			"name": "Pit Wolves",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Wolf",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/184_Pit Wolves.png"
+			}
+		},
+		{
+			"name": "Daedric Whispers",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Instant",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/138_Daedric Whispers.png"
+			}
+		},
+		{
+			"name": "Clangorous Halls",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/133_Clangorous Halls.png"
+			}
+		},
+		{
+			"name": "Mudcrab Den",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/35_Mudcrab Den.png"
+			}
+		},
+		{
+			"name": "Must Have Been the Wind",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/13_Must Have Been the Wind.png"
+			}
+		},
+		{
+			"name": "Imperial Rescuer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/10_Imperial Rescuer.png"
+			}
+		},
+		{
+			"name": "Arbiter of Taxation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elf Noble Cleric",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/4_Arbiter of Taxation.png"
+			}
+		},
+		{
+			"name": "Embrace of the Hist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/75_Embrace of the Hist.png"
+			}
+		},
+		{
+			"name": "Vengeful Flametongue",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/92_Vengeful Flametongue.png"
+			}
+		},
+		{
+			"name": "Prismatic Flames",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/84_Prismatic Flames.png"
+			}
+		},
+		{
+			"name": "Stashed Supplies",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/88_Stashed Supplies.png"
+			}
+		},
+		{
+			"name": "Reinforced Chaurus",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Insect",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/111_Reinforced Chaurus.png"
+			}
+		},
+		{
+			"name": "Camp Invader",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/97_Camp Invader.png"
+			}
+		},
+		{
+			"name": "Dovah Killer",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Spider Demon",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/143_Dovah Killer.png"
+			}
+		},
+		{
+			"name": "Terrorizing Matriarch",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Bird",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/197_Terrorizing Matriarch.png"
+			}
+		},
+		{
+			"name": "Clasping Claws",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/134_Clasping Claws.png"
+			}
+		},
+		{
+			"name": "Greatwood Elder",
+			"rarity": "common",
+			"mana_cost": "{6}{G}{U}",
+			"type": "Creature — Treefolk",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/160_Greatwood Elder.png"
+			}
+		},
+		{
+			"name": "Forsworn Fury",
+			"rarity": "common",
+			"mana_cost": "{R}{G}",
+			"type": "Instant",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/153_Forsworn Fury.png"
+			}
+		},
+		{
+			"name": "Bloodlust Initiate",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Vampire Cat Cleric",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/127_Bloodlust Initiate.png"
+			}
+		},
+		{
+			"name": "Overwhelming Voice",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/183_Overwhelming Voice.png"
+			}
+		},
+		{
+			"name": "Territorial Echatere",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/196_Territorial Echatere.png"
+			}
+		},
+		{
+			"name": "Fervent Legate",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/148_Fervent Legate.png"
+			}
+		},
+		{
+			"name": "Choking Blood",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/132_Choking Blood.png"
+			}
+		},
+		{
+			"name": "Vampire of Dire Hospitality",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Vampire",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/201_Vampire of Dire Hospitality.png"
+			}
+		},
+		{
+			"name": "Howler Pup",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Wolf",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/169_Howler Pup.png"
+			}
+		},
+		{
+			"name": "Snub",
+			"rarity": "rare",
+			"mana_cost": "{X}{U}{U}{R}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/193_Snub.png"
+			}
+		},
+		{
+			"name": "Goblin Sous-Chef",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Goblin Druid",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/159_Goblin Sous-Chef.png"
+			}
+		},
+		{
+			"name": "Restless Souls",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/186_Restless Souls.png"
+			}
+		},
+		{
+			"name": "Adept Training",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/117_Adept Training.png"
+			}
+		},
+		{
+			"name": "Coward Hunter",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Cat Warrior",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/137_Coward Hunter.png"
+			}
+		},
+		{
+			"name": "Umaril the Ascendant",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/198_Umaril the Ascendant.png"
+			}
+		},
+		{
+			"name": "Aedra's Vengeance",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/70_Aedra's Vengeance.png"
+			}
+		},
+		{
+			"name": "Reunification of Tamriel",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/18_Reunification of Tamriel.png"
+			}
+		},
+		{
+			"name": "Resign to Peace",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/17_Resign to Peace.png"
+			}
+		},
+		{
+			"name": "Unfettered Alchemist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/45_Unfettered Alchemist.png"
+			}
+		},
+		{
+			"name": "Desolation of Kvatch",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/49_Desolation of Kvatch.png"
+			}
+		},
+		{
+			"name": "Golden Agent",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/77_Golden Agent.png"
+			}
+		},
+		{
+			"name": "Force Through",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/104_Force Through.png"
+			}
+		},
+		{
+			"name": "Ratway Rogue",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Vampire Warrior",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/62_Ratway Rogue.png"
+			}
+		},
+		{
+			"name": "Brurlof, Dragonborn Exile",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{B}{G}",
+			"type": "Legendary Creature — Demigod",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/129_Brurlof, Dragonborn Exile.png"
+			}
+		},
+		{
+			"name": "Mankar, Daedra Devout",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Legendary Creature — Elf Rogue Warlock",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/174_Mankar, Daedra Devout.png"
+			}
+		},
+		{
+			"name": "Oblivion Deadlands",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/232_Oblivion Deadlands.png"
+			}
+		},
+		{
+			"name": "Bruma Guildhall",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/228_Bruma Guildhall.png"
+			}
+		},
+		{
+			"name": "Hist Grove",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/230_Hist Grove.png"
+			}
+		},
+		{
+			"name": "Skyshard Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/233_Skyshard Sanctuary.png"
+			}
+		},
+		{
+			"name": "Numidium's Tomb",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/231_Numidium's Tomb.png"
+			}
+		},
+		{
+			"name": "Live Beyond",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/56_Live Beyond.png"
+			}
+		},
+		{
+			"name": "Mundus Infiltrator",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Shapeshifter",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/36_Mundus Infiltrator.png"
+			}
+		},
+		{
+			"name": "Gentleman Thief",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/29_Gentleman Thief.png"
+			}
+		},
+		{
+			"name": "Noble's Shadow",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/81_Noble's Shadow.png"
+			}
+		},
+		{
+			"name": "Springwater Nereid",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Merfolk Druid",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/112_Springwater Nereid.png"
+			}
+		},
+		{
+			"name": "Traversal",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Enchantment",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/114_Traversal.png"
+			}
+		},
+		{
+			"name": "Worldwalker",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/115_Worldwalker.png"
+			}
+		},
+		{
+			"name": "Dremora Dreadlord",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{R}",
+			"type": "Creature — Demon Warrior",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/146_Dremora Dreadlord.png"
+			}
+		},
+		{
+			"name": "Dream Stride",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/145_Dream Stride.png"
+			}
+		},
+		{
+			"name": "Depraved Alchemist",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Human Druid",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/141_Depraved Alchemist.png"
+			}
+		},
+		{
+			"name": "Wartime Treasurer",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/203_Wartime Treasurer.png"
+			}
+		},
+		{
+			"name": "Augustine St. Vinsev",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Legendary Planeswalker — Augustine",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/121_Augustine St. Vinsev.png"
+			}
+		},
+		{
+			"name": "Convergant Company",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{W}",
+			"type": "Instant",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/136_Convergant Company.png"
+			}
+		},
+		{
+			"name": "The Oblivion Triad",
+			"rarity": "mythic",
+			"mana_cost": "{X}{R}{W}{B}",
+			"type": "Legendary Creature — Demon Soldier",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/182_The Oblivion Triad.png"
+			}
+		},
+		{
+			"name": "Skittering Aberration",
+			"rarity": "rare",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Insect Horror",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/192_Skittering Aberration.png"
+			}
+		},
+		{
+			"name": "Bull Netch",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature — Jellyfish Beast",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/130_Bull Netch.png"
+			}
+		},
+		{
+			"name": "Hateful Dovah",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/163_Hateful Dovah.png"
+			}
+		},
+		{
+			"name": "Azura's Future",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Instant",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/122_Azura's Future.png"
+			}
+		},
+		{
+			"name": "Emberheart Dryad",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Dryad",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/102_Emberheart Dryad.png"
+			}
+		},
+		{
+			"name": "Faralda, College Master",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Legendary Creature — Elf Wizard",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/147_Faralda, College Master.png"
+			}
+		},
+		{
+			"name": "Seasoned Adventurer",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/189_Seasoned Adventurer.png"
+			}
+		},
+		{
+			"name": "Rend from Nirn",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{U}",
+			"type": "Instant",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/185_Rend from Nirn.png"
+			}
+		},
+		{
+			"name": "Unintended Discovery",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/200_Unintended Discovery.png"
+			}
+		},
+		{
+			"name": "Heroic Convergence",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Enchantment",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/164_Heroic Convergence.png"
+			}
+		},
+		{
+			"name": "Ri'saad the Roving Caravan",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Cat Nomad",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/19_Ri'saad the Roving Caravan.png"
+			}
+		},
+		{
+			"name": "Torment Halls",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/43_Torment Halls.png"
+			}
+		},
+		{
+			"name": "Form of the Lich",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/51_Form of the Lich.png"
+			}
+		},
+		{
+			"name": "Lucky, Notorious Slayer",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Planeswalker — Lucky",
+			"collector_number": "80",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://hkrat.github.io/sets/TOB-files/img/80_Lucky, Notorious Slayer_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/80_Lucky, Notorious Slayer_front.png"
+			}
+		},
+		{
+			"name": "Chuan-Ji, Matron Spirit",
+			"rarity": "mythic",
+			"mana_cost": "{G}{G}",
+			"type": "Legendary Planeswalker — Chuan-Ji",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/98_Chuan-Ji, Matron Spirit.png"
+			}
+		},
+		{
+			"name": "Crab",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Crab",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/2_Crab.png"
+			}
+		},
+		{
+			"name": "Spell Tome",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/225_Spell Tome.png"
+			}
+		},
+		{
+			"name": "Crushing Warhammer",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/218_Crushing Warhammer.png"
+			}
+		},
+		{
+			"name": "Fitted Armor",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/223_Fitted Armor.png"
+			}
+		},
+		{
+			"name": "Sanctuary Door",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/224_Sanctuary Door.png"
+			}
+		},
+		{
+			"name": "Defense Animunculi",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/219_Defense Animunculi.png"
+			}
+		},
+		{
+			"name": "Wolf",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Wolf",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/5_Wolf.png"
+			}
+		},
+		{
+			"name": "Goblin Electromancer",
+			"rarity": "common",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Goblin Wizard",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/158_Goblin Electromancer.png"
+			}
+		},
+		{
+			"name": "Beyond Knowledge",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/125_Beyond Knowledge.png"
+			}
+		},
+		{
+			"name": "Oblivion",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/181_Oblivion.png"
+			}
+		},
+		{
+			"name": "Blood on the Ice",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Enchantment — Saga",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/126_Blood on the Ice.png"
+			}
+		},
+		{
+			"name": "Armed for War",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/120_Armed for War.png"
+			}
+		},
+		{
+			"name": "Caravan Recruiter",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Cat Soldier",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/131_Caravan Recruiter.png"
+			}
+		},
+		{
+			"name": "Conquer the Deadlands",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/135_Conquer the Deadlands.png"
+			}
+		},
+		{
+			"name": "Foraging Netch",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{U}",
+			"type": "Creature — Jellyfish Beast",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/152_Foraging Netch.png"
+			}
+		},
+		{
+			"name": "Wave Sower",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature — Merfolk",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/204_Wave Sower.png"
+			}
+		},
+		{
+			"name": "Hierophantic Prose",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/166_Hierophantic Prose.png"
+			}
+		},
+		{
+			"name": "Sithis Throatslitter",
+			"rarity": "uncommon",
+			"mana_cost": "{BG}{BG}{BG}",
+			"type": "Creature — Viashino Assassin",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/214_Sithis Throatslitter.png"
+			}
+		},
+		{
+			"name": "Oathsworn Cultist",
+			"rarity": "uncommon",
+			"mana_cost": "{BR}{BR}{BR}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/213_Oathsworn Cultist.png"
+			}
+		},
+		{
+			"name": "Craven Witch",
+			"rarity": "uncommon",
+			"mana_cost": "{UB}{UB}{UB}",
+			"type": "Creature — Harpy Wizard",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/208_Craven Witch.png"
+			}
+		},
+		{
+			"name": "Dunmeri Cutpurse",
+			"rarity": "uncommon",
+			"mana_cost": "{GU}{GU}{GU}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/210_Dunmeri Cutpurse.png"
+			}
+		},
+		{
+			"name": "Heartfire Atronach",
+			"rarity": "uncommon",
+			"mana_cost": "{UR}{UR}{UR}",
+			"type": "Creature — Elemental Wizard",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/212_Heartfire Atronach.png"
+			}
+		},
+		{
+			"name": "Argonian Shieldmate",
+			"rarity": "uncommon",
+			"mana_cost": "{RG}{RG}{RG}",
+			"type": "Creature — Viashino Warrior",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/206_Argonian Shieldmate.png"
+			}
+		},
+		{
+			"name": "Bishop of the Pantheon",
+			"rarity": "uncommon",
+			"mana_cost": "{WB}{WB}{WB}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/207_Bishop of the Pantheon.png"
+			}
+		},
+		{
+			"name": "Sparring Dummy",
+			"rarity": "uncommon",
+			"mana_cost": "{WU}{WU}{WU}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/215_Sparring Dummy.png"
+			}
+		},
+		{
+			"name": "Cyrodilic Diplomat",
+			"rarity": "uncommon",
+			"mana_cost": "{GW}{GW}{GW}",
+			"type": "Creature — Elf Noble",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/209_Cyrodilic Diplomat.png"
+			}
+		},
+		{
+			"name": "Gate Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{RW}{RW}{RW}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/211_Gate Guard.png"
+			}
+		},
+		{
+			"name": "Sonjor, Waking Cosmos",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Legendary Planeswalker — Sonjor",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/194_Sonjor, Waking Cosmos.png"
+			}
+		},
+		{
+			"name": "Vilgrund, Raider Scourge",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Planeswalker — Vilgrund",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/202_Vilgrund, Raider Scourge.png"
+			}
+		},
+		{
+			"name": "Seal the Gate",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/188_Seal the Gate.png"
+			}
+		},
+		{
+			"name": "Mora's Watcher",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/176_Mora's Watcher.png"
+			}
+		},
+		{
+			"name": "Akatosh's Great Intervention",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Enchantment — Saga",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/119_Akatosh's Great Intervention.png"
+			}
+		},
+		{
+			"name": "Courage",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/7_Courage.png"
+			}
+		},
+		{
+			"name": "Total Disarray",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/44_Total Disarray.png"
+			}
+		},
+		{
+			"name": "Speakers of Night",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/64_Speakers of Night.png"
+			}
+		},
+		{
+			"name": "Duneripper",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Lizard Beast",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/74_Duneripper.png"
+			}
+		},
+		{
+			"name": "Above Tamriel",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/93_Above Tamriel.png"
+			}
+		},
+		{
+			"name": "Meridia's Sanctifier",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Elf Cleric",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/12_Meridia's Sanctifier.png"
+			}
+		},
+		{
+			"name": "Foe Thrower",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Giant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/28_Foe Thrower.png"
+			}
+		},
+		{
+			"name": "Wayward Draugr",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/68_Wayward Draugr.png"
+			}
+		},
+		{
+			"name": "Scorching Dynamo",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/87_Scorching Dynamo.png"
+			}
+		},
+		{
+			"name": "Khenarthi Druid",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Cat Druid",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/106_Khenarthi Druid.png"
+			}
+		},
+		{
+			"name": "Valiant Nord",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/21_Valiant Nord.png"
+			}
+		},
+		{
+			"name": "Elsweyr Marshlurker",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Crocodile",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/27_Elsweyr Marshlurker.png"
+			}
+		},
+		{
+			"name": "Soul Trap",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/63_Soul Trap.png"
+			}
+		},
+		{
+			"name": "Catalyzing Lightning",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/71_Catalyzing Lightning.png"
+			}
+		},
+		{
+			"name": "Bruma Outfitter",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Elf Warrior",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/128_Bruma Outfitter.png"
+			}
+		},
+		{
+			"name": "Redguard Rescuer",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/16_Redguard Rescuer.png"
+			}
+		},
+		{
+			"name": "Swindle",
+			"rarity": "rare",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/42_Swindle.png"
+			}
+		},
+		{
+			"name": "Vastarie, Twilight Lich",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Zombie Warlock",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/66_Vastarie, Twilight Lich.png"
+			}
+		},
+		{
+			"name": "Kwama Tender",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elf Nomad",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/79_Kwama Tender.png"
+			}
+		},
+		{
+			"name": "Everblossom Spriggan",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dryad Druid",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/103_Everblossom Spriggan.png"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/3_Zombie.png"
+			}
+		},
+		{
+			"name": "Fabled Passage",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/229_Fabled Passage.png"
+			}
+		},
+		{
+			"name": "Ancestor Glade",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/227_Ancestor Glade.png"
+			}
+		},
+		{
+			"name": "Alchemist's Kit",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/216_Alchemist's Kit.png"
+			}
+		},
+		{
+			"name": "Saproling",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Saproling",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/4_Saproling.png"
+			}
+		},
+		{
+			"name": "Location",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Land — Plains Island Swamp Mountain Forest",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/10_Location.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "masterpiece",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/12_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "masterpiece",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/9_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "masterpiece",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/13_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "masterpiece",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/11_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "masterpiece",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/8_Forest.png"
+			}
+		},
+		{
+			"name": "Construct",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Construct",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/6_Construct.png"
+			}
+		},
+		{
+			"name": "Sanctuary Door",
+			"rarity": "masterpiece",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/TOB-files/img/1_Sanctuary Door.png"
+			}
+		},
+	]
+
+[rare(1)]
+	2 Aedra's Whimsy
+	1 M'aiq, Quick Witted
+	1 Inigo the Brave
+	2 Oblivion Invader
+	2 Invasion Engine
+	2 Gatekeeper of the Isles
+	2 Dwemer-Made Gate
+	2 Blades Upstart
+	2 Obliterating Lightning
+	2 Amulet of Kings
+	2 Nulling Atronach
+	2 Dreugh Titan
+	2 Daedric Whispers
+	2 Clangorous Halls
+	2 Dovah Killer
+	2 Snub
+	2 Umaril the Ascendant
+	2 Aedra's Vengeance
+	2 Reunification of Tamriel
+	2 Ratway Rogue
+	1 Brurlof, Dragonborn Exile
+	1 Mankar, Daedra Devout
+	2 Oblivion Deadlands
+	2 Bruma Guildhall
+	2 Hist Grove
+	2 Skyshard Sanctuary
+	2 Numidium's Tomb
+	2 Live Beyond
+	2 Mundus Infiltrator
+	2 Noble's Shadow
+	2 Springwater Nereid
+	2 Traversal
+	2 Worldwalker
+	2 Dremora Dreadlord
+	2 Wartime Treasurer
+	1 Augustine St. Vinsev
+	2 Convergant Company
+	1 The Oblivion Triad
+	2 Skittering Aberration
+	2 Bull Netch
+	2 Hateful Dovah
+	2 Azura's Future
+	2 Faralda, College Master
+	2 Seasoned Adventurer
+	2 Rend from Nirn
+	2 Unintended Discovery
+	2 Heroic Convergence
+	1 Ri'saad the Roving Caravan
+	1 Torment Halls
+	1 Form of the Lich
+	1 Lucky, Notorious Slayer
+	1 Chuan-Ji, Matron Spirit
+	2 Crushing Warhammer
+	2 Beyond Knowledge
+	2 Oblivion
+	2 Blood on the Ice
+	2 Armed for War
+	2 Caravan Recruiter
+	2 Conquer the Deadlands
+	2 Foraging Netch
+	2 Wave Sower
+	2 Hierophantic Prose
+	1 Sonjor, Waking Cosmos
+	1 Vilgrund, Raider Scourge
+	1 Seal the Gate
+	2 Mora's Watcher
+	1 Akatosh's Great Intervention
+	2 Bruma Outfitter
+	2 Redguard Rescuer
+	2 Swindle
+	2 Vastarie, Twilight Lich
+	2 Kwama Tender
+	2 Everblossom Spriggan
+	2 Ancestor Glade
+[uncommon(4)]
+	4 Confounding Confluence
+	4 Telendride the Sanctifier
+	4 Sheogorath, Unending Insanity
+	4 Gibbering Scamp
+	4 Whithering Scamp
+	4 Derelict Gate
+	4 Denaelin the Soul Thief
+	4 Guard Captain Morilius
+	4 Jauffre IV, Mentor
+	4 Muraz Cult-Hunter
+	4 Do'ri, Mythic Dawn Initiate
+	4 Martena, Bolt Channeler
+	4 Garzog, Oblivion Speaker
+	4 Ah-Kajee, Hist Keeper
+	4 Start of a Journey
+	4 Farmer's Amulet
+	4 Rime Daedra
+	4 Combative Invader
+	4 Vulturous Twilight
+	4 Aedra Chaplain
+	4 Witching Hour
+	4 Hist Saptender
+	4 Precinct Captain
+	4 Mudcrab Den
+	4 Must Have Been the Wind
+	4 Imperial Rescuer
+	4 Arbiter of Taxation
+	4 Embrace of the Hist
+	4 Vengeful Flametongue
+	4 Prismatic Flames
+	4 Stashed Supplies
+	4 Reinforced Chaurus
+	4 Camp Invader
+	4 Choking Blood
+	4 Vampire of Dire Hospitality
+	4 Howler Pup
+	4 Goblin Sous-Chef
+	4 Restless Souls
+	4 Adept Training
+	4 Coward Hunter
+	4 Resign to Peace
+	4 Unfettered Alchemist
+	4 Desolation of Kvatch
+	4 Golden Agent
+	4 Force Through
+	4 Gentleman Thief
+	4 Dream Stride
+	4 Emberheart Dryad
+	4 Spell Tome
+	4 Sanctuary Door
+	4 Sithis Throatslitter
+	4 Oathsworn Cultist
+	4 Craven Witch
+	4 Dunmeri Cutpurse
+	4 Heartfire Atronach
+	4 Argonian Shieldmate
+	4 Bishop of the Pantheon
+	4 Sparring Dummy
+	4 Cyrodilic Diplomat
+	4 Gate Guard
+	4 Valiant Nord
+	4 Elsweyr Marshlurker
+	4 Soul Trap
+	4 Catalyzing Lightning
+	4 Fabled Passage
+[common(7)]
+	8 Student of Souls
+	8 Traveler's Amulet
+	8 Grim Decadence
+	8 Murder
+	8 Ego Bleed
+	8 Poison the Party
+	8 Bone Reader
+	8 Stronghold Brute
+	8 Persistent Imp
+	8 Namira Soultaker
+	8 Impish Invader
+	8 Imperial Necromancer
+	8 Summoner's Bubble
+	8 Martin's Musings
+	8 Daedric Cultist
+	8 Magical Anomaly
+	8 Venerated Teacher
+	8 Guild Agent
+	8 Snapping Slaughterfish
+	8 Merchant of Wares
+	8 Grip of Cowardice
+	8 Rummaging Vagabond
+	8 Iliac Bay Cannoneer
+	8 Ornery Farmer
+	8 Scorcher of Kvatch
+	8 Cultist of Dagon
+	8 Exuberant Guard
+	8 Thieving Impulse
+	8 Swordpoint
+	8 Through the Cairn
+	8 Dangerous Wager
+	8 Kwama Wayfinder
+	8 Mystic Defense
+	8 Elvish Hoarder
+	8 Bloodied Alit
+	8 Domesticated Guar
+	8 Bounty Hunt
+	8 Headstrong
+	8 Rampant Growth
+	8 Magicka Instructor
+	8 Warrior's Call
+	8 Diplomacy
+	8 Altmer Cleric
+	8 Nord Kinsman
+	8 Venerated Captain
+	8 Longing Geist
+	8 Imperial Gatebreakers
+	8 Supply Runner
+	8 Anointed Rider
+	8 Avenging Light
+	8 Muck Dreugh
+	8 Battlewise Elf
+	8 Glittering Saint
+	8 Flamesight
+	8 Ungrateful Occupier
+	8 Gem Collector
+	8 Rookie Soldier
+	8 Hired Hand
+	8 Firewhip Seducer
+	8 Dunmeri Seer
+	8 Nord Snowrunner
+	8 Hideaway Trail
+	8 Banish to Oblivion
+	8 Night's Haul
+	8 Skim History
+	8 Firestarter
+	8 Deathless Brew
+	8 Harvester of Beyonds
+	8 Drag Below
+	8 Adamant Presence
+	8 Pit Wolves
+	8 Terrorizing Matriarch
+	8 Clasping Claws
+	8 Greatwood Elder
+	8 Forsworn Fury
+	8 Bloodlust Initiate
+	8 Overwhelming Voice
+	8 Territorial Echatere
+	8 Fervent Legate
+	8 Depraved Alchemist
+	8 Fitted Armor
+	8 Defense Animunculi
+	8 Goblin Electromancer
+	8 Courage
+	8 Total Disarray
+	8 Speakers of Night
+	8 Duneripper
+	8 Above Tamriel
+	8 Meridia's Sanctifier
+	8 Foe Thrower
+	8 Wayward Draugr
+	8 Scorching Dynamo
+	8 Khenarthi Druid
+	8 Alchemist's Kit
+[wildcard(2)]
+	7 Aedra's Whimsy
+	4 M'aiq, Quick Witted
+	4 Inigo the Brave
+	7 Oblivion Invader
+	15 Confounding Confluence
+	15 Telendride the Sanctifier
+	7 Invasion Engine
+	7 Gatekeeper of the Isles
+	15 Sheogorath, Unending Insanity
+	15 Gibbering Scamp
+	15 Whithering Scamp
+	15 Derelict Gate
+	15 Denaelin the Soul Thief
+	15 Guard Captain Morilius
+	15 Jauffre IV, Mentor
+	7 Dwemer-Made Gate
+	6 Student of Souls
+	15 Muraz Cult-Hunter
+	7 Blades Upstart
+	15 Do'ri, Mythic Dawn Initiate
+	15 Martena, Bolt Channeler
+	15 Garzog, Oblivion Speaker
+	15 Ah-Kajee, Hist Keeper
+	15 Start of a Journey
+	7 Obliterating Lightning
+	15 Farmer's Amulet
+	6 Traveler's Amulet
+	7 Amulet of Kings
+	15 Rime Daedra
+	15 Combative Invader
+	7 Nulling Atronach
+	6 Grim Decadence
+	6 Murder
+	6 Ego Bleed
+	6 Poison the Party
+	6 Bone Reader
+	6 Stronghold Brute
+	6 Persistent Imp
+	6 Namira Soultaker
+	6 Impish Invader
+	6 Imperial Necromancer
+	15 Vulturous Twilight
+	6 Summoner's Bubble
+	6 Martin's Musings
+	6 Daedric Cultist
+	6 Magical Anomaly
+	6 Venerated Teacher
+	6 Guild Agent
+	6 Snapping Slaughterfish
+	6 Merchant of Wares
+	6 Grip of Cowardice
+	6 Rummaging Vagabond
+	6 Iliac Bay Cannoneer
+	6 Ornery Farmer
+	6 Scorcher of Kvatch
+	6 Cultist of Dagon
+	6 Exuberant Guard
+	6 Thieving Impulse
+	6 Swordpoint
+	6 Through the Cairn
+	6 Dangerous Wager
+	15 Aedra Chaplain
+	6 Kwama Wayfinder
+	6 Mystic Defense
+	6 Elvish Hoarder
+	6 Bloodied Alit
+	6 Domesticated Guar
+	6 Bounty Hunt
+	6 Headstrong
+	6 Rampant Growth
+	6 Magicka Instructor
+	6 Warrior's Call
+	6 Diplomacy
+	6 Altmer Cleric
+	6 Nord Kinsman
+	6 Venerated Captain
+	6 Longing Geist
+	6 Imperial Gatebreakers
+	6 Supply Runner
+	6 Anointed Rider
+	6 Avenging Light
+	6 Muck Dreugh
+	7 Dreugh Titan
+	15 Witching Hour
+	6 Battlewise Elf
+	6 Glittering Saint
+	6 Flamesight
+	6 Ungrateful Occupier
+	6 Gem Collector
+	6 Rookie Soldier
+	15 Hist Saptender
+	6 Hired Hand
+	6 Firewhip Seducer
+	6 Dunmeri Seer
+	6 Nord Snowrunner
+	15 Precinct Captain
+	6 Hideaway Trail
+	6 Banish to Oblivion
+	6 Night's Haul
+	6 Skim History
+	6 Firestarter
+	6 Deathless Brew
+	6 Harvester of Beyonds
+	6 Drag Below
+	6 Adamant Presence
+	6 Pit Wolves
+	7 Daedric Whispers
+	7 Clangorous Halls
+	15 Mudcrab Den
+	15 Must Have Been the Wind
+	15 Imperial Rescuer
+	15 Arbiter of Taxation
+	15 Embrace of the Hist
+	15 Vengeful Flametongue
+	15 Prismatic Flames
+	15 Stashed Supplies
+	15 Reinforced Chaurus
+	15 Camp Invader
+	7 Dovah Killer
+	6 Terrorizing Matriarch
+	6 Clasping Claws
+	6 Greatwood Elder
+	6 Forsworn Fury
+	6 Bloodlust Initiate
+	6 Overwhelming Voice
+	6 Territorial Echatere
+	6 Fervent Legate
+	15 Choking Blood
+	15 Vampire of Dire Hospitality
+	15 Howler Pup
+	7 Snub
+	15 Goblin Sous-Chef
+	15 Restless Souls
+	15 Adept Training
+	15 Coward Hunter
+	7 Umaril the Ascendant
+	7 Aedra's Vengeance
+	7 Reunification of Tamriel
+	15 Resign to Peace
+	15 Unfettered Alchemist
+	15 Desolation of Kvatch
+	15 Golden Agent
+	15 Force Through
+	7 Ratway Rogue
+	4 Brurlof, Dragonborn Exile
+	4 Mankar, Daedra Devout
+	7 Oblivion Deadlands
+	7 Bruma Guildhall
+	7 Hist Grove
+	7 Skyshard Sanctuary
+	7 Numidium's Tomb
+	7 Live Beyond
+	7 Mundus Infiltrator
+	15 Gentleman Thief
+	7 Noble's Shadow
+	7 Springwater Nereid
+	7 Traversal
+	7 Worldwalker
+	7 Dremora Dreadlord
+	15 Dream Stride
+	6 Depraved Alchemist
+	7 Wartime Treasurer
+	4 Augustine St. Vinsev
+	7 Convergant Company
+	4 The Oblivion Triad
+	7 Skittering Aberration
+	7 Bull Netch
+	7 Hateful Dovah
+	7 Azura's Future
+	15 Emberheart Dryad
+	7 Faralda, College Master
+	7 Seasoned Adventurer
+	7 Rend from Nirn
+	7 Unintended Discovery
+	7 Heroic Convergence
+	4 Ri'saad the Roving Caravan
+	4 Torment Halls
+	4 Form of the Lich
+	4 Lucky, Notorious Slayer
+	4 Chuan-Ji, Matron Spirit
+	15 Spell Tome
+	7 Crushing Warhammer
+	6 Fitted Armor
+	15 Sanctuary Door
+	6 Defense Animunculi
+	6 Goblin Electromancer
+	7 Beyond Knowledge
+	7 Oblivion
+	7 Blood on the Ice
+	7 Armed for War
+	7 Caravan Recruiter
+	7 Conquer the Deadlands
+	7 Foraging Netch
+	7 Wave Sower
+	7 Hierophantic Prose
+	15 Sithis Throatslitter
+	15 Oathsworn Cultist
+	15 Craven Witch
+	15 Dunmeri Cutpurse
+	15 Heartfire Atronach
+	15 Argonian Shieldmate
+	15 Bishop of the Pantheon
+	15 Sparring Dummy
+	15 Cyrodilic Diplomat
+	15 Gate Guard
+	4 Sonjor, Waking Cosmos
+	4 Vilgrund, Raider Scourge
+	4 Seal the Gate
+	7 Mora's Watcher
+	4 Akatosh's Great Intervention
+	6 Courage
+	6 Total Disarray
+	6 Speakers of Night
+	6 Duneripper
+	6 Above Tamriel
+	6 Meridia's Sanctifier
+	6 Foe Thrower
+	6 Wayward Draugr
+	6 Scorching Dynamo
+	6 Khenarthi Druid
+	15 Valiant Nord
+	15 Elsweyr Marshlurker
+	15 Soul Trap
+	15 Catalyzing Lightning
+	7 Bruma Outfitter
+	7 Redguard Rescuer
+	7 Swindle
+	7 Vastarie, Twilight Lich
+	7 Kwama Tender
+	7 Everblossom Spriggan
+	15 Fabled Passage
+	7 Ancestor Glade
+	6 Alchemist's Kit
