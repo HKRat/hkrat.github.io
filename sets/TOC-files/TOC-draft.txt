@@ -2701,13 +2701,13 @@
 			}
 		},
 		{
-			"name": "Undiscovered Paradise",
+			"name": "Paradise Found",
 			"rarity": "masterpiece",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "30",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/30_Undiscovered Paradise.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/23_Paradise Found.png"
 			}
 		},
 		{
@@ -2715,9 +2715,9 @@
 			"rarity": "masterpiece",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/28_Tundra.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/29_Tundra.png"
 			}
 		},
 		{
@@ -2735,9 +2735,9 @@
 			"rarity": "masterpiece",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/27_Tropical Island.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/28_Tropical Island.png"
 			}
 		},
 		{
@@ -2745,9 +2745,9 @@
 			"rarity": "masterpiece",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/24_Savannah.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/25_Savannah.png"
 			}
 		},
 		{
@@ -2765,9 +2765,9 @@
 			"rarity": "masterpiece",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/29_Underground Sea.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/30_Underground Sea.png"
 			}
 		},
 		{
@@ -2785,9 +2785,9 @@
 			"rarity": "masterpiece",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/23_Plateau.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/24_Plateau.png"
 			}
 		},
 		{
@@ -2795,9 +2795,9 @@
 			"rarity": "masterpiece",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/26_Taiga.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/27_Taiga.png"
 			}
 		},
 		{
@@ -2805,9 +2805,9 @@
 			"rarity": "masterpiece",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/25_Scrubland.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/26_Scrubland.png"
 			}
 		},
 		{
