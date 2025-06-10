@@ -2329,7 +2329,7 @@
 		{
 			"name": "Riften Confiscator",
 			"rarity": "uncommon",
-			"mana_cost": "{WB}{WB}",
+			"mana_cost": "{W/B}{W/B}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "222",
 			"image_uris": {
@@ -2603,7 +2603,7 @@
 		{
 			"name": "Spoken-Force Greybeard",
 			"rarity": "uncommon",
-			"mana_cost": "{UR}{UR}",
+			"mana_cost": "{U/R}{U/R}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "223",
 			"image_uris": {
@@ -2613,7 +2613,7 @@
 		{
 			"name": "Bandit Profiteer",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{RW}{RW}",
+			"mana_cost": "{1}{R/W}{R/W}",
 			"type": "Creature — Cat Berserker",
 			"collector_number": "221",
 			"image_uris": {
@@ -2623,7 +2623,7 @@
 		{
 			"name": "Thalmor Elite",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{BG}{BG}",
+			"mana_cost": "{1}{B/G}{B/G}",
 			"type": "Creature — Elf Soldier",
 			"collector_number": "224",
 			"image_uris": {
@@ -2633,7 +2633,7 @@
 		{
 			"name": "Arboreal Sanctifier",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{GU}{GU}",
+			"mana_cost": "{2}{G/U}{G/U}",
 			"type": "Creature — Elf Druid",
 			"collector_number": "220",
 			"image_uris": {

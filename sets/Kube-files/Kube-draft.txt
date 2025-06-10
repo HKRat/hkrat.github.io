@@ -2,7 +2,7 @@
 	[
 		{
 			"name": "Cryptic Sphinx",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Sphinx",
 			"collector_number": "460",
@@ -12,7 +12,7 @@
 		},
 		{
 			"name": "Eldritch Intrusion",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Enchantment",
 			"collector_number": "87",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Eldrazi Horror",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Eldrazi Horror",
 			"collector_number": "1",
@@ -32,7 +32,7 @@
 		},
 		{
 			"name": "Kefnet's Denial",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{7}{U}",
 			"type": "Instant",
 			"collector_number": "97",
@@ -42,7 +42,7 @@
 		},
 		{
 			"name": "Odelia Huntwarden",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "463",
@@ -52,7 +52,7 @@
 		},
 		{
 			"name": "Death Incarnate",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{B}{R}",
 			"type": "Enchantment",
 			"collector_number": "461",
@@ -62,7 +62,7 @@
 		},
 		{
 			"name": "Unraveling Zero Dawn",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Enchantment — Saga",
 			"collector_number": "465",
@@ -79,7 +79,7 @@
 		},
 		{
 			"name": "Elder Skaal of Odelia",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Snow Creature — Human",
 			"collector_number": "462",
@@ -89,7 +89,7 @@
 		},
 		{
 			"name": "Flittering Wisp",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Spirit",
 			"collector_number": "348",
@@ -99,7 +99,7 @@
 		},
 		{
 			"name": "Caravan Recruiter",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Cat Soldier",
 			"collector_number": "458",
@@ -109,7 +109,7 @@
 		},
 		{
 			"name": "Crossways Bandit",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{G}{U}",
 			"type": "Creature — Elf Warrior Rogue",
 			"collector_number": "459",
@@ -119,7 +119,7 @@
 		},
 		{
 			"name": "Plema, Titan of Life's Spiral",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{G}{W}",
 			"type": "Legendary Creature — Elder Giant",
 			"collector_number": "464",
@@ -129,7 +129,7 @@
 		},
 		{
 			"name": "Serpent's Devout",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Cleric",
 			"collector_number": "58",
@@ -139,7 +139,7 @@
 		},
 		{
 			"name": "Serpent's Diviner",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Shaman",
 			"collector_number": "317",
@@ -149,7 +149,7 @@
 		},
 		{
 			"name": "Skittering Fiend",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Eldrazi Drone",
 			"collector_number": "258",
@@ -159,7 +159,7 @@
 		},
 		{
 			"name": "Revelers of Lost Gods",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Centaur Berserker",
 			"collector_number": "250",
@@ -169,7 +169,7 @@
 		},
 		{
 			"name": "Liliana, Dread Reckoner",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Planeswalker — Liliana",
 			"collector_number": "170",
@@ -179,7 +179,7 @@
 		},
 		{
 			"name": "Embrace Shadows",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Enchantment",
 			"collector_number": "157",
@@ -189,7 +189,7 @@
 		},
 		{
 			"name": "Dwemer-Bound Specter",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{7}{U}",
 			"type": "Creature — Spirit",
 			"collector_number": "86",
@@ -199,7 +199,7 @@
 		},
 		{
 			"name": "Greedy Hands",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
 			"collector_number": "93",
@@ -209,7 +209,7 @@
 		},
 		{
 			"name": "Creeping Crypts",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
 			"collector_number": "150",
@@ -219,7 +219,7 @@
 		},
 		{
 			"name": "Ransacking Ruffian",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Knight Rogue",
 			"collector_number": "185",
@@ -229,7 +229,7 @@
 		},
 		{
 			"name": "Tavern Traveler",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Citizen",
 			"collector_number": "196",
@@ -239,7 +239,7 @@
 		},
 		{
 			"name": "Scatter Array",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "116",
@@ -249,7 +249,7 @@
 		},
 		{
 			"name": "Seabaren Lorekeepers",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "117",
@@ -259,7 +259,7 @@
 		},
 		{
 			"name": "Thousand-Year Slumber",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "127",
@@ -269,7 +269,7 @@
 		},
 		{
 			"name": "Huiltaii Hydra",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Hydra",
 			"collector_number": "293",
@@ -279,7 +279,7 @@
 		},
 		{
 			"name": "Oakblossom Druid",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Dryad Druid",
 			"collector_number": "306",
@@ -289,7 +289,7 @@
 		},
 		{
 			"name": "Infamy",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{R}{R}{R}",
 			"type": "Enchantment",
 			"collector_number": "232",
@@ -299,7 +299,7 @@
 		},
 		{
 			"name": "Court Marshal",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Knight",
 			"collector_number": "9",
@@ -309,7 +309,7 @@
 		},
 		{
 			"name": "Cold Grave",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Snow Artifact",
 			"collector_number": "380",
@@ -319,7 +319,7 @@
 		},
 		{
 			"name": "Fated Challenge",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "89",
@@ -329,7 +329,7 @@
 		},
 		{
 			"name": "Fell the Feeble",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
 			"collector_number": "218",
@@ -339,7 +339,7 @@
 		},
 		{
 			"name": "Winter's Exhaustion",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "271",
@@ -349,7 +349,7 @@
 		},
 		{
 			"name": "Impulsive Plan",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
 			"collector_number": "231",
@@ -359,7 +359,7 @@
 		},
 		{
 			"name": "Province Guardian",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Snow Creature — Human Warrior",
 			"collector_number": "244",
@@ -369,7 +369,7 @@
 		},
 		{
 			"name": "Fjorda of Jorundar",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Nomad",
 			"collector_number": "18",
@@ -379,7 +379,7 @@
 		},
 		{
 			"name": "Scavenging Trek",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
 			"collector_number": "188",
@@ -389,7 +389,7 @@
 		},
 		{
 			"name": "Splitting Bloom",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Plant",
 			"collector_number": "321",
@@ -399,7 +399,7 @@
 		},
 		{
 			"name": "Stalwart Galleon",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact — Vehicle",
 			"collector_number": "395",
@@ -409,7 +409,7 @@
 		},
 		{
 			"name": "Stowawaif",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Pirate",
 			"collector_number": "195",
@@ -419,7 +419,7 @@
 		},
 		{
 			"name": "Caitisan's Conquest",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "74",
@@ -429,7 +429,7 @@
 		},
 		{
 			"name": "Charted Course",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
 			"collector_number": "212",
@@ -439,7 +439,7 @@
 		},
 		{
 			"name": "Her Majesty Justicia",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Creature — Avatar",
 			"collector_number": "34",
@@ -449,7 +449,7 @@
 		},
 		{
 			"name": "Royal Helmsguard",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "56",
@@ -459,7 +459,7 @@
 		},
 		{
 			"name": "Doomed Sauropod",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Dinosaur",
 			"collector_number": "155",
@@ -469,7 +469,7 @@
 		},
 		{
 			"name": "Scavenging Grounds",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
 			"collector_number": "187",
@@ -479,7 +479,7 @@
 		},
 		{
 			"name": "Dinosaur",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Dinosaur",
 			"collector_number": "18",
@@ -489,8 +489,8 @@
 		},
 		{
 			"name": "Seronia, Consecrated Oracle",
-			"rarity": "cube",
-			"mana_cost": "{1}{U}{U}{UP}",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}{U/P}",
 			"type": "Legendary Planeswalker — Seronia",
 			"collector_number": "119",
 			"image_uris": {
@@ -499,7 +499,7 @@
 		},
 		{
 			"name": "Phyrexian Sphinx",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Phyrexian Sphinx",
 			"collector_number": "10",
@@ -509,7 +509,7 @@
 		},
 		{
 			"name": "Wandering Caravan",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Dinosaur",
 			"collector_number": "332",
@@ -519,7 +519,7 @@
 		},
 		{
 			"name": "Warpath Carnivore",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Dinosaur",
 			"collector_number": "333",
@@ -529,7 +529,7 @@
 		},
 		{
 			"name": "Survive the Hunt",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
 			"collector_number": "324",
@@ -539,7 +539,7 @@
 		},
 		{
 			"name": "Sanctuary Door",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact",
 			"collector_number": "392",
@@ -549,7 +549,7 @@
 		},
 		{
 			"name": "Gibbering Scamp",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Imp",
 			"collector_number": "159",
@@ -559,7 +559,7 @@
 		},
 		{
 			"name": "Oblivion Invader",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Creature — Demon",
 			"collector_number": "181",
@@ -569,7 +569,7 @@
 		},
 		{
 			"name": "Elsweyr Marshlurker",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Crocodile",
 			"collector_number": "88",
@@ -579,7 +579,7 @@
 		},
 		{
 			"name": "Mudcrab Den",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
 			"collector_number": "103",
@@ -589,7 +589,7 @@
 		},
 		{
 			"name": "Nulling Atronach",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Elemental",
 			"collector_number": "107",
@@ -599,7 +599,7 @@
 		},
 		{
 			"name": "Rime Daedra",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Demon Wizard",
 			"collector_number": "112",
@@ -609,7 +609,7 @@
 		},
 		{
 			"name": "Torment Halls",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment",
 			"collector_number": "129",
@@ -619,7 +619,7 @@
 		},
 		{
 			"name": "Everblossom Spriggan",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Dryad Druid",
 			"collector_number": "286",
@@ -629,7 +629,7 @@
 		},
 		{
 			"name": "Aedra Chaplain",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Cleric",
 			"collector_number": "273",
@@ -639,7 +639,7 @@
 		},
 		{
 			"name": "Force Through",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
 			"collector_number": "287",
@@ -649,7 +649,7 @@
 		},
 		{
 			"name": "Magicka Instructor",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "302",
@@ -659,7 +659,7 @@
 		},
 		{
 			"name": "Traversal",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
 			"collector_number": "329",
@@ -669,7 +669,7 @@
 		},
 		{
 			"name": "Catalyzing Lightning",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
 			"collector_number": "211",
@@ -679,7 +679,7 @@
 		},
 		{
 			"name": "Noble's Shadow",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Rogue",
 			"collector_number": "240",
@@ -689,7 +689,7 @@
 		},
 		{
 			"name": "Obliterating Lightning",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{10}{R}{R}{R}",
 			"type": "Instant",
 			"collector_number": "242",
@@ -699,7 +699,7 @@
 		},
 		{
 			"name": "Reunification of Tamriel",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Enchantment",
 			"collector_number": "54",
@@ -709,7 +709,7 @@
 		},
 		{
 			"name": "Valiant Nord",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "66",
@@ -719,7 +719,7 @@
 		},
 		{
 			"name": "Astrid the Black Hand",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Human Assassin",
 			"collector_number": "138",
@@ -729,7 +729,7 @@
 		},
 		{
 			"name": "Blood Sacrament",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "141",
@@ -739,7 +739,7 @@
 		},
 		{
 			"name": "Morag Tong Agent",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Elf Assassin",
 			"collector_number": "177",
@@ -749,7 +749,7 @@
 		},
 		{
 			"name": "Crypt Discovery",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
 			"collector_number": "78",
@@ -759,7 +759,7 @@
 		},
 		{
 			"name": "Volta Hearth",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Planeswalker — Volta",
 			"collector_number": "133",
@@ -769,7 +769,7 @@
 		},
 		{
 			"name": "Engulf",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Instant",
 			"collector_number": "283",
@@ -779,7 +779,7 @@
 		},
 		{
 			"name": "Envoy of Autumn",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Dryad",
 			"collector_number": "284",
@@ -789,7 +789,7 @@
 		},
 		{
 			"name": "Lost to the Ages",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
 			"collector_number": "300",
@@ -799,7 +799,7 @@
 		},
 		{
 			"name": "Ashen Atronach",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{X}{R}",
 			"type": "Creature — Elemental",
 			"collector_number": "207",
@@ -809,7 +809,7 @@
 		},
 		{
 			"name": "Scorching Scourge",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Elemental",
 			"collector_number": "255",
@@ -819,7 +819,7 @@
 		},
 		{
 			"name": "Miraak's Dragon Uprising",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{4}{R}",
 			"type": "Enchantment — Saga",
 			"collector_number": "238",
@@ -829,7 +829,7 @@
 		},
 		{
 			"name": "Dexion Reads the Elder Scroll",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment — Saga",
 			"collector_number": "11",
@@ -839,7 +839,7 @@
 		},
 		{
 			"name": "Brotherhood Conspirant",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Rogue",
 			"collector_number": "144",
@@ -849,7 +849,7 @@
 		},
 		{
 			"name": "Chaos in Bloom",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "147",
@@ -859,7 +859,7 @@
 		},
 		{
 			"name": "Constant Conjuring",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment",
 			"collector_number": "149",
@@ -869,7 +869,7 @@
 		},
 		{
 			"name": "M'aiq the Liar",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Creature — Cat",
 			"collector_number": "173",
@@ -879,7 +879,7 @@
 		},
 		{
 			"name": "Unbound Dremora",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Demon Knight",
 			"collector_number": "198",
@@ -889,7 +889,7 @@
 		},
 		{
 			"name": "Dungeon Dive",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Enchantment",
 			"collector_number": "84",
@@ -906,7 +906,7 @@
 		},
 		{
 			"name": "Dungeon Tinkerer",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Elf Artificer",
 			"collector_number": "85",
@@ -916,7 +916,7 @@
 		},
 		{
 			"name": "Nocturnal's Informant",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Cat Rogue",
 			"collector_number": "106",
@@ -926,7 +926,7 @@
 		},
 		{
 			"name": "Pyrelight Guide",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "110",
@@ -936,7 +936,7 @@
 		},
 		{
 			"name": "Life Unfettered",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
 			"collector_number": "299",
@@ -953,7 +953,7 @@
 		},
 		{
 			"name": "Elvish Opportunist",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Elf Rogue",
 			"collector_number": "281",
@@ -963,7 +963,7 @@
 		},
 		{
 			"name": "Guild Opportunist",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "226",
@@ -973,7 +973,7 @@
 		},
 		{
 			"name": "Disgruntled Nord",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Human",
 			"collector_number": "12",
@@ -990,7 +990,7 @@
 		},
 		{
 			"name": "Ulfric's Legion",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "64",
@@ -1000,7 +1000,7 @@
 		},
 		{
 			"name": "Sparking Automaton",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "60",
@@ -1010,7 +1010,7 @@
 		},
 		{
 			"name": "Xotiala the Ritualist",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Snake Shaman",
 			"collector_number": "340",
@@ -1020,7 +1020,7 @@
 		},
 		{
 			"name": "Ancano, Thalmor Agent",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{X}{U}{U}",
 			"type": "Legendary Creature — Elf Wizard",
 			"collector_number": "70",
@@ -1030,7 +1030,7 @@
 		},
 		{
 			"name": "Party Crasher",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Vampire Rogue",
 			"collector_number": "183",
@@ -1040,7 +1040,7 @@
 		},
 		{
 			"name": "Nighthallow Ritual",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "180",
@@ -1050,7 +1050,7 @@
 		},
 		{
 			"name": "Muzzarlo the Spellweaver",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "104",
@@ -1060,7 +1060,7 @@
 		},
 		{
 			"name": "City Sprawl",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment",
 			"collector_number": "279",
@@ -1070,7 +1070,7 @@
 		},
 		{
 			"name": "Incense Expert",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Citizen",
 			"collector_number": "296",
@@ -1080,7 +1080,7 @@
 		},
 		{
 			"name": "Voracious Hydradile",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Hydra Crocodile",
 			"collector_number": "331",
@@ -1090,7 +1090,7 @@
 		},
 		{
 			"name": "Night's Ring Instructor",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "239",
@@ -1100,7 +1100,7 @@
 		},
 		{
 			"name": "Maddening Compulsion",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Instant",
 			"collector_number": "237",
@@ -1110,7 +1110,7 @@
 		},
 		{
 			"name": "Vitalia Historian",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Azra Citizen",
 			"collector_number": "268",
@@ -1120,7 +1120,7 @@
 		},
 		{
 			"name": "Angel of Ephemeral Life",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Angel",
 			"collector_number": "3",
@@ -1130,7 +1130,7 @@
 		},
 		{
 			"name": "Gather at the Scene",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
 			"collector_number": "27",
@@ -1140,7 +1140,7 @@
 		},
 		{
 			"name": "Citizen",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Citizen",
 			"collector_number": "4",
@@ -1150,7 +1150,7 @@
 		},
 		{
 			"name": "Maelo, Corrupt Official",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "43",
@@ -1160,7 +1160,7 @@
 		},
 		{
 			"name": "Castaway Skulkers",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Zombie",
 			"collector_number": "146",
@@ -1170,7 +1170,7 @@
 		},
 		{
 			"name": "Dread Resurrection",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
 			"collector_number": "156",
@@ -1180,7 +1180,7 @@
 		},
 		{
 			"name": "Gifter of Lineages",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Rogue",
 			"collector_number": "161",
@@ -1190,7 +1190,7 @@
 		},
 		{
 			"name": "Nest Watchers",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Spider",
 			"collector_number": "179",
@@ -1200,7 +1200,7 @@
 		},
 		{
 			"name": "Soulfire Rogue",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Human Shaman",
 			"collector_number": "193",
@@ -1210,7 +1210,7 @@
 		},
 		{
 			"name": "Zombie",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Zombie",
 			"collector_number": "12",
@@ -1220,7 +1220,7 @@
 		},
 		{
 			"name": "Rend by Tide",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
 			"collector_number": "111",
@@ -1230,7 +1230,7 @@
 		},
 		{
 			"name": "Sage of All",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "315",
@@ -1240,7 +1240,7 @@
 		},
 		{
 			"name": "Tezoculpa Rust-Priest",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Shaman",
 			"collector_number": "325",
@@ -1250,7 +1250,7 @@
 		},
 		{
 			"name": "Wolf",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Wolf",
 			"collector_number": "17",
@@ -1260,7 +1260,7 @@
 		},
 		{
 			"name": "Forging the Sun",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment",
 			"collector_number": "222",
@@ -1270,7 +1270,7 @@
 		},
 		{
 			"name": "Shining Legionnaire",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "256",
@@ -1280,7 +1280,7 @@
 		},
 		{
 			"name": "Unstable Ground",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
 			"collector_number": "264",
@@ -1290,7 +1290,7 @@
 		},
 		{
 			"name": "War-Horn Raider",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "269",
@@ -1300,7 +1300,7 @@
 		},
 		{
 			"name": "Disseminate",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
 			"collector_number": "13",
@@ -1310,7 +1310,7 @@
 		},
 		{
 			"name": "Bitter Brawler",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Snow Creature — Human Warrior",
 			"collector_number": "139",
@@ -1320,7 +1320,7 @@
 		},
 		{
 			"name": "Jorundar Starscribe",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Bird",
 			"collector_number": "96",
@@ -1330,7 +1330,7 @@
 		},
 		{
 			"name": "Jorundar Aspirant",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "95",
@@ -1347,7 +1347,7 @@
 		},
 		{
 			"name": "Archer of Old Hunts",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Snow Creature — Elf Warrior Scout",
 			"collector_number": "274",
@@ -1357,7 +1357,7 @@
 		},
 		{
 			"name": "Elf Warrior",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Elf Warrior",
 			"collector_number": "15",
@@ -1367,7 +1367,7 @@
 		},
 		{
 			"name": "Proclaimer of Ages",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Shaman",
 			"collector_number": "310",
@@ -1377,7 +1377,7 @@
 		},
 		{
 			"name": "Spirit Speaker",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Snow Creature — Elf Shaman",
 			"collector_number": "320",
@@ -1387,7 +1387,7 @@
 		},
 		{
 			"name": "Winterheath Druid",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Snow Creature — Elf Druid",
 			"collector_number": "337",
@@ -1397,7 +1397,7 @@
 		},
 		{
 			"name": "Goblin Snowriders",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Snow Creature — Goblin",
 			"collector_number": "224",
@@ -1407,7 +1407,7 @@
 		},
 		{
 			"name": "Human",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Human",
 			"collector_number": "6",
@@ -1417,7 +1417,7 @@
 		},
 		{
 			"name": "Aetherborn Renegade",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Aetherborn Rogue",
 			"collector_number": "137",
@@ -1427,7 +1427,7 @@
 		},
 		{
 			"name": "Mephidross Devastator",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Dragon",
 			"collector_number": "174",
@@ -1437,7 +1437,7 @@
 		},
 		{
 			"name": "Plaguerend",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
 			"collector_number": "184",
@@ -1447,7 +1447,7 @@
 		},
 		{
 			"name": "Wandering Khenra",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Zombie Jackal",
 			"collector_number": "202",
@@ -1457,7 +1457,7 @@
 		},
 		{
 			"name": "Silumgar Gravecaller",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Creature — Snake Shaman",
 			"collector_number": "191",
@@ -1467,7 +1467,7 @@
 		},
 		{
 			"name": "Dies",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
 			"collector_number": "154",
@@ -1477,7 +1477,7 @@
 		},
 		{
 			"name": "Hate Stoker",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Demon Warlock",
 			"collector_number": "164",
@@ -1487,7 +1487,7 @@
 		},
 		{
 			"name": "Murder Most Foul",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
 			"collector_number": "178",
@@ -1497,7 +1497,7 @@
 		},
 		{
 			"name": "Moorland Inquisitor",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Rogue",
 			"collector_number": "176",
@@ -1507,7 +1507,7 @@
 		},
 		{
 			"name": "Cosmic Insight",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{U}{U}{U}",
 			"type": "Enchantment",
 			"collector_number": "77",
@@ -1517,7 +1517,7 @@
 		},
 		{
 			"name": "Destabilize",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
 			"collector_number": "83",
@@ -1527,7 +1527,7 @@
 		},
 		{
 			"name": "Memory Palace",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
 			"collector_number": "102",
@@ -1537,7 +1537,7 @@
 		},
 		{
 			"name": "Skosgred Runesmith",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Giant Artificer",
 			"collector_number": "120",
@@ -1547,7 +1547,7 @@
 		},
 		{
 			"name": "Rimewind Mage",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "113",
@@ -1557,7 +1557,7 @@
 		},
 		{
 			"name": "Spellbane",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "122",
@@ -1567,7 +1567,7 @@
 		},
 		{
 			"name": "Earthcrafter Mage",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Druid",
 			"collector_number": "280",
@@ -1577,7 +1577,7 @@
 		},
 		{
 			"name": "Kyne's Anamist",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Druid",
 			"collector_number": "298",
@@ -1587,7 +1587,7 @@
 		},
 		{
 			"name": "Prismatic Elf",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Elf Druid",
 			"collector_number": "309",
@@ -1597,7 +1597,7 @@
 		},
 		{
 			"name": "Akatosh's Intervention",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
 			"collector_number": "205",
@@ -1607,7 +1607,7 @@
 		},
 		{
 			"name": "J'hiari, Secunda's Might",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Planeswalker — J'hiari",
 			"collector_number": "233",
@@ -1617,7 +1617,7 @@
 		},
 		{
 			"name": "Pyrewinder Sorcerer",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "247",
@@ -1627,7 +1627,7 @@
 		},
 		{
 			"name": "Against the Odds",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Instant",
 			"collector_number": "1",
@@ -1637,7 +1637,7 @@
 		},
 		{
 			"name": "Geistcaller Cathar",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "90",
@@ -1647,7 +1647,7 @@
 		},
 		{
 			"name": "Lurk from Above",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
 			"collector_number": "101",
@@ -1657,7 +1657,7 @@
 		},
 		{
 			"name": "Ulvenwald Haunt",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Spirit",
 			"collector_number": "131",
@@ -1667,7 +1667,7 @@
 		},
 		{
 			"name": "Selhoff Ritualist",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "189",
@@ -1677,7 +1677,7 @@
 		},
 		{
 			"name": "Niblis of Regret",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Spirit",
 			"collector_number": "105",
@@ -1687,7 +1687,7 @@
 		},
 		{
 			"name": "Archbishop of Discord",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human",
 			"collector_number": "206",
@@ -1697,7 +1697,7 @@
 		},
 		{
 			"name": "Gid, Bearer of Knowledge",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "160",
@@ -1707,7 +1707,7 @@
 		},
 		{
 			"name": "Mockery of Death",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "175",
@@ -1717,7 +1717,7 @@
 		},
 		{
 			"name": "Olfdenmyr Prowler",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Snow Creature — Zombie Bear",
 			"collector_number": "182",
@@ -1727,7 +1727,7 @@
 		},
 		{
 			"name": "Ravage the Guild",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "186",
@@ -1737,7 +1737,7 @@
 		},
 		{
 			"name": "Winter Wanders Near",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{X}{X}{B}{B}",
 			"type": "Snow Enchantment",
 			"collector_number": "204",
@@ -1747,7 +1747,7 @@
 		},
 		{
 			"name": "Completely Frozen",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Snow Enchantment",
 			"collector_number": "76",
@@ -1757,7 +1757,7 @@
 		},
 		{
 			"name": "Patient Skald",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Cat Wizard",
 			"collector_number": "109",
@@ -1767,7 +1767,7 @@
 		},
 		{
 			"name": "On a Journey",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{4}{U}",
 			"type": "Instant",
 			"collector_number": "108",
@@ -1777,7 +1777,7 @@
 		},
 		{
 			"name": "Rough Seas",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
 			"collector_number": "114",
@@ -1787,7 +1787,7 @@
 		},
 		{
 			"name": "Secrets of the Drowngod",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{X}{U}{U}",
 			"type": "Instant",
 			"collector_number": "118",
@@ -1797,7 +1797,7 @@
 		},
 		{
 			"name": "Stormsight",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Snow Sorcery",
 			"collector_number": "124",
@@ -1807,7 +1807,7 @@
 		},
 		{
 			"name": "Stribius's Cutpurse",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Cat Rogue",
 			"collector_number": "125",
@@ -1817,7 +1817,7 @@
 		},
 		{
 			"name": "Think Ahead",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
 			"collector_number": "126",
@@ -1827,7 +1827,7 @@
 		},
 		{
 			"name": "Witness the Beast",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{4}{U}",
 			"type": "Instant",
 			"collector_number": "136",
@@ -1837,7 +1837,7 @@
 		},
 		{
 			"name": "Trail of Irrblossoms",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Snow Sorcery",
 			"collector_number": "130",
@@ -1847,7 +1847,7 @@
 		},
 		{
 			"name": "Bear-King of Hrostgard",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{6}{G}{G}",
 			"type": "Legendary Snow Creature — Bear",
 			"collector_number": "275",
@@ -1857,7 +1857,7 @@
 		},
 		{
 			"name": "Charging Yeti",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Snow Creature — Yeti",
 			"collector_number": "277",
@@ -1867,7 +1867,7 @@
 		},
 		{
 			"name": "Braid of Growth",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
 			"collector_number": "276",
@@ -1877,7 +1877,7 @@
 		},
 		{
 			"name": "Chart New Lands",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Instant",
 			"collector_number": "278",
@@ -1887,7 +1887,7 @@
 		},
 		{
 			"name": "Ever-Twisting Cycle",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Instant",
 			"collector_number": "285",
@@ -1897,7 +1897,7 @@
 		},
 		{
 			"name": "Frost-Den Spider",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Snow Creature — Spider",
 			"collector_number": "288",
@@ -1907,7 +1907,7 @@
 		},
 		{
 			"name": "Gigantimorph",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
 			"collector_number": "289",
@@ -1917,7 +1917,7 @@
 		},
 		{
 			"name": "Hardened Grovetender",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Dwarf Druid",
 			"collector_number": "290",
@@ -1927,7 +1927,7 @@
 		},
 		{
 			"name": "History Reclaimed",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{G}{G}",
 			"type": "Enchantment",
 			"collector_number": "292",
@@ -1937,7 +1937,7 @@
 		},
 		{
 			"name": "Herald of Spring's Bounty",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Spirit Elk",
 			"collector_number": "291",
@@ -1947,7 +1947,7 @@
 		},
 		{
 			"name": "Hunter of the Old Valley",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Archer",
 			"collector_number": "294",
@@ -1957,7 +1957,7 @@
 		},
 		{
 			"name": "Impromptu Fortifications",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
 			"collector_number": "295",
@@ -1967,7 +1967,7 @@
 		},
 		{
 			"name": "Olfdenmyr All-Seer",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Squirrel",
 			"collector_number": "307",
@@ -1977,7 +1977,7 @@
 		},
 		{
 			"name": "Province Conqueror",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Snow Creature — Human Warrior",
 			"collector_number": "311",
@@ -1987,7 +1987,7 @@
 		},
 		{
 			"name": "Rampaging Springhide",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Beast",
 			"collector_number": "312",
@@ -1997,7 +1997,7 @@
 		},
 		{
 			"name": "Run Over",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Snow Instant",
 			"collector_number": "314",
@@ -2007,7 +2007,7 @@
 		},
 		{
 			"name": "Snowfield Mother",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Snow Creature — Bear",
 			"collector_number": "319",
@@ -2017,7 +2017,7 @@
 		},
 		{
 			"name": "Slay the Beast",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
 			"collector_number": "318",
@@ -2027,7 +2027,7 @@
 		},
 		{
 			"name": "Trace the Aurora",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
 			"collector_number": "327",
@@ -2037,7 +2037,7 @@
 		},
 		{
 			"name": "Valley Crusher",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Snow Creature — Giant",
 			"collector_number": "330",
@@ -2047,7 +2047,7 @@
 		},
 		{
 			"name": "Wayward Seeker",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "334",
@@ -2057,7 +2057,7 @@
 		},
 		{
 			"name": "Wonder of Worlds",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Spirit",
 			"collector_number": "338",
@@ -2067,7 +2067,7 @@
 		},
 		{
 			"name": "Weald Walker",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Druid",
 			"collector_number": "335",
@@ -2077,7 +2077,7 @@
 		},
 		{
 			"name": "Conduit of Stribius",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Shaman",
 			"collector_number": "213",
@@ -2087,7 +2087,7 @@
 		},
 		{
 			"name": "Fervor of Frost",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Snow Instant",
 			"collector_number": "219",
@@ -2097,7 +2097,7 @@
 		},
 		{
 			"name": "Consuming Fire",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{X}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "214",
@@ -2107,7 +2107,7 @@
 		},
 		{
 			"name": "Fjall Scavenger",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Snow Creature — Goblin Shaman",
 			"collector_number": "220",
@@ -2117,7 +2117,7 @@
 		},
 		{
 			"name": "Last Lash",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "235",
@@ -2127,7 +2127,7 @@
 		},
 		{
 			"name": "Flame Axe",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "221",
@@ -2137,7 +2137,7 @@
 		},
 		{
 			"name": "Psychotic Strike",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Snow Instant",
 			"collector_number": "245",
@@ -2147,7 +2147,7 @@
 		},
 		{
 			"name": "Rallied Rabble",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Goblin Berserker",
 			"collector_number": "248",
@@ -2157,7 +2157,7 @@
 		},
 		{
 			"name": "Runescribe of Stribius",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Snow Creature — Human Shaman",
 			"collector_number": "251",
@@ -2167,7 +2167,7 @@
 		},
 		{
 			"name": "Saigura Brutalizer",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Cat Soldier",
 			"collector_number": "253",
@@ -2177,7 +2177,7 @@
 		},
 		{
 			"name": "Snowbreach Packmaster",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Snow Creature — Goblin",
 			"collector_number": "259",
@@ -2187,7 +2187,7 @@
 		},
 		{
 			"name": "Viridan Harvester",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Spirit",
 			"collector_number": "266",
@@ -2197,7 +2197,7 @@
 		},
 		{
 			"name": "Frostbite",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Snow Enchantment — Aura",
 			"collector_number": "21",
@@ -2207,7 +2207,7 @@
 		},
 		{
 			"name": "Giant's Wake",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "28",
@@ -2217,7 +2217,7 @@
 		},
 		{
 			"name": "Human",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Human",
 			"collector_number": "7",
@@ -2227,7 +2227,7 @@
 		},
 		{
 			"name": "Second Chances",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
 			"collector_number": "57",
@@ -2237,7 +2237,7 @@
 		},
 		{
 			"name": "Squadron Surgeon",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Snow Creature — Dwarf Cleric",
 			"collector_number": "61",
@@ -2247,7 +2247,7 @@
 		},
 		{
 			"name": "Into Strange Unknowns",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment",
 			"collector_number": "297",
@@ -2257,7 +2257,7 @@
 		},
 		{
 			"name": "Lotus Dryad",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Dryad",
 			"collector_number": "301",
@@ -2267,7 +2267,7 @@
 		},
 		{
 			"name": "Black Lotus",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact",
 			"collector_number": "19",
@@ -2277,7 +2277,7 @@
 		},
 		{
 			"name": "Under Heel",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "199",
@@ -2287,7 +2287,7 @@
 		},
 		{
 			"name": "Underbelly's Eyes",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Artifact Creature — Human Rogue",
 			"collector_number": "200",
@@ -2297,7 +2297,7 @@
 		},
 		{
 			"name": "Bustling Streets",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{X}{U}",
 			"type": "Instant",
 			"collector_number": "73",
@@ -2307,7 +2307,7 @@
 		},
 		{
 			"name": "Backdoor",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
 			"collector_number": "71",
@@ -2317,7 +2317,7 @@
 		},
 		{
 			"name": "Cybertech Sparkworker",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Artificer",
 			"collector_number": "79",
@@ -2327,7 +2327,7 @@
 		},
 		{
 			"name": "Data Convergence",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{9}{U}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "80",
@@ -2337,7 +2337,7 @@
 		},
 		{
 			"name": "Denied Clearance",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
 			"collector_number": "82",
@@ -2347,7 +2347,7 @@
 		},
 		{
 			"name": "Toxic Ventilation",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Sorcery",
 			"collector_number": "326",
@@ -2357,7 +2357,7 @@
 		},
 		{
 			"name": "Storage Hub",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Artifact",
 			"collector_number": "323",
@@ -2367,7 +2367,7 @@
 		},
 		{
 			"name": "Weathered Wanderer",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Artifact Creature — Human Nomad",
 			"collector_number": "336",
@@ -2377,7 +2377,7 @@
 		},
 		{
 			"name": "Source Code Engineer",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Artificer",
 			"collector_number": "261",
@@ -2387,7 +2387,7 @@
 		},
 		{
 			"name": "Punk Prowler",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Artifact Creature — Human Citizen",
 			"collector_number": "246",
@@ -2397,7 +2397,7 @@
 		},
 		{
 			"name": "Compilation Adept",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Artificer",
 			"collector_number": "7",
@@ -2407,7 +2407,7 @@
 		},
 		{
 			"name": "Gale Street Gearsmith",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Human Artificer",
 			"collector_number": "24",
@@ -2417,7 +2417,7 @@
 		},
 		{
 			"name": "Power Savant",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Artificer",
 			"collector_number": "50",
@@ -2427,7 +2427,7 @@
 		},
 		{
 			"name": "Streetwise Urchin",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Citizen",
 			"collector_number": "62",
@@ -2437,7 +2437,7 @@
 		},
 		{
 			"name": "Gilded Slicer",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact Creature — Construct Soldier",
 			"collector_number": "29",
@@ -2447,7 +2447,7 @@
 		},
 		{
 			"name": "Heavy-weapons Buyer",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Rogue",
 			"collector_number": "165",
@@ -2457,7 +2457,7 @@
 		},
 		{
 			"name": "Invasion of Festenya",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Battle — Siege",
 			"collector_number": "169",
@@ -2474,7 +2474,7 @@
 		},
 		{
 			"name": "Machiavelle, Senator of Commerce",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Enchantment Creature — Faerie Advisor",
 			"collector_number": "172",
@@ -2484,7 +2484,7 @@
 		},
 		{
 			"name": "Thieving Stray",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Cat",
 			"collector_number": "197",
@@ -2494,7 +2494,7 @@
 		},
 		{
 			"name": "Adventurous Messenger",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Citizen",
 			"collector_number": "69",
@@ -2504,7 +2504,7 @@
 		},
 		{
 			"name": "Gelessa, Senator of Sciences",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{X}{U}{U}{U}",
 			"type": "Legendary Creature — Moonfolk Advisor",
 			"collector_number": "91",
@@ -2514,7 +2514,7 @@
 		},
 		{
 			"name": "Whispers Thief",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment Creature — Faerie Rogue",
 			"collector_number": "135",
@@ -2524,7 +2524,7 @@
 		},
 		{
 			"name": "Deco Wings",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Artifact — Equipment",
 			"collector_number": "81",
@@ -2534,7 +2534,7 @@
 		},
 		{
 			"name": "Moment of Growth",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
 			"collector_number": "305",
@@ -2544,7 +2544,7 @@
 		},
 		{
 			"name": "Pinnacle of Vigor",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Elf Shaman",
 			"collector_number": "308",
@@ -2554,7 +2554,7 @@
 		},
 		{
 			"name": "Romana, Senator of Tradition",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{X}{1}{G}{G}",
 			"type": "Legendary Creature — Elf Advisor",
 			"collector_number": "313",
@@ -2564,7 +2564,7 @@
 		},
 		{
 			"name": "Stern Groundskeepers",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Elf Druid",
 			"collector_number": "322",
@@ -2574,7 +2574,7 @@
 		},
 		{
 			"name": "Doomed Detective",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Citizen",
 			"collector_number": "216",
@@ -2584,7 +2584,7 @@
 		},
 		{
 			"name": "Dealbroker",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Azra Citizen",
 			"collector_number": "215",
@@ -2594,7 +2594,7 @@
 		},
 		{
 			"name": "Election Campaign",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment — Saga",
 			"collector_number": "217",
@@ -2604,7 +2604,7 @@
 		},
 		{
 			"name": "Illicit Operations",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment",
 			"collector_number": "230",
@@ -2614,7 +2614,7 @@
 		},
 		{
 			"name": "Speakeasy Stalker",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{5}{R}{R}",
 			"type": "Creature — Vampire Rogue",
 			"collector_number": "262",
@@ -2624,7 +2624,7 @@
 		},
 		{
 			"name": "Towering Heights Peddler",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Citizen",
 			"collector_number": "263",
@@ -2634,7 +2634,7 @@
 		},
 		{
 			"name": "Vitalia Freelancer",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Azra Rogue",
 			"collector_number": "267",
@@ -2644,7 +2644,7 @@
 		},
 		{
 			"name": "Anachronism",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "2",
@@ -2654,7 +2654,7 @@
 		},
 		{
 			"name": "Haranguing Hanged",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Skeleton Soldier",
 			"collector_number": "163",
@@ -2664,7 +2664,7 @@
 		},
 		{
 			"name": "Loose Cargo",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
 			"collector_number": "171",
@@ -2674,7 +2674,7 @@
 		},
 		{
 			"name": "Cut-Sails Ulril",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Elf Rogue",
 			"collector_number": "151",
@@ -2684,7 +2684,7 @@
 		},
 		{
 			"name": "Kelp Sifter",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Merfolk Beast Wizard",
 			"collector_number": "98",
@@ -2694,7 +2694,7 @@
 		},
 		{
 			"name": "Spirit of Adventure",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Spirit",
 			"collector_number": "123",
@@ -2704,7 +2704,7 @@
 		},
 		{
 			"name": "Volitan Lurker",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Merfolk Beast Rogue",
 			"collector_number": "132",
@@ -2714,7 +2714,7 @@
 		},
 		{
 			"name": "Broadside!",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "210",
@@ -2724,7 +2724,7 @@
 		},
 		{
 			"name": "Haul Harvester",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Pirate",
 			"collector_number": "228",
@@ -2734,7 +2734,7 @@
 		},
 		{
 			"name": "Relic Acquisitioner",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Human Pirate",
 			"collector_number": "249",
@@ -2744,7 +2744,7 @@
 		},
 		{
 			"name": "Six Feet and Sixty Pence",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
 			"collector_number": "257",
@@ -2754,7 +2754,7 @@
 		},
 		{
 			"name": "Galavanting Seafarer",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Mercenary",
 			"collector_number": "23",
@@ -2764,7 +2764,7 @@
 		},
 		{
 			"name": "Supreme Galleon",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact — Vehicle",
 			"collector_number": "63",
@@ -2774,7 +2774,7 @@
 		},
 		{
 			"name": "Deceit",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
 			"collector_number": "153",
@@ -2784,7 +2784,7 @@
 		},
 		{
 			"name": "Linebreaker Assassin",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Human Assassin",
 			"collector_number": "236",
@@ -2794,7 +2794,7 @@
 		},
 		{
 			"name": "Induction Ceremony",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment",
 			"collector_number": "40",
@@ -2804,7 +2804,7 @@
 		},
 		{
 			"name": "Assault Strategist",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Assassin",
 			"collector_number": "208",
@@ -2814,7 +2814,7 @@
 		},
 		{
 			"name": "Overwhelming Advantage",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{X}{W}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "48",
@@ -2824,7 +2824,7 @@
 		},
 		{
 			"name": "Influence Exerter",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Knight Rogue",
 			"collector_number": "168",
@@ -2834,7 +2834,7 @@
 		},
 		{
 			"name": "Assassin",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Assassin",
 			"collector_number": "13",
@@ -2844,7 +2844,7 @@
 		},
 		{
 			"name": "Blood on the Ice",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{B}",
 			"type": "Enchantment — Saga",
 			"collector_number": "344",
@@ -2854,7 +2854,7 @@
 		},
 		{
 			"name": "Spiritweaver",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Shaman",
 			"collector_number": "194",
@@ -2864,7 +2864,7 @@
 		},
 		{
 			"name": "Death Anoints Fjalki",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "10",
@@ -2874,7 +2874,7 @@
 		},
 		{
 			"name": "Pinnacle of Immortality",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{W}{W}",
 			"type": "Creature — Angel",
 			"collector_number": "49",
@@ -2884,7 +2884,7 @@
 		},
 		{
 			"name": "Skorgrad Valkyrie",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Angel Warrior",
 			"collector_number": "59",
@@ -2894,7 +2894,7 @@
 		},
 		{
 			"name": "Alabaster Boa",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Creature — Snake",
 			"collector_number": "456",
@@ -2904,7 +2904,7 @@
 		},
 		{
 			"name": "Bloodsea Privateer",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Azra Pirate",
 			"collector_number": "457",
@@ -2914,8 +2914,8 @@
 		},
 		{
 			"name": "Glorious Renewal",
-			"rarity": "cube",
-			"mana_cost": "{2}{WB}{WB}",
+			"rarity": "special",
+			"mana_cost": "{2}{W/B}{W/B}",
 			"type": "Sorcery",
 			"collector_number": "370",
 			"image_uris": {
@@ -2924,8 +2924,8 @@
 		},
 		{
 			"name": "Catastrophic Emergence",
-			"rarity": "cube",
-			"mana_cost": "{1}{RG}",
+			"rarity": "special",
+			"mana_cost": "{1}{R/G}",
 			"type": "Sorcery",
 			"collector_number": "367",
 			"image_uris": {
@@ -2934,7 +2934,7 @@
 		},
 		{
 			"name": "Volta Hearth, Technoadept",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Planeswalker — Volta",
 			"collector_number": "362",
@@ -2944,7 +2944,7 @@
 		},
 		{
 			"name": "Heraldry of Flame",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
 			"collector_number": "229",
@@ -2954,7 +2954,7 @@
 		},
 		{
 			"name": "Call to the Ravens",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Enchantment",
 			"collector_number": "145",
@@ -2964,7 +2964,7 @@
 		},
 		{
 			"name": "Leyline Guide",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Shaman",
 			"collector_number": "99",
@@ -2974,7 +2974,7 @@
 		},
 		{
 			"name": "Peakpoint Presence",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Berserker",
 			"collector_number": "243",
@@ -2984,7 +2984,7 @@
 		},
 		{
 			"name": "Gana-Mali Procession",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Human Cleric",
 			"collector_number": "26",
@@ -2994,7 +2994,7 @@
 		},
 		{
 			"name": "Warrior",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Warrior",
 			"collector_number": "9",
@@ -3004,7 +3004,7 @@
 		},
 		{
 			"name": "Valus, Gold-Crowned",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Planeswalker — Valus",
 			"collector_number": "201",
@@ -3014,7 +3014,7 @@
 		},
 		{
 			"name": "You Hear a Noise",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Instant",
 			"collector_number": "363",
@@ -3024,7 +3024,7 @@
 		},
 		{
 			"name": "Unbecome",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
 			"collector_number": "65",
@@ -3034,7 +3034,7 @@
 		},
 		{
 			"name": "Mim-Reiki Caeseus",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Planeswalker — Mim-Reiki",
 			"collector_number": "304",
@@ -3044,8 +3044,8 @@
 		},
 		{
 			"name": "Rally-Cry Nord",
-			"rarity": "cube",
-			"mana_cost": "{GW}",
+			"rarity": "special",
+			"mana_cost": "{G/W}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "371",
 			"image_uris": {
@@ -3054,7 +3054,7 @@
 		},
 		{
 			"name": "Before the Storm",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment",
 			"collector_number": "5",
@@ -3064,7 +3064,7 @@
 		},
 		{
 			"name": "Helvalla, God of Glory",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Creature — God",
 			"collector_number": "33",
@@ -3074,7 +3074,7 @@
 		},
 		{
 			"name": "Ondu Wayguide",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Human Scout Ally",
 			"collector_number": "47",
@@ -3084,7 +3084,7 @@
 		},
 		{
 			"name": "Veteran Cathar",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Knight",
 			"collector_number": "67",
@@ -3094,7 +3094,7 @@
 		},
 		{
 			"name": "Hermaeus Mora, Lorekeeper",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Demon",
 			"collector_number": "166",
@@ -3104,7 +3104,7 @@
 		},
 		{
 			"name": "Grok, Vengeful Giant",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{5}{R}{R}",
 			"type": "Legendary Creature — Giant Warrior",
 			"collector_number": "225",
@@ -3114,7 +3114,7 @@
 		},
 		{
 			"name": "Arngeir, Greybeard's Voice",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "341",
@@ -3124,7 +3124,7 @@
 		},
 		{
 			"name": "Bestoleth Charm",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Tribal Instant — Wizard",
 			"collector_number": "72",
@@ -3134,7 +3134,7 @@
 		},
 		{
 			"name": "Cassowary Warden",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Citizen",
 			"collector_number": "75",
@@ -3144,7 +3144,7 @@
 		},
 		{
 			"name": "Sail the Cloudskies",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Instant",
 			"collector_number": "115",
@@ -3154,7 +3154,7 @@
 		},
 		{
 			"name": "Destiny Approaches",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Enchantment",
 			"collector_number": "347",
@@ -3164,7 +3164,7 @@
 		},
 		{
 			"name": "Impending Doom",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
 			"collector_number": "167",
@@ -3174,7 +3174,7 @@
 		},
 		{
 			"name": "Snowsculptor",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Snow Creature — Human Shaman",
 			"collector_number": "121",
@@ -3184,7 +3184,7 @@
 		},
 		{
 			"name": "Helvalla Warmonger",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Snow Creature — Angel",
 			"collector_number": "349",
@@ -3194,7 +3194,7 @@
 		},
 		{
 			"name": "Lost in the Drifts",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Snow Enchantment",
 			"collector_number": "100",
@@ -3204,7 +3204,7 @@
 		},
 		{
 			"name": "Bonechilling Bite",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "142",
@@ -3214,7 +3214,7 @@
 		},
 		{
 			"name": "Valley Pouncer",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Snow Creature — Yeti",
 			"collector_number": "265",
@@ -3224,7 +3224,7 @@
 		},
 		{
 			"name": "Province Banner",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Snow Artifact",
 			"collector_number": "390",
@@ -3234,7 +3234,7 @@
 		},
 		{
 			"name": "Bitter Spawn",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Snow Creature — Zombie Warrior",
 			"collector_number": "140",
@@ -3244,7 +3244,7 @@
 		},
 		{
 			"name": "Chill of the Grave",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Snow Instant",
 			"collector_number": "148",
@@ -3254,7 +3254,7 @@
 		},
 		{
 			"name": "Demon Bear",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Snow Creature — Demon Bear",
 			"collector_number": "11",
@@ -3264,7 +3264,7 @@
 		},
 		{
 			"name": "Wandering Yeti",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Snow Creature — Yeti",
 			"collector_number": "134",
@@ -3274,7 +3274,7 @@
 		},
 		{
 			"name": "Unhallowed Dead",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Snow Creature — Zombie",
 			"collector_number": "360",
@@ -3284,7 +3284,7 @@
 		},
 		{
 			"name": "Aurora Reader",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Snow Creature — Human Wizard",
 			"collector_number": "342",
@@ -3294,7 +3294,7 @@
 		},
 		{
 			"name": "Frost-Weald Explorer",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Snow Creature — Human Nomad",
 			"collector_number": "223",
@@ -3304,7 +3304,7 @@
 		},
 		{
 			"name": "Realmhopper Giant",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Giant",
 			"collector_number": "52",
@@ -3314,7 +3314,7 @@
 		},
 		{
 			"name": "Wispheim Titan",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Giant",
 			"collector_number": "272",
@@ -3324,7 +3324,7 @@
 		},
 		{
 			"name": "Angel",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Angel",
 			"collector_number": "3",
@@ -3334,7 +3334,7 @@
 		},
 		{
 			"name": "Forguard Summons",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
 			"collector_number": "20",
@@ -3344,7 +3344,7 @@
 		},
 		{
 			"name": "Game Hunters",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "25",
@@ -3354,7 +3354,7 @@
 		},
 		{
 			"name": "Frostweaver",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Snow Creature — Cat Wizard",
 			"collector_number": "22",
@@ -3364,7 +3364,7 @@
 		},
 		{
 			"name": "Giant",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Giant",
 			"collector_number": "5",
@@ -3374,7 +3374,7 @@
 		},
 		{
 			"name": "Guide to Grace",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
 			"collector_number": "31",
@@ -3384,7 +3384,7 @@
 		},
 		{
 			"name": "Gunvar Stillgrave",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Dwarf Warrior",
 			"collector_number": "32",
@@ -3394,7 +3394,7 @@
 		},
 		{
 			"name": "Fjorda's Oath",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Enchantment",
 			"collector_number": "19",
@@ -3411,7 +3411,7 @@
 		},
 		{
 			"name": "Yvara Springhart",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Legendary Planeswalker — Yvara",
 			"collector_number": "364",
@@ -3421,7 +3421,7 @@
 		},
 		{
 			"name": "Spirit Bear",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit Bear",
 			"collector_number": "16",
@@ -3431,7 +3431,7 @@
 		},
 		{
 			"name": "Nose to the Grindstone",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
 			"collector_number": "241",
@@ -3441,7 +3441,7 @@
 		},
 		{
 			"name": "Dwarf Warrior",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Dwarf Warrior",
 			"collector_number": "14",
@@ -3451,7 +3451,7 @@
 		},
 		{
 			"name": "Eldrazi Spawn",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Eldrazi Spawn",
 			"collector_number": "2",
@@ -3461,7 +3461,7 @@
 		},
 		{
 			"name": "Seek Gold",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
 			"collector_number": "316",
@@ -3471,7 +3471,7 @@
 		},
 		{
 			"name": "Rear Admiral",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "53",
@@ -3481,7 +3481,7 @@
 		},
 		{
 			"name": "Divined Barrelman",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Angel",
 			"collector_number": "14",
@@ -3491,7 +3491,7 @@
 		},
 		{
 			"name": "Into Port",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
 			"collector_number": "41",
@@ -3501,7 +3501,7 @@
 		},
 		{
 			"name": "Morgata Quartermaster",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "44",
@@ -3511,7 +3511,7 @@
 		},
 		{
 			"name": "Soldier",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Soldier",
 			"collector_number": "8",
@@ -3521,7 +3521,7 @@
 		},
 		{
 			"name": "Avatar of the Sister Gods",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{5}{W}{B}",
 			"type": "Creature — Avatar",
 			"collector_number": "343",
@@ -3531,7 +3531,7 @@
 		},
 		{
 			"name": "Desert Bluffs",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "403",
@@ -3541,7 +3541,7 @@
 		},
 		{
 			"name": "Endorheic Lake",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "404",
@@ -3551,7 +3551,7 @@
 		},
 		{
 			"name": "Irrigated Terrace",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "412",
@@ -3561,7 +3561,7 @@
 		},
 		{
 			"name": "Luminous Reef",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "416",
@@ -3571,7 +3571,7 @@
 		},
 		{
 			"name": "Pristine Pools",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "425",
@@ -3581,7 +3581,7 @@
 		},
 		{
 			"name": "Rooted Falls",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "429",
@@ -3591,7 +3591,7 @@
 		},
 		{
 			"name": "Smoking Crater",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "433",
@@ -3601,7 +3601,7 @@
 		},
 		{
 			"name": "Stranding Shoal",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "436",
@@ -3611,7 +3611,7 @@
 		},
 		{
 			"name": "Sunken Depths",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "438",
@@ -3621,7 +3621,7 @@
 		},
 		{
 			"name": "Weirding Tropics",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "443",
@@ -3631,7 +3631,7 @@
 		},
 		{
 			"name": "Grave of the Sparrow",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Artifact",
 			"collector_number": "30",
@@ -3641,7 +3641,7 @@
 		},
 		{
 			"name": "Grave of the Obsidian Heart",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Artifact",
 			"collector_number": "92",
@@ -3651,8 +3651,8 @@
 		},
 		{
 			"name": "Buccaneer Turncoat",
-			"rarity": "cube",
-			"mana_cost": "{BR}{BR}",
+			"rarity": "special",
+			"mana_cost": "{B/R}{B/R}",
 			"type": "Creature — Elf Rogue",
 			"collector_number": "366",
 			"image_uris": {
@@ -3661,7 +3661,7 @@
 		},
 		{
 			"name": "Here be Dragons",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Instant",
 			"collector_number": "351",
@@ -3671,7 +3671,7 @@
 		},
 		{
 			"name": "Hentus, Seed of Doubt",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Enchantment Creature — Demigod",
 			"collector_number": "350",
@@ -3681,7 +3681,7 @@
 		},
 		{
 			"name": "Sandstone Berserker",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Berserker",
 			"collector_number": "254",
@@ -3691,7 +3691,7 @@
 		},
 		{
 			"name": "Tracker's Revelation",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
 			"collector_number": "328",
@@ -3701,7 +3701,7 @@
 		},
 		{
 			"name": "Razorwind Griffin",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Griffin",
 			"collector_number": "51",
@@ -3711,7 +3711,7 @@
 		},
 		{
 			"name": "Cerat, Asari Hunter",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Planeswalker — Cerat",
 			"collector_number": "345",
@@ -3721,7 +3721,7 @@
 		},
 		{
 			"name": "Roaming Negotiator",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Nomad",
 			"collector_number": "55",
@@ -3731,7 +3731,7 @@
 		},
 		{
 			"name": "The Hunt Begins!",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
 			"collector_number": "38",
@@ -3741,7 +3741,7 @@
 		},
 		{
 			"name": "Wayward Traveler",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Nomad",
 			"collector_number": "68",
@@ -3751,7 +3751,7 @@
 		},
 		{
 			"name": "Kwama Tender",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Elf Nomad",
 			"collector_number": "234",
@@ -3761,8 +3761,8 @@
 		},
 		{
 			"name": "Sithis Throatslitter",
-			"rarity": "cube",
-			"mana_cost": "{BG}{BG}{BG}",
+			"rarity": "special",
+			"mana_cost": "{B/G}{B/G}{B/G}",
 			"type": "Creature — Viashino Assassin",
 			"collector_number": "373",
 			"image_uris": {
@@ -3771,8 +3771,8 @@
 		},
 		{
 			"name": "Gate Guard",
-			"rarity": "cube",
-			"mana_cost": "{RW}{RW}{RW}",
+			"rarity": "special",
+			"mana_cost": "{R/W}{R/W}{R/W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "369",
 			"image_uris": {
@@ -3781,7 +3781,7 @@
 		},
 		{
 			"name": "Humble",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "37",
@@ -3791,8 +3791,8 @@
 		},
 		{
 			"name": "Sadistic Sadist",
-			"rarity": "cube",
-			"mana_cost": "{1}{UB}",
+			"rarity": "special",
+			"mana_cost": "{1}{U/B}",
 			"type": "Creature — Elf Rogue",
 			"collector_number": "372",
 			"image_uris": {
@@ -3801,7 +3801,7 @@
 		},
 		{
 			"name": "Imperial Smith",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Human Artificer",
 			"collector_number": "352",
@@ -3811,7 +3811,7 @@
 		},
 		{
 			"name": "Conscripted Service",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
 			"collector_number": "8",
@@ -3828,7 +3828,7 @@
 		},
 		{
 			"name": "Remorse",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}{U}",
 			"type": "Sorcery",
 			"collector_number": "358",
@@ -3838,7 +3838,7 @@
 		},
 		{
 			"name": "In Good Health",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
 			"collector_number": "39",
@@ -3848,7 +3848,7 @@
 		},
 		{
 			"name": "Hard Daze Knight",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Knight Wizard",
 			"collector_number": "94",
@@ -3858,7 +3858,7 @@
 		},
 		{
 			"name": "Elvish Scoutwarden",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Scout",
 			"collector_number": "282",
@@ -3868,7 +3868,7 @@
 		},
 		{
 			"name": "Widow of the Silent Mire",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Creature — Wraith Warlock",
 			"collector_number": "203",
@@ -3878,7 +3878,7 @@
 		},
 		{
 			"name": "Dragon Cross Recruit",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Human Knight",
 			"collector_number": "15",
@@ -3888,7 +3888,7 @@
 		},
 		{
 			"name": "Dragonslayer Troupe",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "16",
@@ -3898,7 +3898,7 @@
 		},
 		{
 			"name": "New Skvor Detachment",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Knight Survivor",
 			"collector_number": "45",
@@ -3908,7 +3908,7 @@
 		},
 		{
 			"name": "Beauty of Prose",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"collector_number": "209",
@@ -3918,7 +3918,7 @@
 		},
 		{
 			"name": "Gwendyla, Senator of Arts",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "227",
@@ -3928,7 +3928,7 @@
 		},
 		{
 			"name": "Chilling Constellation",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Snow Land",
 			"collector_number": "399",
@@ -3938,7 +3938,7 @@
 		},
 		{
 			"name": "Glacial Wonder",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Snow Land",
 			"collector_number": "407",
@@ -3948,7 +3948,7 @@
 		},
 		{
 			"name": "Lumbering Valley",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Snow Land",
 			"collector_number": "415",
@@ -3958,7 +3958,7 @@
 		},
 		{
 			"name": "Muckroot Falls",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Snow Land",
 			"collector_number": "419",
@@ -3968,7 +3968,7 @@
 		},
 		{
 			"name": "Ravaging Runes",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Snow Land",
 			"collector_number": "426",
@@ -3978,7 +3978,7 @@
 		},
 		{
 			"name": "Roaming Remains",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Snow Land",
 			"collector_number": "428",
@@ -3988,7 +3988,7 @@
 		},
 		{
 			"name": "Sleeping Cairn",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Snow Land",
 			"collector_number": "431",
@@ -3998,7 +3998,7 @@
 		},
 		{
 			"name": "Spirit Valley",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Snow Land",
 			"collector_number": "434",
@@ -4008,7 +4008,7 @@
 		},
 		{
 			"name": "Sundering Terrain",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Snow Land",
 			"collector_number": "437",
@@ -4018,7 +4018,7 @@
 		},
 		{
 			"name": "Unshaken Oak",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Snow Land",
 			"collector_number": "441",
@@ -4028,7 +4028,7 @@
 		},
 		{
 			"name": "Northern Holdout",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Snow Land",
 			"collector_number": "420",
@@ -4038,7 +4038,7 @@
 		},
 		{
 			"name": "Winterheath Snowbanks",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Snow Land",
 			"collector_number": "444",
@@ -4048,7 +4048,7 @@
 		},
 		{
 			"name": "Winterheath Tundra",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Snow Land",
 			"collector_number": "445",
@@ -4058,7 +4058,7 @@
 		},
 		{
 			"name": "Expansive Sprawl",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
 			"collector_number": "405",
@@ -4068,7 +4068,7 @@
 		},
 		{
 			"name": "Weathered Slums",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
 			"collector_number": "442",
@@ -4078,7 +4078,7 @@
 		},
 		{
 			"name": "Greengate Mall",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
 			"collector_number": "408",
@@ -4088,7 +4088,7 @@
 		},
 		{
 			"name": "Lakeside Market",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
 			"collector_number": "413",
@@ -4098,7 +4098,7 @@
 		},
 		{
 			"name": "Smokeheap Slums",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
 			"collector_number": "432",
@@ -4108,7 +4108,7 @@
 		},
 		{
 			"name": "Lowland Mire",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
 			"collector_number": "414",
@@ -4118,7 +4118,7 @@
 		},
 		{
 			"name": "Coral Pools",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
 			"collector_number": "401",
@@ -4128,7 +4128,7 @@
 		},
 		{
 			"name": "Stagnant Bog",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
 			"collector_number": "435",
@@ -4138,7 +4138,7 @@
 		},
 		{
 			"name": "Tropical Estuary",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
 			"collector_number": "440",
@@ -4148,7 +4148,7 @@
 		},
 		{
 			"name": "Ritual Stones",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
 			"collector_number": "427",
@@ -4158,7 +4158,7 @@
 		},
 		{
 			"name": "Cumulozoa",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "402",
@@ -4168,7 +4168,7 @@
 		},
 		{
 			"name": "Field of Regrowth",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "406",
@@ -4178,7 +4178,7 @@
 		},
 		{
 			"name": "Errant Castaway",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Mercenary",
 			"collector_number": "17",
@@ -4188,8 +4188,8 @@
 		},
 		{
 			"name": "Krxtach, Anointed Chorus",
-			"rarity": "cube",
-			"mana_cost": "{3}{WP}{W}",
+			"rarity": "special",
+			"mana_cost": "{3}{W/P}{W}",
 			"type": "Legendary Planeswalker — Krskith",
 			"collector_number": "42",
 			"image_uris": {
@@ -4198,7 +4198,7 @@
 		},
 		{
 			"name": "Hired Investigator",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "35",
@@ -4208,7 +4208,7 @@
 		},
 		{
 			"name": "Homicide Detectives",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Citizen",
 			"collector_number": "36",
@@ -4218,7 +4218,7 @@
 		},
 		{
 			"name": "Astral Overlook",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
 			"collector_number": "4",
@@ -4228,7 +4228,7 @@
 		},
 		{
 			"name": "Bloodcall Savior",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Vampire Citizen",
 			"collector_number": "6",
@@ -4238,7 +4238,7 @@
 		},
 		{
 			"name": "Constant Genesis",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Sorcery",
 			"collector_number": "346",
@@ -4248,7 +4248,7 @@
 		},
 		{
 			"name": "Zenith, Chitinous Isle",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{6}{B}{G}{U}",
 			"type": "Legendary Creature — Crab Beast",
 			"collector_number": "365",
@@ -4258,7 +4258,7 @@
 		},
 		{
 			"name": "Stormshell, Voracious Terror",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{8}{U}{R}",
 			"type": "Legendary Creature — Turtle Beast",
 			"collector_number": "359",
@@ -4268,7 +4268,7 @@
 		},
 		{
 			"name": "Karstaag, Ghost Titan",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Snow Creature — Spirit Giant",
 			"collector_number": "353",
@@ -4278,7 +4278,7 @@
 		},
 		{
 			"name": "Njolbur, Aurorascale",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Snow Creature — Elemental Dragon",
 			"collector_number": "356",
@@ -4288,7 +4288,7 @@
 		},
 		{
 			"name": "Otherworldly Orrery",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{8}",
 			"type": "Legendary Artifact",
 			"collector_number": "387",
@@ -4298,7 +4298,7 @@
 		},
 		{
 			"name": "On Winds of Adventure",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment",
 			"collector_number": "46",
@@ -4308,7 +4308,7 @@
 		},
 		{
 			"name": "Nicol Bolas, Mastermind",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{U}{B}{R}",
 			"type": "Legendary Planeswalker — Bolas",
 			"collector_number": "355",
@@ -4318,7 +4318,7 @@
 		},
 		{
 			"name": "Ardent Guardians",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Golem",
 			"collector_number": "378",
@@ -4328,7 +4328,7 @@
 		},
 		{
 			"name": "Spellweaver's Vial",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact",
 			"collector_number": "394",
@@ -4338,7 +4338,7 @@
 		},
 		{
 			"name": "Obsidian Manalith",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
 			"collector_number": "386",
@@ -4348,7 +4348,7 @@
 		},
 		{
 			"name": "Kingmaker, Gem of Authority",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{X}{X}",
 			"type": "Legendary Artifact",
 			"collector_number": "384",
@@ -4358,7 +4358,7 @@
 		},
 		{
 			"name": "Fossil Slab",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact — Clue",
 			"collector_number": "383",
@@ -4368,7 +4368,7 @@
 		},
 		{
 			"name": "Magus's Talisman",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
 			"collector_number": "385",
@@ -4378,7 +4378,7 @@
 		},
 		{
 			"name": "Pilfered Purse",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact — Clue",
 			"collector_number": "388",
@@ -4388,7 +4388,7 @@
 		},
 		{
 			"name": "Prizewinner",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "389",
@@ -4398,7 +4398,7 @@
 		},
 		{
 			"name": "Aurora Lotus",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{0}",
 			"type": "Snow Artifact",
 			"collector_number": "379",
@@ -4408,7 +4408,7 @@
 		},
 		{
 			"name": "Dubious Designs",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{X}{X}{1}",
 			"type": "Artifact",
 			"collector_number": "382",
@@ -4418,7 +4418,7 @@
 		},
 		{
 			"name": "Thawing Township",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "439",
@@ -4428,7 +4428,7 @@
 		},
 		{
 			"name": "Pale Valley",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Snow Land",
 			"collector_number": "423",
@@ -4438,7 +4438,7 @@
 		},
 		{
 			"name": "Magmatic Horizon",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "417",
@@ -4448,7 +4448,7 @@
 		},
 		{
 			"name": "Ancestor Glade",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "396",
@@ -4458,7 +4458,7 @@
 		},
 		{
 			"name": "Hist Grove",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest",
 			"collector_number": "411",
@@ -4468,7 +4468,7 @@
 		},
 		{
 			"name": "Numidium's Tomb",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island",
 			"collector_number": "421",
@@ -4478,7 +4478,7 @@
 		},
 		{
 			"name": "Bruma Guildhall",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain",
 			"collector_number": "397",
@@ -4488,7 +4488,7 @@
 		},
 		{
 			"name": "Skyshard Sanctuary",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains",
 			"collector_number": "430",
@@ -4498,7 +4498,7 @@
 		},
 		{
 			"name": "Oblivion Deadlands",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp",
 			"collector_number": "422",
@@ -4508,7 +4508,7 @@
 		},
 		{
 			"name": "Harvest Fields",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest",
 			"collector_number": "410",
@@ -4518,7 +4518,7 @@
 		},
 		{
 			"name": "Cold Pass",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island",
 			"collector_number": "400",
@@ -4528,7 +4528,7 @@
 		},
 		{
 			"name": "Guild Tower",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain",
 			"collector_number": "409",
@@ -4538,7 +4538,7 @@
 		},
 		{
 			"name": "Market Center",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains",
 			"collector_number": "418",
@@ -4548,7 +4548,7 @@
 		},
 		{
 			"name": "Burial Grounds",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp",
 			"collector_number": "398",
@@ -4558,7 +4558,7 @@
 		},
 		{
 			"name": "Planar Market",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "424",
@@ -4568,7 +4568,7 @@
 		},
 		{
 			"name": "Snow-Covered Forest",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Snow Land — Forest",
 			"collector_number": "455",
@@ -4578,7 +4578,7 @@
 		},
 		{
 			"name": "Snow-Covered Island",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Snow Land — Island",
 			"collector_number": "449",
@@ -4588,7 +4588,7 @@
 		},
 		{
 			"name": "Snow-Covered Mountain",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Snow Land — Mountain",
 			"collector_number": "453",
@@ -4598,7 +4598,7 @@
 		},
 		{
 			"name": "Snow-Covered Plains",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Snow Land — Plains",
 			"collector_number": "447",
@@ -4608,7 +4608,7 @@
 		},
 		{
 			"name": "Snow-Covered Swamp",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Snow Land — Swamp",
 			"collector_number": "450",
@@ -4618,7 +4618,7 @@
 		},
 		{
 			"name": "Swamp",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
 			"collector_number": "451",
@@ -4628,7 +4628,7 @@
 		},
 		{
 			"name": "Island",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
 			"collector_number": "448",
@@ -4638,7 +4638,7 @@
 		},
 		{
 			"name": "Plains",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
 			"collector_number": "446",
@@ -4648,7 +4648,7 @@
 		},
 		{
 			"name": "Mountain",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
 			"collector_number": "452",
@@ -4658,7 +4658,7 @@
 		},
 		{
 			"name": "Forest",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
 			"collector_number": "454",
@@ -4668,7 +4668,7 @@
 		},
 		{
 			"name": "Wuuld Nomad",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Giant Nomad",
 			"collector_number": "339",
@@ -4678,7 +4678,7 @@
 		},
 		{
 			"name": "Solar Flare",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery",
 			"collector_number": "260",
@@ -4688,7 +4688,7 @@
 		},
 		{
 			"name": "Mammalian Dawn",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment",
 			"collector_number": "303",
@@ -4698,7 +4698,7 @@
 		},
 		{
 			"name": "Warpath Orahan",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Orc Berserker",
 			"collector_number": "270",
@@ -4708,7 +4708,7 @@
 		},
 		{
 			"name": "Hand of Ravenwood",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Snow Creature — Human Warrior",
 			"collector_number": "162",
@@ -4718,7 +4718,7 @@
 		},
 		{
 			"name": "Forced Penance",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Snow Sorcery",
 			"collector_number": "158",
@@ -4728,7 +4728,7 @@
 		},
 		{
 			"name": "Damping Stone",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{X}{X}",
 			"type": "Artifact",
 			"collector_number": "381",
@@ -4738,7 +4738,7 @@
 		},
 		{
 			"name": "Ruination Engine",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{7}",
 			"type": "Artifact",
 			"collector_number": "391",
@@ -4748,7 +4748,7 @@
 		},
 		{
 			"name": "Ancient Heirloom",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment Treasure",
 			"collector_number": "377",
@@ -4758,7 +4758,7 @@
 		},
 		{
 			"name": "Ancient Guardstone",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}",
 			"type": "Artifact",
 			"collector_number": "376",
@@ -4768,7 +4768,7 @@
 		},
 		{
 			"name": "The Second Wave",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "393",
@@ -4778,7 +4778,7 @@
 		},
 		{
 			"name": "Mjeld Bonebreaker",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Minotaur Soldier",
 			"collector_number": "354",
@@ -4788,7 +4788,7 @@
 		},
 		{
 			"name": "Sheoldred, Doom Engine",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Phyrexian Praetor",
 			"collector_number": "190",
@@ -4798,8 +4798,8 @@
 		},
 		{
 			"name": "Sparkwork Adept",
-			"rarity": "cube",
-			"mana_cost": "{WU}",
+			"rarity": "special",
+			"mana_cost": "{W/U}",
 			"type": "Creature — Human Artificer",
 			"collector_number": "374",
 			"image_uris": {
@@ -4808,7 +4808,7 @@
 		},
 		{
 			"name": "Titan of Cold Nights",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Snow Creature — Spirit Giant",
 			"collector_number": "128",
@@ -4818,7 +4818,7 @@
 		},
 		{
 			"name": "Smash and Grab",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Instant",
 			"collector_number": "192",
@@ -4828,7 +4828,7 @@
 		},
 		{
 			"name": "Profane Aristocrat",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Eldrazi Vampire",
 			"collector_number": "357",
@@ -4838,7 +4838,7 @@
 		},
 		{
 			"name": "Decaying Decadence",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Enchantment",
 			"collector_number": "152",
@@ -4848,7 +4848,7 @@
 		},
 		{
 			"name": "Vile Rotbile",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Creature — Ooze Fungus",
 			"collector_number": "361",
@@ -4858,8 +4858,8 @@
 		},
 		{
 			"name": "Spoken-Force Greybeard",
-			"rarity": "cube",
-			"mana_cost": "{UR}{UR}",
+			"rarity": "special",
+			"mana_cost": "{U/R}{U/R}",
 			"type": "Creature — Human Wizard",
 			"collector_number": "375",
 			"image_uris": {
@@ -4868,8 +4868,8 @@
 		},
 		{
 			"name": "Game Hunt",
-			"rarity": "cube",
-			"mana_cost": "{1}{GU}",
+			"rarity": "special",
+			"mana_cost": "{1}{G/U}",
 			"type": "Sorcery",
 			"collector_number": "368",
 			"image_uris": {
@@ -4878,7 +4878,7 @@
 		},
 		{
 			"name": "Ruthless Scalebeard",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Dragon Pirate",
 			"collector_number": "252",
@@ -4888,7 +4888,7 @@
 		},
 		{
 			"name": "Bounty Hawker",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Cat Rogue",
 			"collector_number": "143",
@@ -4898,7 +4898,7 @@
 		},
 		{
 			"name": "The Call",
-			"rarity": "cube",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "",
 			"collector_number": "0",
@@ -4909,459 +4909,459 @@
 	]
 
 [cube(15)]
-	5 Cryptic Sphinx
-	5 Eldritch Intrusion
-	5 Kefnet's Denial
-	5 Odelia Huntwarden
-	5 Death Incarnate
-	5 Unraveling Zero Dawn
-	5 Elder Skaal of Odelia
-	5 Flittering Wisp
-	5 Caravan Recruiter
-	5 Crossways Bandit
-	5 Plema, Titan of Life's Spiral
-	5 Serpent's Devout
-	5 Serpent's Diviner
-	5 Skittering Fiend
-	5 Revelers of Lost Gods
-	5 Liliana, Dread Reckoner
-	5 Embrace Shadows
-	5 Dwemer-Bound Specter
-	5 Greedy Hands
-	5 Creeping Crypts
-	5 Ransacking Ruffian
-	5 Tavern Traveler
-	5 Scatter Array
-	5 Seabaren Lorekeepers
-	5 Thousand-Year Slumber
-	5 Huiltaii Hydra
-	5 Oakblossom Druid
-	5 Infamy
-	5 Court Marshal
-	5 Cold Grave
-	5 Fated Challenge
-	5 Fell the Feeble
-	5 Winter's Exhaustion
-	5 Impulsive Plan
-	5 Province Guardian
-	5 Fjorda of Jorundar
-	5 Scavenging Trek
-	5 Splitting Bloom
-	5 Stalwart Galleon
-	5 Stowawaif
-	5 Caitisan's Conquest
-	5 Charted Course
-	5 Her Majesty Justicia
-	5 Royal Helmsguard
-	5 Doomed Sauropod
-	5 Scavenging Grounds
-	5 Seronia, Consecrated Oracle
-	5 Wandering Caravan
-	5 Warpath Carnivore
-	5 Survive the Hunt
-	5 Sanctuary Door
-	5 Gibbering Scamp
-	5 Oblivion Invader
-	5 Elsweyr Marshlurker
-	5 Mudcrab Den
-	5 Nulling Atronach
-	5 Rime Daedra
-	5 Torment Halls
-	5 Everblossom Spriggan
-	5 Aedra Chaplain
-	5 Force Through
-	5 Magicka Instructor
-	5 Traversal
-	5 Catalyzing Lightning
-	5 Noble's Shadow
-	5 Obliterating Lightning
-	5 Reunification of Tamriel
-	5 Valiant Nord
-	5 Astrid the Black Hand
-	5 Blood Sacrament
-	5 Morag Tong Agent
-	5 Crypt Discovery
-	5 Volta Hearth
-	5 Engulf
-	5 Envoy of Autumn
-	5 Lost to the Ages
-	5 Ashen Atronach
-	5 Scorching Scourge
-	5 Miraak's Dragon Uprising
-	5 Dexion Reads the Elder Scroll
-	5 Brotherhood Conspirant
-	5 Chaos in Bloom
-	5 Constant Conjuring
-	5 M'aiq the Liar
-	5 Unbound Dremora
-	5 Dungeon Dive
-	5 Dungeon Tinkerer
-	5 Nocturnal's Informant
-	5 Pyrelight Guide
-	5 Life Unfettered
-	5 Elvish Opportunist
-	5 Guild Opportunist
-	5 Disgruntled Nord
-	5 Ulfric's Legion
-	5 Sparking Automaton
-	5 Xotiala the Ritualist
-	5 Ancano, Thalmor Agent
-	5 Party Crasher
-	5 Nighthallow Ritual
-	5 Muzzarlo the Spellweaver
-	5 City Sprawl
-	5 Incense Expert
-	5 Voracious Hydradile
-	5 Night's Ring Instructor
-	5 Maddening Compulsion
-	5 Vitalia Historian
-	5 Angel of Ephemeral Life
-	5 Gather at the Scene
-	5 Maelo, Corrupt Official
-	5 Castaway Skulkers
-	5 Dread Resurrection
-	5 Gifter of Lineages
-	5 Nest Watchers
-	5 Soulfire Rogue
-	5 Rend by Tide
-	5 Sage of All
-	5 Tezoculpa Rust-Priest
-	5 Forging the Sun
-	5 Shining Legionnaire
-	5 Unstable Ground
-	5 War-Horn Raider
-	5 Disseminate
-	5 Bitter Brawler
-	5 Jorundar Starscribe
-	5 Jorundar Aspirant
-	5 Archer of Old Hunts
-	5 Proclaimer of Ages
-	5 Spirit Speaker
-	5 Winterheath Druid
-	5 Goblin Snowriders
-	5 Aetherborn Renegade
-	5 Mephidross Devastator
-	5 Plaguerend
-	5 Wandering Khenra
-	5 Silumgar Gravecaller
-	5 Dies
-	5 Hate Stoker
-	5 Murder Most Foul
-	5 Moorland Inquisitor
-	5 Cosmic Insight
-	5 Destabilize
-	5 Memory Palace
-	5 Skosgred Runesmith
-	5 Rimewind Mage
-	5 Spellbane
-	5 Earthcrafter Mage
-	5 Kyne's Anamist
-	5 Prismatic Elf
-	5 Akatosh's Intervention
-	5 J'hiari, Secunda's Might
-	5 Pyrewinder Sorcerer
-	5 Against the Odds
-	5 Geistcaller Cathar
-	5 Lurk from Above
-	5 Ulvenwald Haunt
-	5 Selhoff Ritualist
-	5 Niblis of Regret
-	5 Archbishop of Discord
-	5 Gid, Bearer of Knowledge
-	5 Mockery of Death
-	5 Olfdenmyr Prowler
-	5 Ravage the Guild
-	5 Winter Wanders Near
-	5 Completely Frozen
-	5 Patient Skald
-	5 On a Journey
-	5 Rough Seas
-	5 Secrets of the Drowngod
-	5 Stormsight
-	5 Stribius's Cutpurse
-	5 Think Ahead
-	5 Witness the Beast
-	5 Trail of Irrblossoms
-	5 Bear-King of Hrostgard
-	5 Charging Yeti
-	5 Braid of Growth
-	5 Chart New Lands
-	5 Ever-Twisting Cycle
-	5 Frost-Den Spider
-	5 Gigantimorph
-	5 Hardened Grovetender
-	5 History Reclaimed
-	5 Herald of Spring's Bounty
-	5 Hunter of the Old Valley
-	5 Impromptu Fortifications
-	5 Olfdenmyr All-Seer
-	5 Province Conqueror
-	5 Rampaging Springhide
-	5 Run Over
-	5 Snowfield Mother
-	5 Slay the Beast
-	5 Trace the Aurora
-	5 Valley Crusher
-	5 Wayward Seeker
-	5 Wonder of Worlds
-	5 Weald Walker
-	5 Conduit of Stribius
-	5 Fervor of Frost
-	5 Consuming Fire
-	5 Fjall Scavenger
-	5 Last Lash
-	5 Flame Axe
-	5 Psychotic Strike
-	5 Rallied Rabble
-	5 Runescribe of Stribius
-	5 Saigura Brutalizer
-	5 Snowbreach Packmaster
-	5 Viridan Harvester
-	5 Frostbite
-	5 Giant's Wake
-	5 Second Chances
-	5 Squadron Surgeon
-	5 Into Strange Unknowns
-	5 Lotus Dryad
-	5 Under Heel
-	5 Underbelly's Eyes
-	5 Bustling Streets
-	5 Backdoor
-	5 Cybertech Sparkworker
-	5 Data Convergence
-	5 Denied Clearance
-	5 Toxic Ventilation
-	5 Storage Hub
-	5 Weathered Wanderer
-	5 Source Code Engineer
-	5 Punk Prowler
-	5 Compilation Adept
-	5 Gale Street Gearsmith
-	5 Power Savant
-	5 Streetwise Urchin
-	5 Gilded Slicer
-	5 Heavy-weapons Buyer
-	5 Invasion of Festenya
-	5 Machiavelle, Senator of Commerce
-	5 Thieving Stray
-	5 Adventurous Messenger
-	5 Gelessa, Senator of Sciences
-	5 Whispers Thief
-	5 Deco Wings
-	5 Moment of Growth
-	5 Pinnacle of Vigor
-	5 Romana, Senator of Tradition
-	5 Stern Groundskeepers
-	5 Doomed Detective
-	5 Dealbroker
-	5 Election Campaign
-	5 Illicit Operations
-	5 Speakeasy Stalker
-	5 Towering Heights Peddler
-	5 Vitalia Freelancer
-	5 Anachronism
-	5 Haranguing Hanged
-	5 Loose Cargo
-	5 Cut-Sails Ulril
-	5 Kelp Sifter
-	5 Spirit of Adventure
-	5 Volitan Lurker
-	5 Broadside!
-	5 Haul Harvester
-	5 Relic Acquisitioner
-	5 Six Feet and Sixty Pence
-	5 Galavanting Seafarer
-	5 Supreme Galleon
-	5 Deceit
-	5 Linebreaker Assassin
-	5 Induction Ceremony
-	5 Assault Strategist
-	5 Overwhelming Advantage
-	5 Influence Exerter
-	5 Blood on the Ice
-	5 Spiritweaver
-	5 Death Anoints Fjalki
-	5 Pinnacle of Immortality
-	5 Skorgrad Valkyrie
-	5 Alabaster Boa
-	5 Bloodsea Privateer
-	5 Glorious Renewal
-	5 Catastrophic Emergence
-	5 Volta Hearth, Technoadept
-	5 Heraldry of Flame
-	5 Call to the Ravens
-	5 Leyline Guide
-	5 Peakpoint Presence
-	5 Gana-Mali Procession
-	5 Valus, Gold-Crowned
-	5 You Hear a Noise
-	5 Unbecome
-	5 Mim-Reiki Caeseus
-	5 Rally-Cry Nord
-	5 Before the Storm
-	5 Helvalla, God of Glory
-	5 Ondu Wayguide
-	5 Veteran Cathar
-	5 Hermaeus Mora, Lorekeeper
-	5 Grok, Vengeful Giant
-	5 Arngeir, Greybeard's Voice
-	5 Bestoleth Charm
-	5 Cassowary Warden
-	5 Sail the Cloudskies
-	5 Destiny Approaches
-	5 Impending Doom
-	5 Snowsculptor
-	5 Helvalla Warmonger
-	5 Lost in the Drifts
-	5 Bonechilling Bite
-	5 Valley Pouncer
-	5 Province Banner
-	5 Bitter Spawn
-	5 Chill of the Grave
-	5 Wandering Yeti
-	5 Unhallowed Dead
-	5 Aurora Reader
-	5 Frost-Weald Explorer
-	5 Realmhopper Giant
-	5 Wispheim Titan
-	5 Forguard Summons
-	5 Game Hunters
-	5 Frostweaver
-	5 Guide to Grace
-	5 Gunvar Stillgrave
-	5 Fjorda's Oath
-	5 Yvara Springhart
-	5 Nose to the Grindstone
-	5 Seek Gold
-	5 Rear Admiral
-	5 Divined Barrelman
-	5 Into Port
-	5 Morgata Quartermaster
-	5 Avatar of the Sister Gods
-	5 Desert Bluffs
-	5 Endorheic Lake
-	5 Irrigated Terrace
-	5 Luminous Reef
-	5 Pristine Pools
-	5 Rooted Falls
-	5 Smoking Crater
-	5 Stranding Shoal
-	5 Sunken Depths
-	5 Weirding Tropics
-	5 Grave of the Sparrow
-	5 Grave of the Obsidian Heart
-	5 Buccaneer Turncoat
-	5 Here be Dragons
-	5 Hentus, Seed of Doubt
-	5 Sandstone Berserker
-	5 Tracker's Revelation
-	5 Razorwind Griffin
-	5 Cerat, Asari Hunter
-	5 Roaming Negotiator
-	5 The Hunt Begins!
-	5 Wayward Traveler
-	5 Kwama Tender
-	5 Sithis Throatslitter
-	5 Gate Guard
-	5 Humble
-	5 Sadistic Sadist
-	5 Imperial Smith
-	5 Conscripted Service
-	5 Remorse
-	5 In Good Health
-	5 Hard Daze Knight
-	5 Elvish Scoutwarden
-	5 Widow of the Silent Mire
-	5 Dragon Cross Recruit
-	5 Dragonslayer Troupe
-	5 New Skvor Detachment
-	5 Beauty of Prose
-	5 Gwendyla, Senator of Arts
-	5 Chilling Constellation
-	5 Glacial Wonder
-	5 Lumbering Valley
-	5 Muckroot Falls
-	5 Ravaging Runes
-	5 Roaming Remains
-	5 Sleeping Cairn
-	5 Spirit Valley
-	5 Sundering Terrain
-	5 Unshaken Oak
-	5 Northern Holdout
-	5 Winterheath Snowbanks
-	5 Winterheath Tundra
-	5 Expansive Sprawl
-	5 Weathered Slums
-	5 Greengate Mall
-	5 Lakeside Market
-	5 Smokeheap Slums
-	5 Lowland Mire
-	5 Coral Pools
-	5 Stagnant Bog
-	5 Tropical Estuary
-	5 Ritual Stones
-	5 Cumulozoa
-	5 Field of Regrowth
-	5 Errant Castaway
-	5 Krxtach, Anointed Chorus
-	5 Hired Investigator
-	5 Homicide Detectives
-	5 Astral Overlook
-	5 Bloodcall Savior
-	5 Constant Genesis
-	5 Zenith, Chitinous Isle
-	5 Stormshell, Voracious Terror
-	5 Karstaag, Ghost Titan
-	5 Njolbur, Aurorascale
-	5 Otherworldly Orrery
-	5 On Winds of Adventure
-	5 Nicol Bolas, Mastermind
-	5 Ardent Guardians
-	5 Spellweaver's Vial
-	5 Obsidian Manalith
-	5 Kingmaker, Gem of Authority
-	5 Fossil Slab
-	5 Magus's Talisman
-	5 Pilfered Purse
-	5 Prizewinner
-	5 Aurora Lotus
-	5 Dubious Designs
-	5 Thawing Township
-	5 Pale Valley
-	5 Magmatic Horizon
-	5 Ancestor Glade
-	5 Hist Grove
-	5 Numidium's Tomb
-	5 Bruma Guildhall
-	5 Skyshard Sanctuary
-	5 Oblivion Deadlands
-	5 Harvest Fields
-	5 Cold Pass
-	5 Guild Tower
-	5 Market Center
-	5 Burial Grounds
-	5 Planar Market
-	5 Wuuld Nomad
-	5 Solar Flare
-	5 Mammalian Dawn
-	5 Warpath Orahan
-	5 Hand of Ravenwood
-	5 Forced Penance
-	5 Damping Stone
-	5 Ruination Engine
-	5 Ancient Heirloom
-	5 Ancient Guardstone
-	5 The Second Wave
-	5 Mjeld Bonebreaker
-	5 Sheoldred, Doom Engine
-	5 Sparkwork Adept
-	5 Titan of Cold Nights
-	5 Smash and Grab
-	5 Profane Aristocrat
-	5 Decaying Decadence
-	5 Vile Rotbile
-	5 Spoken-Force Greybeard
-	5 Game Hunt
-	5 Ruthless Scalebeard
-	5 Bounty Hawker
-	5 The Call
+	1 Cryptic Sphinx
+	1 Eldritch Intrusion
+	1 Kefnet's Denial
+	1 Odelia Huntwarden
+	1 Death Incarnate
+	1 Unraveling Zero Dawn
+	1 Elder Skaal of Odelia
+	1 Flittering Wisp
+	1 Caravan Recruiter
+	1 Crossways Bandit
+	1 Plema, Titan of Life's Spiral
+	1 Serpent's Devout
+	1 Serpent's Diviner
+	1 Skittering Fiend
+	1 Revelers of Lost Gods
+	1 Liliana, Dread Reckoner
+	1 Embrace Shadows
+	1 Dwemer-Bound Specter
+	1 Greedy Hands
+	1 Creeping Crypts
+	1 Ransacking Ruffian
+	1 Tavern Traveler
+	1 Scatter Array
+	1 Seabaren Lorekeepers
+	1 Thousand-Year Slumber
+	1 Huiltaii Hydra
+	1 Oakblossom Druid
+	1 Infamy
+	1 Court Marshal
+	1 Cold Grave
+	1 Fated Challenge
+	1 Fell the Feeble
+	1 Winter's Exhaustion
+	1 Impulsive Plan
+	1 Province Guardian
+	1 Fjorda of Jorundar
+	1 Scavenging Trek
+	1 Splitting Bloom
+	1 Stalwart Galleon
+	1 Stowawaif
+	1 Caitisan's Conquest
+	1 Charted Course
+	1 Her Majesty Justicia
+	1 Royal Helmsguard
+	1 Doomed Sauropod
+	1 Scavenging Grounds
+	1 Seronia, Consecrated Oracle
+	1 Wandering Caravan
+	1 Warpath Carnivore
+	1 Survive the Hunt
+	1 Sanctuary Door
+	1 Gibbering Scamp
+	1 Oblivion Invader
+	1 Elsweyr Marshlurker
+	1 Mudcrab Den
+	1 Nulling Atronach
+	1 Rime Daedra
+	1 Torment Halls
+	1 Everblossom Spriggan
+	1 Aedra Chaplain
+	1 Force Through
+	1 Magicka Instructor
+	1 Traversal
+	1 Catalyzing Lightning
+	1 Noble's Shadow
+	1 Obliterating Lightning
+	1 Reunification of Tamriel
+	1 Valiant Nord
+	1 Astrid the Black Hand
+	1 Blood Sacrament
+	1 Morag Tong Agent
+	1 Crypt Discovery
+	1 Volta Hearth
+	1 Engulf
+	1 Envoy of Autumn
+	1 Lost to the Ages
+	1 Ashen Atronach
+	1 Scorching Scourge
+	1 Miraak's Dragon Uprising
+	1 Dexion Reads the Elder Scroll
+	1 Brotherhood Conspirant
+	1 Chaos in Bloom
+	1 Constant Conjuring
+	1 M'aiq the Liar
+	1 Unbound Dremora
+	1 Dungeon Dive
+	1 Dungeon Tinkerer
+	1 Nocturnal's Informant
+	1 Pyrelight Guide
+	1 Life Unfettered
+	1 Elvish Opportunist
+	1 Guild Opportunist
+	1 Disgruntled Nord
+	1 Ulfric's Legion
+	1 Sparking Automaton
+	1 Xotiala the Ritualist
+	1 Ancano, Thalmor Agent
+	1 Party Crasher
+	1 Nighthallow Ritual
+	1 Muzzarlo the Spellweaver
+	1 City Sprawl
+	1 Incense Expert
+	1 Voracious Hydradile
+	1 Night's Ring Instructor
+	1 Maddening Compulsion
+	1 Vitalia Historian
+	1 Angel of Ephemeral Life
+	1 Gather at the Scene
+	1 Maelo, Corrupt Official
+	1 Castaway Skulkers
+	1 Dread Resurrection
+	1 Gifter of Lineages
+	1 Nest Watchers
+	1 Soulfire Rogue
+	1 Rend by Tide
+	1 Sage of All
+	1 Tezoculpa Rust-Priest
+	1 Forging the Sun
+	1 Shining Legionnaire
+	1 Unstable Ground
+	1 War-Horn Raider
+	1 Disseminate
+	1 Bitter Brawler
+	1 Jorundar Starscribe
+	1 Jorundar Aspirant
+	1 Archer of Old Hunts
+	1 Proclaimer of Ages
+	1 Spirit Speaker
+	1 Winterheath Druid
+	1 Goblin Snowriders
+	1 Aetherborn Renegade
+	1 Mephidross Devastator
+	1 Plaguerend
+	1 Wandering Khenra
+	1 Silumgar Gravecaller
+	1 Dies
+	1 Hate Stoker
+	1 Murder Most Foul
+	1 Moorland Inquisitor
+	1 Cosmic Insight
+	1 Destabilize
+	1 Memory Palace
+	1 Skosgred Runesmith
+	1 Rimewind Mage
+	1 Spellbane
+	1 Earthcrafter Mage
+	1 Kyne's Anamist
+	1 Prismatic Elf
+	1 Akatosh's Intervention
+	1 J'hiari, Secunda's Might
+	1 Pyrewinder Sorcerer
+	1 Against the Odds
+	1 Geistcaller Cathar
+	1 Lurk from Above
+	1 Ulvenwald Haunt
+	1 Selhoff Ritualist
+	1 Niblis of Regret
+	1 Archbishop of Discord
+	1 Gid, Bearer of Knowledge
+	1 Mockery of Death
+	1 Olfdenmyr Prowler
+	1 Ravage the Guild
+	1 Winter Wanders Near
+	1 Completely Frozen
+	1 Patient Skald
+	1 On a Journey
+	1 Rough Seas
+	1 Secrets of the Drowngod
+	1 Stormsight
+	1 Stribius's Cutpurse
+	1 Think Ahead
+	1 Witness the Beast
+	1 Trail of Irrblossoms
+	1 Bear-King of Hrostgard
+	1 Charging Yeti
+	1 Braid of Growth
+	1 Chart New Lands
+	1 Ever-Twisting Cycle
+	1 Frost-Den Spider
+	1 Gigantimorph
+	1 Hardened Grovetender
+	1 History Reclaimed
+	1 Herald of Spring's Bounty
+	1 Hunter of the Old Valley
+	1 Impromptu Fortifications
+	1 Olfdenmyr All-Seer
+	1 Province Conqueror
+	1 Rampaging Springhide
+	1 Run Over
+	1 Snowfield Mother
+	1 Slay the Beast
+	1 Trace the Aurora
+	1 Valley Crusher
+	1 Wayward Seeker
+	1 Wonder of Worlds
+	1 Weald Walker
+	1 Conduit of Stribius
+	1 Fervor of Frost
+	1 Consuming Fire
+	1 Fjall Scavenger
+	1 Last Lash
+	1 Flame Axe
+	1 Psychotic Strike
+	1 Rallied Rabble
+	1 Runescribe of Stribius
+	1 Saigura Brutalizer
+	1 Snowbreach Packmaster
+	1 Viridan Harvester
+	1 Frostbite
+	1 Giant's Wake
+	1 Second Chances
+	1 Squadron Surgeon
+	1 Into Strange Unknowns
+	1 Lotus Dryad
+	1 Under Heel
+	1 Underbelly's Eyes
+	1 Bustling Streets
+	1 Backdoor
+	1 Cybertech Sparkworker
+	1 Data Convergence
+	1 Denied Clearance
+	1 Toxic Ventilation
+	1 Storage Hub
+	1 Weathered Wanderer
+	1 Source Code Engineer
+	1 Punk Prowler
+	1 Compilation Adept
+	1 Gale Street Gearsmith
+	1 Power Savant
+	1 Streetwise Urchin
+	1 Gilded Slicer
+	1 Heavy-weapons Buyer
+	1 Invasion of Festenya
+	1 Machiavelle, Senator of Commerce
+	1 Thieving Stray
+	1 Adventurous Messenger
+	1 Gelessa, Senator of Sciences
+	1 Whispers Thief
+	1 Deco Wings
+	1 Moment of Growth
+	1 Pinnacle of Vigor
+	1 Romana, Senator of Tradition
+	1 Stern Groundskeepers
+	1 Doomed Detective
+	1 Dealbroker
+	1 Election Campaign
+	1 Illicit Operations
+	1 Speakeasy Stalker
+	1 Towering Heights Peddler
+	1 Vitalia Freelancer
+	1 Anachronism
+	1 Haranguing Hanged
+	1 Loose Cargo
+	1 Cut-Sails Ulril
+	1 Kelp Sifter
+	1 Spirit of Adventure
+	1 Volitan Lurker
+	1 Broadside!
+	1 Haul Harvester
+	1 Relic Acquisitioner
+	1 Six Feet and Sixty Pence
+	1 Galavanting Seafarer
+	1 Supreme Galleon
+	1 Deceit
+	1 Linebreaker Assassin
+	1 Induction Ceremony
+	1 Assault Strategist
+	1 Overwhelming Advantage
+	1 Influence Exerter
+	1 Blood on the Ice
+	1 Spiritweaver
+	1 Death Anoints Fjalki
+	1 Pinnacle of Immortality
+	1 Skorgrad Valkyrie
+	1 Alabaster Boa
+	1 Bloodsea Privateer
+	1 Glorious Renewal
+	1 Catastrophic Emergence
+	1 Volta Hearth, Technoadept
+	1 Heraldry of Flame
+	1 Call to the Ravens
+	1 Leyline Guide
+	1 Peakpoint Presence
+	1 Gana-Mali Procession
+	1 Valus, Gold-Crowned
+	1 You Hear a Noise
+	1 Unbecome
+	1 Mim-Reiki Caeseus
+	1 Rally-Cry Nord
+	1 Before the Storm
+	1 Helvalla, God of Glory
+	1 Ondu Wayguide
+	1 Veteran Cathar
+	1 Hermaeus Mora, Lorekeeper
+	1 Grok, Vengeful Giant
+	1 Arngeir, Greybeard's Voice
+	1 Bestoleth Charm
+	1 Cassowary Warden
+	1 Sail the Cloudskies
+	1 Destiny Approaches
+	1 Impending Doom
+	1 Snowsculptor
+	1 Helvalla Warmonger
+	1 Lost in the Drifts
+	1 Bonechilling Bite
+	1 Valley Pouncer
+	1 Province Banner
+	1 Bitter Spawn
+	1 Chill of the Grave
+	1 Wandering Yeti
+	1 Unhallowed Dead
+	1 Aurora Reader
+	1 Frost-Weald Explorer
+	1 Realmhopper Giant
+	1 Wispheim Titan
+	1 Forguard Summons
+	1 Game Hunters
+	1 Frostweaver
+	1 Guide to Grace
+	1 Gunvar Stillgrave
+	1 Fjorda's Oath
+	1 Yvara Springhart
+	1 Nose to the Grindstone
+	1 Seek Gold
+	1 Rear Admiral
+	1 Divined Barrelman
+	1 Into Port
+	1 Morgata Quartermaster
+	1 Avatar of the Sister Gods
+	1 Desert Bluffs
+	1 Endorheic Lake
+	1 Irrigated Terrace
+	1 Luminous Reef
+	1 Pristine Pools
+	1 Rooted Falls
+	1 Smoking Crater
+	1 Stranding Shoal
+	1 Sunken Depths
+	1 Weirding Tropics
+	1 Grave of the Sparrow
+	1 Grave of the Obsidian Heart
+	1 Buccaneer Turncoat
+	1 Here be Dragons
+	1 Hentus, Seed of Doubt
+	1 Sandstone Berserker
+	1 Tracker's Revelation
+	1 Razorwind Griffin
+	1 Cerat, Asari Hunter
+	1 Roaming Negotiator
+	1 The Hunt Begins!
+	1 Wayward Traveler
+	1 Kwama Tender
+	1 Sithis Throatslitter
+	1 Gate Guard
+	1 Humble
+	1 Sadistic Sadist
+	1 Imperial Smith
+	1 Conscripted Service
+	1 Remorse
+	1 In Good Health
+	1 Hard Daze Knight
+	1 Elvish Scoutwarden
+	1 Widow of the Silent Mire
+	1 Dragon Cross Recruit
+	1 Dragonslayer Troupe
+	1 New Skvor Detachment
+	1 Beauty of Prose
+	1 Gwendyla, Senator of Arts
+	1 Chilling Constellation
+	1 Glacial Wonder
+	1 Lumbering Valley
+	1 Muckroot Falls
+	1 Ravaging Runes
+	1 Roaming Remains
+	1 Sleeping Cairn
+	1 Spirit Valley
+	1 Sundering Terrain
+	1 Unshaken Oak
+	1 Northern Holdout
+	1 Winterheath Snowbanks
+	1 Winterheath Tundra
+	1 Expansive Sprawl
+	1 Weathered Slums
+	1 Greengate Mall
+	1 Lakeside Market
+	1 Smokeheap Slums
+	1 Lowland Mire
+	1 Coral Pools
+	1 Stagnant Bog
+	1 Tropical Estuary
+	1 Ritual Stones
+	1 Cumulozoa
+	1 Field of Regrowth
+	1 Errant Castaway
+	1 Krxtach, Anointed Chorus
+	1 Hired Investigator
+	1 Homicide Detectives
+	1 Astral Overlook
+	1 Bloodcall Savior
+	1 Constant Genesis
+	1 Zenith, Chitinous Isle
+	1 Stormshell, Voracious Terror
+	1 Karstaag, Ghost Titan
+	1 Njolbur, Aurorascale
+	1 Otherworldly Orrery
+	1 On Winds of Adventure
+	1 Nicol Bolas, Mastermind
+	1 Ardent Guardians
+	1 Spellweaver's Vial
+	1 Obsidian Manalith
+	1 Kingmaker, Gem of Authority
+	1 Fossil Slab
+	1 Magus's Talisman
+	1 Pilfered Purse
+	1 Prizewinner
+	1 Aurora Lotus
+	1 Dubious Designs
+	1 Thawing Township
+	1 Pale Valley
+	1 Magmatic Horizon
+	1 Ancestor Glade
+	1 Hist Grove
+	1 Numidium's Tomb
+	1 Bruma Guildhall
+	1 Skyshard Sanctuary
+	1 Oblivion Deadlands
+	1 Harvest Fields
+	1 Cold Pass
+	1 Guild Tower
+	1 Market Center
+	1 Burial Grounds
+	1 Planar Market
+	1 Wuuld Nomad
+	1 Solar Flare
+	1 Mammalian Dawn
+	1 Warpath Orahan
+	1 Hand of Ravenwood
+	1 Forced Penance
+	1 Damping Stone
+	1 Ruination Engine
+	1 Ancient Heirloom
+	1 Ancient Guardstone
+	1 The Second Wave
+	1 Mjeld Bonebreaker
+	1 Sheoldred, Doom Engine
+	1 Sparkwork Adept
+	1 Titan of Cold Nights
+	1 Smash and Grab
+	1 Profane Aristocrat
+	1 Decaying Decadence
+	1 Vile Rotbile
+	1 Spoken-Force Greybeard
+	1 Game Hunt
+	1 Ruthless Scalebeard
+	1 Bounty Hawker
+	1 The Call

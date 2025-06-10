@@ -1663,7 +1663,7 @@
 		{
 			"name": "Seronia, Consecrated Oracle",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{U}{UP}",
+			"mana_cost": "{1}{U}{U}{U/P}",
 			"type": "Legendary Planeswalker — Seronia",
 			"collector_number": "47",
 			"image_uris": {

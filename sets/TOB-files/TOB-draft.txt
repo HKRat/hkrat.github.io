@@ -2007,7 +2007,7 @@
 		{
 			"name": "Sithis Throatslitter",
 			"rarity": "uncommon",
-			"mana_cost": "{BG}{BG}{BG}",
+			"mana_cost": "{B/G}{B/G}{B/G}",
 			"type": "Creature — Viashino Assassin",
 			"collector_number": "214",
 			"image_uris": {
@@ -2017,7 +2017,7 @@
 		{
 			"name": "Oathsworn Cultist",
 			"rarity": "uncommon",
-			"mana_cost": "{BR}{BR}{BR}",
+			"mana_cost": "{B/R}{B/R}{B/R}",
 			"type": "Creature — Human Rogue",
 			"collector_number": "213",
 			"image_uris": {
@@ -2027,7 +2027,7 @@
 		{
 			"name": "Craven Witch",
 			"rarity": "uncommon",
-			"mana_cost": "{UB}{UB}{UB}",
+			"mana_cost": "{U/B}{U/B}{U/B}",
 			"type": "Creature — Harpy Wizard",
 			"collector_number": "208",
 			"image_uris": {
@@ -2037,7 +2037,7 @@
 		{
 			"name": "Dunmeri Cutpurse",
 			"rarity": "uncommon",
-			"mana_cost": "{GU}{GU}{GU}",
+			"mana_cost": "{G/U}{G/U}{G/U}",
 			"type": "Creature — Elf Rogue",
 			"collector_number": "210",
 			"image_uris": {
@@ -2047,7 +2047,7 @@
 		{
 			"name": "Heartfire Atronach",
 			"rarity": "uncommon",
-			"mana_cost": "{UR}{UR}{UR}",
+			"mana_cost": "{U/R}{U/R}{U/R}",
 			"type": "Creature — Elemental Wizard",
 			"collector_number": "212",
 			"image_uris": {
@@ -2057,7 +2057,7 @@
 		{
 			"name": "Argonian Shieldmate",
 			"rarity": "uncommon",
-			"mana_cost": "{RG}{RG}{RG}",
+			"mana_cost": "{R/G}{R/G}{R/G}",
 			"type": "Creature — Viashino Warrior",
 			"collector_number": "206",
 			"image_uris": {
@@ -2067,7 +2067,7 @@
 		{
 			"name": "Bishop of the Pantheon",
 			"rarity": "uncommon",
-			"mana_cost": "{WB}{WB}{WB}",
+			"mana_cost": "{W/B}{W/B}{W/B}",
 			"type": "Creature — Human Cleric",
 			"collector_number": "207",
 			"image_uris": {
@@ -2077,7 +2077,7 @@
 		{
 			"name": "Sparring Dummy",
 			"rarity": "uncommon",
-			"mana_cost": "{WU}{WU}{WU}",
+			"mana_cost": "{W/U}{W/U}{W/U}",
 			"type": "Artifact Creature — Scarecrow",
 			"collector_number": "215",
 			"image_uris": {
@@ -2087,7 +2087,7 @@
 		{
 			"name": "Cyrodilic Diplomat",
 			"rarity": "uncommon",
-			"mana_cost": "{GW}{GW}{GW}",
+			"mana_cost": "{G/W}{G/W}{G/W}",
 			"type": "Creature — Elf Noble",
 			"collector_number": "209",
 			"image_uris": {
@@ -2097,7 +2097,7 @@
 		{
 			"name": "Gate Guard",
 			"rarity": "uncommon",
-			"mana_cost": "{RW}{RW}{RW}",
+			"mana_cost": "{R/W}{R/W}{R/W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "211",
 			"image_uris": {
