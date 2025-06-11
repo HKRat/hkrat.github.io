@@ -165,7 +165,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Nacho Molina",
-            "notes": "!tag Prize\n!group Prize\n\n!tag commander\n\nPirate's Prize\ncommander face\n\nProprietor and protector of Doldrum town in New South Tallora, Jacqueline brags about the time she shot a Morgatan admiral off the deck of a galleon near 400 yards away"
+            "notes": "!tag Prize\n!group Prize\n!sort commander\n\n!tag commander\n\nPirate's Prize\ncommander face\n\nProprietor and protector of Doldrum town in New South Tallora, Jacqueline brags about the time she shot a Morgatan admiral off the deck of a galleon near 400 yards away"
         },
         {
             "card_name": "Unoreth the Fate Eater",
@@ -183,7 +183,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Elisa Serio",
-            "notes": "!tag Lurks\n!group Lurks\n\n!tag commander\n\nWhat Lurks Beneath\n\ncommander face\n\nUnoreth hunts the damned marked by Illypso's Tidespoil. It is a relentless nightmare that swims the space between the dead and the living."
+            "notes": "!tag Lurks\n!group Lurks\n!sort commander\n\n!tag commander\n\nWhat Lurks Beneath\n\ncommander face\n\nUnoreth hunts the damned marked by Illypso's Tidespoil. It is a relentless nightmare that swims the space between the dead and the living."
         },
         {
             "card_name": "Vlet, the Wandering",
@@ -540,7 +540,7 @@
         {
             "card_name": "Burial Grounds",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land \u2014 Swamp",
             "number": 249,
             "color_identity": "BWG",
@@ -666,7 +666,7 @@
         {
             "card_name": "Oblivion Deadlands",
             "color": "",
-            "rarity": "rare",
+            "rarity": "common",
             "type": "Land \u2014 Swamp",
             "number": 277,
             "color_identity": "BUR",
@@ -774,7 +774,7 @@
         {
             "card_name": "Volta Hearth",
             "color": "U",
-            "rarity": "mythic",
+            "rarity": "rare",
             "type": "Legendary Planeswalker \u2014 Volta",
             "number": 77,
             "color_identity": "U",
@@ -1008,7 +1008,7 @@
         {
             "card_name": "Worldwither Hydra",
             "color": "BG",
-            "rarity": "mythic",
+            "rarity": "rare",
             "type": "Creature \u2014 Hydra",
             "number": 215,
             "color_identity": "BG",
@@ -1080,7 +1080,7 @@
         {
             "card_name": "Windy Valley",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land \u2014 Forest Plains",
             "number": 302,
             "color_identity": "WG",
@@ -1098,7 +1098,7 @@
         {
             "card_name": "Coastal Cliffs",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land \u2014 Island Mountain",
             "number": 252,
             "color_identity": "UR",
@@ -1116,7 +1116,7 @@
         {
             "card_name": "Fetid Sinkhole",
             "color": "",
-            "rarity": "rare",
+            "rarity": "common",
             "type": "Land \u2014 Island Swamp",
             "number": 261,
             "color_identity": "UB",
@@ -1134,7 +1134,7 @@
         {
             "card_name": "Undergrowth Forest",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land \u2014 Swamp Forest",
             "number": 297,
             "color_identity": "BG",
@@ -1296,7 +1296,7 @@
         {
             "card_name": "Primal Isle",
             "color": "",
-            "rarity": "rare",
+            "rarity": "common",
             "type": "Land \u2014 Island Swamp Mountain",
             "number": 279,
             "color_identity": "UBR",
@@ -1314,7 +1314,7 @@
         {
             "card_name": "Decrepit Boneyard",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land \u2014 Plains Swamp Forest",
             "number": 256,
             "color_identity": "WBG",
@@ -1332,7 +1332,7 @@
         {
             "card_name": "Magmatic Horizon",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land",
             "number": 274,
             "color_identity": "C",
@@ -1720,7 +1720,7 @@
         {
             "card_name": "Skysailer, Axela's Pride",
             "color": "",
-            "rarity": "mythic",
+            "rarity": "rare",
             "type": "Legendary Artifact \u2014 Vehicle",
             "number": 236,
             "color_identity": "C",
@@ -2090,7 +2090,7 @@
         {
             "card_name": "The Elder Scroll",
             "color": "",
-            "rarity": "mythic",
+            "rarity": "rare",
             "type": "Legendary Artifact",
             "number": 228,
             "color_identity": "C",
@@ -2396,7 +2396,7 @@
         {
             "card_name": "The Eternal Schemer",
             "color": "UBR",
-            "rarity": "mythic",
+            "rarity": "rare",
             "type": "Legendary Planeswalker",
             "number": 182,
             "color_identity": "UBR",
@@ -3474,7 +3474,7 @@
         {
             "card_name": "Marauding Monsoon",
             "color": "",
-            "rarity": "rare",
+            "rarity": "common",
             "type": "Land",
             "number": 275,
             "color_identity": "C",
@@ -3826,7 +3826,7 @@
         {
             "card_name": "Hidden Oasis",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land \u2014 Desert",
             "number": 269,
             "color_identity": "C",
@@ -3844,7 +3844,7 @@
         {
             "card_name": "Bare Range",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land \u2014 Desert",
             "number": 247,
             "color_identity": "WG",
@@ -3862,7 +3862,7 @@
         {
             "card_name": "Fetid Sands",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land \u2014 Desert",
             "number": 260,
             "color_identity": "BG",
@@ -3880,7 +3880,7 @@
         {
             "card_name": "Sunrise Deserts",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land \u2014 Desert",
             "number": 294,
             "color_identity": "WB",
@@ -3898,7 +3898,7 @@
         {
             "card_name": "Unending Sands",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land",
             "number": 298,
             "color_identity": "C",
@@ -4314,7 +4314,7 @@
         {
             "card_name": "Garruk, Cursed Huntsman",
             "color": "BG",
-            "rarity": "mythic",
+            "rarity": "rare",
             "type": "Legendary Planeswalker \u2014 Garruk",
             "number": 185,
             "color_identity": "BG",
@@ -4350,7 +4350,7 @@
         {
             "card_name": "Ajani, Valiant Protector",
             "color": "WG",
-            "rarity": "mythic",
+            "rarity": "rare",
             "type": "Planeswalker \u2014 Ajani",
             "number": 167,
             "color_identity": "WG",
@@ -4458,7 +4458,7 @@
         {
             "card_name": "Arlinn, Howl of Unity",
             "color": "G",
-            "rarity": "mythic",
+            "rarity": "rare",
             "type": "Legendary Planeswalker \u2014 Arlinn",
             "number": 131,
             "color_identity": "G",
@@ -4818,7 +4818,7 @@
         {
             "card_name": "Induction Ceremony",
             "color": "W",
-            "rarity": "mythic",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 14,
             "color_identity": "W",
@@ -4836,7 +4836,7 @@
         {
             "card_name": "Harrowing Strait",
             "color": "",
-            "rarity": "rare",
+            "rarity": "common",
             "type": "Land",
             "number": 266,
             "color_identity": "C",
@@ -5250,7 +5250,7 @@
         {
             "card_name": "Sunken Depths",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land",
             "number": 292,
             "color_identity": "C",
@@ -5268,7 +5268,7 @@
         {
             "card_name": "Irrigated Terrace",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land",
             "number": 271,
             "color_identity": "C",
@@ -5286,7 +5286,7 @@
         {
             "card_name": "Alpine Meadow",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land \u2014 Forest Plains",
             "number": 245,
             "color_identity": "WG",
@@ -5304,7 +5304,7 @@
         {
             "card_name": "Somber Marsh",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land \u2014 Swamp Forest",
             "number": 290,
             "color_identity": "BG",
@@ -5358,7 +5358,7 @@
         {
             "card_name": "Ramshackle Farmlands",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land",
             "number": 280,
             "color_identity": "C",
@@ -5376,7 +5376,7 @@
         {
             "card_name": "Sunlit Cactus",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land \u2014 Desert",
             "number": 293,
             "color_identity": "WG",
@@ -5394,7 +5394,7 @@
         {
             "card_name": "Sunset Sands",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land \u2014 Desert",
             "number": 295,
             "color_identity": "BG",
@@ -5412,7 +5412,7 @@
         {
             "card_name": "Adrift Wreckage",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land",
             "number": 244,
             "color_identity": "C",
@@ -5448,7 +5448,7 @@
         {
             "card_name": "Idyllic Hamlet",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land \u2014 Forest Plains",
             "number": 270,
             "color_identity": "WG",
@@ -5466,7 +5466,7 @@
         {
             "card_name": "Sodden Field",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land \u2014 Plains Swamp",
             "number": 289,
             "color_identity": "WB",
@@ -5484,7 +5484,7 @@
         {
             "card_name": "Shadowed Boughs",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land \u2014 Swamp Forest",
             "number": 285,
             "color_identity": "BG",
@@ -5502,7 +5502,7 @@
         {
             "card_name": "Expansive Sprawl",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land \u2014 Forest Plains",
             "number": 259,
             "color_identity": "WG",
@@ -5520,7 +5520,7 @@
         {
             "card_name": "Smokeheap Slums",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land \u2014 Swamp Mountain",
             "number": 286,
             "color_identity": "BR",
@@ -5695,7 +5695,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Ekaterina Gordeeva",
-            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
+            "notes": "!tag Sails\n!group Sails\n\nSails Toward Adventure"
         },
         {
             "card_name": "Soldier",
@@ -5736,7 +5736,7 @@
         {
             "card_name": "Merchant Port",
             "color": "",
-            "rarity": "rare",
+            "rarity": "common",
             "type": "Land",
             "number": 276,
             "color_identity": "WG",
@@ -5754,7 +5754,7 @@
         {
             "card_name": "Cumulozoa",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land",
             "number": 255,
             "color_identity": "C",
@@ -5772,7 +5772,7 @@
         {
             "card_name": "Haunting Fogbank",
             "color": "",
-            "rarity": "rare",
+            "rarity": "common",
             "type": "Land",
             "number": 267,
             "color_identity": "U",
@@ -5790,7 +5790,7 @@
         {
             "card_name": "Grave Shores",
             "color": "",
-            "rarity": "rare",
+            "rarity": "common",
             "type": "Land",
             "number": 265,
             "color_identity": "UBR",
@@ -5826,7 +5826,7 @@
         {
             "card_name": "Hell Highwater",
             "color": "",
-            "rarity": "rare",
+            "rarity": "common",
             "type": "Land",
             "number": 268,
             "color_identity": "C",
@@ -5844,7 +5844,7 @@
         {
             "card_name": "Smoking Crater",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land",
             "number": 287,
             "color_identity": "C",
@@ -5862,7 +5862,7 @@
         {
             "card_name": "Luminous Reef",
             "color": "",
-            "rarity": "rare",
+            "rarity": "common",
             "type": "Land",
             "number": 273,
             "color_identity": "C",
@@ -5880,7 +5880,7 @@
         {
             "card_name": "Dwemer Ruins",
             "color": "",
-            "rarity": "rare",
+            "rarity": "common",
             "type": "Land",
             "number": 258,
             "color_identity": "C",
@@ -5898,7 +5898,7 @@
         {
             "card_name": "Ancient Forge",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land",
             "number": 246,
             "color_identity": "UBR",
@@ -5916,7 +5916,7 @@
         {
             "card_name": "Weathered Slums",
             "color": "",
-            "rarity": "rare",
+            "rarity": "common",
             "type": "Land \u2014 Island Swamp",
             "number": 301,
             "color_identity": "UB",
@@ -5934,7 +5934,7 @@
         {
             "card_name": "Crystal Coasts",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land",
             "number": 254,
             "color_identity": "UR",
@@ -5952,7 +5952,7 @@
         {
             "card_name": "Shaded Cove",
             "color": "",
-            "rarity": "rare",
+            "rarity": "common",
             "type": "Land",
             "number": 284,
             "color_identity": "UB",
@@ -5988,7 +5988,7 @@
         {
             "card_name": "Desolate Lighthouse",
             "color": "",
-            "rarity": "rare",
+            "rarity": "common",
             "type": "Land",
             "number": 257,
             "color_identity": "UR",
@@ -6024,7 +6024,7 @@
         {
             "card_name": "Volcanic Tributary",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land \u2014 Island Mountain",
             "number": 299,
             "color_identity": "UR",
@@ -6042,7 +6042,7 @@
         {
             "card_name": "Sun-Touched Rapids",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land",
             "number": 291,
             "color_identity": "UR",
@@ -6060,7 +6060,7 @@
         {
             "card_name": "Lonely Sandbar",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land",
             "number": 272,
             "color_identity": "U",
@@ -6078,7 +6078,7 @@
         {
             "card_name": "Forgotten Cave",
             "color": "",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Land",
             "number": 262,
             "color_identity": "R",
