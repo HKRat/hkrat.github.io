@@ -93,7 +93,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Nikulina-Helena",
-            "notes": "Sails Toward Adventure\ncommander face\n\n!tag Sails\n!group Sails\n\n!tag commander\n\nBeno Alto is a trophy hunter from Isla Correz who cares about hunting the biggest sea beasts. When the Eversea spilled into the Cradle he put together a crew with the hopes of slaying the monsters of the damned sea."
+            "notes": "Sails Toward Adventure\ncommander face\n\n!tag Sails\n!group Sails\n!sort commander\n\n!tag commander\n\nBeno Alto is a trophy hunter from Isla Correz who cares about hunting the biggest sea beasts. When the Eversea spilled into the Cradle he put together a crew with the hopes of slaying the monsters of the damned sea."
         },
         {
             "card_name": "The Doom of all Sailors",
@@ -129,7 +129,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "GeofAngi",
-            "notes": "!tag Meek\n!group Meek\n\ncommander face\n\n!tag commander\n\nNev is new to Caitisan, having stumbled through an omenpath from Bloomburrow to the ocean plane. Now without a home Nev is determined to make friends and forge alliances."
+            "notes": "!tag Meek\n!group Meek\n!sort commander\n\ncommander face\n\n!tag commander\n\nNev is new to Caitisan, having stumbled through an omenpath from Bloomburrow to the ocean plane. Now without a home Nev is determined to make friends and forge alliances."
         },
         {
             "card_name": "Insatiable Captian Rustbeard",
@@ -157,7 +157,7 @@
             "number": 314,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
-            "rules_text": "At the beginning of your first main phase, you may sacrifice an artifact. When you do, Jacqueline Ren\u00e9 Lee deals 3 damage to any target.\nWhenever you attack a player that was dealt damage this turn, draw a card.",
+            "rules_text": "At the beginning of combat on your turn, you may sacrifice an artifact. When you do, Jacqueline Ren\u00e9 Lee deals 3 damage to any target.\nWhenever you attack a player that was dealt damage this turn, draw a card.",
             "flavor_text": "[i]\u201cDead to rights.\u201d[/i]",
             "pt": "3/4",
             "special_text": "",
@@ -298,7 +298,7 @@
             "color": "U",
             "rarity": "special",
             "type": "Token Creature \u2014 Kraken",
-            "number": 7,
+            "number": 8,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -517,7 +517,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Elder Scrolls Legends",
-            "notes": "!tag krowprint\n\n!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag krowprint\n\n!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Imperial Smith",
@@ -553,7 +553,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Nuare Studio",
-            "notes": "!tag Sails\n!group Sails\n\nSails Toward Adventure\n"
+            "notes": "!tag Sails\n!group Sails\n\nSails Toward Adventure"
         },
         {
             "card_name": "Damnation Brigantine",
@@ -596,7 +596,7 @@
             "color": "",
             "rarity": "special",
             "type": "Token Artifact \u2014 Map",
-            "number": 18,
+            "number": 20,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{1}, {T}: Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.",
@@ -751,7 +751,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Elder Scrolls Legends",
-            "notes": "!krowprint\n\n!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!krowprint\n\n!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Arbiter of Taxation",
@@ -797,7 +797,7 @@
             "number": 181,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
-            "rules_text": "When Dragonwrought Schooner enters, each opponent may create a Treasure token. For each opponent who does, you create a Treasure token.\n[i]Trove [/i]\u2014 Whenever you attack while your team controls three or more tokens, create a 4/4 red Dragon creature token with flying that's tapped and attacking. Exile that token at end of combat.\nCrew 3",
+            "rules_text": "When Dragonwrought Schooner enters, each opponent may create a Treasure token. Create a Treasure token for each opponent that does.\n[i]Trove [/i]\u2014 Whenever you attack while your team controls three or more tokens, create a 4/4 red Dragon creature token with flying that's tapped and attacking. Exile that token at end of combat.\nCrew 3",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
@@ -823,7 +823,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Bethesda Studios",
-            "notes": "!tag krowprint\n\n!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag krowprint\n\n!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Grip of Namira",
@@ -877,7 +877,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Ray Lederer",
-            "notes": "!tag krowprint\n\n!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag krowprint\n\n!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Warded Defense",
@@ -938,7 +938,7 @@
             "color": "G",
             "rarity": "special",
             "type": "Token Creature \u2014 Spirit Elk",
-            "number": 11,
+            "number": 13,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -949,7 +949,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Johnny Morrow",
-            "notes": "!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Squadron Surgeon",
@@ -967,7 +967,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Taras Susak",
-            "notes": "!tag krowprint\n\n!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag krowprint\n\n!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Ancient Guardstone",
@@ -992,7 +992,7 @@
             "color": "",
             "rarity": "special",
             "type": "Token Artifact Creature \u2014 Golem",
-            "number": 16,
+            "number": 18,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -1057,14 +1057,14 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Mariusz Kozik",
-            "notes": "!tag Meek\n!group Meek\n\nMeek No More\n!tag krowprint\n"
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More\n!tag krowprint"
         },
         {
             "card_name": "Warrior",
             "color": "W",
             "rarity": "special",
             "type": "Token Creature \u2014 Warrior",
-            "number": 6,
+            "number": 7,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -1075,7 +1075,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Baptiste Bouti\u00e9",
-            "notes": "!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Windy Valley",
@@ -1995,7 +1995,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Pedro Sena",
-            "notes": "Pirate's Prize\n\n!tag Prize\n!group Prize\n"
+            "notes": "Pirate's Prize\n\n!tag Prize\n!group Prize"
         },
         {
             "card_name": "Concussive Bolt",
@@ -2498,7 +2498,7 @@
             "color": "",
             "rarity": "special",
             "type": "Token Artifact \u2014 Hive",
-            "number": 17,
+            "number": 19,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{2}: Until end of turn, this artifact becomes a Bee creature in addition to its other types with flying and \u201cThis creature's power and toughness are each equal to the number of tokens you control.\u201d",
@@ -2509,7 +2509,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Grigory Gore",
-            "notes": "!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Raiding Party",
@@ -2527,7 +2527,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Grafit Studio",
-            "notes": "!tag Sails\n!group Sails\n\nSails Toward Adventure\n"
+            "notes": "!tag Sails\n!group Sails\n\nSails Toward Adventure"
         },
         {
             "card_name": "Accursed Witch",
@@ -3343,7 +3343,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Jo\u00e3o Bragato",
-            "notes": "!tag krowprint\n!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag krowprint\n!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Vile Rotbile",
@@ -3397,7 +3397,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Randy Vargas",
-            "notes": "!tag Sails\n!group Sails\n\nSails Toward Adventure\n"
+            "notes": "!tag Sails\n!group Sails\n\nSails Toward Adventure"
         },
         {
             "card_name": "Patron of the Menagerie",
@@ -3577,7 +3577,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Joby Dorr",
-            "notes": "!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Ten Liars and a Dead Man",
@@ -3602,7 +3602,7 @@
             "color": "R",
             "rarity": "special",
             "type": "Token Creature \u2014 Pirate",
-            "number": 9,
+            "number": 10,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -3631,7 +3631,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Tia Friedel",
-            "notes": "!tag Sails\n!group Sails\n\nSails Toward Adventure\n"
+            "notes": "!tag Sails\n!group Sails\n\nSails Toward Adventure"
         },
         {
             "card_name": "Kami of Whispered Hopes",
@@ -3667,7 +3667,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Lorenzo Lanfranconi",
-            "notes": "!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Conscripted Service",
@@ -3759,7 +3759,7 @@
             "number": 153,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Gift a Treasure twice [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Treasure token. It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d Then do it again.)[/i] [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Treasure token. It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d)[/i]\nWhenever a player creates a token for the first time each turn, put a +1/+1 counter on Noble's Suitor.",
+            "rules_text": "Gift a Treasure twice [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Treasure token. It's an artifact with \u201c{T}, Sacrifice this artifact: Add one mana of any color.\u201d Then do it again.)[/i]\nWhenever a player creates a token for the first time each turn, put a +1/+1 counter on Noble's Suitor.",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -3839,7 +3839,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Brennan Massicotte",
-            "notes": "!tag Sails\n!group Sails\n\nSails Toward Adventure\n"
+            "notes": "!tag Sails\n!group Sails\n\nSails Toward Adventure"
         },
         {
             "card_name": "Bare Range",
@@ -3875,7 +3875,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Anton Fadeev",
-            "notes": "!tag Sails\n!group Sails\n\nSails Toward Adventure\n"
+            "notes": "!tag Sails\n!group Sails\n\nSails Toward Adventure"
         },
         {
             "card_name": "Sunrise Deserts",
@@ -4212,7 +4212,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Destroy target nonland permanent an opponent controls.\nII \u2014 Search your library for a Forest card, put it onto the battlefield tapped, then shuffle.\nIII \u2014 Creatures you control gain deathtouch until end of turn.",
+            "special_text": "\nDestroy target nonland permanent an opponent controls.\nSearch your library for a Forest card, put it onto the battlefield tapped, then shuffle.\nCreatures you control gain deathtouch until end of turn.",
             "shape": "saga",
             "set": "COT",
             "loyalty": "",
@@ -4230,7 +4230,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Put a +1/+1 counter on target creature or Vehicle you control. It gains vigilance until end of turn.\nIII \u2014 Exile this Saga, then return it to the battlefield transformed under your control.",
+            "special_text": "\nI, II \u2014 Put a +1/+1 counter on target creature or Vehicle you control. It gains vigilance until end of turn.\nIII \u2014 Exile this Saga, then return it to the battlefield transformed under your control.",
             "shape": "transform double faced",
             "set": "COT",
             "loyalty": "",
@@ -4258,7 +4258,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Exile a permanent card from your graveyard. You gain life equal to its mana value.\nII \u2014 Put a number of +1/+1 counters on target creature you control equal to the mana value of the exiled card.\nIII \u2014 Return The Aesir Escape Valhalla and the exiled card to their owner's hand.",
+            "special_text": "\nExile a permanent card from your graveyard. You gain life equal to its mana value.\nPut a number of +1/+1 counters on target creature you control equal to the mana value of the exiled card.\nReturn The Aesir Escape Valhalla and the exiled card to their owner's hand.",
             "shape": "saga",
             "set": "COT",
             "loyalty": "",
@@ -4276,7 +4276,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nEach opponent sacrifices a creature unless they discard a card.\nExile this Saga, then return it to the battlefield transformed under your control.",
+            "special_text": "\nEach opponent sacrifices a creature unless they discard a card.\nExile this Saga, then return it to the battlefield transformed under your control.",
             "shape": "transform double faced",
             "set": "COT",
             "loyalty": "",
@@ -4309,7 +4309,7 @@
             "set": "COT",
             "loyalty": "3",
             "artist": "Anna Steinbauer",
-            "notes": "!tag Sails\n!group Sails\n\nSails Toward Adventure\n\n!tag reprint\n\n"
+            "notes": "!tag Sails\n!group Sails\n\nSails Toward Adventure\n\n!tag reprint"
         },
         {
             "card_name": "Garruk, Cursed Huntsman",
@@ -4334,7 +4334,7 @@
             "color": "BG",
             "rarity": "special",
             "type": "Token Creature \u2014 Wolf",
-            "number": 14,
+            "number": 16,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "When this creature dies, put a loyalty counter on each Garruk you control.",
@@ -4424,7 +4424,7 @@
             "color": "WB",
             "rarity": "special",
             "type": "Token Creature \u2014 Inkling",
-            "number": 13,
+            "number": 15,
             "color_identity": "WB",
             "cost": "",
             "rules_text": "Flying",
@@ -4453,7 +4453,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Cl\u00e9ment SAIONIJ",
-            "notes": "!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Arlinn, Howl of Unity",
@@ -4507,7 +4507,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Kai Stevens",
-            "notes": "!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Elsewhere Ensign",
@@ -4525,7 +4525,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Nikita Kapitunov",
-            "notes": "!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Elephant Leviathan",
@@ -4543,7 +4543,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Javier Gonz\u00e1lez",
-            "notes": "!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Clever Concealment",
@@ -4615,7 +4615,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "DenisZhbankov",
-            "notes": "!tag reprint\n\n!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag reprint\n\n!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Ohran Frostfang",
@@ -4662,7 +4662,7 @@
             "color_identity": "G",
             "cost": "{2}{G}{G}",
             "rules_text": "Vigilance, trample\nWhen Bloated Soulharvester dies, create a 2/2 black Zombie Pirate creature token with melee for each opponent you have.",
-            "flavor_text": "[i]It is Illypso's hunter, the ocean Kraonatora given form.[/i]",
+            "flavor_text": "[i]It is Illypso's hunter, the ocean of the damned given form.[/i]",
             "pt": "5/5",
             "special_text": "",
             "shape": "normal",
@@ -4676,7 +4676,7 @@
             "color": "B",
             "rarity": "special",
             "type": "Token Creature \u2014 Zombie Pirate",
-            "number": 8,
+            "number": 9,
             "color_identity": "B",
             "cost": "",
             "rules_text": "Melee [i](Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked this combat.)[/i]",
@@ -4687,7 +4687,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Anne Stokes",
-            "notes": "!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Enduring Adventure",
@@ -4705,7 +4705,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Sean Randolph",
-            "notes": "!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Port Alfelto Sellsword",
@@ -4769,7 +4769,7 @@
             "number": 156,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "Creatures you control have ward {1} and \u201c{T}: Add one mana of any color.\u201d\n{4}{G}: Create a 1/1 green Elf Druid creature token.",
+            "rules_text": "Creatures you control have ward {1} and \u201c{T}: Add one mana of any color.\u201d\n{4}{G}: Create a 2/2 green Dryad creature token.",
             "flavor_text": "[i]Basking at the roots of taii-Verde is a humbling experience that melts away mortal boundaries like allegiance and hate.[/i]",
             "pt": "",
             "special_text": "",
@@ -4777,7 +4777,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Alexandr Elichev",
-            "notes": "!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Intangible Virtue",
@@ -4867,7 +4867,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Lola_Bosch",
-            "notes": "!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "The Skysailer's Final Voyage",
@@ -4903,7 +4903,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Julien Fenoglio Artwork",
-            "notes": "!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Tireless Provisioner",
@@ -5029,7 +5029,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Rui Plee",
-            "notes": "!tag Meek\n!group Meek\n\nMeek No More\n\n"
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Second Harvest",
@@ -5090,7 +5090,7 @@
             "color": "WG",
             "rarity": "special",
             "type": "Token Creature \u2014 Citizen",
-            "number": 12,
+            "number": 14,
             "color_identity": "WG",
             "cost": "",
             "rules_text": "",
@@ -5101,7 +5101,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Enmanuel Martinez",
-            "notes": "!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Quicksmith Quarters",
@@ -5137,7 +5137,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Romana Kendelic",
-            "notes": "!tag Sails\n!group Sails\n\nSails Toward Adventure\n\n!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag Sails\n!group Sails\n\nSails Toward Adventure\n\n!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Regal Griffin",
@@ -5173,7 +5173,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Tey Bartolome",
-            "notes": "!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Pristine Wreckage",
@@ -5648,7 +5648,7 @@
             "color": "",
             "rarity": "special",
             "type": "Token Artifact \u2014 Gold",
-            "number": 15,
+            "number": 17,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -5659,14 +5659,14 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Sami Rytk\u00f6nen",
-            "notes": ""
+            "notes": "!tag Lurks\n!group Lurks\n\nWhat Lurks Beneath"
         },
         {
             "card_name": "Treasure",
             "color": "",
             "rarity": "special",
             "type": "Token Artifact \u2014 Treasure",
-            "number": 19,
+            "number": 21,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this artifact: Add one mana of any color.",
@@ -5677,7 +5677,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Zuzanna Kapu\u015bci\u0144ska",
-            "notes": ""
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More\n\n!tag Prize\n!group Prize\n\nPirate's Prize\n\n\n!tag Lurks\n!group Lurks\n\nWhat Lurks Beneath\n\n!tag Sails\n!group Sails\n\nSails Toward Adventure"
         },
         {
             "card_name": "Citizen Army",
@@ -5695,7 +5695,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Ekaterina Gordeeva",
-            "notes": ""
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Soldier",
@@ -5713,14 +5713,14 @@
             "set": "COT",
             "loyalty": "",
             "artist": "ryan pancoast",
-            "notes": ""
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Saproling",
             "color": "G",
             "rarity": "special",
             "type": "Token Creature \u2014 Saproling",
-            "number": 10,
+            "number": 12,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -5730,8 +5730,8 @@
             "shape": "token",
             "set": "COT",
             "loyalty": "",
-            "artist": "T. Alex Mills",
-            "notes": ""
+            "artist": "Vicki Pangestu",
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Merchant Port",
@@ -5749,7 +5749,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Delwyn Yee",
-            "notes": "!tag Sails\n!group Sails\n\nSails Toward Adventure\n"
+            "notes": "!tag Sails\n!group Sails\n\nSails Toward Adventure"
         },
         {
             "card_name": "Cumulozoa",
@@ -6019,7 +6019,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Artur Treffner",
-            "notes": ""
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Volcanic Tributary",
@@ -6127,7 +6127,7 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Veronica O'Neill",
-            "notes": "!tag reprint\n\n!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag reprint\n\n!tag Meek\n!group Meek\n\nMeek No More"
         },
         {
             "card_name": "Tranquil Thicket",
@@ -6145,7 +6145,43 @@
             "set": "COT",
             "loyalty": "",
             "artist": "Anna Kulakovskaia",
-            "notes": "!tag reprint\n\n!tag Meek\n!group Meek\n\nMeek No More\n"
+            "notes": "!tag reprint\n\n!tag Meek\n!group Meek\n\nMeek No More"
+        },
+        {
+            "card_name": "Dryad",
+            "color": "G",
+            "rarity": "special",
+            "type": "Token Creature \u2014 Dryad",
+            "number": 11,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "COT",
+            "loyalty": "",
+            "artist": "Veronica O'Neill",
+            "notes": "!tag Meek\n!group Meek\n\nMeek No More"
+        },
+        {
+            "card_name": "Soldier",
+            "color": "W",
+            "rarity": "special",
+            "type": "Token Creature \u2014 Soldier",
+            "number": 6,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "This creature crews Vehicles as though its power were 2 greater.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "COT",
+            "loyalty": "",
+            "artist": "Mischeviouslittleelf on dA",
+            "notes": "Sails Toward Adventure\n\n!tag Sails\n!group Sails"
         }
     ]
 }
