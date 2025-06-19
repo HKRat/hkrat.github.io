@@ -352,7 +352,7 @@
         },
         {
             "set": "Kube",
-            "number": 102,
+            "number": 101,
             "card_name": "Mudcrab Den",
             "shape": "normal",
             "image_type": "png"
@@ -366,7 +366,7 @@
         },
         {
             "set": "Kube",
-            "number": 112,
+            "number": 113,
             "card_name": "Rime Daedra",
             "shape": "normal",
             "image_type": "png"
@@ -576,7 +576,7 @@
         },
         {
             "set": "Kube",
-            "number": 110,
+            "number": 111,
             "card_name": "Pyrelight Guide",
             "shape": "normal",
             "image_type": "png"
@@ -653,7 +653,7 @@
         },
         {
             "set": "Kube",
-            "number": 103,
+            "number": 102,
             "card_name": "Muzzarlo the Spellweaver",
             "shape": "normal",
             "image_type": "png"
@@ -744,7 +744,7 @@
         },
         {
             "set": "Kube",
-            "number": 111,
+            "number": 112,
             "card_name": "Rend by Tide",
             "shape": "normal",
             "image_type": "png"
@@ -1073,7 +1073,7 @@
         },
         {
             "set": "Kube",
-            "number": 113,
+            "number": 114,
             "card_name": "Rough Seas",
             "shape": "normal",
             "image_type": "png"
@@ -1866,13 +1866,6 @@
             "set": "Kube",
             "number": 72,
             "card_name": "Cassowary Warden",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 114,
-            "card_name": "Sail the Cloudskies",
             "shape": "normal",
             "image_type": "png"
         },
@@ -3103,7 +3096,7 @@
         },
         {
             "set": "Kube",
-            "number": 109,
+            "number": 110,
             "card_name": "Pursuit of Greatness",
             "shape": "normal",
             "image_type": "png"
@@ -3112,13 +3105,6 @@
             "set": "Kube",
             "number": 98,
             "card_name": "Lunar Theorist",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 101,
-            "card_name": "Mother of Invention",
             "shape": "normal",
             "image_type": "png"
         },
@@ -3153,14 +3139,14 @@
         {
             "set": "Kube",
             "number": 84,
-            "card_name": "Ebilir, the Change God",
+            "card_name": "Ebilir the Change God",
             "shape": "normal",
             "image_type": "png"
         },
         {
             "set": "Kube",
             "number": 173,
-            "card_name": "Nehel, the Empty God",
+            "card_name": "Nehel the Empty God",
             "shape": "normal",
             "image_type": "png"
         },
@@ -3217,6 +3203,20 @@
             "set": "Kube",
             "number": 387,
             "card_name": "Marauder's Tomb",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 103,
+            "card_name": "Nast, Rimewaste Explorer",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 109,
+            "card_name": "A Proper Whodunit",
             "shape": "normal",
             "image_type": "png"
         }
@@ -3574,7 +3574,7 @@
         },
         {
             "set": "Kube",
-            "number": 102,
+            "number": 101,
             "card_name": "Mudcrab Den",
             "shape": "normal",
             "image_type": "png"
@@ -3588,7 +3588,7 @@
         },
         {
             "set": "Kube",
-            "number": 112,
+            "number": 113,
             "card_name": "Rime Daedra",
             "shape": "normal",
             "image_type": "png"
@@ -3798,7 +3798,7 @@
         },
         {
             "set": "Kube",
-            "number": 110,
+            "number": 111,
             "card_name": "Pyrelight Guide",
             "shape": "normal",
             "image_type": "png"
@@ -3875,7 +3875,7 @@
         },
         {
             "set": "Kube",
-            "number": 103,
+            "number": 102,
             "card_name": "Muzzarlo the Spellweaver",
             "shape": "normal",
             "image_type": "png"
@@ -3966,7 +3966,7 @@
         },
         {
             "set": "Kube",
-            "number": 111,
+            "number": 112,
             "card_name": "Rend by Tide",
             "shape": "normal",
             "image_type": "png"
@@ -4295,7 +4295,7 @@
         },
         {
             "set": "Kube",
-            "number": 113,
+            "number": 114,
             "card_name": "Rough Seas",
             "shape": "normal",
             "image_type": "png"
@@ -5088,13 +5088,6 @@
             "set": "Kube",
             "number": 72,
             "card_name": "Cassowary Warden",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 114,
-            "card_name": "Sail the Cloudskies",
             "shape": "normal",
             "image_type": "png"
         },
@@ -6325,7 +6318,7 @@
         },
         {
             "set": "Kube",
-            "number": 109,
+            "number": 110,
             "card_name": "Pursuit of Greatness",
             "shape": "normal",
             "image_type": "png"
@@ -6334,13 +6327,6 @@
             "set": "Kube",
             "number": 98,
             "card_name": "Lunar Theorist",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 101,
-            "card_name": "Mother of Invention",
             "shape": "normal",
             "image_type": "png"
         },
@@ -6375,14 +6361,14 @@
         {
             "set": "Kube",
             "number": 84,
-            "card_name": "Ebilir, the Change God",
+            "card_name": "Ebilir the Change God",
             "shape": "normal",
             "image_type": "png"
         },
         {
             "set": "Kube",
             "number": 173,
-            "card_name": "Nehel, the Empty God",
+            "card_name": "Nehel the Empty God",
             "shape": "normal",
             "image_type": "png"
         },
@@ -6439,6 +6425,20 @@
             "set": "Kube",
             "number": 387,
             "card_name": "Marauder's Tomb",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 103,
+            "card_name": "Nast, Rimewaste Explorer",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 109,
+            "card_name": "A Proper Whodunit",
             "shape": "normal",
             "image_type": "png"
         }
@@ -6796,7 +6796,7 @@
         },
         {
             "set": "Kube",
-            "number": 102,
+            "number": 101,
             "card_name": "Mudcrab Den",
             "shape": "normal",
             "image_type": "png"
@@ -6810,7 +6810,7 @@
         },
         {
             "set": "Kube",
-            "number": 112,
+            "number": 113,
             "card_name": "Rime Daedra",
             "shape": "normal",
             "image_type": "png"
@@ -7020,7 +7020,7 @@
         },
         {
             "set": "Kube",
-            "number": 110,
+            "number": 111,
             "card_name": "Pyrelight Guide",
             "shape": "normal",
             "image_type": "png"
@@ -7097,7 +7097,7 @@
         },
         {
             "set": "Kube",
-            "number": 103,
+            "number": 102,
             "card_name": "Muzzarlo the Spellweaver",
             "shape": "normal",
             "image_type": "png"
@@ -7188,7 +7188,7 @@
         },
         {
             "set": "Kube",
-            "number": 111,
+            "number": 112,
             "card_name": "Rend by Tide",
             "shape": "normal",
             "image_type": "png"
@@ -7517,7 +7517,7 @@
         },
         {
             "set": "Kube",
-            "number": 113,
+            "number": 114,
             "card_name": "Rough Seas",
             "shape": "normal",
             "image_type": "png"
@@ -8310,13 +8310,6 @@
             "set": "Kube",
             "number": 72,
             "card_name": "Cassowary Warden",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 114,
-            "card_name": "Sail the Cloudskies",
             "shape": "normal",
             "image_type": "png"
         },
@@ -9547,7 +9540,7 @@
         },
         {
             "set": "Kube",
-            "number": 109,
+            "number": 110,
             "card_name": "Pursuit of Greatness",
             "shape": "normal",
             "image_type": "png"
@@ -9556,13 +9549,6 @@
             "set": "Kube",
             "number": 98,
             "card_name": "Lunar Theorist",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 101,
-            "card_name": "Mother of Invention",
             "shape": "normal",
             "image_type": "png"
         },
@@ -9597,14 +9583,14 @@
         {
             "set": "Kube",
             "number": 84,
-            "card_name": "Ebilir, the Change God",
+            "card_name": "Ebilir the Change God",
             "shape": "normal",
             "image_type": "png"
         },
         {
             "set": "Kube",
             "number": 173,
-            "card_name": "Nehel, the Empty God",
+            "card_name": "Nehel the Empty God",
             "shape": "normal",
             "image_type": "png"
         },
@@ -9661,6 +9647,20 @@
             "set": "Kube",
             "number": 387,
             "card_name": "Marauder's Tomb",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 103,
+            "card_name": "Nast, Rimewaste Explorer",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 109,
+            "card_name": "A Proper Whodunit",
             "shape": "normal",
             "image_type": "png"
         }
@@ -10018,7 +10018,7 @@
         },
         {
             "set": "Kube",
-            "number": 102,
+            "number": 101,
             "card_name": "Mudcrab Den",
             "shape": "normal",
             "image_type": "png"
@@ -10032,7 +10032,7 @@
         },
         {
             "set": "Kube",
-            "number": 112,
+            "number": 113,
             "card_name": "Rime Daedra",
             "shape": "normal",
             "image_type": "png"
@@ -10242,7 +10242,7 @@
         },
         {
             "set": "Kube",
-            "number": 110,
+            "number": 111,
             "card_name": "Pyrelight Guide",
             "shape": "normal",
             "image_type": "png"
@@ -10319,7 +10319,7 @@
         },
         {
             "set": "Kube",
-            "number": 103,
+            "number": 102,
             "card_name": "Muzzarlo the Spellweaver",
             "shape": "normal",
             "image_type": "png"
@@ -10410,7 +10410,7 @@
         },
         {
             "set": "Kube",
-            "number": 111,
+            "number": 112,
             "card_name": "Rend by Tide",
             "shape": "normal",
             "image_type": "png"
@@ -10739,7 +10739,7 @@
         },
         {
             "set": "Kube",
-            "number": 113,
+            "number": 114,
             "card_name": "Rough Seas",
             "shape": "normal",
             "image_type": "png"
@@ -11532,13 +11532,6 @@
             "set": "Kube",
             "number": 72,
             "card_name": "Cassowary Warden",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 114,
-            "card_name": "Sail the Cloudskies",
             "shape": "normal",
             "image_type": "png"
         },
@@ -12769,7 +12762,7 @@
         },
         {
             "set": "Kube",
-            "number": 109,
+            "number": 110,
             "card_name": "Pursuit of Greatness",
             "shape": "normal",
             "image_type": "png"
@@ -12778,13 +12771,6 @@
             "set": "Kube",
             "number": 98,
             "card_name": "Lunar Theorist",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 101,
-            "card_name": "Mother of Invention",
             "shape": "normal",
             "image_type": "png"
         },
@@ -12819,14 +12805,14 @@
         {
             "set": "Kube",
             "number": 84,
-            "card_name": "Ebilir, the Change God",
+            "card_name": "Ebilir the Change God",
             "shape": "normal",
             "image_type": "png"
         },
         {
             "set": "Kube",
             "number": 173,
-            "card_name": "Nehel, the Empty God",
+            "card_name": "Nehel the Empty God",
             "shape": "normal",
             "image_type": "png"
         },
@@ -12883,6 +12869,20 @@
             "set": "Kube",
             "number": 387,
             "card_name": "Marauder's Tomb",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 103,
+            "card_name": "Nast, Rimewaste Explorer",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 109,
+            "card_name": "A Proper Whodunit",
             "shape": "normal",
             "image_type": "png"
         }
@@ -13240,7 +13240,7 @@
         },
         {
             "set": "Kube",
-            "number": 102,
+            "number": 101,
             "card_name": "Mudcrab Den",
             "shape": "normal",
             "image_type": "png"
@@ -13254,7 +13254,7 @@
         },
         {
             "set": "Kube",
-            "number": 112,
+            "number": 113,
             "card_name": "Rime Daedra",
             "shape": "normal",
             "image_type": "png"
@@ -13464,7 +13464,7 @@
         },
         {
             "set": "Kube",
-            "number": 110,
+            "number": 111,
             "card_name": "Pyrelight Guide",
             "shape": "normal",
             "image_type": "png"
@@ -13541,7 +13541,7 @@
         },
         {
             "set": "Kube",
-            "number": 103,
+            "number": 102,
             "card_name": "Muzzarlo the Spellweaver",
             "shape": "normal",
             "image_type": "png"
@@ -13632,7 +13632,7 @@
         },
         {
             "set": "Kube",
-            "number": 111,
+            "number": 112,
             "card_name": "Rend by Tide",
             "shape": "normal",
             "image_type": "png"
@@ -13961,7 +13961,7 @@
         },
         {
             "set": "Kube",
-            "number": 113,
+            "number": 114,
             "card_name": "Rough Seas",
             "shape": "normal",
             "image_type": "png"
@@ -14754,13 +14754,6 @@
             "set": "Kube",
             "number": 72,
             "card_name": "Cassowary Warden",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 114,
-            "card_name": "Sail the Cloudskies",
             "shape": "normal",
             "image_type": "png"
         },
@@ -15991,7 +15984,7 @@
         },
         {
             "set": "Kube",
-            "number": 109,
+            "number": 110,
             "card_name": "Pursuit of Greatness",
             "shape": "normal",
             "image_type": "png"
@@ -16000,13 +15993,6 @@
             "set": "Kube",
             "number": 98,
             "card_name": "Lunar Theorist",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 101,
-            "card_name": "Mother of Invention",
             "shape": "normal",
             "image_type": "png"
         },
@@ -16041,14 +16027,14 @@
         {
             "set": "Kube",
             "number": 84,
-            "card_name": "Ebilir, the Change God",
+            "card_name": "Ebilir the Change God",
             "shape": "normal",
             "image_type": "png"
         },
         {
             "set": "Kube",
             "number": 173,
-            "card_name": "Nehel, the Empty God",
+            "card_name": "Nehel the Empty God",
             "shape": "normal",
             "image_type": "png"
         },
@@ -16105,6 +16091,20 @@
             "set": "Kube",
             "number": 387,
             "card_name": "Marauder's Tomb",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 103,
+            "card_name": "Nast, Rimewaste Explorer",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 109,
+            "card_name": "A Proper Whodunit",
             "shape": "normal",
             "image_type": "png"
         }
@@ -16462,7 +16462,7 @@
         },
         {
             "set": "Kube",
-            "number": 102,
+            "number": 101,
             "card_name": "Mudcrab Den",
             "shape": "normal",
             "image_type": "png"
@@ -16476,7 +16476,7 @@
         },
         {
             "set": "Kube",
-            "number": 112,
+            "number": 113,
             "card_name": "Rime Daedra",
             "shape": "normal",
             "image_type": "png"
@@ -16686,7 +16686,7 @@
         },
         {
             "set": "Kube",
-            "number": 110,
+            "number": 111,
             "card_name": "Pyrelight Guide",
             "shape": "normal",
             "image_type": "png"
@@ -16763,7 +16763,7 @@
         },
         {
             "set": "Kube",
-            "number": 103,
+            "number": 102,
             "card_name": "Muzzarlo the Spellweaver",
             "shape": "normal",
             "image_type": "png"
@@ -16854,7 +16854,7 @@
         },
         {
             "set": "Kube",
-            "number": 111,
+            "number": 112,
             "card_name": "Rend by Tide",
             "shape": "normal",
             "image_type": "png"
@@ -17183,7 +17183,7 @@
         },
         {
             "set": "Kube",
-            "number": 113,
+            "number": 114,
             "card_name": "Rough Seas",
             "shape": "normal",
             "image_type": "png"
@@ -17976,13 +17976,6 @@
             "set": "Kube",
             "number": 72,
             "card_name": "Cassowary Warden",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 114,
-            "card_name": "Sail the Cloudskies",
             "shape": "normal",
             "image_type": "png"
         },
@@ -19213,7 +19206,7 @@
         },
         {
             "set": "Kube",
-            "number": 109,
+            "number": 110,
             "card_name": "Pursuit of Greatness",
             "shape": "normal",
             "image_type": "png"
@@ -19222,13 +19215,6 @@
             "set": "Kube",
             "number": 98,
             "card_name": "Lunar Theorist",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 101,
-            "card_name": "Mother of Invention",
             "shape": "normal",
             "image_type": "png"
         },
@@ -19263,14 +19249,14 @@
         {
             "set": "Kube",
             "number": 84,
-            "card_name": "Ebilir, the Change God",
+            "card_name": "Ebilir the Change God",
             "shape": "normal",
             "image_type": "png"
         },
         {
             "set": "Kube",
             "number": 173,
-            "card_name": "Nehel, the Empty God",
+            "card_name": "Nehel the Empty God",
             "shape": "normal",
             "image_type": "png"
         },
@@ -19327,6 +19313,20 @@
             "set": "Kube",
             "number": 387,
             "card_name": "Marauder's Tomb",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 103,
+            "card_name": "Nast, Rimewaste Explorer",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 109,
+            "card_name": "A Proper Whodunit",
             "shape": "normal",
             "image_type": "png"
         }
@@ -19684,7 +19684,7 @@
         },
         {
             "set": "Kube",
-            "number": 102,
+            "number": 101,
             "card_name": "Mudcrab Den",
             "shape": "normal",
             "image_type": "png"
@@ -19698,7 +19698,7 @@
         },
         {
             "set": "Kube",
-            "number": 112,
+            "number": 113,
             "card_name": "Rime Daedra",
             "shape": "normal",
             "image_type": "png"
@@ -19908,7 +19908,7 @@
         },
         {
             "set": "Kube",
-            "number": 110,
+            "number": 111,
             "card_name": "Pyrelight Guide",
             "shape": "normal",
             "image_type": "png"
@@ -19985,7 +19985,7 @@
         },
         {
             "set": "Kube",
-            "number": 103,
+            "number": 102,
             "card_name": "Muzzarlo the Spellweaver",
             "shape": "normal",
             "image_type": "png"
@@ -20076,7 +20076,7 @@
         },
         {
             "set": "Kube",
-            "number": 111,
+            "number": 112,
             "card_name": "Rend by Tide",
             "shape": "normal",
             "image_type": "png"
@@ -20405,7 +20405,7 @@
         },
         {
             "set": "Kube",
-            "number": 113,
+            "number": 114,
             "card_name": "Rough Seas",
             "shape": "normal",
             "image_type": "png"
@@ -21198,13 +21198,6 @@
             "set": "Kube",
             "number": 72,
             "card_name": "Cassowary Warden",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 114,
-            "card_name": "Sail the Cloudskies",
             "shape": "normal",
             "image_type": "png"
         },
@@ -22435,7 +22428,7 @@
         },
         {
             "set": "Kube",
-            "number": 109,
+            "number": 110,
             "card_name": "Pursuit of Greatness",
             "shape": "normal",
             "image_type": "png"
@@ -22444,13 +22437,6 @@
             "set": "Kube",
             "number": 98,
             "card_name": "Lunar Theorist",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 101,
-            "card_name": "Mother of Invention",
             "shape": "normal",
             "image_type": "png"
         },
@@ -22485,14 +22471,14 @@
         {
             "set": "Kube",
             "number": 84,
-            "card_name": "Ebilir, the Change God",
+            "card_name": "Ebilir the Change God",
             "shape": "normal",
             "image_type": "png"
         },
         {
             "set": "Kube",
             "number": 173,
-            "card_name": "Nehel, the Empty God",
+            "card_name": "Nehel the Empty God",
             "shape": "normal",
             "image_type": "png"
         },
@@ -22549,6 +22535,20 @@
             "set": "Kube",
             "number": 387,
             "card_name": "Marauder's Tomb",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 103,
+            "card_name": "Nast, Rimewaste Explorer",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 109,
+            "card_name": "A Proper Whodunit",
             "shape": "normal",
             "image_type": "png"
         }
@@ -22906,7 +22906,7 @@
         },
         {
             "set": "Kube",
-            "number": 102,
+            "number": 101,
             "card_name": "Mudcrab Den",
             "shape": "normal",
             "image_type": "png"
@@ -22920,7 +22920,7 @@
         },
         {
             "set": "Kube",
-            "number": 112,
+            "number": 113,
             "card_name": "Rime Daedra",
             "shape": "normal",
             "image_type": "png"
@@ -23130,7 +23130,7 @@
         },
         {
             "set": "Kube",
-            "number": 110,
+            "number": 111,
             "card_name": "Pyrelight Guide",
             "shape": "normal",
             "image_type": "png"
@@ -23207,7 +23207,7 @@
         },
         {
             "set": "Kube",
-            "number": 103,
+            "number": 102,
             "card_name": "Muzzarlo the Spellweaver",
             "shape": "normal",
             "image_type": "png"
@@ -23298,7 +23298,7 @@
         },
         {
             "set": "Kube",
-            "number": 111,
+            "number": 112,
             "card_name": "Rend by Tide",
             "shape": "normal",
             "image_type": "png"
@@ -23627,7 +23627,7 @@
         },
         {
             "set": "Kube",
-            "number": 113,
+            "number": 114,
             "card_name": "Rough Seas",
             "shape": "normal",
             "image_type": "png"
@@ -24420,13 +24420,6 @@
             "set": "Kube",
             "number": 72,
             "card_name": "Cassowary Warden",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 114,
-            "card_name": "Sail the Cloudskies",
             "shape": "normal",
             "image_type": "png"
         },
@@ -25657,7 +25650,7 @@
         },
         {
             "set": "Kube",
-            "number": 109,
+            "number": 110,
             "card_name": "Pursuit of Greatness",
             "shape": "normal",
             "image_type": "png"
@@ -25666,13 +25659,6 @@
             "set": "Kube",
             "number": 98,
             "card_name": "Lunar Theorist",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 101,
-            "card_name": "Mother of Invention",
             "shape": "normal",
             "image_type": "png"
         },
@@ -25707,14 +25693,14 @@
         {
             "set": "Kube",
             "number": 84,
-            "card_name": "Ebilir, the Change God",
+            "card_name": "Ebilir the Change God",
             "shape": "normal",
             "image_type": "png"
         },
         {
             "set": "Kube",
             "number": 173,
-            "card_name": "Nehel, the Empty God",
+            "card_name": "Nehel the Empty God",
             "shape": "normal",
             "image_type": "png"
         },
@@ -25771,6 +25757,20 @@
             "set": "Kube",
             "number": 387,
             "card_name": "Marauder's Tomb",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 103,
+            "card_name": "Nast, Rimewaste Explorer",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 109,
+            "card_name": "A Proper Whodunit",
             "shape": "normal",
             "image_type": "png"
         }
@@ -26128,7 +26128,7 @@
         },
         {
             "set": "Kube",
-            "number": 102,
+            "number": 101,
             "card_name": "Mudcrab Den",
             "shape": "normal",
             "image_type": "png"
@@ -26142,7 +26142,7 @@
         },
         {
             "set": "Kube",
-            "number": 112,
+            "number": 113,
             "card_name": "Rime Daedra",
             "shape": "normal",
             "image_type": "png"
@@ -26352,7 +26352,7 @@
         },
         {
             "set": "Kube",
-            "number": 110,
+            "number": 111,
             "card_name": "Pyrelight Guide",
             "shape": "normal",
             "image_type": "png"
@@ -26429,7 +26429,7 @@
         },
         {
             "set": "Kube",
-            "number": 103,
+            "number": 102,
             "card_name": "Muzzarlo the Spellweaver",
             "shape": "normal",
             "image_type": "png"
@@ -26520,7 +26520,7 @@
         },
         {
             "set": "Kube",
-            "number": 111,
+            "number": 112,
             "card_name": "Rend by Tide",
             "shape": "normal",
             "image_type": "png"
@@ -26849,7 +26849,7 @@
         },
         {
             "set": "Kube",
-            "number": 113,
+            "number": 114,
             "card_name": "Rough Seas",
             "shape": "normal",
             "image_type": "png"
@@ -27642,13 +27642,6 @@
             "set": "Kube",
             "number": 72,
             "card_name": "Cassowary Warden",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 114,
-            "card_name": "Sail the Cloudskies",
             "shape": "normal",
             "image_type": "png"
         },
@@ -28879,7 +28872,7 @@
         },
         {
             "set": "Kube",
-            "number": 109,
+            "number": 110,
             "card_name": "Pursuit of Greatness",
             "shape": "normal",
             "image_type": "png"
@@ -28888,13 +28881,6 @@
             "set": "Kube",
             "number": 98,
             "card_name": "Lunar Theorist",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 101,
-            "card_name": "Mother of Invention",
             "shape": "normal",
             "image_type": "png"
         },
@@ -28929,14 +28915,14 @@
         {
             "set": "Kube",
             "number": 84,
-            "card_name": "Ebilir, the Change God",
+            "card_name": "Ebilir the Change God",
             "shape": "normal",
             "image_type": "png"
         },
         {
             "set": "Kube",
             "number": 173,
-            "card_name": "Nehel, the Empty God",
+            "card_name": "Nehel the Empty God",
             "shape": "normal",
             "image_type": "png"
         },
@@ -28993,6 +28979,20 @@
             "set": "Kube",
             "number": 387,
             "card_name": "Marauder's Tomb",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 103,
+            "card_name": "Nast, Rimewaste Explorer",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 109,
+            "card_name": "A Proper Whodunit",
             "shape": "normal",
             "image_type": "png"
         }
@@ -29350,7 +29350,7 @@
         },
         {
             "set": "Kube",
-            "number": 102,
+            "number": 101,
             "card_name": "Mudcrab Den",
             "shape": "normal",
             "image_type": "png"
@@ -29364,7 +29364,7 @@
         },
         {
             "set": "Kube",
-            "number": 112,
+            "number": 113,
             "card_name": "Rime Daedra",
             "shape": "normal",
             "image_type": "png"
@@ -29574,7 +29574,7 @@
         },
         {
             "set": "Kube",
-            "number": 110,
+            "number": 111,
             "card_name": "Pyrelight Guide",
             "shape": "normal",
             "image_type": "png"
@@ -29651,7 +29651,7 @@
         },
         {
             "set": "Kube",
-            "number": 103,
+            "number": 102,
             "card_name": "Muzzarlo the Spellweaver",
             "shape": "normal",
             "image_type": "png"
@@ -29742,7 +29742,7 @@
         },
         {
             "set": "Kube",
-            "number": 111,
+            "number": 112,
             "card_name": "Rend by Tide",
             "shape": "normal",
             "image_type": "png"
@@ -30071,7 +30071,7 @@
         },
         {
             "set": "Kube",
-            "number": 113,
+            "number": 114,
             "card_name": "Rough Seas",
             "shape": "normal",
             "image_type": "png"
@@ -30864,13 +30864,6 @@
             "set": "Kube",
             "number": 72,
             "card_name": "Cassowary Warden",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 114,
-            "card_name": "Sail the Cloudskies",
             "shape": "normal",
             "image_type": "png"
         },
@@ -32101,7 +32094,7 @@
         },
         {
             "set": "Kube",
-            "number": 109,
+            "number": 110,
             "card_name": "Pursuit of Greatness",
             "shape": "normal",
             "image_type": "png"
@@ -32110,13 +32103,6 @@
             "set": "Kube",
             "number": 98,
             "card_name": "Lunar Theorist",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 101,
-            "card_name": "Mother of Invention",
             "shape": "normal",
             "image_type": "png"
         },
@@ -32151,14 +32137,14 @@
         {
             "set": "Kube",
             "number": 84,
-            "card_name": "Ebilir, the Change God",
+            "card_name": "Ebilir the Change God",
             "shape": "normal",
             "image_type": "png"
         },
         {
             "set": "Kube",
             "number": 173,
-            "card_name": "Nehel, the Empty God",
+            "card_name": "Nehel the Empty God",
             "shape": "normal",
             "image_type": "png"
         },
@@ -32215,6 +32201,20 @@
             "set": "Kube",
             "number": 387,
             "card_name": "Marauder's Tomb",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 103,
+            "card_name": "Nast, Rimewaste Explorer",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 109,
+            "card_name": "A Proper Whodunit",
             "shape": "normal",
             "image_type": "png"
         }
@@ -32572,7 +32572,7 @@
         },
         {
             "set": "Kube",
-            "number": 102,
+            "number": 101,
             "card_name": "Mudcrab Den",
             "shape": "normal",
             "image_type": "png"
@@ -32586,7 +32586,7 @@
         },
         {
             "set": "Kube",
-            "number": 112,
+            "number": 113,
             "card_name": "Rime Daedra",
             "shape": "normal",
             "image_type": "png"
@@ -32796,7 +32796,7 @@
         },
         {
             "set": "Kube",
-            "number": 110,
+            "number": 111,
             "card_name": "Pyrelight Guide",
             "shape": "normal",
             "image_type": "png"
@@ -32873,7 +32873,7 @@
         },
         {
             "set": "Kube",
-            "number": 103,
+            "number": 102,
             "card_name": "Muzzarlo the Spellweaver",
             "shape": "normal",
             "image_type": "png"
@@ -32964,7 +32964,7 @@
         },
         {
             "set": "Kube",
-            "number": 111,
+            "number": 112,
             "card_name": "Rend by Tide",
             "shape": "normal",
             "image_type": "png"
@@ -33293,7 +33293,7 @@
         },
         {
             "set": "Kube",
-            "number": 113,
+            "number": 114,
             "card_name": "Rough Seas",
             "shape": "normal",
             "image_type": "png"
@@ -34086,13 +34086,6 @@
             "set": "Kube",
             "number": 72,
             "card_name": "Cassowary Warden",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 114,
-            "card_name": "Sail the Cloudskies",
             "shape": "normal",
             "image_type": "png"
         },
@@ -35323,7 +35316,7 @@
         },
         {
             "set": "Kube",
-            "number": 109,
+            "number": 110,
             "card_name": "Pursuit of Greatness",
             "shape": "normal",
             "image_type": "png"
@@ -35332,13 +35325,6 @@
             "set": "Kube",
             "number": 98,
             "card_name": "Lunar Theorist",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 101,
-            "card_name": "Mother of Invention",
             "shape": "normal",
             "image_type": "png"
         },
@@ -35373,14 +35359,14 @@
         {
             "set": "Kube",
             "number": 84,
-            "card_name": "Ebilir, the Change God",
+            "card_name": "Ebilir the Change God",
             "shape": "normal",
             "image_type": "png"
         },
         {
             "set": "Kube",
             "number": 173,
-            "card_name": "Nehel, the Empty God",
+            "card_name": "Nehel the Empty God",
             "shape": "normal",
             "image_type": "png"
         },
@@ -35437,6 +35423,20 @@
             "set": "Kube",
             "number": 387,
             "card_name": "Marauder's Tomb",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 103,
+            "card_name": "Nast, Rimewaste Explorer",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 109,
+            "card_name": "A Proper Whodunit",
             "shape": "normal",
             "image_type": "png"
         }
@@ -35794,7 +35794,7 @@
         },
         {
             "set": "Kube",
-            "number": 102,
+            "number": 101,
             "card_name": "Mudcrab Den",
             "shape": "normal",
             "image_type": "png"
@@ -35808,7 +35808,7 @@
         },
         {
             "set": "Kube",
-            "number": 112,
+            "number": 113,
             "card_name": "Rime Daedra",
             "shape": "normal",
             "image_type": "png"
@@ -36018,7 +36018,7 @@
         },
         {
             "set": "Kube",
-            "number": 110,
+            "number": 111,
             "card_name": "Pyrelight Guide",
             "shape": "normal",
             "image_type": "png"
@@ -36095,7 +36095,7 @@
         },
         {
             "set": "Kube",
-            "number": 103,
+            "number": 102,
             "card_name": "Muzzarlo the Spellweaver",
             "shape": "normal",
             "image_type": "png"
@@ -36186,7 +36186,7 @@
         },
         {
             "set": "Kube",
-            "number": 111,
+            "number": 112,
             "card_name": "Rend by Tide",
             "shape": "normal",
             "image_type": "png"
@@ -36515,7 +36515,7 @@
         },
         {
             "set": "Kube",
-            "number": 113,
+            "number": 114,
             "card_name": "Rough Seas",
             "shape": "normal",
             "image_type": "png"
@@ -37308,13 +37308,6 @@
             "set": "Kube",
             "number": 72,
             "card_name": "Cassowary Warden",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 114,
-            "card_name": "Sail the Cloudskies",
             "shape": "normal",
             "image_type": "png"
         },
@@ -38545,7 +38538,7 @@
         },
         {
             "set": "Kube",
-            "number": 109,
+            "number": 110,
             "card_name": "Pursuit of Greatness",
             "shape": "normal",
             "image_type": "png"
@@ -38554,13 +38547,6 @@
             "set": "Kube",
             "number": 98,
             "card_name": "Lunar Theorist",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 101,
-            "card_name": "Mother of Invention",
             "shape": "normal",
             "image_type": "png"
         },
@@ -38595,14 +38581,14 @@
         {
             "set": "Kube",
             "number": 84,
-            "card_name": "Ebilir, the Change God",
+            "card_name": "Ebilir the Change God",
             "shape": "normal",
             "image_type": "png"
         },
         {
             "set": "Kube",
             "number": 173,
-            "card_name": "Nehel, the Empty God",
+            "card_name": "Nehel the Empty God",
             "shape": "normal",
             "image_type": "png"
         },
@@ -38659,6 +38645,20 @@
             "set": "Kube",
             "number": 387,
             "card_name": "Marauder's Tomb",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 103,
+            "card_name": "Nast, Rimewaste Explorer",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 109,
+            "card_name": "A Proper Whodunit",
             "shape": "normal",
             "image_type": "png"
         }
@@ -39016,7 +39016,7 @@
         },
         {
             "set": "Kube",
-            "number": 102,
+            "number": 101,
             "card_name": "Mudcrab Den",
             "shape": "normal",
             "image_type": "png"
@@ -39030,7 +39030,7 @@
         },
         {
             "set": "Kube",
-            "number": 112,
+            "number": 113,
             "card_name": "Rime Daedra",
             "shape": "normal",
             "image_type": "png"
@@ -39240,7 +39240,7 @@
         },
         {
             "set": "Kube",
-            "number": 110,
+            "number": 111,
             "card_name": "Pyrelight Guide",
             "shape": "normal",
             "image_type": "png"
@@ -39317,7 +39317,7 @@
         },
         {
             "set": "Kube",
-            "number": 103,
+            "number": 102,
             "card_name": "Muzzarlo the Spellweaver",
             "shape": "normal",
             "image_type": "png"
@@ -39408,7 +39408,7 @@
         },
         {
             "set": "Kube",
-            "number": 111,
+            "number": 112,
             "card_name": "Rend by Tide",
             "shape": "normal",
             "image_type": "png"
@@ -39737,7 +39737,7 @@
         },
         {
             "set": "Kube",
-            "number": 113,
+            "number": 114,
             "card_name": "Rough Seas",
             "shape": "normal",
             "image_type": "png"
@@ -40530,13 +40530,6 @@
             "set": "Kube",
             "number": 72,
             "card_name": "Cassowary Warden",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 114,
-            "card_name": "Sail the Cloudskies",
             "shape": "normal",
             "image_type": "png"
         },
@@ -41767,7 +41760,7 @@
         },
         {
             "set": "Kube",
-            "number": 109,
+            "number": 110,
             "card_name": "Pursuit of Greatness",
             "shape": "normal",
             "image_type": "png"
@@ -41776,13 +41769,6 @@
             "set": "Kube",
             "number": 98,
             "card_name": "Lunar Theorist",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 101,
-            "card_name": "Mother of Invention",
             "shape": "normal",
             "image_type": "png"
         },
@@ -41817,14 +41803,14 @@
         {
             "set": "Kube",
             "number": 84,
-            "card_name": "Ebilir, the Change God",
+            "card_name": "Ebilir the Change God",
             "shape": "normal",
             "image_type": "png"
         },
         {
             "set": "Kube",
             "number": 173,
-            "card_name": "Nehel, the Empty God",
+            "card_name": "Nehel the Empty God",
             "shape": "normal",
             "image_type": "png"
         },
@@ -41881,6 +41867,20 @@
             "set": "Kube",
             "number": 387,
             "card_name": "Marauder's Tomb",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 103,
+            "card_name": "Nast, Rimewaste Explorer",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 109,
+            "card_name": "A Proper Whodunit",
             "shape": "normal",
             "image_type": "png"
         }
@@ -42238,7 +42238,7 @@
         },
         {
             "set": "Kube",
-            "number": 102,
+            "number": 101,
             "card_name": "Mudcrab Den",
             "shape": "normal",
             "image_type": "png"
@@ -42252,7 +42252,7 @@
         },
         {
             "set": "Kube",
-            "number": 112,
+            "number": 113,
             "card_name": "Rime Daedra",
             "shape": "normal",
             "image_type": "png"
@@ -42462,7 +42462,7 @@
         },
         {
             "set": "Kube",
-            "number": 110,
+            "number": 111,
             "card_name": "Pyrelight Guide",
             "shape": "normal",
             "image_type": "png"
@@ -42539,7 +42539,7 @@
         },
         {
             "set": "Kube",
-            "number": 103,
+            "number": 102,
             "card_name": "Muzzarlo the Spellweaver",
             "shape": "normal",
             "image_type": "png"
@@ -42630,7 +42630,7 @@
         },
         {
             "set": "Kube",
-            "number": 111,
+            "number": 112,
             "card_name": "Rend by Tide",
             "shape": "normal",
             "image_type": "png"
@@ -42959,7 +42959,7 @@
         },
         {
             "set": "Kube",
-            "number": 113,
+            "number": 114,
             "card_name": "Rough Seas",
             "shape": "normal",
             "image_type": "png"
@@ -43752,13 +43752,6 @@
             "set": "Kube",
             "number": 72,
             "card_name": "Cassowary Warden",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 114,
-            "card_name": "Sail the Cloudskies",
             "shape": "normal",
             "image_type": "png"
         },
@@ -44989,7 +44982,7 @@
         },
         {
             "set": "Kube",
-            "number": 109,
+            "number": 110,
             "card_name": "Pursuit of Greatness",
             "shape": "normal",
             "image_type": "png"
@@ -44998,13 +44991,6 @@
             "set": "Kube",
             "number": 98,
             "card_name": "Lunar Theorist",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 101,
-            "card_name": "Mother of Invention",
             "shape": "normal",
             "image_type": "png"
         },
@@ -45039,14 +45025,14 @@
         {
             "set": "Kube",
             "number": 84,
-            "card_name": "Ebilir, the Change God",
+            "card_name": "Ebilir the Change God",
             "shape": "normal",
             "image_type": "png"
         },
         {
             "set": "Kube",
             "number": 173,
-            "card_name": "Nehel, the Empty God",
+            "card_name": "Nehel the Empty God",
             "shape": "normal",
             "image_type": "png"
         },
@@ -45103,6 +45089,20 @@
             "set": "Kube",
             "number": 387,
             "card_name": "Marauder's Tomb",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 103,
+            "card_name": "Nast, Rimewaste Explorer",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 109,
+            "card_name": "A Proper Whodunit",
             "shape": "normal",
             "image_type": "png"
         }
@@ -45460,7 +45460,7 @@
         },
         {
             "set": "Kube",
-            "number": 102,
+            "number": 101,
             "card_name": "Mudcrab Den",
             "shape": "normal",
             "image_type": "png"
@@ -45474,7 +45474,7 @@
         },
         {
             "set": "Kube",
-            "number": 112,
+            "number": 113,
             "card_name": "Rime Daedra",
             "shape": "normal",
             "image_type": "png"
@@ -45684,7 +45684,7 @@
         },
         {
             "set": "Kube",
-            "number": 110,
+            "number": 111,
             "card_name": "Pyrelight Guide",
             "shape": "normal",
             "image_type": "png"
@@ -45761,7 +45761,7 @@
         },
         {
             "set": "Kube",
-            "number": 103,
+            "number": 102,
             "card_name": "Muzzarlo the Spellweaver",
             "shape": "normal",
             "image_type": "png"
@@ -45852,7 +45852,7 @@
         },
         {
             "set": "Kube",
-            "number": 111,
+            "number": 112,
             "card_name": "Rend by Tide",
             "shape": "normal",
             "image_type": "png"
@@ -46181,7 +46181,7 @@
         },
         {
             "set": "Kube",
-            "number": 113,
+            "number": 114,
             "card_name": "Rough Seas",
             "shape": "normal",
             "image_type": "png"
@@ -46974,13 +46974,6 @@
             "set": "Kube",
             "number": 72,
             "card_name": "Cassowary Warden",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 114,
-            "card_name": "Sail the Cloudskies",
             "shape": "normal",
             "image_type": "png"
         },
@@ -48211,7 +48204,7 @@
         },
         {
             "set": "Kube",
-            "number": 109,
+            "number": 110,
             "card_name": "Pursuit of Greatness",
             "shape": "normal",
             "image_type": "png"
@@ -48220,13 +48213,6 @@
             "set": "Kube",
             "number": 98,
             "card_name": "Lunar Theorist",
-            "shape": "normal",
-            "image_type": "png"
-        },
-        {
-            "set": "Kube",
-            "number": 101,
-            "card_name": "Mother of Invention",
             "shape": "normal",
             "image_type": "png"
         },
@@ -48261,14 +48247,14 @@
         {
             "set": "Kube",
             "number": 84,
-            "card_name": "Ebilir, the Change God",
+            "card_name": "Ebilir the Change God",
             "shape": "normal",
             "image_type": "png"
         },
         {
             "set": "Kube",
             "number": 173,
-            "card_name": "Nehel, the Empty God",
+            "card_name": "Nehel the Empty God",
             "shape": "normal",
             "image_type": "png"
         },
@@ -48325,6 +48311,20 @@
             "set": "Kube",
             "number": 387,
             "card_name": "Marauder's Tomb",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 103,
+            "card_name": "Nast, Rimewaste Explorer",
+            "shape": "normal",
+            "image_type": "png"
+        },
+        {
+            "set": "Kube",
+            "number": 109,
+            "card_name": "A Proper Whodunit",
             "shape": "normal",
             "image_type": "png"
         }

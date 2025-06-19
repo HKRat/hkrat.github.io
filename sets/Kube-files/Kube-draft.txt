@@ -442,9 +442,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Dinosaur",
-			"collector_number": "18",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/18_Dinosaur.png"
+				"en": "https://hkrat.github.io/sets/Kube-files/img/20_Dinosaur.png"
 			}
 		},
 		{
@@ -462,9 +462,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Phyrexian Sphinx",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/10_Phyrexian Sphinx.png"
+				"en": "https://hkrat.github.io/sets/Kube-files/img/11_Phyrexian Sphinx.png"
 			}
 		},
 		{
@@ -542,9 +542,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
-			"collector_number": "102",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/102_Mudcrab Den.png"
+				"en": "https://hkrat.github.io/sets/Kube-files/img/101_Mudcrab Den.png"
 			}
 		},
 		{
@@ -562,9 +562,9 @@
 			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Demon Wizard",
-			"collector_number": "112",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/112_Rime Daedra.png"
+				"en": "https://hkrat.github.io/sets/Kube-files/img/113_Rime Daedra.png"
 			}
 		},
 		{
@@ -869,9 +869,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "110",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/110_Pyrelight Guide.png"
+				"en": "https://hkrat.github.io/sets/Kube-files/img/111_Pyrelight Guide.png"
 			}
 		},
 		{
@@ -993,9 +993,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "103",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/103_Muzzarlo the Spellweaver.png"
+				"en": "https://hkrat.github.io/sets/Kube-files/img/102_Muzzarlo the Spellweaver.png"
 			}
 		},
 		{
@@ -1133,9 +1133,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Zombie",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/12_Zombie.png"
+				"en": "https://hkrat.github.io/sets/Kube-files/img/13_Zombie.png"
 			}
 		},
 		{
@@ -1143,9 +1143,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
-			"collector_number": "111",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/111_Rend by Tide.png"
+				"en": "https://hkrat.github.io/sets/Kube-files/img/112_Rend by Tide.png"
 			}
 		},
 		{
@@ -1173,9 +1173,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Wolf",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/17_Wolf.png"
+				"en": "https://hkrat.github.io/sets/Kube-files/img/18_Wolf.png"
 			}
 		},
 		{
@@ -1260,9 +1260,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Elf Warrior",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/15_Elf Warrior.png"
+				"en": "https://hkrat.github.io/sets/Kube-files/img/16_Elf Warrior.png"
 			}
 		},
 		{
@@ -1650,9 +1650,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "113",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/113_Rough Seas.png"
+				"en": "https://hkrat.github.io/sets/Kube-files/img/114_Rough Seas.png"
 			}
 		},
 		{
@@ -2090,9 +2090,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact",
-			"collector_number": "20",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/20_Black Lotus.png"
+				"en": "https://hkrat.github.io/sets/Kube-files/img/22_Black Lotus.png"
 			}
 		},
 		{
@@ -2607,9 +2607,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Assassin",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/13_Assassin.png"
+				"en": "https://hkrat.github.io/sets/Kube-files/img/14_Assassin.png"
 			}
 		},
 		{
@@ -2833,16 +2833,6 @@
 			}
 		},
 		{
-			"name": "Sail the Cloudskies",
-			"rarity": "special",
-			"mana_cost": "{3}{U}{U}",
-			"type": "Instant",
-			"collector_number": "114",
-			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/114_Sail the Cloudskies.png"
-			}
-		},
-		{
 			"name": "Destiny Approaches",
 			"rarity": "special",
 			"mana_cost": "{2}{B}{R}",
@@ -2947,9 +2937,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Snow Creature — Demon Bear",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/11_Demon Bear.png"
+				"en": "https://hkrat.github.io/sets/Kube-files/img/12_Demon Bear.png"
 			}
 		},
 		{
@@ -3114,9 +3104,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit Bear",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/16_Spirit Bear.png"
+				"en": "https://hkrat.github.io/sets/Kube-files/img/17_Spirit Bear.png"
 			}
 		},
 		{
@@ -3134,9 +3124,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Dwarf Warrior",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/14_Dwarf Warrior.png"
+				"en": "https://hkrat.github.io/sets/Kube-files/img/15_Dwarf Warrior.png"
 			}
 		},
 		{
@@ -4795,9 +4785,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "109",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/109_Pursuit of Greatness.png"
+				"en": "https://hkrat.github.io/sets/Kube-files/img/110_Pursuit of Greatness.png"
 			}
 		},
 		{
@@ -4808,16 +4798,6 @@
 			"collector_number": "98",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/Kube-files/img/98_Lunar Theorist.png"
-			}
-		},
-		{
-			"name": "Mother of Invention",
-			"rarity": "special",
-			"mana_cost": "{3}{U}",
-			"type": "Creature — Faerie Artificer",
-			"collector_number": "101",
-			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/101_Mother of Invention.png"
 			}
 		},
 		{
@@ -4835,9 +4815,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Merfolk Beast",
-			"collector_number": "19",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/19_Merfolk Beast.png"
+				"en": "https://hkrat.github.io/sets/Kube-files/img/21_Merfolk Beast.png"
 			}
 		},
 		{
@@ -4871,23 +4851,23 @@
 			}
 		},
 		{
-			"name": "Ebilir, the Change God",
+			"name": "Ebilir the Change God",
 			"rarity": "special",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Legendary Enchantment Creature — God",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/84_Ebilir, the Change God.png"
+				"en": "https://hkrat.github.io/sets/Kube-files/img/84_Ebilir the Change God.png"
 			}
 		},
 		{
-			"name": "Nehel, the Empty God",
+			"name": "Nehel the Empty God",
 			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Enchantment Creature — God",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/Kube-files/img/173_Nehel, the Empty God.png"
+				"en": "https://hkrat.github.io/sets/Kube-files/img/173_Nehel the Empty God.png"
 			}
 		},
 		{
@@ -4968,6 +4948,46 @@
 			"collector_number": "387",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/Kube-files/img/387_Marauder's Tomb.png"
+			}
+		},
+		{
+			"name": "Nast, Rimewaste Explorer",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Snow Creature — Human Scout",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/103_Nast, Rimewaste Explorer.png"
+			}
+		},
+		{
+			"name": "Cat",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Snow Creature — Cat",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/10_Cat.png"
+			}
+		},
+		{
+			"name": "A Proper Whodunit",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/109_A Proper Whodunit.png"
+			}
+		},
+		{
+			"name": "Detective Army",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Detective Army",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/Kube-files/img/19_Detective Army.png"
 			}
 		},
 	]
@@ -5240,7 +5260,6 @@
 	1 Arngeir, Greybeard's Voice
 	1 Bestoleth Charm
 	1 Cassowary Warden
-	1 Sail the Cloudskies
 	1 Destiny Approaches
 	1 Impending Doom
 	1 Snowsculptor
@@ -5418,13 +5437,12 @@
 	1 Hardened Grovetender
 	1 Pursuit of Greatness
 	1 Lunar Theorist
-	1 Mother of Invention
 	1 Meeting at Midnight
 	1 Smug Saboteur
 	1 Harriet Tev Tevlar
 	1 Winter Sun
-	1 Ebilir, the Change God
-	1 Nehel, the Empty God
+	1 Ebilir the Change God
+	1 Nehel the Empty God
 	1 Nehel's Envoy
 	1 Traveler's Pack
 	1 Badlands Ranger
@@ -5433,3 +5451,5 @@
 	1 Vitalia Express
 	1 Construct Caverns
 	1 Marauder's Tomb
+	1 Nast, Rimewaste Explorer
+	1 A Proper Whodunit
