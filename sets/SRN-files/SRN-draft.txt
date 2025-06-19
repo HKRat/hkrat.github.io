@@ -1,10 +1,10 @@
-[CustomCards]
+ï»¿[CustomCards]
 	[
 		{
 			"name": "Blooded Vampire",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Vampire Cleric",
+			"type": "Creature â€” Vampire Cleric",
 			"collector_number": "77",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/77_Blooded Vampire.png"
@@ -14,7 +14,7 @@
 			"name": "Hermaeus Mora, Lorekeeper",
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Legendary Creature — Demon",
+			"type": "Legendary Creature â€” Demon",
 			"collector_number": "89",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/89_Hermaeus Mora, Lorekeeper.png"
@@ -61,7 +61,7 @@
 			"name": "Apprentice Archer",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Elf Archer",
+			"type": "Creature â€” Elf Archer",
 			"collector_number": "148",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/148_Apprentice Archer.png"
@@ -71,7 +71,7 @@
 			"name": "Beast of Tribute",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Creature — Elephant",
+			"type": "Creature â€” Elephant",
 			"collector_number": "151",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/151_Beast of Tribute.png"
@@ -81,7 +81,7 @@
 			"name": "Envoy of Autumn",
 			"rarity": "rare",
 			"mana_cost": "{G}",
-			"type": "Creature — Dryad",
+			"type": "Creature â€” Dryad",
 			"collector_number": "162",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/162_Envoy of Autumn.png"
@@ -91,7 +91,7 @@
 			"name": "Apocrypha Loremaster",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}{R}",
-			"type": "Creature — Demon Warlock",
+			"type": "Creature â€” Demon Warlock",
 			"collector_number": "184",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/184_Apocrypha Loremaster.png"
@@ -101,7 +101,7 @@
 			"name": "Arcane Specialist",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}{B}",
-			"type": "Creature — Cat Wizard",
+			"type": "Creature â€” Cat Wizard",
 			"collector_number": "185",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/185_Arcane Specialist.png"
@@ -111,7 +111,7 @@
 			"name": "Knotted Spriggan",
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}{G}",
-			"type": "Creature — Dryad",
+			"type": "Creature â€” Dryad",
 			"collector_number": "202",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/202_Knotted Spriggan.png"
@@ -131,7 +131,7 @@
 			"name": "Territorial Bear",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Bear",
+			"type": "Creature â€” Bear",
 			"collector_number": "179",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/179_Territorial Bear.png"
@@ -141,7 +141,7 @@
 			"name": "Whiterun Patrol",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
-			"type": "Creature — Human Soldier",
+			"type": "Creature â€” Human Soldier",
 			"collector_number": "218",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/218_Whiterun Patrol.png"
@@ -151,7 +151,7 @@
 			"name": "Bloodcaller Dovah",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{R}",
-			"type": "Creature — Dragon",
+			"type": "Creature â€” Dragon",
 			"collector_number": "117",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/117_Bloodcaller Dovah.png"
@@ -198,7 +198,7 @@
 			"name": "Burdened Houscarl",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Soldier",
+			"type": "Creature â€” Human Soldier",
 			"collector_number": "7",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/7_Burdened Houscarl.png"
@@ -208,7 +208,7 @@
 			"name": "Simple Prisoner",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
-			"type": "Creature — Human",
+			"type": "Creature â€” Human",
 			"collector_number": "30",
 			"back": {
 				"name": "",
@@ -225,7 +225,7 @@
 			"name": "Brurlof, Dovahkiin Hero",
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Legendary Creature — Demigod",
+			"type": "Legendary Creature â€” Demigod",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/6_Brurlof, Dovahkiin Hero.png"
@@ -245,7 +245,7 @@
 			"name": "Kyne's Kin",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
-			"type": "Creature — Human Cleric Werewolf",
+			"type": "Creature â€” Human Cleric Werewolf",
 			"collector_number": "203",
 			"back": {
 				"name": "",
@@ -262,7 +262,7 @@
 			"name": "Skeletal Dovah",
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Creature — Dragon Skeleton",
+			"type": "Creature â€” Dragon Skeleton",
 			"collector_number": "101",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/101_Skeletal Dovah.png"
@@ -272,7 +272,7 @@
 			"name": "Werewolf",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Werewolf",
+			"type": "Token Creature â€” Werewolf",
 			"collector_number": "8",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/8_Werewolf.png"
@@ -282,7 +282,7 @@
 			"name": "Terror of the Town",
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Creature — Dragon",
+			"type": "Creature â€” Dragon",
 			"collector_number": "143",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/143_Terror of the Town.png"
@@ -292,7 +292,7 @@
 			"name": "Zombie",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Zombie",
+			"type": "Token Creature â€” Zombie",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/5_Zombie.png"
@@ -302,7 +302,7 @@
 			"name": "Bludgeoning Mace",
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "227",
 			"back": {
 				"name": "",
@@ -319,7 +319,7 @@
 			"name": "Tested Steel",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "244",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/244_Tested Steel.png"
@@ -329,7 +329,7 @@
 			"name": "Stendarr's Hammer",
 			"rarity": "rare",
 			"mana_cost": "{1}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "242",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/242_Stendarr's Hammer.png"
@@ -339,7 +339,7 @@
 			"name": "Mjoll the Lioness",
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Legendary Planeswalker — Mjoll",
+			"type": "Legendary Planeswalker â€” Mjoll",
 			"collector_number": "25",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/25_Mjoll the Lioness.png"
@@ -349,7 +349,7 @@
 			"name": "Soldier",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Soldier",
+			"type": "Token Creature â€” Soldier",
 			"collector_number": "3",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/3_Soldier.png"
@@ -379,7 +379,7 @@
 			"name": "Morthal Interloper",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Vampire Rogue",
+			"type": "Creature â€” Vampire Rogue",
 			"collector_number": "133",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/133_Morthal Interloper.png"
@@ -389,7 +389,7 @@
 			"name": "Rift Herald",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Warrior",
+			"type": "Creature â€” Human Warrior",
 			"collector_number": "27",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/27_Rift Herald.png"
@@ -409,7 +409,7 @@
 			"name": "Glasswing Dovah",
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}",
-			"type": "Creature — Dragon",
+			"type": "Creature â€” Dragon",
 			"collector_number": "49",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/49_Glasswing Dovah.png"
@@ -429,7 +429,7 @@
 			"name": "Brotherhood Initiate",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Cat Assassin",
+			"type": "Creature â€” Cat Assassin",
 			"collector_number": "78",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/78_Brotherhood Initiate.png"
@@ -439,7 +439,7 @@
 			"name": "Draconic Priest",
 			"rarity": "uncommon",
 			"mana_cost": "{6}{B}{B}",
-			"type": "Creature — Zombie Wizard",
+			"type": "Creature â€” Zombie Wizard",
 			"collector_number": "84",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/84_Draconic Priest.png"
@@ -459,7 +459,7 @@
 			"name": "Cutthroat Dremora",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Demon Knight",
+			"type": "Creature â€” Demon Knight",
 			"collector_number": "80",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/80_Cutthroat Dremora.png"
@@ -506,7 +506,7 @@
 			"name": "Aspiring Mage",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Cat Wizard",
+			"type": "Creature â€” Cat Wizard",
 			"collector_number": "39",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/39_Aspiring Mage.png"
@@ -526,7 +526,7 @@
 			"name": "Draugr Wight",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{B}",
-			"type": "Creature — Zombie Wizard",
+			"type": "Creature â€” Zombie Wizard",
 			"collector_number": "193",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/193_Draugr Wight.png"
@@ -546,7 +546,7 @@
 			"name": "Disciple of Hircine",
 			"rarity": "common",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Human Werewolf",
+			"type": "Creature â€” Human Werewolf",
 			"collector_number": "158",
 			"back": {
 				"name": "",
@@ -563,7 +563,7 @@
 			"name": "Heir to the Wilds",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Warrior",
+			"type": "Creature â€” Human Warrior",
 			"collector_number": "166",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/166_Heir to the Wilds.png"
@@ -573,7 +573,7 @@
 			"name": "Novice Explorer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Elf Scout",
+			"type": "Creature â€” Elf Scout",
 			"collector_number": "169",
 			"back": {
 				"name": "",
@@ -600,7 +600,7 @@
 			"name": "Standing Stones Pilgrim",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Elf Scout",
+			"type": "Creature â€” Elf Scout",
 			"collector_number": "177",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/177_Standing Stones Pilgrim.png"
@@ -620,7 +620,7 @@
 			"name": "Agent of Chaos",
 			"rarity": "common",
 			"mana_cost": "{1}{R}{R}",
-			"type": "Creature — Vampire Rogue",
+			"type": "Creature â€” Vampire Rogue",
 			"collector_number": "111",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/111_Agent of Chaos.png"
@@ -640,7 +640,7 @@
 			"name": "Enlistment Patrol",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}{U}",
-			"type": "Creature — Human Soldier",
+			"type": "Creature â€” Human Soldier",
 			"collector_number": "196",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/196_Enlistment Patrol.png"
@@ -650,7 +650,7 @@
 			"name": "Scourge of Autumnwatch",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}{G}",
-			"type": "Creature — Dragon",
+			"type": "Creature â€” Dragon",
 			"collector_number": "209",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/209_Scourge of Autumnwatch.png"
@@ -660,7 +660,7 @@
 			"name": "Shadow Informant",
 			"rarity": "rare",
 			"mana_cost": "{U}{B}{R}",
-			"type": "Creature — Elf Assassin",
+			"type": "Creature â€” Elf Assassin",
 			"collector_number": "210",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/210_Shadow Informant.png"
@@ -670,7 +670,7 @@
 			"name": "Argonian Stalker",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Viashino Berserker",
+			"type": "Creature â€” Viashino Berserker",
 			"collector_number": "112",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/112_Argonian Stalker.png"
@@ -690,7 +690,7 @@
 			"name": "Orcish Striker",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Orc Warrior",
+			"type": "Creature â€” Orc Warrior",
 			"collector_number": "134",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/134_Orcish Striker.png"
@@ -700,7 +700,7 @@
 			"name": "Scorching Scourge",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
-			"type": "Creature — Elemental",
+			"type": "Creature â€” Elemental",
 			"collector_number": "139",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/139_Scorching Scourge.png"
@@ -720,7 +720,7 @@
 			"name": "Khajiit Bodyguard",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Cat Soldier",
+			"type": "Creature â€” Cat Soldier",
 			"collector_number": "19",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/19_Khajiit Bodyguard.png"
@@ -730,7 +730,7 @@
 			"name": "Alik'r Battlemage",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Human Nomad",
+			"type": "Creature â€” Human Nomad",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/1_Alik'r Battlemage.png"
@@ -740,7 +740,7 @@
 			"name": "Oculatus Agent",
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
-			"type": "Creature — Human Soldier",
+			"type": "Creature â€” Human Soldier",
 			"collector_number": "26",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/26_Oculatus Agent.png"
@@ -750,7 +750,7 @@
 			"name": "Stormcloak Stalwart",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Creature — Human Warrior",
+			"type": "Creature â€” Human Warrior",
 			"collector_number": "32",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/32_Stormcloak Stalwart.png"
@@ -770,7 +770,7 @@
 			"name": "Wall of Ancient Lore",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Wall",
+			"type": "Creature â€” Wall",
 			"collector_number": "144",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/144_Wall of Ancient Lore.png"
@@ -807,7 +807,7 @@
 			"name": "Spider",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Spider",
+			"type": "Token Creature â€” Spider",
 			"collector_number": "7",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/7_Spider.png"
@@ -817,7 +817,7 @@
 			"name": "Delphine of Riverwood",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature — Human",
+			"type": "Legendary Creature â€” Human",
 			"collector_number": "10",
 			"back": {
 				"name": "",
@@ -914,7 +914,7 @@
 			"name": "Nocturnal's Cutthroat",
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Creature — Vampire Warrior",
+			"type": "Creature â€” Vampire Warrior",
 			"collector_number": "96",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/96_Nocturnal's Cutthroat.png"
@@ -924,7 +924,7 @@
 			"name": "Whiterun Gateguard",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Soldier",
+			"type": "Creature â€” Human Soldier",
 			"collector_number": "146",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/146_Whiterun Gateguard.png"
@@ -934,7 +934,7 @@
 			"name": "Tuskling Mammoth",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Elephant",
+			"type": "Creature â€” Elephant",
 			"collector_number": "180",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/180_Tuskling Mammoth.png"
@@ -944,7 +944,7 @@
 			"name": "Guild Infiltrator",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue",
 			"collector_number": "50",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/50_Guild Infiltrator.png"
@@ -974,7 +974,7 @@
 			"name": "Rift Spriggan",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
-			"type": "Creature — Dryad",
+			"type": "Creature â€” Dryad",
 			"collector_number": "172",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/172_Rift Spriggan.png"
@@ -984,7 +984,7 @@
 			"name": "Devout of the Nine",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard",
 			"collector_number": "43",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/43_Devout of the Nine.png"
@@ -994,7 +994,7 @@
 			"name": "Thalmor Impersonator",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Cat Rogue",
+			"type": "Creature â€” Cat Rogue",
 			"collector_number": "103",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/103_Thalmor Impersonator.png"
@@ -1004,7 +1004,7 @@
 			"name": "Winterhold Sorcerer",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard",
 			"collector_number": "35",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/35_Winterhold Sorcerer.png"
@@ -1014,7 +1014,7 @@
 			"name": "Ancient Voice",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "3",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/3_Ancient Voice.png"
@@ -1024,7 +1024,7 @@
 			"name": "Voice of Balance",
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard",
 			"collector_number": "71",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/71_Voice of Balance.png"
@@ -1044,7 +1044,7 @@
 			"name": "Servant Dovah",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Dragon",
+			"type": "Creature â€” Dragon",
 			"collector_number": "140",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/140_Servant Dovah.png"
@@ -1074,7 +1074,7 @@
 			"name": "Volkihar Ancient",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Vampire Rogue",
+			"type": "Creature â€” Vampire Rogue",
 			"collector_number": "106",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/106_Volkihar Ancient.png"
@@ -1084,7 +1084,7 @@
 			"name": "Stronghold Ravager",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
-			"type": "Creature — Orc Warrior",
+			"type": "Creature â€” Orc Warrior",
 			"collector_number": "142",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/142_Stronghold Ravager.png"
@@ -1094,7 +1094,7 @@
 			"name": "Raven Rock Guard",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Elf Warrior",
+			"type": "Creature â€” Elf Warrior",
 			"collector_number": "171",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/171_Raven Rock Guard.png"
@@ -1104,7 +1104,7 @@
 			"name": "Thief's Informant",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Elf Rogue",
+			"type": "Creature â€” Elf Rogue",
 			"collector_number": "67",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/67_Thief's Informant.png"
@@ -1124,7 +1124,7 @@
 			"name": "Stormcloak Zealot",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Warrior",
+			"type": "Creature â€” Human Warrior",
 			"collector_number": "33",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/33_Stormcloak Zealot.png"
@@ -1134,7 +1134,7 @@
 			"name": "Humble",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "17",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/17_Humble.png"
@@ -1154,7 +1154,7 @@
 			"name": "Stormcloak Elite",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Human Warrior",
+			"type": "Creature â€” Human Warrior",
 			"collector_number": "178",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/178_Stormcloak Elite.png"
@@ -1164,7 +1164,7 @@
 			"name": "Legion's Ranks",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
-			"type": "Creature — Human Soldier",
+			"type": "Creature â€” Human Soldier",
 			"collector_number": "53",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/53_Legion's Ranks.png"
@@ -1174,7 +1174,7 @@
 			"name": "Arcadia the Alchemist",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
-			"type": "Legendary Creature — Human Artificer",
+			"type": "Legendary Creature â€” Human Artificer",
 			"collector_number": "37",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/37_Arcadia the Alchemist.png"
@@ -1194,7 +1194,7 @@
 			"name": "Contraband Confiscator",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Elf Rogue",
+			"type": "Creature â€” Elf Rogue",
 			"collector_number": "79",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/79_Contraband Confiscator.png"
@@ -1214,7 +1214,7 @@
 			"name": "Astrid the Black Hand",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
-			"type": "Legendary Creature — Human Assassin",
+			"type": "Legendary Creature â€” Human Assassin",
 			"collector_number": "74",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/74_Astrid the Black Hand.png"
@@ -1234,7 +1234,7 @@
 			"name": "Rorikstead Wayguide",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
-			"type": "Creature — Elf Warrior Scout",
+			"type": "Creature â€” Elf Warrior Scout",
 			"collector_number": "174",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/174_Rorikstead Wayguide.png"
@@ -1264,7 +1264,7 @@
 			"name": "Imperial Agents",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Creature — Human Soldier",
+			"type": "Creature â€” Human Soldier",
 			"collector_number": "18",
 			"back": {
 				"name": "",
@@ -1281,7 +1281,7 @@
 			"name": "Whiterun Howler",
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
-			"type": "Creature — Werewolf",
+			"type": "Creature â€” Werewolf",
 			"collector_number": "217",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/217_Whiterun Howler.png"
@@ -1291,7 +1291,7 @@
 			"name": "Stormcloak Rallier",
 			"rarity": "rare",
 			"mana_cost": "{R}{G}{W}",
-			"type": "Creature — Human Warrior",
+			"type": "Creature â€” Human Warrior",
 			"collector_number": "213",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/213_Stormcloak Rallier.png"
@@ -1301,7 +1301,7 @@
 			"name": "Trove Archivist",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
-			"type": "Creature — Human",
+			"type": "Creature â€” Human",
 			"collector_number": "214",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/214_Trove Archivist.png"
@@ -1311,7 +1311,7 @@
 			"name": "Greybeard Mentor",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}{U}",
-			"type": "Creature — Human Monk",
+			"type": "Creature â€” Human Monk",
 			"collector_number": "200",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/200_Greybeard Mentor.png"
@@ -1331,7 +1331,7 @@
 			"name": "General Tullius",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}{W}",
-			"type": "Legendary Creature — Human Knight",
+			"type": "Legendary Creature â€” Human Knight",
 			"collector_number": "199",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/199_General Tullius.png"
@@ -1341,7 +1341,7 @@
 			"name": "Solitude Warden",
 			"rarity": "rare",
 			"mana_cost": "{G}{W}{U}",
-			"type": "Creature — Human Soldier",
+			"type": "Creature â€” Human Soldier",
 			"collector_number": "211",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/211_Solitude Warden.png"
@@ -1371,7 +1371,7 @@
 			"name": "Belligerent Farmer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
-			"type": "Creature — Human Berserker",
+			"type": "Creature â€” Human Berserker",
 			"collector_number": "187",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/187_Belligerent Farmer.png"
@@ -1411,7 +1411,7 @@
 			"name": "Flittering Wisp",
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
-			"type": "Creature — Spirit",
+			"type": "Creature â€” Spirit",
 			"collector_number": "198",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/198_Flittering Wisp.png"
@@ -1421,7 +1421,7 @@
 			"name": "Ghost Sea Herald",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Human",
+			"type": "Creature â€” Human",
 			"collector_number": "48",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/48_Ghost Sea Herald.png"
@@ -1431,7 +1431,7 @@
 			"name": "Bleak Falls Herald",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Zombie",
+			"type": "Creature â€” Zombie",
 			"collector_number": "75",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/75_Bleak Falls Herald.png"
@@ -1441,7 +1441,7 @@
 			"name": "Bard's Leap Herald",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human",
+			"type": "Creature â€” Human",
 			"collector_number": "115",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/115_Bard's Leap Herald.png"
@@ -1451,7 +1451,7 @@
 			"name": "Riverwood Herald",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature — Elf",
+			"type": "Creature â€” Elf",
 			"collector_number": "173",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/173_Riverwood Herald.png"
@@ -1471,7 +1471,7 @@
 			"name": "Jorrvaskr Strategist",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Creature — Human Werewolf",
+			"type": "Creature â€” Human Werewolf",
 			"collector_number": "130",
 			"back": {
 				"name": "",
@@ -1498,7 +1498,7 @@
 			"name": "Elixir",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Elixir",
+			"type": "Token Artifact â€” Elixir",
 			"collector_number": "11",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/11_Elixir.png"
@@ -1508,7 +1508,7 @@
 			"name": "Spider Construct",
 			"rarity": "common",
 			"mana_cost": "{3}",
-			"type": "Artifact Creature — Spider Construct",
+			"type": "Artifact Creature â€” Spider Construct",
 			"collector_number": "241",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/241_Spider Construct.png"
@@ -1518,7 +1518,7 @@
 			"name": "Hunting Bow",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "235",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/235_Hunting Bow.png"
@@ -1528,7 +1528,7 @@
 			"name": "Iron Sword",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "236",
 			"back": {
 				"name": "",
@@ -1545,7 +1545,7 @@
 			"name": "Jeweled Ring",
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "237",
 			"back": {
 				"name": "",
@@ -1579,7 +1579,7 @@
 			"name": "Banded Shield",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "226",
 			"back": {
 				"name": "",
@@ -1596,7 +1596,7 @@
 			"name": "Spirit",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Spirit",
+			"type": "Token Creature â€” Spirit",
 			"collector_number": "4",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/4_Spirit.png"
@@ -1606,7 +1606,7 @@
 			"name": "Midden Wanderer",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard",
 			"collector_number": "24",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/24_Midden Wanderer.png"
@@ -1616,7 +1616,7 @@
 			"name": "Heel Pincher",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
-			"type": "Creature — Crab",
+			"type": "Creature â€” Crab",
 			"collector_number": "51",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/51_Heel Pincher.png"
@@ -1646,7 +1646,7 @@
 			"name": "Sturdy Dagger",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "243",
 			"back": {
 				"name": "",
@@ -1713,7 +1713,7 @@
 			"name": "Restless Dynamo",
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct",
 			"collector_number": "239",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/239_Restless Dynamo.png"
@@ -1733,7 +1733,7 @@
 			"name": "Construct",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact Creature — Construct",
+			"type": "Token Artifact Creature â€” Construct",
 			"collector_number": "10",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/10_Construct.png"
@@ -1743,7 +1743,7 @@
 			"name": "Stalked Delver",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Creature — Elf Wizard",
+			"type": "Creature â€” Elf Wizard",
 			"collector_number": "62",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/62_Stalked Delver.png"
@@ -1753,7 +1753,7 @@
 			"name": "Brute Strength",
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "155",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/155_Brute Strength.png"
@@ -1783,7 +1783,7 @@
 			"name": "Bandit Scorcher",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard",
 			"collector_number": "114",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/114_Bandit Scorcher.png"
@@ -1793,7 +1793,7 @@
 			"name": "Vampire Soulrender",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Vampire Shaman",
+			"type": "Creature â€” Vampire Shaman",
 			"collector_number": "104",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/104_Vampire Soulrender.png"
@@ -1813,7 +1813,7 @@
 			"name": "Meandering Titan",
 			"rarity": "rare",
 			"mana_cost": "{4}{W}",
-			"type": "Creature — Giant Nomad",
+			"type": "Creature â€” Giant Nomad",
 			"collector_number": "22",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/22_Meandering Titan.png"
@@ -1823,7 +1823,7 @@
 			"name": "Ashen Atronach",
 			"rarity": "rare",
 			"mana_cost": "{X}{R}",
-			"type": "Creature — Elemental",
+			"type": "Creature â€” Elemental",
 			"collector_number": "113",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/113_Ashen Atronach.png"
@@ -1833,7 +1833,7 @@
 			"name": "Feral Pup",
 			"rarity": "rare",
 			"mana_cost": "{G}",
-			"type": "Creature — Hound",
+			"type": "Creature â€” Hound",
 			"collector_number": "163",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/163_Feral Pup.png"
@@ -1843,7 +1843,7 @@
 			"name": "Bonewatcher Giant",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Creature — Giant Nomad",
+			"type": "Creature â€” Giant Nomad",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/5_Bonewatcher Giant.png"
@@ -1853,7 +1853,7 @@
 			"name": "Dexion, Moth Priest",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Legendary Creature — Human Monk",
+			"type": "Legendary Creature â€” Human Monk",
 			"collector_number": "11",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/11_Dexion, Moth Priest.png"
@@ -1873,7 +1873,7 @@
 			"name": "Vulturous Hagraven",
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
-			"type": "Creature — Harpy",
+			"type": "Creature â€” Harpy",
 			"collector_number": "108",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/108_Vulturous Hagraven.png"
@@ -1883,7 +1883,7 @@
 			"name": "Orsimer Bone-Breaker",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Orc Berserker",
+			"type": "Creature â€” Orc Berserker",
 			"collector_number": "135",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/135_Orsimer Bone-Breaker.png"
@@ -1903,7 +1903,7 @@
 			"name": "Steadfast Ward",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "63",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/63_Steadfast Ward.png"
@@ -1913,7 +1913,7 @@
 			"name": "Daedric Whispers",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Enchantment — Aura Curse",
+			"type": "Enchantment â€” Aura Curse",
 			"collector_number": "81",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/81_Daedric Whispers.png"
@@ -1923,7 +1923,7 @@
 			"name": "Brash Bandit",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Orc Berserker",
+			"type": "Creature â€” Orc Berserker",
 			"collector_number": "118",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/118_Brash Bandit.png"
@@ -1933,7 +1933,7 @@
 			"name": "Eldergleam Matron",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Creature — Dryad",
+			"type": "Creature â€” Dryad",
 			"collector_number": "159",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/159_Eldergleam Matron.png"
@@ -1943,7 +1943,7 @@
 			"name": "Conjured Apparition",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/9_Conjured Apparition.png"
@@ -1953,7 +1953,7 @@
 			"name": "Magicka Elixir",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "54",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/54_Magicka Elixir.png"
@@ -1983,7 +1983,7 @@
 			"name": "Forsworn Hagraven",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Harpy",
+			"type": "Creature â€” Harpy",
 			"collector_number": "46",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/46_Forsworn Hagraven.png"
@@ -1993,7 +1993,7 @@
 			"name": "Dark Lineage",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "82",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/82_Dark Lineage.png"
@@ -2003,7 +2003,7 @@
 			"name": "Volta Hearth",
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Legendary Planeswalker — Volta",
+			"type": "Legendary Planeswalker â€” Volta",
 			"collector_number": "72",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/72_Volta Hearth.png"
@@ -2023,7 +2023,7 @@
 			"name": "Draugr Ascendant",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Zombie Wizard",
+			"type": "Creature â€” Zombie Wizard",
 			"collector_number": "44",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/44_Draugr Ascendant.png"
@@ -2063,7 +2063,7 @@
 			"name": "College Aprentice",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
-			"type": "Creature — Cat Wizard",
+			"type": "Creature â€” Cat Wizard",
 			"collector_number": "8",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/8_College Aprentice.png"
@@ -2073,7 +2073,7 @@
 			"name": "College Wanderer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard",
 			"collector_number": "41",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/41_College Wanderer.png"
@@ -2083,7 +2083,7 @@
 			"name": "Necrotic Falmer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Elf Mutant",
+			"type": "Creature â€” Elf Mutant",
 			"collector_number": "94",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/94_Necrotic Falmer.png"
@@ -2103,7 +2103,7 @@
 			"name": "Complacent Farmer",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Creature — Human Werewolf",
+			"type": "Creature â€” Human Werewolf",
 			"collector_number": "156",
 			"back": {
 				"name": "",
@@ -2150,7 +2150,7 @@
 			"name": "Ancient Might",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "147",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/147_Ancient Might.png"
@@ -2230,7 +2230,7 @@
 			"name": "Lasting Legacy",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "20",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/20_Lasting Legacy.png"
@@ -2240,7 +2240,7 @@
 			"name": "Thief's Fence",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Elf Rogue",
+			"type": "Creature â€” Elf Rogue",
 			"collector_number": "66",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/66_Thief's Fence.png"
@@ -2250,7 +2250,7 @@
 			"name": "Draugr Behemoth",
 			"rarity": "rare",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Zombie",
+			"type": "Creature â€” Zombie",
 			"collector_number": "85",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/85_Draugr Behemoth.png"
@@ -2280,7 +2280,7 @@
 			"name": "Enchanter's Primer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "195",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/195_Enchanter's Primer.png"
@@ -2290,7 +2290,7 @@
 			"name": "Dovah's Embrace",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "192",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/192_Dovah's Embrace.png"
@@ -2310,7 +2310,7 @@
 			"name": "Hircine's Prize",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
-			"type": "Creature — Bear Berserker",
+			"type": "Creature â€” Bear Berserker",
 			"collector_number": "201",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/201_Hircine's Prize.png"
@@ -2330,7 +2330,7 @@
 			"name": "Riften Confiscator",
 			"rarity": "uncommon",
 			"mana_cost": "{W/B}{W/B}",
-			"type": "Creature — Human Warrior",
+			"type": "Creature â€” Human Warrior",
 			"collector_number": "222",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/222_Riften Confiscator.png"
@@ -2340,7 +2340,7 @@
 			"name": "Solstheim Serpent",
 			"rarity": "rare",
 			"mana_cost": "{5}{U}{B}{R}",
-			"type": "Creature — Dragon",
+			"type": "Creature â€” Dragon",
 			"collector_number": "212",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/212_Solstheim Serpent.png"
@@ -2350,7 +2350,7 @@
 			"name": "Orcish Shopkeep",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
-			"type": "Creature — Orc",
+			"type": "Creature â€” Orc",
 			"collector_number": "206",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/206_Orcish Shopkeep.png"
@@ -2360,7 +2360,7 @@
 			"name": "Daedric Weaponhunter",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
-			"type": "Creature — Human Warrior",
+			"type": "Creature â€” Human Warrior",
 			"collector_number": "190",
 			"back": {
 				"name": "",
@@ -2397,7 +2397,7 @@
 			"name": "Wispform",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "36",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/36_Wispform.png"
@@ -2407,7 +2407,7 @@
 			"name": "Ravenous Draugr",
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
-			"type": "Creature — Zombie",
+			"type": "Creature â€” Zombie",
 			"collector_number": "98",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/98_Ravenous Draugr.png"
@@ -2447,7 +2447,7 @@
 			"name": "Crypt Excavator",
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Elf Warrior Scout",
+			"type": "Creature â€” Elf Warrior Scout",
 			"collector_number": "157",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/157_Crypt Excavator.png"
@@ -2477,7 +2477,7 @@
 			"name": "Wolf",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Wolf",
+			"type": "Token Creature â€” Wolf",
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/9_Wolf.png"
@@ -2487,7 +2487,7 @@
 			"name": "Discarded Helm",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "230",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/230_Discarded Helm.png"
@@ -2497,7 +2497,7 @@
 			"name": "Dragonbone Plate",
 			"rarity": "rare",
 			"mana_cost": "{6}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "231",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/231_Dragonbone Plate.png"
@@ -2517,7 +2517,7 @@
 			"name": "Dragon",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Dragon",
+			"type": "Token Creature â€” Dragon",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/6_Dragon.png"
@@ -2527,7 +2527,7 @@
 			"name": "Paarthurnax the Mentor",
 			"rarity": "mythic",
 			"mana_cost": "{5}{W}{U}",
-			"type": "Legendary Creature — Dragon",
+			"type": "Legendary Creature â€” Dragon",
 			"collector_number": "207",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/207_Paarthurnax the Mentor.png"
@@ -2537,7 +2537,7 @@
 			"name": "Miraak, First Dragonborn",
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}",
-			"type": "Legendary Creature — Demigod",
+			"type": "Legendary Creature â€” Demigod",
 			"collector_number": "92",
 			"back": {
 				"name": "",
@@ -2554,7 +2554,7 @@
 			"name": "Amil of the Dawnguard",
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{G}{W}",
-			"type": "Legendary Planeswalker — Amil",
+			"type": "Legendary Planeswalker â€” Amil",
 			"collector_number": "183",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/183_Amil of the Dawnguard.png"
@@ -2564,7 +2564,7 @@
 			"name": "Morag Tong Agent",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Creature — Elf Assassin",
+			"type": "Creature â€” Elf Assassin",
 			"collector_number": "93",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/93_Morag Tong Agent.png"
@@ -2574,7 +2574,7 @@
 			"name": "Dawnbreaker",
 			"rarity": "rare",
 			"mana_cost": "{3}",
-			"type": "Legendary Artifact — Equipment",
+			"type": "Legendary Artifact â€” Equipment",
 			"collector_number": "229",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/229_Dawnbreaker.png"
@@ -2594,7 +2594,7 @@
 			"name": "M'aiq, Liar-Cat",
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}",
-			"type": "Legendary Creature — Cat",
+			"type": "Legendary Creature â€” Cat",
 			"collector_number": "204",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/204_M'aiq, Liar-Cat.png"
@@ -2604,7 +2604,7 @@
 			"name": "Spoken-Force Greybeard",
 			"rarity": "uncommon",
 			"mana_cost": "{U/R}{U/R}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard",
 			"collector_number": "223",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/223_Spoken-Force Greybeard.png"
@@ -2614,7 +2614,7 @@
 			"name": "Bandit Profiteer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/W}{R/W}",
-			"type": "Creature — Cat Berserker",
+			"type": "Creature â€” Cat Berserker",
 			"collector_number": "221",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/221_Bandit Profiteer.png"
@@ -2624,7 +2624,7 @@
 			"name": "Thalmor Elite",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B/G}{B/G}",
-			"type": "Creature — Elf Soldier",
+			"type": "Creature â€” Elf Soldier",
 			"collector_number": "224",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/224_Thalmor Elite.png"
@@ -2634,7 +2634,7 @@
 			"name": "Arboreal Sanctifier",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G/U}{G/U}",
-			"type": "Creature — Elf Druid",
+			"type": "Creature â€” Elf Druid",
 			"collector_number": "220",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/220_Arboreal Sanctifier.png"
@@ -2664,7 +2664,7 @@
 			"name": "Illusion Mastery",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "52",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/52_Illusion Mastery.png"
@@ -2674,7 +2674,7 @@
 			"name": "Ravaging Strength",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "97",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/97_Ravaging Strength.png"
@@ -2684,7 +2684,7 @@
 			"name": "Dawnguard Warrior",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Warrior",
+			"type": "Creature â€” Human Warrior",
 			"collector_number": "122",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/122_Dawnguard Warrior.png"
@@ -2694,7 +2694,7 @@
 			"name": "Windhelm Dock-Worker",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature — Viashino Warrior",
+			"type": "Creature â€” Viashino Warrior",
 			"collector_number": "182",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/182_Windhelm Dock-Worker.png"
@@ -2704,7 +2704,7 @@
 			"name": "Hold Guard",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Soldier",
+			"type": "Creature â€” Human Soldier",
 			"collector_number": "16",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/16_Hold Guard.png"
@@ -2714,7 +2714,7 @@
 			"name": "College Student",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard",
 			"collector_number": "40",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/40_College Student.png"
@@ -2724,7 +2724,7 @@
 			"name": "Volkihar Nightstalker",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Vampire Warlock",
+			"type": "Creature â€” Vampire Warlock",
 			"collector_number": "107",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/107_Volkihar Nightstalker.png"
@@ -2734,7 +2734,7 @@
 			"name": "Crypt Ravager",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Creature — Vampire Berserker",
+			"type": "Creature â€” Vampire Berserker",
 			"collector_number": "120",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/120_Crypt Ravager.png"
@@ -2754,7 +2754,7 @@
 			"name": "Dexion Reads the Elder Scroll",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Enchantment — Saga",
+			"type": "Enchantment â€” Saga",
 			"collector_number": "12",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/12_Dexion Reads the Elder Scroll.png"
@@ -2764,7 +2764,7 @@
 			"name": "Monk",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Monk",
+			"type": "Token Creature â€” Monk",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/2_Monk.png"
@@ -2784,7 +2784,7 @@
 			"name": "Miraak's Dragon Uprising",
 			"rarity": "rare",
 			"mana_cost": "{4}{R}",
-			"type": "Enchantment — Saga",
+			"type": "Enchantment â€” Saga",
 			"collector_number": "132",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/132_Miraak's Dragon Uprising.png"
@@ -2794,7 +2794,7 @@
 			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Plains",
+			"type": "Basic Land â€” Plains",
 			"collector_number": "255",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/255_Plains.png"
@@ -2804,7 +2804,7 @@
 			"name": "Island",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Island",
+			"type": "Basic Land â€” Island",
 			"collector_number": "256",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/256_Island.png"
@@ -2814,7 +2814,7 @@
 			"name": "Swamp",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Swamp",
+			"type": "Basic Land â€” Swamp",
 			"collector_number": "257",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/257_Swamp.png"
@@ -2824,7 +2824,7 @@
 			"name": "Mountain",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Mountain",
+			"type": "Basic Land â€” Mountain",
 			"collector_number": "258",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/258_Mountain.png"
@@ -2834,7 +2834,7 @@
 			"name": "Forest",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Forest",
+			"type": "Basic Land â€” Forest",
 			"collector_number": "259",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/259_Forest.png"

@@ -1,10 +1,10 @@
-[CustomCards]
+ï»¿[CustomCards]
 	[
 		{
 			"name": "Nesting Pteranodon",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Dinosaur Drake",
+			"type": "Creature â€” Dinosaur Drake",
 			"collector_number": "37",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/37_Nesting Pteranodon.png"
@@ -14,7 +14,7 @@
 			"name": "Scavenging Herd",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "126",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/126_Scavenging Herd.png"
@@ -24,7 +24,7 @@
 			"name": "Territorial Sauropod",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "22",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/22_Territorial Sauropod.png"
@@ -34,7 +34,7 @@
 			"name": "Sun-Valley Lookout",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Scout",
+			"type": "Creature â€” Human Scout",
 			"collector_number": "129",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/129_Sun-Valley Lookout.png"
@@ -44,7 +44,7 @@
 			"name": "Intrepid Slayer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Soldier",
+			"type": "Creature â€” Human Soldier",
 			"collector_number": "8",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/8_Intrepid Slayer.png"
@@ -94,7 +94,7 @@
 			"name": "Bortan, Dominant Chieftan",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Legendary Creature — Human Rogue",
+			"type": "Legendary Creature â€” Human Rogue",
 			"collector_number": "58",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/58_Bortan, Dominant Chieftan.png"
@@ -104,7 +104,7 @@
 			"name": "Cerat, Asari Hunter",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
-			"type": "Legendary Planeswalker — Cerat",
+			"type": "Legendary Planeswalker â€” Cerat",
 			"collector_number": "137",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/137_Cerat, Asari Hunter.png"
@@ -124,7 +124,7 @@
 			"name": "Bountiful Shores",
 			"rarity": "masterpiece",
 			"mana_cost": "",
-			"type": "Land — Forest Island Mountain",
+			"type": "Land â€” Forest Island Mountain",
 			"collector_number": "3",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/3_Bountiful Shores.png"
@@ -134,7 +134,7 @@
 			"name": "Floodplain Marsh",
 			"rarity": "masterpiece",
 			"mana_cost": "",
-			"type": "Land — Swamp Forest Island",
+			"type": "Land â€” Swamp Forest Island",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/5_Floodplain Marsh.png"
@@ -144,7 +144,7 @@
 			"name": "Decrepit Boneyard",
 			"rarity": "masterpiece",
 			"mana_cost": "",
-			"type": "Land — Plains Swamp Forest",
+			"type": "Land â€” Plains Swamp Forest",
 			"collector_number": "4",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/4_Decrepit Boneyard.png"
@@ -154,7 +154,7 @@
 			"name": "Glorious Keep",
 			"rarity": "masterpiece",
 			"mana_cost": "",
-			"type": "Land — Mountain Plains Swamp",
+			"type": "Land â€” Mountain Plains Swamp",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/6_Glorious Keep.png"
@@ -164,7 +164,7 @@
 			"name": "Primal Isle",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Island Swamp Mountain",
+			"type": "Land â€” Island Swamp Mountain",
 			"collector_number": "153",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/153_Primal Isle.png"
@@ -174,7 +174,7 @@
 			"name": "Lichen Slab",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Swamp Mountain Forest",
+			"type": "Land â€” Swamp Mountain Forest",
 			"collector_number": "150",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/150_Lichen Slab.png"
@@ -184,7 +184,7 @@
 			"name": "Meandering River",
 			"rarity": "masterpiece",
 			"mana_cost": "",
-			"type": "Land — Island Mountain Plains",
+			"type": "Land â€” Island Mountain Plains",
 			"collector_number": "7",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/7_Meandering River.png"
@@ -194,7 +194,7 @@
 			"name": "Lowland Pools",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Forest Plains Island",
+			"type": "Land â€” Forest Plains Island",
 			"collector_number": "151",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/151_Lowland Pools.png"
@@ -204,7 +204,7 @@
 			"name": "Sulfur Fields",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Plains Island Swamp",
+			"type": "Land â€” Plains Island Swamp",
 			"collector_number": "155",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/155_Sulfur Fields.png"
@@ -214,7 +214,7 @@
 			"name": "Volcanic Basin",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Mountain Forest Plains",
+			"type": "Land â€” Mountain Forest Plains",
 			"collector_number": "157",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/157_Volcanic Basin.png"
@@ -224,7 +224,7 @@
 			"name": "Osuru Wayguide",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
-			"type": "Creature — Human Scout",
+			"type": "Creature â€” Human Scout",
 			"collector_number": "12",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/12_Osuru Wayguide.png"
@@ -234,7 +234,7 @@
 			"name": "Osuru Naturalist",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Snake Shaman",
+			"type": "Creature â€” Snake Shaman",
 			"collector_number": "122",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/122_Osuru Naturalist.png"
@@ -244,7 +244,7 @@
 			"name": "Insatiable Deathclaw",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "67",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/67_Insatiable Deathclaw.png"
@@ -254,7 +254,7 @@
 			"name": "Pathfinder Raptor",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "44",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/44_Pathfinder Raptor.png"
@@ -274,7 +274,7 @@
 			"name": "Sauren, Asari Sun-Chief",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Legendary Creature — Human Cleric",
+			"type": "Legendary Creature â€” Human Cleric",
 			"collector_number": "18",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/18_Sauren, Asari Sun-Chief.png"
@@ -284,7 +284,7 @@
 			"name": "Volta's Assistant",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Creature — Human Artificer",
+			"type": "Creature â€” Human Artificer",
 			"collector_number": "53",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/53_Volta's Assistant.png"
@@ -314,7 +314,7 @@
 			"name": "Warpath Carnivore",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "134",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/134_Warpath Carnivore.png"
@@ -324,7 +324,7 @@
 			"name": "Roaming Negotiator",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Human Nomad",
+			"type": "Creature â€” Human Nomad",
 			"collector_number": "15",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/15_Roaming Negotiator.png"
@@ -354,7 +354,7 @@
 			"name": "Morubi Flayer",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "98",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/98_Morubi Flayer.png"
@@ -364,7 +364,7 @@
 			"name": "Wandering Caravan",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "133",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/133_Wandering Caravan.png"
@@ -374,7 +374,7 @@
 			"name": "Rushclaw Hunter",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Creature — Human Nomad",
+			"type": "Creature â€” Human Nomad",
 			"collector_number": "17",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/17_Rushclaw Hunter.png"
@@ -384,7 +384,7 @@
 			"name": "Primal Form",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "45",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/45_Primal Form.png"
@@ -394,7 +394,7 @@
 			"name": "Stalking Remains",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Zombie Dinosaur",
+			"type": "Creature â€” Zombie Dinosaur",
 			"collector_number": "78",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/78_Stalking Remains.png"
@@ -404,7 +404,7 @@
 			"name": "Raptor Pups",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "100",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/100_Raptor Pups.png"
@@ -414,7 +414,7 @@
 			"name": "Herd Guardian",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Elf Warrior",
+			"type": "Creature â€” Elf Warrior",
 			"collector_number": "116",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/116_Herd Guardian.png"
@@ -424,7 +424,7 @@
 			"name": "Scout's Preparations",
 			"rarity": "common",
 			"mana_cost": "{4}{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "19",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/19_Scout's Preparations.png"
@@ -434,7 +434,7 @@
 			"name": "Northland Mystic",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Shaman",
+			"type": "Creature â€” Human Shaman",
 			"collector_number": "38",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/38_Northland Mystic.png"
@@ -444,7 +444,7 @@
 			"name": "Hell Warden",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Cleric",
+			"type": "Creature â€” Human Cleric",
 			"collector_number": "66",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/66_Hell Warden.png"
@@ -464,7 +464,7 @@
 			"name": "Nest Scrabblers",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "121",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/121_Nest Scrabblers.png"
@@ -474,7 +474,7 @@
 			"name": "Badlands Ranger",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Creature — Human Knight",
+			"type": "Creature â€” Human Knight",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/2_Badlands Ranger.png"
@@ -494,7 +494,7 @@
 			"name": "Deathclaw Pack",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "60",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/60_Deathclaw Pack.png"
@@ -514,7 +514,7 @@
 			"name": "Urge to Feed",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "132",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/132_Urge to Feed.png"
@@ -524,7 +524,7 @@
 			"name": "Nomad's Companion",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature — Bird",
+			"type": "Creature â€” Bird",
 			"collector_number": "10",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/10_Nomad's Companion.png"
@@ -534,7 +534,7 @@
 			"name": "Foraging Featherwing",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Creature — Dinosaur Bird",
+			"type": "Creature â€” Dinosaur Bird",
 			"collector_number": "31",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/31_Foraging Featherwing.png"
@@ -554,7 +554,7 @@
 			"name": "Scaleplate Raider",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "Creature — Human Warrior",
+			"type": "Creature â€” Human Warrior",
 			"collector_number": "101",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/101_Scaleplate Raider.png"
@@ -564,7 +564,7 @@
 			"name": "Huntraptor",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "118",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/118_Huntraptor.png"
@@ -574,7 +574,7 @@
 			"name": "Loftwing Glider",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Dinosaur Drake",
+			"type": "Creature â€” Dinosaur Drake",
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/9_Loftwing Glider.png"
@@ -584,7 +584,7 @@
 			"name": "Wake Crasher",
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
-			"type": "Creature — Dinosaur Leviathan",
+			"type": "Creature â€” Dinosaur Leviathan",
 			"collector_number": "54",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/54_Wake Crasher.png"
@@ -594,7 +594,7 @@
 			"name": "Morubi Envoys",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Human Shaman",
+			"type": "Creature â€” Human Shaman",
 			"collector_number": "68",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/68_Morubi Envoys.png"
@@ -604,7 +604,7 @@
 			"name": "Maurader's Raptor",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "96",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/96_Maurader's Raptor.png"
@@ -614,7 +614,7 @@
 			"name": "Charging Hintodon",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "114",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/114_Charging Hintodon.png"
@@ -624,7 +624,7 @@
 			"name": "Tribal Anointer",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Nomad",
+			"type": "Creature â€” Human Nomad",
 			"collector_number": "24",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/24_Tribal Anointer.png"
@@ -654,7 +654,7 @@
 			"name": "Badlands Cartographer",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Knight",
+			"type": "Creature â€” Human Knight",
 			"collector_number": "84",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/84_Badlands Cartographer.png"
@@ -664,7 +664,7 @@
 			"name": "Scout's Sight",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "127",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/127_Scout's Sight.png"
@@ -674,7 +674,7 @@
 			"name": "Arid Warden",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Human Knight",
+			"type": "Creature â€” Human Knight",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/1_Arid Warden.png"
@@ -684,7 +684,7 @@
 			"name": "Skyline Dreams",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "48",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/48_Skyline Dreams.png"
@@ -694,7 +694,7 @@
 			"name": "Morubi Vagrants",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue",
 			"collector_number": "70",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/70_Morubi Vagrants.png"
@@ -704,7 +704,7 @@
 			"name": "Morubi Elder",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human",
+			"type": "Creature â€” Human",
 			"collector_number": "97",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/97_Morubi Elder.png"
@@ -714,7 +714,7 @@
 			"name": "Bull Ceratops",
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "112",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/112_Bull Ceratops.png"
@@ -734,7 +734,7 @@
 			"name": "Northlands Conquerer",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard",
 			"collector_number": "39",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/39_Northlands Conquerer.png"
@@ -744,7 +744,7 @@
 			"name": "Northlands Hunter",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Human Shaman",
+			"type": "Creature â€” Human Shaman",
 			"collector_number": "71",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/71_Northlands Hunter.png"
@@ -754,7 +754,7 @@
 			"name": "Gluttonous Gorger",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Minotaur",
+			"type": "Creature â€” Minotaur",
 			"collector_number": "94",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/94_Gluttonous Gorger.png"
@@ -784,7 +784,7 @@
 			"name": "One With the Herd",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "42",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/42_One With the Herd.png"
@@ -804,7 +804,7 @@
 			"name": "Basking Sailback",
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "85",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/85_Basking Sailback.png"
@@ -824,7 +824,7 @@
 			"name": "Valley Ceratops",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "26",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/26_Valley Ceratops.png"
@@ -844,7 +844,7 @@
 			"name": "Morubi Predator",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "69",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/69_Morubi Predator.png"
@@ -864,7 +864,7 @@
 			"name": "Breath of the Wild",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "111",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/111_Breath of the Wild.png"
@@ -884,7 +884,7 @@
 			"name": "Ocean Lurker",
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
-			"type": "Creature — Dinosaur Leviathan",
+			"type": "Creature â€” Dinosaur Leviathan",
 			"collector_number": "41",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/41_Ocean Lurker.png"
@@ -904,7 +904,7 @@
 			"name": "Tandem Hunters",
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
-			"type": "Creature — Snake Archer",
+			"type": "Creature â€” Snake Archer",
 			"collector_number": "104",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/104_Tandem Hunters.png"
@@ -934,7 +934,7 @@
 			"name": "Badlands Glider",
 			"rarity": "common",
 			"mana_cost": "{4}{U}{U}",
-			"type": "Creature — Dinosaur Drake",
+			"type": "Creature â€” Dinosaur Drake",
 			"collector_number": "28",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/28_Badlands Glider.png"
@@ -954,7 +954,7 @@
 			"name": "Asari Outcast",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Warrior",
+			"type": "Creature â€” Human Warrior",
 			"collector_number": "83",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/83_Asari Outcast.png"
@@ -974,7 +974,7 @@
 			"name": "Flittering Featherwing",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
-			"type": "Creature — Dinosaur Bird",
+			"type": "Creature â€” Dinosaur Bird",
 			"collector_number": "138",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/138_Flittering Featherwing.png"
@@ -984,7 +984,7 @@
 			"name": "Shore Mystic",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
-			"type": "Creature — Human Shaman",
+			"type": "Creature â€” Human Shaman",
 			"collector_number": "144",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/144_Shore Mystic.png"
@@ -1004,7 +1004,7 @@
 			"name": "Nomadic Treader",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
-			"type": "Creature — Human Nomad",
+			"type": "Creature â€” Human Nomad",
 			"collector_number": "143",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/143_Nomadic Treader.png"
@@ -1014,7 +1014,7 @@
 			"name": "Dinosaur",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature — Dinosaur",
+			"type": "Token Creature â€” Dinosaur",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/5_Dinosaur.png"
@@ -1024,7 +1024,7 @@
 			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Plains",
+			"type": "Basic Land â€” Plains",
 			"collector_number": "159",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/159_Plains.png"
@@ -1034,7 +1034,7 @@
 			"name": "Island",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Island",
+			"type": "Basic Land â€” Island",
 			"collector_number": "160",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/160_Island.png"
@@ -1044,7 +1044,7 @@
 			"name": "Swamp",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Swamp",
+			"type": "Basic Land â€” Swamp",
 			"collector_number": "161",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/161_Swamp.png"
@@ -1054,7 +1054,7 @@
 			"name": "Mountain",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Mountain",
+			"type": "Basic Land â€” Mountain",
 			"collector_number": "162",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/162_Mountain.png"
@@ -1064,7 +1064,7 @@
 			"name": "Forest",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Forest",
+			"type": "Basic Land â€” Forest",
 			"collector_number": "163",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/163_Forest.png"
@@ -1074,7 +1074,7 @@
 			"name": "Warrior",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature — Warrior",
+			"type": "Token Creature â€” Warrior",
 			"collector_number": "4",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/4_Warrior.png"
@@ -1084,7 +1084,7 @@
 			"name": "Human",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature — Human",
+			"type": "Token Creature â€” Human",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/1_Human.png"
@@ -1094,7 +1094,7 @@
 			"name": "Abandoned Garrison",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Plains",
+			"type": "Land â€” Plains",
 			"collector_number": "147",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/147_Abandoned Garrison.png"
@@ -1104,7 +1104,7 @@
 			"name": "Verdant Jungle",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Forest",
+			"type": "Land â€” Forest",
 			"collector_number": "156",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/156_Verdant Jungle.png"
@@ -1114,7 +1114,7 @@
 			"name": "Primeval Marsh",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Swamp",
+			"type": "Land â€” Swamp",
 			"collector_number": "154",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/154_Primeval Marsh.png"
@@ -1124,7 +1124,7 @@
 			"name": "Erupting Volcano",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Mountain",
+			"type": "Land â€” Mountain",
 			"collector_number": "148",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/148_Erupting Volcano.png"
@@ -1134,7 +1134,7 @@
 			"name": "Fossil Shores",
 			"rarity": "uncommon",
 			"mana_cost": "",
-			"type": "Land — Island",
+			"type": "Land â€” Island",
 			"collector_number": "149",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/149_Fossil Shores.png"
@@ -1144,7 +1144,7 @@
 			"name": "Stalwart Stonehide",
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "102",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/102_Stalwart Stonehide.png"
@@ -1154,7 +1154,7 @@
 			"name": "Frightmaw",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "140",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/140_Frightmaw.png"
@@ -1174,7 +1174,7 @@
 			"name": "Forgathr the Blessed",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{U}",
-			"type": "Legendary Creature — Wolf Dragon",
+			"type": "Legendary Creature â€” Wolf Dragon",
 			"collector_number": "139",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/139_Forgathr the Blessed.png"
@@ -1184,7 +1184,7 @@
 			"name": "Horizon Sailback",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "142",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/142_Horizon Sailback.png"
@@ -1204,7 +1204,7 @@
 			"name": "Sun-Valley Warden",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Warrior",
+			"type": "Creature â€” Human Warrior",
 			"collector_number": "49",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/49_Sun-Valley Warden.png"
@@ -1214,7 +1214,7 @@
 			"name": "Glade Scavengers",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "65",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/65_Glade Scavengers.png"
@@ -1224,7 +1224,7 @@
 			"name": "Hunting Trek",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "117",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/117_Hunting Trek.png"
@@ -1234,7 +1234,7 @@
 			"name": "Osuru Scrapper",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Scout",
+			"type": "Creature â€” Human Scout",
 			"collector_number": "11",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/11_Osuru Scrapper.png"
@@ -1244,7 +1244,7 @@
 			"name": "Pterosaur Flock",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Dinosaur Drake",
+			"type": "Creature â€” Dinosaur Drake",
 			"collector_number": "46",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/46_Pterosaur Flock.png"
@@ -1274,7 +1274,7 @@
 			"name": "Territorial Stonehide",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "131",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/131_Territorial Stonehide.png"
@@ -1294,7 +1294,7 @@
 			"name": "Northlands Tracker",
 			"rarity": "rare",
 			"mana_cost": "{U}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard",
 			"collector_number": "40",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/40_Northlands Tracker.png"
@@ -1304,7 +1304,7 @@
 			"name": "Doomed Sauropod",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "61",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/61_Doomed Sauropod.png"
@@ -1314,7 +1314,7 @@
 			"name": "Morubi Native",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Snake Warrior",
+			"type": "Creature â€” Snake Warrior",
 			"collector_number": "99",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/99_Morubi Native.png"
@@ -1344,7 +1344,7 @@
 			"name": "Deepwater Swimmer",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Fish",
+			"type": "Creature â€” Fish",
 			"collector_number": "30",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/30_Deepwater Swimmer.png"
@@ -1354,7 +1354,7 @@
 			"name": "Sulfur Raptor",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "79",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/79_Sulfur Raptor.png"
@@ -1364,7 +1364,7 @@
 			"name": "Foraging Archaeopteryx",
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Dinosaur Bird",
+			"type": "Creature â€” Dinosaur Bird",
 			"collector_number": "92",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/92_Foraging Archaeopteryx.png"
@@ -1384,7 +1384,7 @@
 			"name": "Gamaz the Worldmaw",
 			"rarity": "rare",
 			"mana_cost": "{5}",
-			"type": "Legendary Artifact Creature — Construct",
+			"type": "Legendary Artifact Creature â€” Construct",
 			"collector_number": "146",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/146_Gamaz the Worldmaw.png"
@@ -1394,7 +1394,7 @@
 			"name": "Construct",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Artifact Creature — Construct",
+			"type": "Token Artifact Creature â€” Construct",
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/9_Construct.png"
@@ -1414,7 +1414,7 @@
 			"name": "Brine Pincher",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Trilobite",
+			"type": "Creature â€” Trilobite",
 			"collector_number": "29",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/29_Brine Pincher.png"
@@ -1424,7 +1424,7 @@
 			"name": "Scaleplate Ravager",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue",
 			"collector_number": "75",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/75_Scaleplate Ravager.png"
@@ -1444,7 +1444,7 @@
 			"name": "Giant Tyrannosaur",
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "115",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/115_Giant Tyrannosaur.png"
@@ -1454,7 +1454,7 @@
 			"name": "Couragous Elder",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Nomad",
+			"type": "Creature â€” Human Nomad",
 			"collector_number": "4",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/4_Couragous Elder.png"
@@ -1494,7 +1494,7 @@
 			"name": "Shimmer Shaman",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Elf Shaman",
+			"type": "Creature â€” Elf Shaman",
 			"collector_number": "128",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/128_Shimmer Shaman.png"
@@ -1534,7 +1534,7 @@
 			"name": "Frantic Scrabbler",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "93",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/93_Frantic Scrabbler.png"
@@ -1544,7 +1544,7 @@
 			"name": "Pterosaur Hunter",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Creature — Elf Archer",
+			"type": "Creature â€” Elf Archer",
 			"collector_number": "124",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/124_Pterosaur Hunter.png"
@@ -1574,7 +1574,7 @@
 			"name": "Gamaz's Prowl",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "33",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/33_Gamaz's Prowl.png"
@@ -1584,7 +1584,7 @@
 			"name": "Blowdart Hunter",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue",
 			"collector_number": "56",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/56_Blowdart Hunter.png"
@@ -1614,7 +1614,7 @@
 			"name": "Wayward Traveler",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Nomad",
+			"type": "Creature â€” Human Nomad",
 			"collector_number": "27",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/27_Wayward Traveler.png"
@@ -1644,7 +1644,7 @@
 			"name": "Feral Contender",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Cat Beast",
+			"type": "Creature â€” Cat Beast",
 			"collector_number": "91",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/91_Feral Contender.png"
@@ -1664,7 +1664,7 @@
 			"name": "Seronia, Consecrated Oracle",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}{U/P}",
-			"type": "Legendary Planeswalker — Seronia",
+			"type": "Legendary Planeswalker â€” Seronia",
 			"collector_number": "47",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/47_Seronia, Consecrated Oracle.png"
@@ -1684,7 +1684,7 @@
 			"name": "Colossal Frightmaw",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "59",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/59_Colossal Frightmaw.png"
@@ -1694,7 +1694,7 @@
 			"name": "Raptor Riders",
 			"rarity": "rare",
 			"mana_cost": "{G}",
-			"type": "Creature — Elf Scout",
+			"type": "Creature â€” Elf Scout",
 			"collector_number": "125",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/125_Raptor Riders.png"
@@ -1704,7 +1704,7 @@
 			"name": "Galthus the Terror",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
-			"type": "Legendary Planeswalker — Galthus",
+			"type": "Legendary Planeswalker â€” Galthus",
 			"collector_number": "141",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/141_Galthus the Terror.png"
@@ -1714,7 +1714,7 @@
 			"name": "Dinosaur",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature — Dinosaur",
+			"type": "Token Creature â€” Dinosaur",
 			"collector_number": "7",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/7_Dinosaur.png"
@@ -1724,7 +1724,7 @@
 			"name": "Galthus the Terror",
 			"rarity": "masterpiece",
 			"mana_cost": "{1}{B}{R}",
-			"type": "Legendary Planeswalker — Galthus",
+			"type": "Legendary Planeswalker â€” Galthus",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/2_Galthus the Terror.png"
@@ -1734,7 +1734,7 @@
 			"name": "Roaming Raptor",
 			"rarity": "masterpiece",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Dinosaur",
+			"type": "Creature â€” Dinosaur",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/1_Roaming Raptor.png"
@@ -1764,7 +1764,7 @@
 			"name": "Phyrexian Sphinx",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature — Phyrexian Sphinx",
+			"type": "Token Creature â€” Phyrexian Sphinx",
 			"collector_number": "3",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/3_Phyrexian Sphinx.png"
@@ -1774,7 +1774,7 @@
 			"name": "Snake Druid",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature — Snake Druid",
+			"type": "Token Creature â€” Snake Druid",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/6_Snake Druid.png"
@@ -1784,7 +1784,7 @@
 			"name": "Wolf Dragon",
 			"rarity": "special",
 			"mana_cost": "",
-			"type": "Token Creature — Wolf Dragon",
+			"type": "Token Creature â€” Wolf Dragon",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PRW-files/img/2_Wolf Dragon.png"
