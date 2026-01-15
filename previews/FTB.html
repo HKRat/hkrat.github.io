@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/FTB-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>FTB visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/FTB-files/logo.png" />
+	<img class="preload-hidden" src="/sets/TOC-files/icon.png" />
+		<img class="preload-hidden" src="/sets/TOB-files/icon.png" />
+		<img class="preload-hidden" src="/sets/PRW-files/icon.png" />
+		<img class="preload-hidden" src="/sets/CSD-files/icon.png" />
+		<img class="preload-hidden" src="/sets/WAW-files/icon.png" />
+		<img class="preload-hidden" src="/sets/PCA-files/icon.png" />
+		<img class="preload-hidden" src="/sets/SRN-files/icon.png" />
+		<img class="preload-hidden" src="/sets/Kube-files/icon.png" />
+		<img class="preload-hidden" src="/sets/COT-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="TOC"><img src="/sets/TOC-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="TOB"><img src="/sets/TOB-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="PRW"><img src="/sets/PRW-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="CSD"><img src="/sets/CSD-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="WAW"><img src="/sets/WAW-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="PCA"><img src="/sets/PCA-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="SRN"><img src="/sets/SRN-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="Kube"><img src="/sets/Kube-files/icon.png"></img></a></div>
+		 <div class="dot"><img src="/img/dot.png"></img></div>
+		<div class="icon"><a href="COT"><img src="/sets/COT-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/FTB-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets\FTB-files\img\5_Brurlof, Chosen of Akatosh.png" id="5_Brurlof, Chosen of Akatosh" data-flag="@X" onclick="openSidebar('5_Brurlof, Chosen of Akatosh',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\69_Paarthurnax, the Balance.png" id="69_Paarthurnax, the Balance" data-flag="@X" onclick="openSidebar('69_Paarthurnax, the Balance',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\77_Ancano, Scheming Advisor.png" id="77_Ancano, Scheming Advisor" data-flag="@X" onclick="openSidebar('77_Ancano, Scheming Advisor',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\152_Winged Snow Hunter.png" id="152_Winged Snow Hunter" data-flag="@X" onclick="openSidebar('152_Winged Snow Hunter',false)"></div>
+			<div class="container"><img data-alt_src="/sets\FTB-files\img\184_Sinding the Cursed_back.png" alt="/sets\FTB-files\img\184_Sinding the Cursed_front.png" id="184_Sinding the Cursed" data-flag="@XD" onclick="openSidebar('184_Sinding the Cursed',false)"><button class="flip-btn" onclick="imgFlip('184_Sinding the Cursed')"></button></div>
+			<div class="container"><img alt="/sets\FTB-files\img\7_Conjure Golden Saint Warrior.png" id="7_Conjure Golden Saint Warrior" data-flag="@X" onclick="openSidebar('7_Conjure Golden Saint Warrior',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\40_Azura's Many Visions.png" id="40_Azuras Many Visions" data-flag="@X" onclick="openSidebar('40_Azuras Many Visions',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\99_Conjure Dremora Lord.png" id="99_Conjure Dremora Lord" data-flag="@X" onclick="openSidebar('99_Conjure Dremora Lord',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\138_Delphine, Last of the Blades.png" id="138_Delphine, Last of the Blades" data-flag="@X" onclick="openSidebar('138_Delphine, Last of the Blades',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\176_Fleetfoot Wanderer.png" id="176_Fleetfoot Wanderer" data-flag="@X" onclick="openSidebar('176_Fleetfoot Wanderer',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\27_Dovah's Aftermath.png" id="27_Dovahs Aftermath" data-flag="@X" onclick="openSidebar('27_Dovahs Aftermath',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\41_Bringer of Myth.png" id="41_Bringer of Myth" data-flag="@X" onclick="openSidebar('41_Bringer of Myth',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\100_Desolation of Alduin.png" id="100_Desolation of Alduin" data-flag="@X" onclick="openSidebar('100_Desolation of Alduin',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\141_Dueling Mages.png" id="141_Dueling Mages" data-flag="@X" onclick="openSidebar('141_Dueling Mages',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\177_Gildergreen Tender.png" id="177_Gildergreen Tender" data-flag="@X" onclick="openSidebar('177_Gildergreen Tender',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\28_Dragonborn's Companion.png" id="28_Dragonborns Companion" data-flag="@X" onclick="openSidebar('28_Dragonborns Companion',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\61_Discerning the Transmundane.png" id="61_Discerning the Transmundane" data-flag="@X" onclick="openSidebar('61_Discerning the Transmundane',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\102_Durnehviir, Soul-Claimed.png" id="102_Durnehviir, Soul-Claimed" data-flag="@X" onclick="openSidebar('102_Durnehviir, Soul-Claimed',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\142_Fire Wyrm.png" id="142_Fire Wyrm" data-flag="@X" onclick="openSidebar('142_Fire Wyrm',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\178_Morokei's Mask of Power.png" id="178_Morokeis Mask of Power" data-flag="@X" onclick="openSidebar('178_Morokeis Mask of Power',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\31_Last Dragonborn's Awakening.png" id="31_Last Dragonborns Awakening" data-flag="@X" onclick="openSidebar('31_Last Dragonborns Awakening',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\68_Paarthurnax, Greybeard Mentor.png" id="68_Paarthurnax, Greybeard Mentor" data-flag="@X" onclick="openSidebar('68_Paarthurnax, Greybeard Mentor',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\105_Hermaeus Mora.png" id="105_Hermaeus Mora" data-flag="@X" onclick="openSidebar('105_Hermaeus Mora',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\143_Firebolt Adept.png" id="143_Firebolt Adept" data-flag="@X" onclick="openSidebar('143_Firebolt Adept',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\179_On Ancient Stones.png" id="179_On Ancient Stones" data-flag="@X" onclick="openSidebar('179_On Ancient Stones',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\32_Restoration Tutor.png" id="32_Restoration Tutor" data-flag="@X" onclick="openSidebar('32_Restoration Tutor',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\70_Scroll Scouting.png" id="70_Scroll Scouting" data-flag="@X" onclick="openSidebar('70_Scroll Scouting',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\106_Ominous Portent.png" id="106_Ominous Portent" data-flag="@X" onclick="openSidebar('106_Ominous Portent',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\147_Karthspire Warbreaker.png" id="147_Karthspire Warbreaker" data-flag="@X" onclick="openSidebar('147_Karthspire Warbreaker',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\180_Pilgrim's Bane.png" id="180_Pilgrims Bane" data-flag="@X" onclick="openSidebar('180_Pilgrims Bane',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\36_Wandering Quester.png" id="36_Wandering Quester" data-flag="@X" onclick="openSidebar('36_Wandering Quester',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\71_Telekinetic Mastery.png" id="71_Telekinetic Mastery" data-flag="@X" onclick="openSidebar('71_Telekinetic Mastery',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\108_Thalmor Excruciator.png" id="108_Thalmor Excruciator" data-flag="@X" onclick="openSidebar('108_Thalmor Excruciator',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\150_Shearpoint Champion.png" id="150_Shearpoint Champion" data-flag="@X" onclick="openSidebar('150_Shearpoint Champion',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\181_RG02 Sommerset Shielding.png" id="181_RG02 Sommerset Shielding" data-flag="@X" onclick="openSidebar('181_RG02 Sommerset Shielding',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\1_Attentive Jarl.png" id="1_Attentive Jarl" data-flag="@X" onclick="openSidebar('1_Attentive Jarl',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\39_Arcaneum Lorekeeper.png" id="39_Arcaneum Lorekeeper" data-flag="@X" onclick="openSidebar('39_Arcaneum Lorekeeper',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\109_Tombs Unplundered.png" id="109_Tombs Unplundered" data-flag="@X" onclick="openSidebar('109_Tombs Unplundered',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\151_Way of the Voice.png" id="151_Way of the Voice" data-flag="@X" onclick="openSidebar('151_Way of the Voice',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\182_RG05 Riftstrider Prize.png" id="182_RG05 Riftstrider Prize" data-flag="@X" onclick="openSidebar('182_RG05 Riftstrider Prize',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\2_Awake at Last.png" id="2_Awake at Last" data-flag="@X" onclick="openSidebar('2_Awake at Last',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\42_Conjure Frost Atronach.png" id="42_Conjure Frost Atronach" data-flag="@X" onclick="openSidebar('42_Conjure Frost Atronach',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\114_We Know.png" id="114_We Know" data-flag="@X" onclick="openSidebar('114_We Know',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\115_Akatosh's Expectations.png" id="115_Akatoshs Expectations" data-flag="@X" onclick="openSidebar('115_Akatoshs Expectations',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\153_Alteration Savant.png" id="153_Alteration Savant" data-flag="@X" onclick="openSidebar('153_Alteration Savant',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\3_Beckoning Wispmother.png" id="3_Beckoning Wispmother" data-flag="@X" onclick="openSidebar('3_Beckoning Wispmother',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\62_Dwemer Mobilization.png" id="62_Dwemer Mobilization" data-flag="@X" onclick="openSidebar('62_Dwemer Mobilization',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\76_Alduin, the Catalyst.png" id="76_Alduin, the Catalyst" data-flag="@X" onclick="openSidebar('76_Alduin, the Catalyst',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\116_Ambush Dov.png" id="116_Ambush Dov" data-flag="@X" onclick="openSidebar('116_Ambush Dov',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\154_Blood-Claimed Territory.png" id="154_Blood-Claimed Territory" data-flag="@X" onclick="openSidebar('154_Blood-Claimed Territory',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\4_Blood-Tested Brawler.png" id="4_Blood-Tested Brawler" data-flag="@X" onclick="openSidebar('4_Blood-Tested Brawler',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\63_Felldir the Old.png" id="63_Felldir the Old" data-flag="@X" onclick="openSidebar('63_Felldir the Old',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\78_Assassin's Contract.png" id="78_Assassins Contract" data-flag="@X" onclick="openSidebar('78_Assassins Contract',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\117_Bandit Marauder.png" id="117_Bandit Marauder" data-flag="@X" onclick="openSidebar('117_Bandit Marauder',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\174_Claimed by Power.png" id="174_Claimed by Power" data-flag="@X" onclick="openSidebar('174_Claimed by Power',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\6_Brurlof, Reluctant Hero.png" id="6_Brurlof, Reluctant Hero" data-flag="@X" onclick="openSidebar('6_Brurlof, Reluctant Hero',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\64_Labyrinthian Spelldrinker.png" id="64_Labyrinthian Spelldrinker" data-flag="@X" onclick="openSidebar('64_Labyrinthian Spelldrinker',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\79_Audience with the Jarl.png" id="79_Audience with the Jarl" data-flag="@X" onclick="openSidebar('79_Audience with the Jarl',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\118_Children of Akatosh.png" id="118_Children of Akatosh" data-flag="@X" onclick="openSidebar('118_Children of Akatosh',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\175_Embassy Attendant.png" id="175_Embassy Attendant" data-flag="@X" onclick="openSidebar('175_Embassy Attendant',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\29_Fleeing Fugitive.png" id="29_Fleeing Fugitive" data-flag="@X" onclick="openSidebar('29_Fleeing Fugitive',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\65_Meet in Sovngarde.png" id="65_Meet in Sovngarde" data-flag="@X" onclick="openSidebar('65_Meet in Sovngarde',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\101_Dubious Delicacy.png" id="101_Dubious Delicacy" data-flag="@X" onclick="openSidebar('101_Dubious Delicacy',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\139_Dragon Hunting.png" id="139_Dragon Hunting" data-flag="@X" onclick="openSidebar('139_Dragon Hunting',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\183_Scapegoat Opportunist.png" id="183_Scapegoat Opportunist" data-flag="@X" onclick="openSidebar('183_Scapegoat Opportunist',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\30_Gormlaith Golden-Hilt.png" id="30_Gormlaith Golden-Hilt" data-flag="@X" onclick="openSidebar('30_Gormlaith Golden-Hilt',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\66_Misusing the Atronach Forge.png" id="66_Misusing the Atronach Forge" data-flag="@X" onclick="openSidebar('66_Misusing the Atronach Forge',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\103_Epic Downfall.png" id="103_Epic Downfall" data-flag="@X" onclick="openSidebar('103_Epic Downfall',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\140_Dragontongue Necklace.png" id="140_Dragontongue Necklace" data-flag="@X" onclick="openSidebar('140_Dragontongue Necklace',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\185_Traitor's Handoff.png" id="185_Traitors Handoff" data-flag="@X" onclick="openSidebar('185_Traitors Handoff',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\33_Stormcloak Clan Captain.png" id="33_Stormcloak Clan Captain" data-flag="@X" onclick="openSidebar('33_Stormcloak Clan Captain',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\67_Nocturnal's Chosen.png" id="67_Nocturnals Chosen" data-flag="@X" onclick="openSidebar('67_Nocturnals Chosen',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\104_Guild Mark.png" id="104_Guild Mark" data-flag="@X" onclick="openSidebar('104_Guild Mark',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\144_Goldclaw Dov.png" id="144_Goldclaw Dov" data-flag="@X" onclick="openSidebar('144_Goldclaw Dov',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\186_UG04 Beast in the Dark.png" id="186_UG04 Beast in the Dark" data-flag="@X" onclick="openSidebar('186_UG04 Beast in the Dark',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\34_UW07 Dispatched Vigilant.png" id="34_UW07 Dispatched Vigilant" data-flag="@X" onclick="openSidebar('34_UW07 Dispatched Vigilant',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\72_UU05 Quickswap.png" id="72_UU05 Quickswap" data-flag="@X" onclick="openSidebar('72_UU05 Quickswap',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\107_Tales of a Liar Cat.png" id="107_Tales of a Liar Cat" data-flag="@X" onclick="openSidebar('107_Tales of a Liar Cat',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\145_Hakon One-Eye.png" id="145_Hakon One-Eye" data-flag="@X" onclick="openSidebar('145_Hakon One-Eye',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\187_UG09 Bosmer Pathcutter.png" id="187_UG09 Bosmer Pathcutter" data-flag="@X" onclick="openSidebar('187_UG09 Bosmer Pathcutter',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\35_UW11 Armament Forging.png" id="35_UW11 Armament Forging" data-flag="@X" onclick="openSidebar('35_UW11 Armament Forging',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\73_UU06 Fact or Fiction.png" id="73_UU06 Fact or Fiction" data-flag="@X" onclick="openSidebar('73_UU06 Fact or Fiction',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\110_UB08 Briarheart Rite.png" id="110_UB08 Briarheart Rite" data-flag="@X" onclick="openSidebar('110_UB08 Briarheart Rite',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\146_Immolating Shout.png" id="146_Immolating Shout" data-flag="@X" onclick="openSidebar('146_Immolating Shout',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\188_UG10 Tavern Hireling.png" id="188_UG10 Tavern Hireling" data-flag="@X" onclick="openSidebar('188_UG10 Tavern Hireling',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\37_War Rallier.png" id="37_War Rallier" data-flag="@X" onclick="openSidebar('37_War Rallier',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\74_UU10 Twin Souls.png" id="74_UU10 Twin Souls" data-flag="@X" onclick="openSidebar('74_UU10 Twin Souls',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\111_UB10 Twin Moons Wanderer.png" id="111_UB10 Twin Moons Wanderer" data-flag="@X" onclick="openSidebar('111_UB10 Twin Moons Wanderer',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\148_Mirmulnir, Hidden Hunter.png" id="148_Mirmulnir, Hidden Hunter" data-flag="@X" onclick="openSidebar('148_Mirmulnir, Hidden Hunter',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\189_Wandering Thalmor Patrol.png" id="189_Wandering Thalmor Patrol" data-flag="@X" onclick="openSidebar('189_Wandering Thalmor Patrol',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\8_CW00 Caravan Peddler.png" id="8_CW00 Caravan Peddler" data-flag="@X" onclick="openSidebar('8_CW00 Caravan Peddler',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\38_Ancient Word Wall.png" id="38_Ancient Word Wall" data-flag="@X" onclick="openSidebar('38_Ancient Word Wall',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\112_Volkihar Bloodlord.png" id="112_Volkihar Bloodlord" data-flag="@X" onclick="openSidebar('112_Volkihar Bloodlord',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\149_An Old Orc Waits Alone.png" id="149_An Old Orc Waits Alone" data-flag="@X" onclick="openSidebar('149_An Old Orc Waits Alone',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\190_White-Gold Enforcer.png" id="190_White-Gold Enforcer" data-flag="@X" onclick="openSidebar('190_White-Gold Enforcer',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\9_CW00 Helgen Rescue Party.png" id="9_CW00 Helgen Rescue Party" data-flag="@X" onclick="openSidebar('9_CW00 Helgen Rescue Party',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\43_CU01 Nuisance Mudcrabs.png" id="43_CU01 Nuisance Mudcrabs" data-flag="@X" onclick="openSidebar('43_CU01 Nuisance Mudcrabs',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\113_Volkihar Claims the Night.png" id="113_Volkihar Claims the Night" data-flag="@X" onclick="openSidebar('113_Volkihar Claims the Night',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\119_CR01 Conjure Flame Atronach.png" id="119_CR01 Conjure Flame Atronach" data-flag="@X" onclick="openSidebar('119_CR01 Conjure Flame Atronach',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\155_CG00 Conjure Familiar.png" id="155_CG00 Conjure Familiar" data-flag="@X" onclick="openSidebar('155_CG00 Conjure Familiar',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\10_CW00 Riften Rabble.png" id="10_CW00 Riften Rabble" data-flag="@X" onclick="openSidebar('10_CW00 Riften Rabble',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\44_CU03 Warding Scholar.png" id="44_CU03 Warding Scholar" data-flag="@X" onclick="openSidebar('44_CU03 Warding Scholar',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\80_CB01 Wandering Draugr.png" id="80_CB01 Wandering Draugr" data-flag="@X" onclick="openSidebar('80_CB01 Wandering Draugr',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\120_CR02 Atronach Summoner.png" id="120_CR02 Atronach Summoner" data-flag="@X" onclick="openSidebar('120_CR02 Atronach Summoner',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\156_CG00 Windhelm Bard.png" id="156_CG00 Windhelm Bard" data-flag="@X" onclick="openSidebar('156_CG00 Windhelm Bard',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\11_CW00 Sleeping Tree Giant.png" id="11_CW00 Sleeping Tree Giant" data-flag="@X" onclick="openSidebar('11_CW00 Sleeping Tree Giant',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\45_CU05 Novice Mage.png" id="45_CU05 Novice Mage" data-flag="@X" onclick="openSidebar('45_CU05 Novice Mage',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\81_CB02 Disturbed Dead.png" id="81_CB02 Disturbed Dead" data-flag="@X" onclick="openSidebar('81_CB02 Disturbed Dead',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\121_CR03 East Empire Nightwatch.png" id="121_CR03 East Empire Nightwatch" data-flag="@X" onclick="openSidebar('121_CR03 East Empire Nightwatch',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\157_CG02 Voice of Wind.png" id="157_CG02 Voice of Wind" data-flag="@X" onclick="openSidebar('157_CG02 Voice of Wind',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\12_CW04 Sovngarde Honored.png" id="12_CW04 Sovngarde Honored" data-flag="@X" onclick="openSidebar('12_CW04 Sovngarde Honored',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\46_CU06 Winterhold Student.png" id="46_CU06 Winterhold Student" data-flag="@X" onclick="openSidebar('46_CU06 Winterhold Student',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\82_CB03 Brotherhood Shadowscale.png" id="82_CB03 Brotherhood Shadowscale" data-flag="@X" onclick="openSidebar('82_CB03 Brotherhood Shadowscale',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\122_CR04 Dawnguard War Troll.png" id="122_CR04 Dawnguard War Troll" data-flag="@X" onclick="openSidebar('122_CR04 Dawnguard War Troll',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\158_CG03 Jerall Mountain Hunter.png" id="158_CG03 Jerall Mountain Hunter" data-flag="@X" onclick="openSidebar('158_CG03 Jerall Mountain Hunter',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\13_CW05 Armored Steed.png" id="13_CW05 Armored Steed" data-flag="@X" onclick="openSidebar('13_CW05 Armored Steed',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\47_CU07 Thieves Guild Trainee.png" id="47_CU07 Thieves Guild Trainee" data-flag="@X" onclick="openSidebar('47_CU07 Thieves Guild Trainee',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\83_CB04 Falmer Gloomlurker.png" id="83_CB04 Falmer Gloomlurker" data-flag="@X" onclick="openSidebar('83_CB04 Falmer Gloomlurker',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\123_CR04 Hoard Keeper.png" id="123_CR04 Hoard Keeper" data-flag="@X" onclick="openSidebar('123_CR04 Hoard Keeper',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\159_CG04 Falkreath Prized Game.png" id="159_CG04 Falkreath Prized Game" data-flag="@X" onclick="openSidebar('159_CG04 Falkreath Prized Game',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\14_CW06 Reliable Courier.png" id="14_CW06 Reliable Courier" data-flag="@X" onclick="openSidebar('14_CW06 Reliable Courier',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\48_CU08 Imperial Outfitter.png" id="48_CU08 Imperial Outfitter" data-flag="@X" onclick="openSidebar('48_CU08 Imperial Outfitter',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\84_CB05 Dredged Dovah.png" id="84_CB05 Dredged Dovah" data-flag="@X" onclick="openSidebar('84_CB05 Dredged Dovah',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\124_CR05 Dawnguard Suncaster.png" id="124_CR05 Dawnguard Suncaster" data-flag="@X" onclick="openSidebar('124_CR05 Dawnguard Suncaster',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\160_CG05 Darkwater Denizen.png" id="160_CG05 Darkwater Denizen" data-flag="@X" onclick="openSidebar('160_CG05 Darkwater Denizen',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\15_CW07 Haafingar Dock Glider.png" id="15_CW07 Haafingar Dock Glider" data-flag="@X" onclick="openSidebar('15_CW07 Haafingar Dock Glider',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\49_CU09 Voice of Frost.png" id="49_CU09 Voice of Frost" data-flag="@X" onclick="openSidebar('49_CU09 Voice of Frost',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\85_CB06 Talos Confiscator.png" id="85_CB06 Talos Confiscator" data-flag="@X" onclick="openSidebar('85_CB06 Talos Confiscator',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\125_CR06 Voice of Fire.png" id="125_CR06 Voice of Fire" data-flag="@X" onclick="openSidebar('125_CR06 Voice of Fire',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\161_CG06 Ancestor Moths.png" id="161_CG06 Ancestor Moths" data-flag="@X" onclick="openSidebar('161_CG06 Ancestor Moths',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\16_CW08 Sweet Roll.png" id="16_CW08 Sweet Roll" data-flag="@X" onclick="openSidebar('16_CW08 Sweet Roll',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\50_CU09 Windchill Wraiths.png" id="50_CU09 Windchill Wraiths" data-flag="@X" onclick="openSidebar('50_CU09 Windchill Wraiths',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\86_CB07 Hulking Draugr.png" id="86_CB07 Hulking Draugr" data-flag="@X" onclick="openSidebar('86_CB07 Hulking Draugr',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\126_CR07 Bitterwinter Brute.png" id="126_CR07 Bitterwinter Brute" data-flag="@X" onclick="openSidebar('126_CR07 Bitterwinter Brute',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\162_CG07 Sanctuary Spider.png" id="162_CG07 Sanctuary Spider" data-flag="@X" onclick="openSidebar('162_CG07 Sanctuary Spider',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\17_CW10 Prize-winning Goat.png" id="17_CW10 Prize-winning Goat" data-flag="@X" onclick="openSidebar('17_CW10 Prize-winning Goat',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\51_CU10 Warding Robes.png" id="51_CU10 Warding Robes" data-flag="@X" onclick="openSidebar('51_CU10 Warding Robes',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\87_CB08 Ragged Flagon Rogue.png" id="87_CB08 Ragged Flagon Rogue" data-flag="@X" onclick="openSidebar('87_CB08 Ragged Flagon Rogue',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\127_CR08 Imperial Battlemage.png" id="127_CR08 Imperial Battlemage" data-flag="@X" onclick="openSidebar('127_CR08 Imperial Battlemage',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\163_CG08 Druadach Range Grizzly.png" id="163_CG08 Druadach Range Grizzly" data-flag="@X" onclick="openSidebar('163_CG08 Druadach Range Grizzly',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\18_CW11 Shor's Fox.png" id="18_CW11 Shors Fox" data-flag="@X" onclick="openSidebar('18_CW11 Shors Fox',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\52_CU11 Nimble Automaton.png" id="52_CU11 Nimble Automaton" data-flag="@X" onclick="openSidebar('52_CU11 Nimble Automaton',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\88_CB09 Ustengrav Shambler.png" id="88_CB09 Ustengrav Shambler" data-flag="@X" onclick="openSidebar('88_CB09 Ustengrav Shambler',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\128_CR10 Forsworn Conjurer.png" id="128_CR10 Forsworn Conjurer" data-flag="@X" onclick="openSidebar('128_CR10 Forsworn Conjurer',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\164_CG08 Forsworn Windspeaker.png" id="164_CG08 Forsworn Windspeaker" data-flag="@X" onclick="openSidebar('164_CG08 Forsworn Windspeaker',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\19_CW12 Voice of Serenity.png" id="19_CW12 Voice of Serenity" data-flag="@X" onclick="openSidebar('19_CW12 Voice of Serenity',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\53_CU12 Bound Specter.png" id="53_CU12 Bound Specter" data-flag="@X" onclick="openSidebar('53_CU12 Bound Specter',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\89_CB10 Eastmarch Hunter.png" id="89_CB10 Eastmarch Hunter" data-flag="@X" onclick="openSidebar('89_CB10 Eastmarch Hunter',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\129_CR12 Malacath Devotee.png" id="129_CR12 Malacath Devotee" data-flag="@X" onclick="openSidebar('129_CR12 Malacath Devotee',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\165_CG09 Rift Troll.png" id="165_CG09 Rift Troll" data-flag="@X" onclick="openSidebar('165_CG09 Rift Troll',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\20_CW13 Eager Hireling.png" id="20_CW13 Eager Hireling" data-flag="@X" onclick="openSidebar('20_CW13 Eager Hireling',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\54_CU13 Unrelenting Force.png" id="54_CU13 Unrelenting Force" data-flag="@X" onclick="openSidebar('54_CU13 Unrelenting Force',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\90_CB11 Caravan Opportunist.png" id="90_CB11 Caravan Opportunist" data-flag="@X" onclick="openSidebar('90_CB11 Caravan Opportunist',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\130_CR13 Glass-Clad Battlemage.png" id="130_CR13 Glass-Clad Battlemage" data-flag="@X" onclick="openSidebar('130_CR13 Glass-Clad Battlemage',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\166_CG10 Greenwarden Spriggan.png" id="166_CG10 Greenwarden Spriggan" data-flag="@X" onclick="openSidebar('166_CG10 Greenwarden Spriggan',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\21_CW15 Way of Jurgen Windcaller.png" id="21_CW15 Way of Jurgen Windcaller" data-flag="@X" onclick="openSidebar('21_CW15 Way of Jurgen Windcaller',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\55_CU15 Sidequest Break.png" id="55_CU15 Sidequest Break" data-flag="@X" onclick="openSidebar('55_CU15 Sidequest Break',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\91_CB12 Morag Tong Stingblade.png" id="91_CB12 Morag Tong Stingblade" data-flag="@X" onclick="openSidebar('91_CB12 Morag Tong Stingblade',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\131_CR14 Raining Dragonfire.png" id="131_CR14 Raining Dragonfire" data-flag="@X" onclick="openSidebar('131_CR14 Raining Dragonfire',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\167_CG11 Market Peddler.png" id="167_CG11 Market Peddler" data-flag="@X" onclick="openSidebar('167_CG11 Market Peddler',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\22_CW16 Explorer's Hook.png" id="22_CW16 Explorers Hook" data-flag="@X" onclick="openSidebar('22_CW16 Explorers Hook',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\56_CU16 Ice Form.png" id="56_CU16 Ice Form" data-flag="@X" onclick="openSidebar('56_CU16 Ice Form',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\92_CB13 Sanguinare Neonate.png" id="92_CB13 Sanguinare Neonate" data-flag="@X" onclick="openSidebar('92_CB13 Sanguinare Neonate',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\132_CR15 Flame Whip.png" id="132_CR15 Flame Whip" data-flag="@X" onclick="openSidebar('132_CR15 Flame Whip',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\168_CG12 Game Hunters.png" id="168_CG12 Game Hunters" data-flag="@X" onclick="openSidebar('168_CG12 Game Hunters',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\23_CW17 Tavern Lute.png" id="23_CW17 Tavern Lute" data-flag="@X" onclick="openSidebar('23_CW17 Tavern Lute',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\57_CU17 Dovah's Curiosity.png" id="57_CU17 Dovahs Curiosity" data-flag="@X" onclick="openSidebar('57_CU17 Dovahs Curiosity',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\93_CB14 Knock Down.png" id="93_CB14 Knock Down" data-flag="@X" onclick="openSidebar('93_CB14 Knock Down',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\133_CR16 Flamespeaker's Dagger.png" id="133_CR16 Flamespeakers Dagger" data-flag="@X" onclick="openSidebar('133_CR16 Flamespeakers Dagger',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\169_CG14 Hail of Arrows.png" id="169_CG14 Hail of Arrows" data-flag="@X" onclick="openSidebar('169_CG14 Hail of Arrows',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\24_CW18 Imperial Apprehension.png" id="24_CW18 Imperial Apprehension" data-flag="@X" onclick="openSidebar('24_CW18 Imperial Apprehension',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\58_CU18 Alchemist's Table.png" id="58_CU18 Alchemists Table" data-flag="@X" onclick="openSidebar('58_CU18 Alchemists Table',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\94_CB15 Through the Dark.png" id="94_CB15 Through the Dark" data-flag="@X" onclick="openSidebar('94_CB15 Through the Dark',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\134_CR17 Compell.png" id="134_CR17 Compell" data-flag="@X" onclick="openSidebar('134_CR17 Compell',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\170_CG15 Into the Barrow.png" id="170_CG15 Into the Barrow" data-flag="@X" onclick="openSidebar('170_CG15 Into the Barrow',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\25_CW19 Dragonborn's Resolve.png" id="25_CW19 Dragonborns Resolve" data-flag="@X" onclick="openSidebar('25_CW19 Dragonborns Resolve',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\59_CU19 Immobilizing Spike.png" id="59_CU19 Immobilizing Spike" data-flag="@X" onclick="openSidebar('59_CU19 Immobilizing Spike',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\95_CB16 Corner.png" id="95_CB16 Corner" data-flag="@X" onclick="openSidebar('95_CB16 Corner',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\135_CR18 Pickpocket.png" id="135_CR18 Pickpocket" data-flag="@X" onclick="openSidebar('135_CR18 Pickpocket',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\171_CG16 Spellwoven Ring.png" id="171_CG16 Spellwoven Ring" data-flag="@X" onclick="openSidebar('171_CG16 Spellwoven Ring',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\26_CW100 Dragonrend.png" id="26_CW100 Dragonrend" data-flag="@X" onclick="openSidebar('26_CW100 Dragonrend',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\60_CU20 Whirlwind Sprint.png" id="60_CU20 Whirlwind Sprint" data-flag="@X" onclick="openSidebar('60_CU20 Whirlwind Sprint',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\96_CB17 Destiny Unbound.png" id="96_CB17 Destiny Unbound" data-flag="@X" onclick="openSidebar('96_CB17 Destiny Unbound',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\136_CR19 Shock.png" id="136_CR19 Shock" data-flag="@X" onclick="openSidebar('136_CR19 Shock',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\172_CG17 Skirmish Aftermath.png" id="172_CG17 Skirmish Aftermath" data-flag="@X" onclick="openSidebar('172_CG17 Skirmish Aftermath',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\239_Wandering Mercenary.png" id="239_Wandering Mercenary" data-flag="@X" onclick="openSidebar('239_Wandering Mercenary',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\240_Student of Magicka.png" id="240_Student of Magicka" data-flag="@X" onclick="openSidebar('240_Student of Magicka',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\97_CB18 Prophetic Meeting.png" id="97_CB18 Prophetic Meeting" data-flag="@X" onclick="openSidebar('97_CB18 Prophetic Meeting',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\137_CR22 Dovah's Roar.png" id="137_CR22 Dovahs Roar" data-flag="@X" onclick="openSidebar('137_CR22 Dovahs Roar',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\173_CG19 Heavy Blow.png" id="173_CG19 Heavy Blow" data-flag="@X" onclick="openSidebar('173_CG19 Heavy Blow',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\98_CB19 Restored Soul.png" id="98_CB19 Restored Soul" data-flag="@X" onclick="openSidebar('98_CB19 Restored Soul',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\242_Thieves Guild Initiate.png" id="242_Thieves Guild Initiate" data-flag="@X" onclick="openSidebar('242_Thieves Guild Initiate',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\243_Agent of the Inner Circle.png" id="243_Agent of the Inner Circle" data-flag="@X" onclick="openSidebar('243_Agent of the Inner Circle',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\241_Brotherhood Listener.png" id="241_Brotherhood Listener" data-flag="@X" onclick="openSidebar('241_Brotherhood Listener',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="gold" class="anchor"></div>
+			<div class="container"><img data-alt_src="/sets\FTB-files\img\205_Exploit the Time-Wound_back.png" alt="/sets\FTB-files\img\205_Exploit the Time-Wound_front.png" id="205_Exploit the Time-Wound" data-flag="@XD" onclick="openSidebar('205_Exploit the Time-Wound',true)"><button class="flip-btn" onclick="imgFlip('205_Exploit the Time-Wound')"></button></div>
+			<div class="container"><img alt="/sets\FTB-files\img\215_World-Eaters Dissent.png" id="215_World-Eaters Dissent" data-flag="@X" onclick="openSidebar('215_World-Eaters Dissent',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\193_Alduin, World-Eater.png" id="193_Alduin, World-Eater" data-flag="@X" onclick="openSidebar('193_Alduin, World-Eater',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\211_Madanach, King in Rags.png" id="211_Madanach, King in Rags" data-flag="@X" onclick="openSidebar('211_Madanach, King in Rags',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\214_Talsgar the Wanderer.png" id="214_Talsgar the Wanderer" data-flag="@X" onclick="openSidebar('214_Talsgar the Wanderer',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\213_Rend the Weak.png" id="213_Rend the Weak" data-flag="@X" onclick="openSidebar('213_Rend the Weak',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\200_Delphine, Scheming Innkeep.png" id="200_Delphine, Scheming Innkeep" data-flag="@X" onclick="openSidebar('200_Delphine, Scheming Innkeep',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\192_Alduin, First-Born of Akatosh.png" id="192_Alduin, First-Born of Akatosh" data-flag="@X" onclick="openSidebar('192_Alduin, First-Born of Akatosh',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\195_Arngeir, Word Seeker.png" id="195_Arngeir, Word Seeker" data-flag="@X" onclick="openSidebar('195_Arngeir, Word Seeker',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\210_Lydia, Stalwart Houscarl.png" id="210_Lydia, Stalwart Houscarl" data-flag="@X" onclick="openSidebar('210_Lydia, Stalwart Houscarl',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\191_Adrianne Avenicci.png" id="191_Adrianne Avenicci" data-flag="@X" onclick="openSidebar('191_Adrianne Avenicci',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\248_Karliah, Guild Vengeant.png" id="248_Karliah, Guild Vengeant" data-flag="@X" onclick="openSidebar('248_Karliah, Guild Vengeant',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\196_Brynjolf, Rat Catcher.png" id="196_Brynjolf, Rat Catcher" data-flag="@X" onclick="openSidebar('196_Brynjolf, Rat Catcher',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\244_Aela the Huntress.png" id="244_Aela the Huntress" data-flag="@X" onclick="openSidebar('244_Aela the Huntress',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\247_J'zargo, Brash Mage.png" id="247_Jzargo, Brash Mage" data-flag="@X" onclick="openSidebar('247_Jzargo, Brash Mage',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\197_Coerced Steward.png" id="197_Coerced Steward" data-flag="@X" onclick="openSidebar('197_Coerced Steward',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\201_Elderboon Dovah.png" id="201_Elderboon Dovah" data-flag="@X" onclick="openSidebar('201_Elderboon Dovah',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\202_Elenwen, First Emissary.png" id="202_Elenwen, First Emissary" data-flag="@X" onclick="openSidebar('202_Elenwen, First Emissary',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\203_Elenwen's Soiree.png" id="203_Elenwens Soiree" data-flag="@X" onclick="openSidebar('203_Elenwens Soiree',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\199_Conjure Storm Atronach.png" id="199_Conjure Storm Atronach" data-flag="@X" onclick="openSidebar('199_Conjure Storm Atronach',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\198_Commander Maro.png" id="198_Commander Maro" data-flag="@X" onclick="openSidebar('198_Commander Maro',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\212_Naaslaarum and Voslaarum.png" id="212_Naaslaarum and Voslaarum" data-flag="@X" onclick="openSidebar('212_Naaslaarum and Voslaarum',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\206_Faendal, Yearning Hunter.png" id="206_Faendal, Yearning Hunter" data-flag="@X" onclick="openSidebar('206_Faendal, Yearning Hunter',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\208_General Tullius, War Breaker.png" id="208_General Tullius, War Breaker" data-flag="@X" onclick="openSidebar('208_General Tullius, War Breaker',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\207_Farengar Secret-Fire.png" id="207_Farengar Secret-Fire" data-flag="@X" onclick="openSidebar('207_Farengar Secret-Fire',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\245_Cicero, Blood Artist.png" id="245_Cicero, Blood Artist" data-flag="@X" onclick="openSidebar('245_Cicero, Blood Artist',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\246_Isran, Dawnguard Zealot.png" id="246_Isran, Dawnguard Zealot" data-flag="@X" onclick="openSidebar('246_Isran, Dawnguard Zealot',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\194_Arngeir, Voice of Heroes.png" id="194_Arngeir, Voice of Heroes" data-flag="@X" onclick="openSidebar('194_Arngeir, Voice of Heroes',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\204_Emperor Titus Mede II.png" id="204_Emperor Titus Mede II" data-flag="@X" onclick="openSidebar('204_Emperor Titus Mede II',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\209_The Last Dragonborn.png" id="209_The Last Dragonborn" data-flag="@X" onclick="openSidebar('209_The Last Dragonborn',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="colorless" class="anchor"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\218_Dreamstrider's Robes.png" id="218_Dreamstriders Robes" data-flag="@X" onclick="openSidebar('218_Dreamstriders Robes',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\223_Thalmor Dossier.png" id="223_Thalmor Dossier" data-flag="@X" onclick="openSidebar('223_Thalmor Dossier',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\216_Alduin's Wall.png" id="216_Alduins Wall" data-flag="@X" onclick="openSidebar('216_Alduins Wall',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\220_Shrine to the Betrayed.png" id="220_Shrine to the Betrayed" data-flag="@X" onclick="openSidebar('220_Shrine to the Betrayed',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\221_Stendarr's Hammer.png" id="221_Stendarrs Hammer" data-flag="@X" onclick="openSidebar('221_Stendarrs Hammer',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\217_Dawnbringer's Beacon.png" id="217_Dawnbringers Beacon" data-flag="@X" onclick="openSidebar('217_Dawnbringers Beacon',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\219_Mark of Namira.png" id="219_Mark of Namira" data-flag="@X" onclick="openSidebar('219_Mark of Namira',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\222_Stolen Trinket.png" id="222_Stolen Trinket" data-flag="@X" onclick="openSidebar('222_Stolen Trinket',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\234_Sky-Touched Ruins.png" id="234_Sky-Touched Ruins" data-flag="@X" onclick="openSidebar('234_Sky-Touched Ruins',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\233_Roguish Undercity.png" id="233_Roguish Undercity" data-flag="@X" onclick="openSidebar('233_Roguish Undercity',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\238_Warmonger's Hideout.png" id="238_Warmongers Hideout" data-flag="@X" onclick="openSidebar('238_Warmongers Hideout',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\224_Ancient Fortress.png" id="224_Ancient Fortress" data-flag="@X" onclick="openSidebar('224_Ancient Fortress',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\237_Temple of Destiny.png" id="237_Temple of Destiny" data-flag="@X" onclick="openSidebar('237_Temple of Destiny',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\232_Port Town.png" id="232_Port Town" data-flag="@X" onclick="openSidebar('232_Port Town',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\225_Choked Estuary.png" id="225_Choked Estuary" data-flag="@X" onclick="openSidebar('225_Choked Estuary',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\226_Foreboding Ruins.png" id="226_Foreboding Ruins" data-flag="@X" onclick="openSidebar('226_Foreboding Ruins',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\228_Game Trail.png" id="228_Game Trail" data-flag="@X" onclick="openSidebar('228_Game Trail',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\227_Fortified Village.png" id="227_Fortified Village" data-flag="@X" onclick="openSidebar('227_Fortified Village',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\229_Glorious Hall.png" id="229_Glorious Hall" data-flag="@X" onclick="openSidebar('229_Glorious Hall',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\235_Snowswept Peak.png" id="235_Snowswept Peak" data-flag="@X" onclick="openSidebar('235_Snowswept Peak',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\230_Grim Tomb.png" id="230_Grim Tomb" data-flag="@X" onclick="openSidebar('230_Grim Tomb',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\236_Sprawling Valley.png" id="236_Sprawling Valley" data-flag="@X" onclick="openSidebar('236_Sprawling Valley',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\231_Lakeside Thicket.png" id="231_Lakeside Thicket" data-flag="@X" onclick="openSidebar('231_Lakeside Thicket',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="token" class="anchor"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\1t_Adventurer.png" id="1t_Adventurer" data-flag="@X" onclick="openSidebar('1t_Adventurer',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\5t_The Elder Scroll.png" id="5t_The Elder Scroll" data-flag="@X" onclick="openSidebar('5t_The Elder Scroll',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\6t_Treasure.png" id="6t_Treasure" data-flag="@X" onclick="openSidebar('6t_Treasure',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\2t_Spirit.png" id="2t_Spirit" data-flag="@X" onclick="openSidebar('2t_Spirit',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\3t_Elemental.png" id="3t_Elemental" data-flag="@X" onclick="openSidebar('3t_Elemental',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\4t_Elf Soldier.png" id="4t_Elf Soldier" data-flag="@X" onclick="openSidebar('4t_Elf Soldier',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="masterpiece" class="anchor"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\18_Blood Crypt.png" id="18_Blood Crypt" data-flag="@X" onclick="openSidebar('18_Blood Crypt',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\19_Breeding Pool.png" id="19_Breeding Pool" data-flag="@X" onclick="openSidebar('19_Breeding Pool',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\20_Godless Shrine.png" id="20_Godless Shrine" data-flag="@X" onclick="openSidebar('20_Godless Shrine',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\21_Hallowed Fountain.png" id="21_Hallowed Fountain" data-flag="@X" onclick="openSidebar('21_Hallowed Fountain',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\22_Overgrown Tomb.png" id="22_Overgrown Tomb" data-flag="@X" onclick="openSidebar('22_Overgrown Tomb',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\23_Sacred Foundry.png" id="23_Sacred Foundry" data-flag="@X" onclick="openSidebar('23_Sacred Foundry',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\24_Steam Vents.png" id="24_Steam Vents" data-flag="@X" onclick="openSidebar('24_Steam Vents',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\25_Stomping Ground.png" id="25_Stomping Ground" data-flag="@X" onclick="openSidebar('25_Stomping Ground',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\26_Temple Garden.png" id="26_Temple Garden" data-flag="@X" onclick="openSidebar('26_Temple Garden',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\27_Watery Grave.png" id="27_Watery Grave" data-flag="@X" onclick="openSidebar('27_Watery Grave',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\1_Abhorrent Oculus.png" id="1_Abhorrent Oculus" data-flag="@X" onclick="openSidebar('1_Abhorrent Oculus',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\2_Remiel, Dwemer Scholar.png" id="2_Remiel, Dwemer Scholar" data-flag="@X" onclick="openSidebar('2_Remiel, Dwemer Scholar',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\3_The Wheel Turns.png" id="3_The Wheel Turns" data-flag="@X" onclick="openSidebar('3_The Wheel Turns',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\4_Crux of Fate.png" id="4_Crux of Fate" data-flag="@X" onclick="openSidebar('4_Crux of Fate',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\5_Fatal Push.png" id="5_Fatal Push" data-flag="@X" onclick="openSidebar('5_Fatal Push',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\6_Xelzaz, Telvanni Lawman.png" id="6_Xelzaz, Telvanni Lawman" data-flag="@X" onclick="openSidebar('6_Xelzaz, Telvanni Lawman',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\7_Generous Visitor.png" id="7_Generous Visitor" data-flag="@X" onclick="openSidebar('7_Generous Visitor',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\8_Inigo, Friend to the Dovahkiin.png" id="8_Inigo, Friend to the Dovahkiin" data-flag="@X" onclick="openSidebar('8_Inigo, Friend to the Dovahkiin',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\9_Noble Hierarch.png" id="9_Noble Hierarch" data-flag="@X" onclick="openSidebar('9_Noble Hierarch',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\10_Prosperous Innkeeper.png" id="10_Prosperous Innkeeper" data-flag="@X" onclick="openSidebar('10_Prosperous Innkeeper',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\13_Brurlof, Ascendant Dovahkiin.png" id="13_Brurlof, Ascendant Dovahkiin" data-flag="@X" onclick="openSidebar('13_Brurlof, Ascendant Dovahkiin',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\14_Grandmaster Delphine.png" id="14_Grandmaster Delphine" data-flag="@X" onclick="openSidebar('14_Grandmaster Delphine',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\15_Jarl Balgruuf the Greater.png" id="15_Jarl Balgruuf the Greater" data-flag="@X" onclick="openSidebar('15_Jarl Balgruuf the Greater',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\17_Val Serano, Relic Hunter.png" id="17_Val Serano, Relic Hunter" data-flag="@X" onclick="openSidebar('17_Val Serano, Relic Hunter',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\11_Alduin, Prophetic End.png" id="11_Alduin, Prophetic End" data-flag="@X" onclick="openSidebar('11_Alduin, Prophetic End',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\12_Arngier, Voice Within.png" id="12_Arngier, Voice Within" data-flag="@X" onclick="openSidebar('12_Arngier, Voice Within',false)"></div>
+			<div class="container"><img alt="/sets\FTB-files\img\16_Talsgar, Itinerant Minstrel.png" id="16_Talsgar, Itinerant Minstrel" data-flag="@X" onclick="openSidebar('16_Talsgar, Itinerant Minstrel',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
