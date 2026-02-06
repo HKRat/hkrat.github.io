@@ -1,4 +1,328 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Timber Range Grizzly added.
+Undercity Skeever added.
+Sundered Soul added.
+Market Merchant added.
+Arngeir, Voice Within added.
+Draconic Divulging added.
+Leave the Tomb added.
+Munitions added.
+Dragonborn's Companion added.
+Bandit Marauder added.
+Last Dragonborn's Awakening added.
+Evolving Wilds added.
+Saga added.
+
+Druadach Range Grizzly removed.
+Morag Tong Stingblade removed.
+Restored Soul removed.
+Market Peddler removed.
+Arngier, Voice Within removed.
+
+Restoration Tutor
+rules_text: {X}, {T}: The next X damage that would be dealt to target creature you control this turn is dealt to this creature instead.
+Whenever this creature is dealt damage, put a +1/+1 counter on it and you gain 1 life. [i](It must survive the damage to get the counter.)[/i] => [i]Skill tree[/i] — {X}, {T}: The next X damage that would be dealt to target creature you control this turn is dealt to this creature instead. Activate only if there are four or more card types among permanents you control and/or cards you own exiled this turn.
+Whenever this creature is dealt damage, put a +1/+1 counter on it and you gain 1 life.
+
+Blood-Tested Brawler
+rules_text: Vigilance
+Pay 3 life: This creature gets +1/+1 until end of turn. => Vigilance
+[i]Skill tree[/i] — Pay 2 life: This creature gets +1/+1 until end of turn. Activate only if there are four or more card types among permanents you control and/or cards you own exiled this turn.
+
+Attentive Jarl
+rules_text: Your opponents can only cast spells during their turn.
+{5}: Inspect five cards. You may reveal a creature card with power 3 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order. => Whenever you lose life during your turn, put a +1/+1 counter on target creature you control.
+{5}: Inspect five cards. You may reveal a creature card with power 3 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+Armament Forging
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This Saga gains “Whenever you gain life, put a +1/+1 counter on up to one target creature.”
+II, III — Whenever you attack this turn, you gain 2 life.
+IV — Modified creatures you control gain vigilance and indestructible until end of turn. [i](Equipment, Auras you control, and counters are modifications.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+This Saga gains “Whenever you gain life, put a +1/+1 counter on up to one target creature.”
+Whenever you attack this turn, you gain 2 life.
+Modified creatures you control gain vigilance and indestructible until end of turn. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Felldir the Old
+rules_text: Vigilance
+When Felldir the Old enters, study the voice, then tap target creature an opponent controls and put a stun counter on it for each enchantment you control, to a maximum of 3. [i](Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with “r{3}—You may play the exiled card.” Mill the other.)[/i] => Vigilance
+When Felldir enters, study the voice, then tap target creature an opponent controls and put a stun counter on it for each enchantment you control, to a maximum of 3. [i](Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with “r{3}—You may play the exiled card.” Mill the other.)[/i]
+
+Voice of Frost
+rules_text: When this creature enters, choose one —
+• Tap up to two target creatures you don't control.
+• Put a stun counter on each of up to two target creatures you don't control. => When this creature enters, choose one —
+• Tap up to two target creatures you don't control.
+• Mill two cards, then you may put a noncreature, nonland card from your graveyard on top of your library.
+
+Twin Souls
+
+Twin Moons Wanderer
+
+Children of Akatosh
+
+Bosmer Pathcutter
+rules_text: At the beginning of your end step, if you've spent four or more mana on spells or activated abilities this turn, create a 2/2 colorless Adventurer creature token, then put a +1/+1 counter on a creature you control. => [i]Skill tree[/i] — At the beginning of combat on your turn, if there are four or more card types among permanents you control and/or cards you own exiled this turn, put a +1/+1 counter on target creature.
+
+Last Dragonborn's Awakening
+
+Brurlof, Reluctant Hero
+cost: {2}{W} => {1}{W}{W}
+
+Brurlof, Chosen of Akatosh
+rules_text: When Brurlof enters, study the voice. [i](Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with “r{3}—You may play the exiled card.” Mill the other.)[/i]
+Creatures you control have indestructible as long as you control three or more Sagas.
+Whenever you sacrifice an enchantment, put a +1/+1 counter on Brurlof. => When Brurlof enters, study the voice. [i](Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with “r{3}—You may play the exiled card.” Mill the other.)[/i]
+Creatures you control have indestructible as long as you control three or more Sagas.
+Whenever you sacrifice an enchantment, put a +1/+1 counter on each creature you control.
+
+Scroll Scouting
+rules_text: Draw two cards, discard two cards, then untap a land you control.
+{5}{U}{U}, Exile Scroll Scouting and three other cards from your graveyard with different mana values: Create The Elder Scroll, a legendary artifact token with “At the beginning of your first main phase, add {C}{C}{C},” and “{T}: Draw three cards.” => Draw two cards, then discard a card.
+[i]Skill tree[/i] — {5}{U}{U}, Exile Scroll Scouting from your graveyard: Create The Elder Scroll, a legendary artifact token with “At the beginning of your first main phase, add {C}{C}{C},” and “{T}: Draw three cards.” Activate only if there are four or more card types among permanents you control and/or cards you own exiled this turn.
+
+Azura's Many Visions
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Look at the top X cards of your library, where X is the number of lands you control. Put one of them into your hand and the rest into your graveyard.
+III — Create a 2/2 colorless Adventurer creature token. Put a +1/+1 counter on it for each card in your hand.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Inspect X cards, where X is the number of lands you control. Put one of them into your hand and the rest into your graveyard.
+Create a 2/2 colorless Adventurer creature token. Put a +1/+1 counter on it for each card in your hand.
+​
+
+Discerning the Transmundane
+type: Sorcery => Enchantment
+rules_text: Choose one or both —
+• Target player gains control of target nonland permanent they don't control.
+• Create a token that's a copy of target nonland permanent you control. Each opponent mills cards equal to twice that permanent's mana value. => When this enchantment enters, study the voice twice. [i](Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with “r{3}—You may play the exiled card.” Mill the other. Then do it again.)[/i]
+You may cast spells with mana value less than or equal to the number of enchantments you control without paying their mana costs.
+
+Volkihar Claims the Night
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target creature an opponent controls.
+II — Search your library for a creature card, put it into your graveyard, then shuffle.
+III — Return up to one target creature card from your graveyard to your hand. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target creature an opponent controls.
+II — Search your library for a creature card, put it into your graveyard, then shuffle.
+III — You may sacrifice a creature. When you do, return target creature card from your graveyard to the battlefield.
+
+Way of the Voice
+
+On Ancient Stones
+
+Fabled Riftstrider
+rules_text: At the beginning of combat on your turn, put a +1/+1 counter or a lore counter on target creature or enchantment you control.
+{4}, {T}: Copy each triggered ability you control from an enchantment source. You may choose new targets for the copy. => At the beginning of combat on your turn, put a +1/+1 counter or a lore counter on target creature or enchantment you control.
+[i]Skill tree[/i] — {4}, {T}: Copy each triggered ability you control from an enchantment source. Activate only if there are four or more card types among permanents you control and/or cards you own exiled this turn.
+
+Pilgrim's Bane
+rules_text: Survey {5}{G}{G} [i](Exile a nonland permanent you control and cast this for its survey cost reduced by the exiled card's mana value. You may play that card from exile on a later turn.)[/i]
+Trample
+Whenever you sacrifice one or more nontoken permanents, this creature fights up to one other target creature. => Survey {6}{G}{G} [i](Exile a nonland permanent you control and cast this for its survey cost reduced by the exiled card's mana value. You may play that card from exile on a later turn.)[/i]
+Trample
+At the beginning of your end step, if a permanent you control left the battlefield this turn, this creature fights up to one target creature.
+
+Brynjolf, Rat Catcher
+rules_text: When Brynjolf enters, you may pay {2}. If you do, create a 2/2 colorless Adventurer creature token.
+Whenever you commit a crime, another target creature you control gets +1/+0 until and can't be blocked this turn. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i] => When Brynjolf enters, you may pay {2}. If you do, create a 2/2 colorless Adventurer creature token.
+Whenever you commit a crime, another target creature you control gets +1/+0 until end of turn and can't be blocked this turn. [i](Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)[/i]
+
+Naaslaarum and Voslaarum
+
+Victory or Sovngarde
+rules_text: Exile all creatures with mana value 2 or less. => Exile all artifacts and creatures with mana value 2 or less.
+
+World-Eaters Dissent
+rules_text: Thu'um [i](This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)[/i]
+Discard your hand, then draw three cards. Then, return up to one creature with mana value less than or equal to the number of cards you've drawn this turn from your graveyard to the battlefield. => Thu'um [i](This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)[/i]
+Discard your hand, then draw three cards. Then, return a creature with mana value less than or equal to the number of cards you've drawn this turn from your graveyard to the battlefield.
+
+Coerced Steward
+
+Sovngarde Honored
+
+Armored Steed
+rules_text: {1}, {T}: Attach target equipment you control to another target creature you control. Activate only as a sorcery. => {1}, {T}: Attach target Equipment you control to another target creature you control. Activate only as a sorcery.
+
+Explorer's Hook
+
+Dragonborn's Resolve
+
+Nuisance Mudcrabs
+
+Windchill Wraiths
+
+Bound Specter
+cost: {1}{U} => {3}{U}{U}
+rules_text: Flying
+This creature can block only creatures with flying.
+Whenever you cast a noncreature spell, target player mills two cards. [i](They put the top two cards of their library into their graveyard.)[/i] => Flying
+When this creature enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+pt: 2/1 => 3/3
+
+Labyrinthian Spelldrinker
+rules_text: Flash
+Flying
+When this creature enters, counter up to one target spell with mana value less than or equal to the number of enchantments you control. => Flash
+Flying
+[i]Skill tree[/i] — When this creature enters, if there are four or more card types among permanents you control and/or cards you own exiled this turn, counter up to one target spell.
+
+Homesteading
+rules_text: The owner of target nonland permanent puts it on their choice of the top or bottom of their library. If it had mana value 3 or less, study the voice. [i](Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with “r{3}—You may play the exiled card.” Mill the other.)[/i] => The owner of target nonland permanent puts it into their library second from the top or on the bottom. If it had mana value 3 or less, study the voice. [i](Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with “r{3}—You may play the exiled card.” Mill the other.)[/i]
+
+Ice Form
+
+Immobilizing Spike
+rules_text: Enchant creature
+Enchanted creature can't become untapped.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => Enchant creature
+Enchanted creature can't become untapped.
+Cycling {2}
+
+Brotherhood Shadowscale
+
+Falmer Gloomlurker
+
+Ustengrav Shambler
+
+Eastmarch Hunter
+rules_text: [i]Skill tree[/i] — As long as there are four or more card types among permanents you control and/or cards you own exiled this turn, this creature gets +1/+0 and has flying.
+When this creature enters, you may pay 2 life. If you do, surveil 2. => [i]Skill tree[/i] — As long as there are four or more card types among permanents you control and/or cards you own exiled this turn, this creature has flying.
+Whenever another creature you control dies, each opponent loses 1 life.
+
+Corner
+cost: {2}{B} => {1}{B}
+rules_text: Exile target creature. You lose 2 life. => Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent's mana value.
+
+Flame Whip
+
+Dawnguard War Troll
+
+Dawnguard Suncaster
+
+Bitterwinter Brute
+
+Imperial Battlemage
+rules_text: Whenever you cast an instant, sorcery, or Dragon spell, this creature deals 1 damage to each opponent.
+Cycling {1} => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever you cast a Dragon spell, this creature gets +1/+1 until end of turn.
+Cycling {1}
+
+Malacath Devotee
+rules_text: Whenever this creature attacks, it gains first strike until end of turn.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => Whenever this creature attacks, if you spent four or more mana casting spells or activating abilities this turn, put a +1/+1 counter on it.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Forsworn Conjurer
+
+Bandit Marauder
+
+Glass-Clad Battlemage
+rules_text: [i]Skill tree[/i] — Whenever this creature attacks, if there are four or more card types among permanents you control and/or cards you own exiled this turn, put a +1/+1 counter on this creature. => Menace
+[i]Skill tree[/i] — Whenever this creature attacks, if there are four or more card types among permanents you control and/or cards you own exiled this turn, put a +1/+1 counter on this creature.
+
+Pickpocket
+
+Jerall Mountain Hunter
+
+Falkreath Prized Game
+
+Darkwater Denizen
+
+Ancestor Moths
+
+Sanctuary Spider
+
+Forsworn Windspeaker
+pt: 4/3 => 5/3
+
+Rift Troll
+
+Spellwoven Ring
+
+Blood-Claimed Territory
+
+Heavy Blow
+
+The Last Dragonborn
+rules_text: Vigilance, reach, protection from Dragons
+Whenever you cast a spell, study the voice. [i](Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with “r{3}—You may play the exiled card.” Mill the other.)[/i]
+{T}: Add X mana of any one color, where X is the number of card types among other permanents you control. => Vigilance, reach, protection from Dragons
+Whenever you cast a spell from your hand, study the voice.
+{T}: Add X mana of any one color, where X is the number of card types among other permanents you control.
+
+Ancano, Scheming Advisor
+rules_text: Ward—Discard a card.
+When Ancano enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.
+Ancano has all activated abilities of all cards exiled with it. => Ward—Discard a card at random
+When Ancano enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.
+Ancano has all activated abilities of all cards exiled with it.
+
+The Wheel Turns
+
+Whirlwind Sprint
+
+Sky-Touched Ruins
+
+Warmonger's Hideout
+
+Ancient Fortress
+
+The Elder Scroll
+
+Shrine to the Betrayed
+
+Stendarr's Hammer
+rules_text: Equipped creature gets +8/+8 and must be blocked each turn if able.
+Equipped creature can't attack unless you pay {2}.
+Equip {4} => Equipped creature gets +8/+8 and must be blocked each turn if able.
+Equipped creature can't attack unless its controller pays {2}.
+Equip {4}
+
+Grim Tomb
+
+Lakeside Thicket
+
+Glorious Hall
+
+Foreboding Ruins
+
+Choked Estuary
+
+Sprawling Valley
+
+Game Trail
+
+Snowswept Peak
+
+Fortified Village
+
+Port Town
+
+Arngeir, Voice of Heroes
+rules_text: Vigilance
+Whenever you cast your first spell each turn, create a token that's a copy of it, except it's legendary. [i](A copy of a permanent spell becomes a token.)[/i] => Vigilance
+Whenever you cast your first spell each turn, copy it, except it's legendary. You may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i]
+
+Hoard Keeper
+
+Heavy Crossbow
+
+Legion Steel
+
+Exploit the Time-Wound
+cost: {1}{W}{U} => {X}{W}{W}{U}
+rules_text: [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, exile up to one target nonland permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step. => This Siege enters with X additional defense counters.
+When this Siege enters, exile X target nonland permanents. Return them to the battlefield under their owner's control at the beginning of the next end step.
+pt: 6 => 5
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

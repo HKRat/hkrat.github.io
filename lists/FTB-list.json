@@ -1,1 +1,2499 @@
-﻿[{"card_name": "Brurlof, Chosen of Akatosh", "number": 7, "shape": "normal"}, {"card_name": "Paarthurnax, the Balance", "number": 63, "shape": "normal"}, {"card_name": "Ancano, Scheming Advisor", "number": 77, "shape": "normal"}, {"card_name": "Winged Snow Hunter", "number": 152, "shape": "saga"}, {"card_name": "Sinding the Cursed", "number": 182, "shape": "transform double faced"}, {"card_name": "Conjure Golden Saint Warrior", "number": 10, "shape": "saga"}, {"card_name": "Azura's Many Visions", "number": 41, "shape": "saga"}, {"card_name": "Conjure Dremora Lord", "number": 83, "shape": "saga"}, {"card_name": "Delphine, Last of the Blades", "number": 126, "shape": "normal"}, {"card_name": "Fabled Riftstrider", "number": 163, "shape": "normal"}, {"card_name": "Dovah's Aftermath", "number": 12, "shape": "normal"}, {"card_name": "Bringer of Myth", "number": 43, "shape": "normal"}, {"card_name": "Desolation of Alduin", "number": 85, "shape": "normal"}, {"card_name": "Dueling Mages", "number": 130, "shape": "saga"}, {"card_name": "Fleetfoot Wanderer", "number": 165, "shape": "normal"}, {"card_name": "Dragonborn's Companion", "number": 13, "shape": "normal"}, {"card_name": "Discerning the Transmundane", "number": 45, "shape": "normal"}, {"card_name": "Durnehviir, Soul-Claimed", "number": 91, "shape": "normal"}, {"card_name": "Fire Wyrm", "number": 132, "shape": "normal"}, {"card_name": "Gildergreen Tender", "number": 168, "shape": "normal"}, {"card_name": "Last Dragonborn's Awakening", "number": 23, "shape": "normal"}, {"card_name": "Paarthurnax, Greybeard Mentor", "number": 62, "shape": "normal"}, {"card_name": "Hermaeus Mora", "number": 96, "shape": "normal"}, {"card_name": "Firebolt Adept", "number": 133, "shape": "normal"}, {"card_name": "Morokei's Mask of Power", "number": 176, "shape": "normal"}, {"card_name": "Restoration Tutor", "number": 26, "shape": "normal"}, {"card_name": "Scroll Scouting", "number": 65, "shape": "normal"}, {"card_name": "Ominous Portent", "number": 100, "shape": "normal"}, {"card_name": "Karthspire Warbreaker", "number": 142, "shape": "normal"}, {"card_name": "On Ancient Stones", "number": 177, "shape": "normal"}, {"card_name": "Wandering Quester", "number": 35, "shape": "normal"}, {"card_name": "Telekinetic Mastery", "number": 66, "shape": "normal"}, {"card_name": "Thalmor Excruciator", "number": 106, "shape": "normal"}, {"card_name": "Shearpoint Champion", "number": 148, "shape": "normal"}, {"card_name": "Pilgrim's Bane", "number": 178, "shape": "normal"}, {"card_name": "Armament Forging", "number": 1, "shape": "saga"}, {"card_name": "Arcaneum Lorekeeper", "number": 40, "shape": "normal"}, {"card_name": "Tombs Unplundered", "number": 108, "shape": "normal"}, {"card_name": "Way of the Voice", "number": 151, "shape": "normal"}, {"card_name": "Sommerset Shielding", "number": 183, "shape": "normal"}, {"card_name": "Attentive Jarl", "number": 3, "shape": "normal"}, {"card_name": "Conjure Frost Atronach", "number": 44, "shape": "saga"}, {"card_name": "We Know", "number": 114, "shape": "normal"}, {"card_name": "Akatosh's Expectations", "number": 115, "shape": "normal"}, {"card_name": "Alteration Savant", "number": 153, "shape": "normal"}, {"card_name": "Awake at Last", "number": 4, "shape": "normal"}, {"card_name": "Dwemer Mobilization", "number": 46, "shape": "normal"}, {"card_name": "Alduin, the Catalyst", "number": 76, "shape": "normal"}, {"card_name": "Ambush Dov", "number": 116, "shape": "normal"}, {"card_name": "Beast in the Dark", "number": 155, "shape": "saga"}, {"card_name": "Beckoning Wispmother", "number": 5, "shape": "normal"}, {"card_name": "Fact or Fiction", "number": 47, "shape": "normal"}, {"card_name": "Assassin's Contract", "number": 78, "shape": "normal"}, {"card_name": "Bandit Marauder", "number": 119, "shape": "normal"}, {"card_name": "Blood-Claimed Territory", "number": 156, "shape": "normal"}, {"card_name": "Blood-Tested Brawler", "number": 6, "shape": "normal"}, {"card_name": "Felldir the Old", "number": 48, "shape": "normal"}, {"card_name": "Audience with the Jarl", "number": 79, "shape": "normal"}, {"card_name": "Children of Akatosh", "number": 121, "shape": "normal"}, {"card_name": "Bosmer Pathcutter", "number": 157, "shape": "normal"}, {"card_name": "Brurlof, Reluctant Hero", "number": 8, "shape": "normal"}, {"card_name": "Labyrinthian Spelldrinker", "number": 54, "shape": "normal"}, {"card_name": "Briarheart Rite", "number": 80, "shape": "normal"}, {"card_name": "Dragon Hunting", "number": 128, "shape": "normal"}, {"card_name": "Claimed by Power", "number": 158, "shape": "normal"}, {"card_name": "Dispatched Vigilant", "number": 11, "shape": "saga"}, {"card_name": "Meet in Sovngarde", "number": 56, "shape": "normal"}, {"card_name": "Dubious Delicacy", "number": 90, "shape": "normal"}, {"card_name": "Dragontongue Necklace", "number": 129, "shape": "normal"}, {"card_name": "Embassy Attendant", "number": 162, "shape": "normal"}, {"card_name": "Fleeing Fugitive", "number": 18, "shape": "saga"}, {"card_name": "Misusing the Atronach Forge", "number": 57, "shape": "saga"}, {"card_name": "Epic Downfall", "number": 93, "shape": "normal"}, {"card_name": "Goldclaw Dov", "number": 137, "shape": "normal"}, {"card_name": "Scapegoat Opportunist", "number": 181, "shape": "saga"}, {"card_name": "Gormlaith Golden-Hilt", "number": 19, "shape": "normal"}, {"card_name": "Nocturnal's Chosen", "number": 59, "shape": "normal"}, {"card_name": "Guild Mark", "number": 95, "shape": "normal"}, {"card_name": "Hakon One-Eye", "number": 138, "shape": "normal"}, {"card_name": "Tavern Hireling", "number": 185, "shape": "normal"}, {"card_name": "Stormcloak Clan Captain", "number": 31, "shape": "normal"}, {"card_name": "Quickswap", "number": 64, "shape": "normal"}, {"card_name": "Tales of a Liar Cat", "number": 104, "shape": "saga"}, {"card_name": "Immolating Shout", "number": 140, "shape": "normal"}, {"card_name": "Traitor's Handoff", "number": 186, "shape": "normal"}, {"card_name": "War Rallier", "number": 36, "shape": "normal"}, {"card_name": "Twin Souls", "number": 68, "shape": "normal"}, {"card_name": "Twin Moons Wanderer", "number": 109, "shape": "normal"}, {"card_name": "Mirmulnir, Hidden Hunter", "number": 144, "shape": "normal"}, {"card_name": "Wandering Thalmor Patrol", "number": 188, "shape": "saga"}, {"card_name": "Armored Steed", "number": 2, "shape": "normal"}, {"card_name": "Alchemist's Table", "number": 38, "shape": "normal"}, {"card_name": "Volkihar Bloodlord", "number": 111, "shape": "normal"}, {"card_name": "An Old Orc Waits Alone", "number": 145, "shape": "saga"}, {"card_name": "White-Gold Enforcer", "number": 189, "shape": "normal"}, {"card_name": "Caravan Peddler", "number": 9, "shape": "saga"}, {"card_name": "Ancient Word Wall", "number": 39, "shape": "normal"}, {"card_name": "Volkihar Claims the Night", "number": 112, "shape": "saga"}, {"card_name": "Anarchist's Spear", "number": 117, "shape": "normal"}, {"card_name": "Ancestor Moths", "number": 154, "shape": "normal"}, {"card_name": "Dragonborn's Resolve", "number": 14, "shape": "normal"}, {"card_name": "Bound Specter", "number": 42, "shape": "normal"}, {"card_name": "Brotherhood Shadowscale", "number": 81, "shape": "normal"}, {"card_name": "Atronach Summoner", "number": 118, "shape": "normal"}, {"card_name": "Conjure Familiar", "number": 159, "shape": "saga"}, {"card_name": "Dragonrend", "number": 15, "shape": "normal"}, {"card_name": "Hjaalmarch Outrider", "number": 49, "shape": "normal"}, {"card_name": "Caravan Opportunist", "number": 82, "shape": "normal"}, {"card_name": "Bitterwinter Brute", "number": 120, "shape": "normal"}, {"card_name": "Darkwater Denizen", "number": 160, "shape": "normal"}, {"card_name": "Eager Hireling", "number": 16, "shape": "normal"}, {"card_name": "Homesteading", "number": 50, "shape": "normal"}, {"card_name": "Corner", "number": 84, "shape": "normal"}, {"card_name": "Compell", "number": 122, "shape": "normal"}, {"card_name": "Druadach Range Grizzly", "number": 161, "shape": "normal"}, {"card_name": "Explorer's Hook", "number": 17, "shape": "normal"}, {"card_name": "Ice Form", "number": 51, "shape": "normal"}, {"card_name": "Destiny Unbound", "number": 86, "shape": "normal"}, {"card_name": "Conjure Flame Atronach", "number": 123, "shape": "saga"}, {"card_name": "Falkreath Prized Game", "number": 164, "shape": "normal"}, {"card_name": "Haafingar Dock Glider", "number": 20, "shape": "normal"}, {"card_name": "Immobilizing Spike", "number": 52, "shape": "normal"}, {"card_name": "Disturbed Dead", "number": 87, "shape": "normal"}, {"card_name": "Dawnguard Suncaster", "number": 124, "shape": "normal"}, {"card_name": "Forsworn Windspeaker", "number": 166, "shape": "normal"}, {"card_name": "Helgen Rescue Party", "number": 21, "shape": "normal"}, {"card_name": "Imperial Outfitter", "number": 53, "shape": "normal"}, {"card_name": "Doom Driven", "number": 88, "shape": "normal"}, {"card_name": "Dawnguard War Troll", "number": 125, "shape": "normal"}, {"card_name": "Game Hunters", "number": 167, "shape": "saga"}, {"card_name": "Imperial Apprehension", "number": 22, "shape": "normal"}, {"card_name": "Magicka Scholar", "number": 55, "shape": "normal"}, {"card_name": "Dredged Dovah", "number": 89, "shape": "normal"}, {"card_name": "Dovah's Roar", "number": 127, "shape": "normal"}, {"card_name": "Greenwarden Spriggan", "number": 169, "shape": "normal"}, {"card_name": "Prize-winning Goat", "number": 24, "shape": "normal"}, {"card_name": "Nimble Automaton", "number": 58, "shape": "normal"}, {"card_name": "Eastmarch Hunter", "number": 92, "shape": "normal"}, {"card_name": "East Empire Nightwatch", "number": 131, "shape": "normal"}, {"card_name": "Hail of Arrows", "number": 170, "shape": "normal"}, {"card_name": "Reliable Courier", "number": 25, "shape": "normal"}, {"card_name": "Novice Mage", "number": 60, "shape": "normal"}, {"card_name": "Falmer Gloomlurker", "number": 94, "shape": "normal"}, {"card_name": "Flame Whip", "number": 134, "shape": "normal"}, {"card_name": "Heavy Blow", "number": 171, "shape": "normal"}, {"card_name": "Riften Rabble", "number": 27, "shape": "normal"}, {"card_name": "Nuisance Mudcrabs", "number": 61, "shape": "normal"}, {"card_name": "Hulking Draugr", "number": 97, "shape": "normal"}, {"card_name": "Forsworn Conjurer", "number": 135, "shape": "normal"}, {"card_name": "Heavy Crossbow", "number": 172, "shape": "normal"}, {"card_name": "Shor's Fox", "number": 28, "shape": "normal"}, {"card_name": "Thieves Guild Trainee", "number": 67, "shape": "normal"}, {"card_name": "Knock Down", "number": 98, "shape": "normal"}, {"card_name": "Glass-Clad Battlemage", "number": 136, "shape": "normal"}, {"card_name": "Into the Barrow", "number": 173, "shape": "normal"}, {"card_name": "Sleeping Tree Giant", "number": 29, "shape": "normal"}, {"card_name": "Unrelenting Force", "number": 69, "shape": "normal"}, {"card_name": "Morag Tong Stingblade", "number": 99, "shape": "normal"}, {"card_name": "Hoard Keeper", "number": 139, "shape": "normal"}, {"card_name": "Jerall Mountain Hunter", "number": 174, "shape": "normal"}, {"card_name": "Sovngarde Honored", "number": 30, "shape": "normal"}, {"card_name": "Voice of Frost", "number": 70, "shape": "normal"}, {"card_name": "Ragged Flagon Rogue", "number": 101, "shape": "normal"}, {"card_name": "Imperial Battlemage", "number": 141, "shape": "normal"}, {"card_name": "Market Peddler", "number": 175, "shape": "normal"}, {"card_name": "Sweet Roll", "number": 32, "shape": "normal"}, {"card_name": "Warding Robes", "number": 71, "shape": "normal"}, {"card_name": "Restored Soul", "number": 102, "shape": "normal"}, {"card_name": "Malacath Devotee", "number": 143, "shape": "normal"}, {"card_name": "Rift Troll", "number": 179, "shape": "normal"}, {"card_name": "Tavern Lute", "number": 33, "shape": "normal"}, {"card_name": "Whirlwind Sprint", "number": 73, "shape": "normal"}, {"card_name": "Sanguinare Neonate", "number": 103, "shape": "normal"}, {"card_name": "Pickpocket", "number": 146, "shape": "normal"}, {"card_name": "Sanctuary Spider", "number": 180, "shape": "normal"}, {"card_name": "Voice of Serenity", "number": 34, "shape": "normal"}, {"card_name": "Windchill Wraiths", "number": 74, "shape": "normal"}, {"card_name": "Talos Confiscator", "number": 105, "shape": "normal"}, {"card_name": "Raining Dragonfire", "number": 147, "shape": "normal"}, {"card_name": "Spellwoven Ring", "number": 184, "shape": "normal"}, {"card_name": "Way of Jurgen Windcaller", "number": 37, "shape": "normal"}, {"card_name": "Winterhold Student", "number": 75, "shape": "normal"}, {"card_name": "Through the Dark", "number": 107, "shape": "normal"}, {"card_name": "Shock", "number": 149, "shape": "normal"}, {"card_name": "Voice of Wind", "number": 187, "shape": "normal"}, {"card_name": "Wandering Mercenary", "number": 241, "shape": "normal"}, {"card_name": "Student of Magicka", "number": 242, "shape": "normal"}, {"card_name": "Ustengrav Shambler", "number": 110, "shape": "normal"}, {"card_name": "Voice of Fire", "number": 150, "shape": "normal"}, {"card_name": "Windhelm Bard", "number": 190, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "Wandering Draugr", "number": 113, "shape": "normal"}, {"card_name": "Thieves Guild Initiate", "number": 244, "shape": "normal"}, {"card_name": "Agent of the Inner Circle", "number": 245, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "Brotherhood Listener", "number": 243, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->gold", {"card_name": "Exploit the Time-Wound", "number": 205, "shape": "transform double faced split"}, {"card_name": "World-Eaters Dissent", "number": 215, "shape": "normal"}, {"card_name": "Alduin, World-Eater", "number": 193, "shape": "normal"}, {"card_name": "Madanach, King in Rags", "number": 211, "shape": "normal"}, {"card_name": "Talsgar the Wanderer", "number": 213, "shape": "normal"}, {"card_name": "Victory or Sovngarde", "number": 214, "shape": "normal"}, {"card_name": "Delphine, Scheming Innkeep", "number": 200, "shape": "normal"}, {"card_name": "Alduin, First-Born of Akatosh", "number": 192, "shape": "normal"}, {"card_name": "Arngeir, Word Seeker", "number": 195, "shape": "normal"}, {"card_name": "Lydia, Stalwart Houscarl", "number": 210, "shape": "normal"}, {"card_name": "Adrianne Avenicci", "number": 191, "shape": "normal"}, {"card_name": "Karliah, Guild Vengeant", "number": 250, "shape": "normal"}, {"card_name": "Brynjolf, Rat Catcher", "number": 196, "shape": "normal"}, {"card_name": "Aela the Huntress", "number": 246, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "J'zargo, Brash Mage", "number": 249, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Coerced Steward", "number": 197, "shape": "normal"}, {"card_name": "Elderboon Dovah", "number": 201, "shape": "normal"}, {"card_name": "Elenwen, First Emissary", "number": 202, "shape": "normal"}, {"card_name": "Elenwen's Soiree", "number": 203, "shape": "normal"}, {"card_name": "Conjure Storm Atronach", "number": 199, "shape": "saga"}, {"card_name": "Commander Maro", "number": 198, "shape": "normal"}, {"card_name": "Naaslaarum and Voslaarum", "number": 212, "shape": "normal"}, {"card_name": "Faendal, Yearning Hunter", "number": 206, "shape": "normal"}, {"card_name": "General Tullius, War Breaker", "number": 208, "shape": "normal"}, {"card_name": "Farengar Secret-Fire", "number": 207, "shape": "normal"}, {"card_name": "Cicero, Blood Artist", "number": 247, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "Isran, Dawnguard Zealot", "number": 248, "shape": "normal"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Arngeir, Voice of Heroes", "number": 194, "shape": "normal"}, {"card_name": "Emperor Titus Mede II", "number": 204, "shape": "normal"}, {"card_name": "The Last Dragonborn", "number": 209, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->colorless", {"card_name": "Dreamstrider's Robes", "number": 218, "shape": "normal"}, {"card_name": "Thalmor Dossier", "number": 224, "shape": "normal"}, {"card_name": "Alduin's Wall", "number": 216, "shape": "normal"}, {"card_name": "Legion Steel", "number": 219, "shape": "normal"}, {"card_name": "Shrine to the Betrayed", "number": 221, "shape": "normal"}, {"card_name": "Stendarr's Hammer", "number": 222, "shape": "normal"}, {"card_name": "Dawnbringer's Beacon", "number": 217, "shape": "normal"}, {"card_name": "Mark of Namira", "number": 220, "shape": "normal"}, {"card_name": "Stolen Trinket", "number": 223, "shape": "normal"}, {"card_name": "Trusty Armaments", "number": 225, "shape": "normal"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Sky-Touched Ruins", "number": 236, "shape": "normal"}, {"card_name": "Roguish Undercity", "number": 235, "shape": "normal"}, {"card_name": "Warmonger's Hideout", "number": 240, "shape": "normal"}, {"card_name": "Ancient Fortress", "number": 226, "shape": "normal"}, {"card_name": "Temple of Destiny", "number": 239, "shape": "normal"}, {"card_name": "Port Town", "number": 234, "shape": "normal"}, {"card_name": "Choked Estuary", "number": 227, "shape": "normal"}, {"card_name": "Foreboding Ruins", "number": 228, "shape": "normal"}, {"card_name": "Game Trail", "number": 230, "shape": "normal"}, {"card_name": "Fortified Village", "number": 229, "shape": "normal"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "Glorious Hall", "number": 231, "shape": "normal"}, {"card_name": "Snowswept Peak", "number": 237, "shape": "normal"}, {"card_name": "Grim Tomb", "number": 232, "shape": "normal"}, {"card_name": "Sprawling Valley", "number": 238, "shape": "normal"}, {"card_name": "Lakeside Thicket", "number": 233, "shape": "normal"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->token", {"card_name": "Adventurer", "number": 1, "shape": "token"}, {"card_name": "The Elder Scroll", "number": 5, "shape": "token"}, {"card_name": "Treasure", "number": 6, "shape": "token"}, {"card_name": "Spirit", "number": 2, "shape": "token"}, {"card_name": "Elemental", "number": 3, "shape": "token"}, {"card_name": "Elf Soldier", "number": 4, "shape": "token"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, "a->masterpiece", {"card_name": "Blood Crypt", "number": 18, "shape": "normal"}, {"card_name": "Breeding Pool", "number": 19, "shape": "normal"}, {"card_name": "Godless Shrine", "number": 20, "shape": "normal"}, {"card_name": "Hallowed Fountain", "number": 21, "shape": "normal"}, {"card_name": "Overgrown Tomb", "number": 22, "shape": "normal"}, {"card_name": "Sacred Foundry", "number": 23, "shape": "normal"}, {"card_name": "Steam Vents", "number": 24, "shape": "normal"}, {"card_name": "Stomping Ground", "number": 25, "shape": "normal"}, {"card_name": "Temple Garden", "number": 26, "shape": "normal"}, {"card_name": "Watery Grave", "number": 27, "shape": "normal"}, {"card_name": "Abhorrent Oculus", "number": 1, "shape": "normal"}, {"card_name": "Remiel, Dwemer Scholar", "number": 2, "shape": "normal"}, {"card_name": "The Wheel Turns", "number": 3, "shape": "normal"}, {"card_name": "Crux of Fate", "number": 4, "shape": "normal"}, {"card_name": "Fatal Push", "number": 5, "shape": "normal"}, {"card_name": "Xelzaz, Telvanni Lawman", "number": 6, "shape": "normal"}, {"card_name": "Generous Visitor", "number": 7, "shape": "normal"}, {"card_name": "Inigo, Friend to the Dovahkiin", "number": 8, "shape": "normal"}, {"card_name": "Noble Hierarch", "number": 9, "shape": "normal"}, {"card_name": "Prosperous Innkeeper", "number": 10, "shape": "normal"}, {"card_name": "Brurlof, Ascendant Dovahkiin", "number": 13, "shape": "normal"}, {"card_name": "Dragonslayer Delphine", "number": 14, "shape": "normal"}, {"card_name": "Jarl Balgruuf the Greater", "number": 15, "shape": "normal"}, {"card_name": "Val Serano, Relic Hunter", "number": 17, "shape": "normal"}, {"card_name": "Alduin, Prophetic End", "number": 11, "shape": "normal"}, {"card_name": "Arngier, Voice Within", "number": 12, "shape": "normal"}, {"card_name": "Talsgar, Itinerant Minstrel", "number": 16, "shape": "normal"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "e"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}, {"card_name": "er"}]
+﻿[
+    {
+        "card_name": "Brurlof, Chosen of Akatosh",
+        "number": 7,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Paarthurnax, the Balance",
+        "number": 63,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ancano, Scheming Advisor",
+        "number": 77,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Winged Snow Hunter",
+        "number": 152,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sinding the Cursed",
+        "number": 181,
+        "shape": "transform double faced",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Conjure Golden Saint Warrior",
+        "number": 10,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Azura's Many Visions",
+        "number": 41,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Conjure Dremora Lord",
+        "number": 83,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Delphine, Last of the Blades",
+        "number": 126,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fabled Riftstrider",
+        "number": 162,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dovah's Aftermath",
+        "number": 12,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bringer of Myth",
+        "number": 43,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Desolation of Alduin",
+        "number": 85,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dueling Mages",
+        "number": 130,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fleetfoot Wanderer",
+        "number": 164,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Restoration Tutor",
+        "number": 26,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Discerning the Transmundane",
+        "number": 45,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Durnehviir, Soul-Claimed",
+        "number": 91,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fire Wyrm",
+        "number": 132,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gildergreen Tender",
+        "number": 167,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wandering Quester",
+        "number": 35,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Paarthurnax, Greybeard Mentor",
+        "number": 62,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hermaeus Mora",
+        "number": 96,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Firebolt Adept",
+        "number": 133,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Morokei's Mask of Power",
+        "number": 175,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Armament Forging",
+        "number": 1,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Scroll Scouting",
+        "number": 65,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ominous Portent",
+        "number": 99,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Karthspire Warbreaker",
+        "number": 142,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "On Ancient Stones",
+        "number": 176,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Attentive Jarl",
+        "number": 3,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Telekinetic Mastery",
+        "number": 66,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Thalmor Excruciator",
+        "number": 105,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shearpoint Champion",
+        "number": 148,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pilgrim's Bane",
+        "number": 177,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Awake at Last",
+        "number": 4,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Arcaneum Lorekeeper",
+        "number": 40,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tombs Unplundered",
+        "number": 107,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Way of the Voice",
+        "number": 151,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sommerset Shielding",
+        "number": 182,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Beckoning Wispmother",
+        "number": 5,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Conjure Frost Atronach",
+        "number": 44,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "We Know",
+        "number": 114,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Akatosh's Expectations",
+        "number": 115,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Alteration Savant",
+        "number": 153,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blood-Tested Brawler",
+        "number": 6,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dwemer Mobilization",
+        "number": 46,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Alduin, the Catalyst",
+        "number": 76,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ambush Dov",
+        "number": 116,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Beast in the Dark",
+        "number": 155,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Brurlof, Reluctant Hero",
+        "number": 8,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fact or Fiction",
+        "number": 47,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Assassin's Contract",
+        "number": 78,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Children of Akatosh",
+        "number": 121,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Blood-Claimed Territory",
+        "number": 156,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dispatched Vigilant",
+        "number": 11,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Felldir the Old",
+        "number": 48,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Audience with the Jarl",
+        "number": 79,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dragon Hunting",
+        "number": 128,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bosmer Pathcutter",
+        "number": 157,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fleeing Fugitive",
+        "number": 18,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Labyrinthian Spelldrinker",
+        "number": 54,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Briarheart Rite",
+        "number": 80,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dragontongue Necklace",
+        "number": 129,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Claimed by Power",
+        "number": 158,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gormlaith Golden-Hilt",
+        "number": 19,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Meet in Sovngarde",
+        "number": 56,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dubious Delicacy",
+        "number": 90,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Goldclaw Dov",
+        "number": 137,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Embassy Attendant",
+        "number": 161,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Stormcloak Clan Captain",
+        "number": 31,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Misusing the Atronach Forge",
+        "number": 57,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Epic Downfall",
+        "number": 93,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hakon One-Eye",
+        "number": 138,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Scapegoat Opportunist",
+        "number": 180,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "War Rallier",
+        "number": 36,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nocturnal's Chosen",
+        "number": 59,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Guild Mark",
+        "number": 95,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Immolating Shout",
+        "number": 140,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tavern Hireling",
+        "number": 184,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Armored Steed",
+        "number": 2,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Quickswap",
+        "number": 64,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tales of a Liar Cat",
+        "number": 103,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mirmulnir, Hidden Hunter",
+        "number": 144,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Traitor's Handoff",
+        "number": 186,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Caravan Peddler",
+        "number": 9,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Twin Souls",
+        "number": 68,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Twin Moons Wanderer",
+        "number": 108,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "An Old Orc Waits Alone",
+        "number": 145,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wandering Thalmor Patrol",
+        "number": 188,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dragonborn's Resolve",
+        "number": 14,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Alchemist's Table",
+        "number": 38,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Volkihar Bloodlord",
+        "number": 111,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Anarchist's Spear",
+        "number": 117,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "White-Gold Enforcer",
+        "number": 189,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dragonrend",
+        "number": 15,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ancient Word Wall",
+        "number": 39,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Volkihar Claims the Night",
+        "number": 112,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Atronach Summoner",
+        "number": 118,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ancestor Moths",
+        "number": 154,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Eager Hireling",
+        "number": 16,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bound Specter",
+        "number": 42,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Brotherhood Shadowscale",
+        "number": 81,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bitterwinter Brute",
+        "number": 120,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Conjure Familiar",
+        "number": 159,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Explorer's Hook",
+        "number": 17,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hjaalmarch Outrider",
+        "number": 49,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Caravan Opportunist",
+        "number": 82,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Compell",
+        "number": 122,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Darkwater Denizen",
+        "number": 160,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Haafingar Dock Glider",
+        "number": 20,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Homesteading",
+        "number": 50,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Corner",
+        "number": 84,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Conjure Flame Atronach",
+        "number": 123,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Falkreath Prized Game",
+        "number": 163,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Helgen Rescue Party",
+        "number": 21,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ice Form",
+        "number": 51,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Destiny Unbound",
+        "number": 86,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dawnguard Suncaster",
+        "number": 124,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Forsworn Windspeaker",
+        "number": 165,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Imperial Apprehension",
+        "number": 22,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Immobilizing Spike",
+        "number": 52,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Disturbed Dead",
+        "number": 87,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dawnguard War Troll",
+        "number": 125,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Game Hunters",
+        "number": 166,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Prize-winning Goat",
+        "number": 24,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Imperial Outfitter",
+        "number": 53,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Doom Driven",
+        "number": 88,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dovah's Roar",
+        "number": 127,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Greenwarden Spriggan",
+        "number": 168,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Reliable Courier",
+        "number": 25,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Magicka Scholar",
+        "number": 55,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dredged Dovah",
+        "number": 89,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "East Empire Nightwatch",
+        "number": 131,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hail of Arrows",
+        "number": 169,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Riften Rabble",
+        "number": 27,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nimble Automaton",
+        "number": 58,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Eastmarch Hunter",
+        "number": 92,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Flame Whip",
+        "number": 134,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Heavy Blow",
+        "number": 170,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shor's Fox",
+        "number": 28,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Novice Mage",
+        "number": 60,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Falmer Gloomlurker",
+        "number": 94,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Forsworn Conjurer",
+        "number": 135,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Heavy Crossbow",
+        "number": 171,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sleeping Tree Giant",
+        "number": 29,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nuisance Mudcrabs",
+        "number": 61,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hulking Draugr",
+        "number": 97,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Glass-Clad Battlemage",
+        "number": 136,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Into the Barrow",
+        "number": 172,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sovngarde Honored",
+        "number": 30,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Thieves Guild Trainee",
+        "number": 67,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Knock Down",
+        "number": 98,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hoard Keeper",
+        "number": 139,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Jerall Mountain Hunter",
+        "number": 173,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sweet Roll",
+        "number": 32,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Unrelenting Force",
+        "number": 69,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ragged Flagon Rogue",
+        "number": 100,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Imperial Battlemage",
+        "number": 141,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Market Merchant",
+        "number": 174,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tavern Lute",
+        "number": 33,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Voice of Frost",
+        "number": 70,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sanguinare Neonate",
+        "number": 101,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Malacath Devotee",
+        "number": 143,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Rift Troll",
+        "number": 178,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Voice of Serenity",
+        "number": 34,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Warding Robes",
+        "number": 71,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sundered Soul",
+        "number": 102,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Pickpocket",
+        "number": 146,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sanctuary Spider",
+        "number": 179,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Way of Jurgen Windcaller",
+        "number": 37,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Whirlwind Sprint",
+        "number": 73,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Talos Confiscator",
+        "number": 104,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Raining Dragonfire",
+        "number": 147,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spellwoven Ring",
+        "number": 183,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wandering Mercenary",
+        "number": 242,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Windchill Wraiths",
+        "number": 74,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Through the Dark",
+        "number": 106,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shock",
+        "number": 149,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Timber Range Grizzly",
+        "number": 185,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Winterhold Student",
+        "number": 75,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Undercity Skeever",
+        "number": 109,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Voice of Fire",
+        "number": 150,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Voice of Wind",
+        "number": 187,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Student of Magicka",
+        "number": 243,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ustengrav Shambler",
+        "number": 110,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Thieves Guild Initiate",
+        "number": 245,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Windhelm Bard",
+        "number": 190,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wandering Draugr",
+        "number": 113,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Agent of the Inner Circle",
+        "number": 246,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Brotherhood Listener",
+        "number": 244,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Exploit the Time-Wound",
+        "number": 205,
+        "shape": "transform double faced split",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "World-Eaters Dissent",
+        "number": 215,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Alduin, World-Eater",
+        "number": 193,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Madanach, King in Rags",
+        "number": 211,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Talsgar the Wanderer",
+        "number": 213,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Victory or Sovngarde",
+        "number": 214,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Delphine, Scheming Innkeep",
+        "number": 200,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Alduin, First-Born of Akatosh",
+        "number": 192,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Arngeir, Word Seeker",
+        "number": 195,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lydia, Stalwart Houscarl",
+        "number": 210,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Adrianne Avenicci",
+        "number": 191,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Karliah, Guild Vengeant",
+        "number": 251,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Brynjolf, Rat Catcher",
+        "number": 196,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Aela the Huntress",
+        "number": 247,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "J'zargo, Brash Mage",
+        "number": 250,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Coerced Steward",
+        "number": 197,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Elderboon Dovah",
+        "number": 201,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Elenwen, First Emissary",
+        "number": 202,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Elenwen's Soiree",
+        "number": 203,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Conjure Storm Atronach",
+        "number": 199,
+        "shape": "saga",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Commander Maro",
+        "number": 198,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Naaslaarum and Voslaarum",
+        "number": 212,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Faendal, Yearning Hunter",
+        "number": 206,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "General Tullius, War Breaker",
+        "number": 208,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Farengar Secret-Fire",
+        "number": 207,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cicero, Blood Artist",
+        "number": 248,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Isran, Dawnguard Zealot",
+        "number": 249,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Arngeir, Voice of Heroes",
+        "number": 194,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Emperor Titus Mede II",
+        "number": 204,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Last Dragonborn",
+        "number": 209,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Dreamstrider's Robes",
+        "number": 218,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Thalmor Dossier",
+        "number": 224,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Alduin's Wall",
+        "number": 216,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Legion Steel",
+        "number": 219,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shrine to the Betrayed",
+        "number": 221,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Stendarr's Hammer",
+        "number": 222,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dawnbringer's Beacon",
+        "number": 217,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mark of Namira",
+        "number": 220,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Stolen Trinket",
+        "number": 223,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Trusty Armaments",
+        "number": 225,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Sky-Touched Ruins",
+        "number": 237,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Roguish Undercity",
+        "number": 236,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Warmonger's Hideout",
+        "number": 241,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Ancient Fortress",
+        "number": 226,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Temple of Destiny",
+        "number": 240,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Port Town",
+        "number": 235,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Choked Estuary",
+        "number": 227,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Foreboding Ruins",
+        "number": 229,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Game Trail",
+        "number": 231,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fortified Village",
+        "number": 230,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Glorious Hall",
+        "number": 232,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Snowswept Peak",
+        "number": 238,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Grim Tomb",
+        "number": 233,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sprawling Valley",
+        "number": 239,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lakeside Thicket",
+        "number": 234,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Evolving Wilds",
+        "number": 228,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Adventurer",
+        "number": 1,
+        "shape": "token",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Saga",
+        "number": 2,
+        "shape": "token",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Elder Scroll",
+        "number": 6,
+        "shape": "token",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Munitions",
+        "number": 7,
+        "shape": "token",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Treasure",
+        "number": 8,
+        "shape": "token",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spirit",
+        "number": 3,
+        "shape": "token",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Elemental",
+        "number": 4,
+        "shape": "token",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Elf Soldier",
+        "number": 5,
+        "shape": "token",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->masterpiece",
+    {
+        "card_name": "Breeding Pool",
+        "number": 24,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Godless Shrine",
+        "number": 25,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hallowed Fountain",
+        "number": 26,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Overgrown Tomb",
+        "number": 27,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sacred Foundry",
+        "number": 28,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Steam Vents",
+        "number": 29,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Stomping Ground",
+        "number": 30,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Temple Garden",
+        "number": 31,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Watery Grave",
+        "number": 32,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dragonborn's Companion",
+        "number": 1,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Last Dragonborn's Awakening",
+        "number": 2,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Abhorrent Oculus",
+        "number": 3,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Draconic Divulging",
+        "number": 4,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Remiel, Dwemer Scholar",
+        "number": 5,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "The Wheel Turns",
+        "number": 6,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Crux of Fate",
+        "number": 7,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fatal Push",
+        "number": 8,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Leave the Tomb",
+        "number": 9,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bandit Marauder",
+        "number": 10,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Xelzaz, Telvanni Lawman",
+        "number": 11,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Generous Visitor",
+        "number": 12,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Noble Hierarch",
+        "number": 14,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Prosperous Innkeeper",
+        "number": 15,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Brurlof, Ascendant Dovahkiin",
+        "number": 18,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Dragonslayer Delphine",
+        "number": 19,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Jarl Balgruuf the Greater",
+        "number": 20,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Val Serano, Relic Hunter",
+        "number": 22,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Alduin, Prophetic End",
+        "number": 16,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Arngeir, Voice Within",
+        "number": 17,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Talsgar, Itinerant Minstrel",
+        "number": 21,
+        "shape": "normal",
+        "set": "FTB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

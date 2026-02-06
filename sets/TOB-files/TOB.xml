@@ -1,0 +1,4299 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>TOB</name>
+			<longname>Threat of Oblivion</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-02-06</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Aedra&apos;s Whimsy</name>
+			<text>Exile up to X target nonland permanents. Then, for each of those permanents you owned, return them to the battlefield under your control. Return the rest to the battlefield under their owner&apos;s control at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/1_Aedra&apos;s Whimsy.png" num="1">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XW</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>M&apos;aiq, Quick Witted</name>
+			<text>When M&apos;aiq, Quick Witted enters the battlefield or a player mills one or more cards, exile up to one card from a graveyard. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast it.
+Whenever you cast a spell from exile, copy it, except it isn&apos;t legendary. You may choose new targets for it.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/TOB-files/img/173_M&apos;aiq, Quick Witted.png" num="173">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inigo the Brave</name>
+			<text>Whenever you cast a multicolored spell, draw a card for each of its colors, then discard two cards.
+As long as another multicolored creature you control has first strike, Inigo has first strike. The same is true for double strike, deathtouch, haste, indestructible, lifelink, menace, reach, trample, ward, and vigilance.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/TOB-files/img/170_Inigo the Brave.png" num="170">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oblivion Invader</name>
+			<text>Flying
+Whenever Oblivion Invader enters the battlefield or attacks, target creature an opponent controls gets -2/-2 until end of turn.
+Breach {7}{B}{B} (You may cast this card from your graveyard with a finality counter by sacrificing a permanent and paying the breach cost reduced by that permanent&apos;s mana value.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/59_Oblivion Invader.png" num="59">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Confounding Confluence</name>
+			<text>Converge — Counter target spell if its mana value is less than or equal to the number of colors of mana spent to cast this spell.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/24_Confounding Confluence.png" num="24">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XU</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Telendride the Sanctifier</name>
+			<text>Whenever you cast a multicolored spell, put a +1/+1 counter on Telendride the Sanctifier for each color of mana spent to cast that spell. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/195_Telendride the Sanctifier.png" num="195">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Invasion Engine</name>
+			<text>Menace
+Breach {5}{B}{R} (You may cast this card from your graveyard with a finality counter by sacrificing a permanent and paying the breach cost reduced by that permanent&apos;s mana value.)
+When you breach Invasion Engine, it deals 5 damage to target creature or planeswalker an opponent controls.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/171_Invasion Engine.png" num="171">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gatekeeper of the Isles</name>
+			<text>Menace
+Breach {6}{U}{B} (You may cast this card from your graveyard with a finality counter by sacrificing a permanent and paying the breach cost reduced by that permanent&apos;s mana value.)
+When Gatekeeper of the Isles is put into exile from the battlefield, you may put it into its owner&apos;s library third from the top.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/155_Gatekeeper of the Isles.png" num="155">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>4UB</manacost>
+				<cmc>6</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sheogorath, Unending Insanity</name>
+			<text>Whenever you attack, if you have one or fewer cards in hand, Sheogorath deals 2 damage to target creature you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/190_Sheogorath, Unending Insanity.png" num="190">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gibbering Scamp</name>
+			<text>Gibbering Scamp can&apos;t block
+Discard a card: Put a +1/+1 counter on Gibbering Scamp. Activate only once each turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/52_Gibbering Scamp.png" num="52">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Imp</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whithering Scamp</name>
+			<text>Whithering Scamp can&apos;t block.
+Sacrifice a creature: Put a +1/+1 counter on Whithering Scamp.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/69_Whithering Scamp.png" num="69">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Imp</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Derelict Gate</name>
+			<text>{T}: Add one mana of any color.
+Whenever you sacrifice Derelict Gate to pay a breach cost, each opponent loses 1 life and you scry 1.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/220_Derelict Gate.png" num="220">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Denaelin the Soul Thief</name>
+			<text>When Denaelin enters the battlefield, create a Gem token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)
+Whenever you sacrifice a permanent, draw a card. Each opponent loses 1 life. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/140_Denaelin the Soul Thief.png" num="140">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gem TOB</name>
+			<text>{1}, {T}, Sacrifice this artifact: Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/TOB-files/img/7t_Gem.png" num="7">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Gem</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Guard Captain Morilius</name>
+			<text>Trample
+Whenever you create a token, creatures you control get +1/+1 and gain haste until end of turn. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/161_Guard Captain Morilius.png" num="161">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jauffre IV, Mentor</name>
+			<text>Whenever you activate a level up ability of a creature you control, copy that ability.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/172_Jauffre IV, Mentor.png" num="172">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soldier TOB</name>
+			<text></text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/TOB-files/img/1t_Soldier.png" num="1">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Dwemer-Made Gate</name>
+			<text>When Dwemer-Made Gate enters the battlefield, create two Gem tokens. (They&apos;re artifacts with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)
+{2}, {T}, Sacrifice a Gem: Search your library for a card, put that card into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/221_Dwemer-Made Gate.png" num="221">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Student of Souls</name>
+			<text>When Student of Souls enters the battlefield, create a Gem token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)
+{T}, Tap an untapped artifact you control: Add {C}. Spend this mana only to cast noncreature spells.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/40_Student of Souls.png" num="40">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Muraz Cult-Hunter</name>
+			<text>Haste
+Whenever one or more creatures you control deal combat damage to an opponent, create a 1/1 white Soldier creature token.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/178_Muraz Cult-Hunter.png" num="178">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Orc Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blades Upstart</name>
+			<text></text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/6_Blades Upstart.png" num="6">TOB</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Do&apos;ri, Mythic Dawn Initiate</name>
+			<text>Whenever a creature an opponent controls dies or is exiled from the battlefield, put your choice of a +1/+1, deathtouch, or lifelink counter on Do&apos;ri.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/142_Do&apos;ri, Mythic Dawn Initiate.png" num="142">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Martena, Bolt Channeler</name>
+			<text>Whenever you cast a noncreature spell, create a Gem token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)
+Sacrifice three Gems: Martena deals 3 damage to any target. Activate this ability only once each turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/175_Martena, Bolt Channeler.png" num="175">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Garzog, Oblivion Speaker</name>
+			<text>Whenever a creature you control dies, if it had counters on it, put those counters on Garzog.
+Whenever another creature enters the battlefield under your control, you may move a counter from Garzog onto that creature.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/154_Garzog, Oblivion Speaker.png" num="154">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Goblin Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ah-Kajee, Hist Keeper</name>
+			<text>Whenever Ah-Kajee attacks, you may mill three cards.
+Each other creature you control enters the battlefield with a +1/+1 counter on it for each creature card put into your graveyard from your library this turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/118_Ah-Kajee, Hist Keeper.png" num="118">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Viashino Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Start of a Journey</name>
+			<text>When Start of a Journey enters the battlefield, create a Clue, Food, Gem, and Treasure token. (Gems are artifacts with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)
+{2}, Sacrifice a token: Put a +1/+1 counter on each creature you control. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/113_Start of a Journey.png" num="113">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Obliterating Lightning</name>
+			<text>Obliterating Lightning deals 15 damage to any target.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/82_Obliterating Lightning.png" num="82">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>10RRR</manacost>
+				<cmc>13</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Farmer&apos;s Amulet</name>
+			<text>When Farmer&apos;s Amulet enters the battlefield, draw a card.
+{1}, {T}, Sacrifice Farmer&apos;s Amulet: Untap target land.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/222_Farmer&apos;s Amulet.png" num="222">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Traveler&apos;s Amulet</name>
+			<text>{1}, Sacrifice Traveler&apos;s Amulet: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/226_Traveler&apos;s Amulet.png" num="226">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Amulet of Kings</name>
+			<text>{T}: Add {C}.
+{3}, {T}: Add {W}{U}{B}{R}{G}. This mana can&apos;t be spent to cast monocolored spells.
+When Amulet of Kings is put into your graveyard from anywhere, you may shuffle your graveyard into your library.
+---
+(Back): Avatar of Akatosh</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/217_Amulet of Kings_front.png" num="217a">TOB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Avatar of Akatosh</related>
+		</card>
+		<card>
+			<name>Avatar of Akatosh</name>
+			<text>Flying, trample
+When Avatar of Akatosh enters the battlefield, for each other creature you control, put a +1/+1 counter on that creature for each of its colors.
+Each other creature you control enters the battlefield with an additional +1/+1 counter for each of its colors.
+---
+(Front): Amulet of Kings</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/217_Amulet of Kings_back.png" num="217b">TOB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>WUBRG</manacost>
+				<cmc>5</cmc>
+				<colors>WUBRG</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Amulet of Kings</related>
+		</card>
+		<card>
+			<name>Rime Daedra</name>
+			<text>When Rime Daedra enters the battlefield, return up to one other target nonland permanent to its owner&apos;s hand.
+Breach {6}{U}{U} (You may cast this card from your graveyard with a finality counter by sacrificing a permanent and paying the breach cost reduced by that permanent&apos;s mana value.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/38_Rime Daedra.png" num="38">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Combative Invader</name>
+			<text>Deathtouch
+When Combative Invader enters the battlefield, each opponent sacrifices a creature.
+Breach {5}{B}{B} (You may cast this card from your graveyard with a finality counter by sacrificing a permanent and paying the breach cost reduced by that permanent&apos;s mana value.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/48_Combative Invader.png" num="48">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nulling Atronach</name>
+			<text>Flash
+When Nulling Atronach enters the battlefield, return up to one target spell to its owner&apos;s hand. If you breached it, counter that spell instead.
+Breach {4}{U}{U} (You may cast this card from your graveyard with a finality counter by sacrificing a permanent and paying the breach cost reduced by that permanent&apos;s mana value.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/37_Nulling Atronach.png" num="37">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grim Decadence</name>
+			<text>You draw two cards and you lose 2 life. Put two +1/+1 counters on up to one target creature you control.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/53_Grim Decadence.png" num="53">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Murder</name>
+			<text>Destroy target creature.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/57_Murder.png" num="57">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ego Bleed</name>
+			<text>Each player discards a card. Then if you have one or fewer cards in hand, each opponent loses 2 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/50_Ego Bleed.png" num="50">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Poison the Party</name>
+			<text>Creatures your opponents control get -1/-1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/61_Poison the Party.png" num="61">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bone Reader</name>
+			<text>Whenever a creature an opponent controls leaves the battlefield, put a +1/+1 counter on Bone Reader. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/47_Bone Reader.png" num="47">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stronghold Brute</name>
+			<text>When Stronghold Brute dies, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/65_Stronghold Brute.png" num="65">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Persistent Imp</name>
+			<text>Whenever a counter is placed on Persistent Imp, each opponent loses 1 life.
+Breach {6}{B} (You may cast this card from your graveyard with a finality counter by sacrificing a permanent and paying the breach cost reduced by that permanent&apos;s mana value.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/60_Persistent Imp.png" num="60">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Imp</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Namira Soultaker</name>
+			<text>When Namira Soultaker enters the battlefield, you may sacrifice a creature. If you do, create a Gem token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/58_Namira Soultaker.png" num="58">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Impish Invader</name>
+			<text>Whenever Impish Invader attacks, if you have one or fewer cards in hand, it gets +1/+1 and gains menace until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/55_Impish Invader.png" num="55">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Imp</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imperial Necromancer</name>
+			<text>When Imperial Necromancer enters the battlefield, if you sacrificed a creature this turn, create a tapped 2/2 black Zombie creature token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/54_Imperial Necromancer.png" num="54">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vulturous Twilight</name>
+			<text>Flying
+Whenever a creature you control dies, each opponent loses 1 life.
+Whenever a creature an opponent controls dies, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/67_Vulturous Twilight.png" num="67">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Summoner&apos;s Bubble</name>
+			<text>Counter target creature spell unless its controller pays {2}. Create a Gem token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/41_Summoner&apos;s Bubble.png" num="41">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Martin&apos;s Musings</name>
+			<text>Draw two cards, discard two cards, then untap up to two lands.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/33_Martin&apos;s Musings.png" num="33">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Daedric Cultist</name>
+			<text>{2}{U}, Exile Daedric Cultist from your graveyard: Create two Gem tokens. (They&apos;re artifacts with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/25_Daedric Cultist.png" num="25">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Magical Anomaly</name>
+			<text>Flying
+When Magical Anomaly enters the battlefield, mill three cards.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/32_Magical Anomaly.png" num="32">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Venerated Teacher</name>
+			<text>When Venerated Teacher enters the battlefield, put two level counters on each creature you control with level up.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/46_Venerated Teacher.png" num="46">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Guild Agent</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/31_Guild Agent.png" num="31">TOB</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Snapping Slaughterfish</name>
+			<text>Menace
+When Snapping Slaughterfish enters the battlefield, draw a card.
+Breach {5}{U}{U} (You may cast this card from your graveyard with a finality counter by sacrificing a permanent and paying the breach cost reduced by that permanent&apos;s mana value.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/39_Snapping Slaughterfish.png" num="39">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Merchant of Wares</name>
+			<text>{T}: Draw a card, then sacrifice a permanent.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/34_Merchant of Wares.png" num="34">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grip of Cowardice</name>
+			<text>When you cast this spell, if you sacrificed a permanent this turn, you may copy it. You may choose new targets for the copy.
+Return target artifact, creature, or enchantment to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/30_Grip of Cowardice.png" num="30">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rummaging Vagabond</name>
+			<text>Whenever you create a token, Rummaging Vagabond gets +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/85_Rummaging Vagabond.png" num="85">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Iliac Bay Cannoneer</name>
+			<text>Whenever you cast a noncreature spell, Iliac Bay Cannoneer deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/78_Iliac Bay Cannoneer.png" num="78">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ornery Farmer</name>
+			<text>Menace
+Whenever you cast a noncreature spell, Ornery Farmer gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/83_Ornery Farmer.png" num="83">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scorcher of Kvatch</name>
+			<text>Whenever Scorcher of Kvatch attacks, if you have one or fewer cards in hand, Scorcher of Kvatch gets +1/+1 and gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/86_Scorcher of Kvatch.png" num="86">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cultist of Dagon</name>
+			<text>Whenever Cultist of Dagon attacks, create a Gem token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/72_Cultist of Dagon.png" num="72">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Exuberant Guard</name>
+			<text>Exuberant Guard has first strike as long as it&apos;s attacking.
+Whenever Exuberant Guard deals combat damage to a player, put a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/76_Exuberant Guard.png" num="76">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thieving Impulse</name>
+			<text>Scry 2, then exile the top card of your library. Until end of turn, you may play that card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/90_Thieving Impulse.png" num="90">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Swordpoint</name>
+			<text>Swordpoint deals 1 damage to up to three targets. Creatures dealt damage this way can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/89_Swordpoint.png" num="89">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Through the Cairn</name>
+			<text>You may sacrifice two Gems. If you do, add {R}{R}{R}. Otherwise, create a Gem token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/91_Through the Cairn.png" num="91">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dangerous Wager</name>
+			<text>Discard your hand, then draw two cards.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/73_Dangerous Wager.png" num="73">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Aedra Chaplain</name>
+			<text>Whenever you cast a multicolored spell, put a +1/+1 counter on Aedra Chaplain. This ability triggers only once each turn.
+{T}: Add one mana of any color.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/94_Aedra Chaplain.png" num="94">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kwama Wayfinder</name>
+			<text>When Kwama Wayfinder enters the battlefield, mill three cards. You may put a land card from among the milled cards into your hand.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/107_Kwama Wayfinder.png" num="107">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mystic Defense</name>
+			<text>Put a +1/+1 counter on each of up to two target creatures you control. Prevent all damage that would be dealt to those creatures this turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/109_Mystic Defense.png" num="109">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Elvish Hoarder</name>
+			<text>At the beginning of combat on your turn, if you created a token this turn, put a +1/+1 counter on Elvish Hoarder.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/101_Elvish Hoarder.png" num="101">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodied Alit</name>
+			<text>Whenever a creature card is put into your graveyard from your library, Bloodied Alit gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/95_Bloodied Alit.png" num="95">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Domesticated Guar</name>
+			<text>Converge — When Domesticated Guar enters the battlefield, you gain life equal to the number of colors of mana spent to cast it.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/99_Domesticated Guar.png" num="99">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bounty Hunt</name>
+			<text>Target creature gets +2/+2 until end of turn. Create two Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/96_Bounty Hunt.png" num="96">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Headstrong</name>
+			<text>Enchant creature
+When Headstrong enters the battlefield, create a Gem token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)
+Enchanted creature gets +2/+2 and has trample.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/105_Headstrong.png" num="105">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rampant Growth</name>
+			<text>Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/110_Rampant Growth.png" num="110">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Magicka Instructor</name>
+			<text>When Magicka Instructor enters the battlefield, put a +1/+1 counter on each other creature you control.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/108_Magicka Instructor.png" num="108">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Warrior&apos;s Call</name>
+			<text>Creatures you control get +2/+2 until end of turn. Multicolored creatures you control gain vigilance until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/23_Warrior&apos;s Call.png" num="23">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Diplomacy</name>
+			<text>Enchant creature
+When Diplomacy enters the battlefield, draw a card.
+Enchanted creature gets +1/+1 and has &quot;{1}, {T}: Tap target creature.&quot;</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/8_Diplomacy.png" num="8">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Altmer Cleric</name>
+			<text>Whenever one or more creatures you control deal combat damage to a player, you gain 2 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/2_Altmer Cleric.png" num="2">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nord Kinsman</name>
+			<text>Vigilance
+Whenever Nord Kinsman deals combat damage to a player, untap up to one target artifact or creature you control.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/14_Nord Kinsman.png" num="14">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Venerated Captain</name>
+			<text>Creatures you control with level up get +1/+1.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/22_Venerated Captain.png" num="22">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Longing Geist</name>
+			<text>Flying
+When Longing Geist enters the battlefield, tap target creature an opponent controls.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/11_Longing Geist.png" num="11">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imperial Gatebreakers</name>
+			<text>Lifelink
+Whenever Imperial Gatebreakers deals combat damage to a player, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/9_Imperial Gatebreakers.png" num="9">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Supply Runner</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/20_Supply Runner.png" num="20">TOB</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Anointed Rider</name>
+			<text>Converge — Anointed Rider enters the battlefield with a +1/+1 counter for each color of mana spent to cast it.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/3_Anointed Rider.png" num="3">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Avenging Light</name>
+			<text>Exile target creature that&apos;s blocking or blocked by a multicolored creature you control.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/5_Avenging Light.png" num="5">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Muck Dreugh</name>
+			<text>When Muck Dreugh enters the battlefield, mill two cards, then you may put a creature card in your graveyard on top of your library.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/177_Muck Dreugh.png" num="177">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Homarid Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreugh Titan</name>
+			<text>Ward {2}
+Crabs, other Homarids, and Trilobites you control get +1/+1 and have ward {2}.
+When Dreugh Titan enters the battlefield, create two 0/3 blue Crab creature tokens.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/26_Dreugh Titan.png" num="26">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Homarid</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Witching Hour</name>
+			<text>When Witching Hour enters the battlefield, put a +1/+1 counter on target creature you control.
+If one or more counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/205_Witching Hour.png" num="205">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Battlewise Elf</name>
+			<text>Vigilance
+When Battlewise Elf enters the battlefield, if you control a creature with a counter on it, each opponent loses 3 life and you gain 3 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/124_Battlewise Elf.png" num="124">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glittering Saint</name>
+			<text>Vigilance (Attacking doesn&apos;t cause this creature to tap.)
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/157_Glittering Saint.png" num="157">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flamesight</name>
+			<text>Flamesight deals 3 damage to any target. Scry 1.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/151_Flamesight.png" num="151">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ungrateful Occupier</name>
+			<text>Whenever one or more creatures you control deal combat damage to a player, scry 1.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/199_Ungrateful Occupier.png" num="199">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gem Collector</name>
+			<text>When Gem Collector enters the battlefield, create two Gem tokens. (They&apos;re artifacts with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/156_Gem Collector.png" num="156">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rookie Soldier</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/187_Rookie Soldier.png" num="187">TOB</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier Coward</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hist Saptender</name>
+			<text>Converge — When Hist Saptender enters the battlefield, return target permanent card from your graveyard to the battlefield if it has mana value less than or equal to the number of colors of mana spent to cast Hist Saptender.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/168_Hist Saptender.png" num="168">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Viashino Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hired Hand</name>
+			<text>When Hired Hand enters the battlefield, choose one—
+• Put a +1/+1 counter on it.
+• Create a Treasure token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/167_Hired Hand.png" num="167">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Viashino Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Firewhip Seducer</name>
+			<text>Deathtouch
+When Firewhip Seducer enters the battlefield, you may discard a card. If you do, exile the top two cards of your library. Until end of turn, you may play one of those cards.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/150_Firewhip Seducer.png" num="150">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dunmeri Seer</name>
+			<text>Whenever you cast a multicolored spell, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/100_Dunmeri Seer.png" num="100">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nord Snowrunner</name>
+			<text>{T}: Other multicolored creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/180_Nord Snowrunner.png" num="180">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Precinct Captain</name>
+			<text>First strike
+Whenever Precinct Captain deals combat damage to a player, create a 1/1 white Soldier creature token.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/15_Precinct Captain.png" num="15">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hideaway Trail</name>
+			<text>Scry 3, then reveal the top card of your library. If that card is a land card, you may put it into your hand and create a tapped Treasure token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/165_Hideaway Trail.png" num="165">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Banish to Oblivion</name>
+			<text>Choose one—
+• Exile target creature.
+• Exile target enchantment.
+• Exile target player&apos;s graveyard.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/123_Banish to Oblivion.png" num="123">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Night&apos;s Haul</name>
+			<text>You draw two cards, you gain 2 life, then put a level counters on up to one target creature you control with level up.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/179_Night&apos;s Haul.png" num="179">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Skim History</name>
+			<text>Return target instant or sorcery card from your graveyard to your hand.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/191_Skim History.png" num="191">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Firestarter</name>
+			<text>Haste
+Whenever Firestarter attacks, if you have one or fewer cards in hand, Firestarter deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/149_Firestarter.png" num="149">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Imp</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deathless Brew</name>
+			<text>Until end of turn, target creature you control gains &quot;When this creature dies, return it to the battlefield under its owner&apos;s control with a +1/+1 counter.&quot;</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/139_Deathless Brew.png" num="139">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Harvester of Beyonds</name>
+			<text>Whenever you mill one or more land cards, put a +1/+1 counter on Harvester of Beyonds.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/162_Harvester of Beyonds.png" num="162">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Drag Below</name>
+			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Scry 2, then draw two cards.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/144_Drag Below.png" num="144">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Adamant Presence</name>
+			<text>Enchant creature
+Enchanted creature gets +3/+0 and has menace and lifelink.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/116_Adamant Presence.png" num="116">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pit Wolves</name>
+			<text>At the beginning of combat on your turn, if you control three or more tokens, target creature you control gets +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/184_Pit Wolves.png" num="184">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Daedric Whispers</name>
+			<text>Look at the top X cards of your library, where X is four plus the number of artifacts and/or creatures you control that died this turn. Put two of them into your hand and the rest on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/138_Daedric Whispers.png" num="138">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Clangorous Halls</name>
+			<text>Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn.
+At the beginning of your end step, if you cast two or more noncreature spells this turn, create a 2/2 colorless Construct artifact creature token.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/133_Clangorous Halls.png" num="133">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mudcrab Den</name>
+			<text>At the beginning of your upkeep, create a Gem token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)
+Whenever you mill one or more noncreature cards, create a 0/3 blue Crab creature token.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/35_Mudcrab Den.png" num="35">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Must Have Been the Wind</name>
+			<text>Whenever a creature you control become blocked, that creature gets +1/+1 until end of turn.
+Whenever two or more creatures you control deal combat damage to an opponent, draw a card.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/13_Must Have Been the Wind.png" num="13">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Imperial Rescuer</name>
+			<text>Whenever Imperial Rescuer deals combat damage to a player, return target creature with mana value 2 or less from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/10_Imperial Rescuer.png" num="10">TOB</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arbiter of Taxation</name>
+			<text>When Arbiter of Taxation enters the battlefield, create a tapped Treasure token for each opponent that controls more lands than you.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/4_Arbiter of Taxation.png" num="4">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Noble Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Embrace of the Hist</name>
+			<text>As log as you have one or fewer cards in hand, creatures you control get +1/+0 and have menace.
+{1}, Discard a card: Choose one—
+• Target creature you control gains haste until end of turn.
+• Create a Gem token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/75_Embrace of the Hist.png" num="75">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vengeful Flametongue</name>
+			<text>Flying, haste
+Breach {7}{R} (You may cast this card from your graveyard with a finality counter by sacrificing a permanent and paying the breach cost reduced by that permanent&apos;s mana value.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/92_Vengeful Flametongue.png" num="92">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prismatic Flames</name>
+			<text>Converge — Prismatic Flames deals X damage to each creature you don&apos;t control, where X is the number of colors of mana spent to cast this spell.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/84_Prismatic Flames.png" num="84">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stashed Supplies</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1.
+Whenever enchanted creature deals combat damage to an opponent, create a Treasure token.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/88_Stashed Supplies.png" num="88">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reinforced Chaurus</name>
+			<text>Whenever Reinforced Chaurus enters the battlefield or dies, you may put a deathtouch counter on up to one target creature you control.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/111_Reinforced Chaurus.png" num="111">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Camp Invader</name>
+			<text>When Camp Invader enters the battlefield, you may put up to one target card from your graveyard on top of your library. If you don&apos;t, create a Gem token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/97_Camp Invader.png" num="97">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dovah Killer</name>
+			<text>Reach
+Whenever a player casts a Dragon spell or a spell with flying, that player loses 5 life unless they sacrifice a creature and discard a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/143_Dovah Killer.png" num="143">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Terrorizing Matriarch</name>
+			<text>Flying
+Terrorizing Matriarch can&apos;t block unless you have one or fewer cards in hand.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/197_Terrorizing Matriarch.png" num="197">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clasping Claws</name>
+			<text>Create Treasure token and a 0/3 blue Crab creature token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/134_Clasping Claws.png" num="134">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Greatwood Elder</name>
+			<text>This spell costs {1} less to cast for each card type among cards in your graveyard.
+Trample</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/160_Greatwood Elder.png" num="160">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>6GU</manacost>
+				<cmc>8</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forsworn Fury</name>
+			<text>Double target creature&apos;s power until end of turn.
+Draw a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/153_Forsworn Fury.png" num="153">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bloodlust Initiate</name>
+			<text>The first spell you cast that targets an opponent or a permanent an opponent controls each turn costs {1} less to cast.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/127_Bloodlust Initiate.png" num="127">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Cat Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overwhelming Voice</name>
+			<text>Counter target spell. If you control more creatures than that spell&apos;s mana value, you gain 2 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/183_Overwhelming Voice.png" num="183">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Territorial Echatere</name>
+			<text>Vigilance
+{1}, {T}: Add two mana in any combination of colors.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/196_Territorial Echatere.png" num="196">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fervent Legate</name>
+			<text>Haste
+When Fervent Legate enters the battlefield, creatures your opponents control can&apos;t block tokens this turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/148_Fervent Legate.png" num="148">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Choking Blood</name>
+			<text>Target opponent discards a card. Choking Blood deals 2 damage to that player.
+As long as you have one or fewer cards in hand, Choking Blood has flashback {B}{R}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/132_Choking Blood.png" num="132">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vampire of Dire Hospitality</name>
+			<text>Sacrifice another artifact or creature: Exile Vampire of Dire Hospitality, then return it to the battlefield under its owner&apos;s control with a +1/+1 counter.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/201_Vampire of Dire Hospitality.png" num="201">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Howler Pup</name>
+			<text>{3}{G}{U}: Mill four cards, then return Howler Pup from your graveyard to the battlefield and create a 2/2 green Wolf creature token. Activate only during your turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/169_Howler Pup.png" num="169">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Snub</name>
+			<text>Put target creature into its owner&apos;s library just beneath the top X cards of that library. Snub deals X damage to that player.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/193_Snub.png" num="193">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XUUR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Goblin Sous-Chef</name>
+			<text>Tap three untapped tokens you control: Add three mana in any combination of {R} or {G}.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/159_Goblin Sous-Chef.png" num="159">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Restless Souls</name>
+			<text>Whenever a nontoken creature dies, create a 1/1 white Spirit creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/186_Restless Souls.png" num="186">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Adept Training</name>
+			<text>Activated abilities of permanents you control and permanent cards in your hand cost up to {1} less to activate. This effect can&apos;t reduce the mana in that cost to less than one mana.
+Cycling {2}</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/117_Adept Training.png" num="117">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Coward Hunter</name>
+			<text>{1}{R}{W}, {T}: Target creature can&apos;t attack or block this turn. Coward Hunter deals 2 damage to that creature&apos;s controller.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/137_Coward Hunter.png" num="137">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Umaril the Ascendant</name>
+			<text></text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/198_Umaril the Ascendant.png" num="198">TOB</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aedra&apos;s Vengeance</name>
+			<text>Create a Gem token, then Aedra&apos;s Vengeance deals X damage to each creature, where X is 2 plus the number of Gems you control. If a creature dealt damage this way would die this turn, exile it instead. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/70_Aedra&apos;s Vengeance.png" num="70">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reunification of Tamriel</name>
+			<text>Creatures you control get +1/+1.
+Whenever you attack with two or more creatures, draw a card.
+Whenever a creature you control deals combat damage to a player, create a 1/1 white Soldier creature token.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/18_Reunification of Tamriel.png" num="18">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Resign to Peace</name>
+			<text>For each player, exile up to one target creature that player controls. Each player that had a permanent exiled this way draws a card.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/17_Resign to Peace.png" num="17">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unfettered Alchemist</name>
+			<text>When Unfettered Alchemist enters the battlefield, create a Gem token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)
+Whenever you sacrifice a permanent, Unfettered Alchemist gets +2/+1 until end of turn and can&apos;t be blocked this turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/45_Unfettered Alchemist.png" num="45">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Desolation of Kvatch</name>
+			<text>Converge — Target opponent loses life equal to the number of colors of mana spent to cast this spell and you gain that much life. If {W}{U}{B}{R}{G} was spent this way, that player sacrifices a creature and you draw a card.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/49_Desolation of Kvatch.png" num="49">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XB</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Golden Agent</name>
+			<text>Whenever Golden Agent blocks or becomes blocked by a creature, it deals 1 damage to that creature.
+Whenever a creature dealt damage by Golden Agent this turn dies, put a +1/+1 counter on Golden Agent.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/77_Golden Agent.png" num="77">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Force Through</name>
+			<text>Put a trample counter on target creature you control. It deals damage equal to its power to up to one other target creature.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/104_Force Through.png" num="104">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ratway Rogue</name>
+			<text>Whenever Ratway Rogue enters the battlefield or attacks, exile up to one target card from a graveyard.
+When Ratway Rogue dies, each opponent loses life equal to twice the number of different mana costs among cards exiled with it and you gain that much life. (For example, {2}{B} and {1}{B}{B} are different mana costs.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/62_Ratway Rogue.png" num="62">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brurlof, Dragonborn Exile</name>
+			<text>Vigilance, ward {3}
+Brurlof&apos;s power is equal to the number of colors of mana you&apos;ve spent to cast spells this turn.
+Whenever Brurlof attacks, destroy up to one target nonland permanent with mana value less than or equal to his power.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/TOB-files/img/129_Brurlof, Dragonborn Exile.png" num="129">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>1WBG</manacost>
+				<cmc>4</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>*/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mankar, Daedra Devout</name>
+			<text>At the beginning of your end step, exile up to one target creature or enchantment you control, then return it to the battlefield under your control.
+Whenever a nonland permanent enters the battlefield under your control and it wasn&apos;t cast, each opponent sacrifices a permanent that shares a card type with it.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/TOB-files/img/174_Mankar, Daedra Devout.png" num="174">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Rogue Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2WUB</manacost>
+				<cmc>5</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oblivion Deadlands</name>
+			<text>({T}: Add {B}.)
+Oblivion Deadlands enters the battlefield tapped unless you control an Island or Mountain.
+{1}, {T}: Add {U}{R}.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/232_Oblivion Deadlands.png" num="232">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BUR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bruma Guildhall</name>
+			<text>({T}: Add {R}.)
+Bruma Guildhall enters the battlefield tapped unless you control a Swamp or Forest.
+{1}, {T}: Add {B}{G}.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/228_Bruma Guildhall.png" num="228">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hist Grove</name>
+			<text>({T}: Add {G}.)
+Hist Grove enters the battlefield tapped unless you control a Mountain or Plains.
+{1}, {T}: Add {R}{W}.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/230_Hist Grove.png" num="230">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>GWR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Skyshard Sanctuary</name>
+			<text>({T}: Add {W}.)
+Skyshard Sanctuary enters the battlefield tapped unless you control a Forest or Island.
+{1}, {T}: Add {G}{U}.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/233_Skyshard Sanctuary.png" num="233">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Numidium&apos;s Tomb</name>
+			<text>({T}: Add {U}.)
+Numidium&apos;s Tomb enters the battlefield tapped unless you control a Plains or Swamp.
+{1}, {T}: Add {W}{B}.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/231_Numidium&apos;s Tomb.png" num="231">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UWB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Live Beyond</name>
+			<text>Flash
+When Live Beyond enters the battlefield, create a Gem token for each nontoken creature that died under your control this turn. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)
+Gem tokens you control are 1/1 white Spirit creatures with flying in addition to their other types.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/56_Live Beyond.png" num="56">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mundus Infiltrator</name>
+			<text>You may have Mundus Infiltrator enter the battlefield as a copy of any creature on the battlefield.
+Breach {4}{U}{U} (You may cast this card from your graveyard with a finality counter by sacrificing a permanent and paying the breach cost reduced by that permanent&apos;s mana value.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/36_Mundus Infiltrator.png" num="36">TOB</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gentleman Thief</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/29_Gentleman Thief.png" num="29">TOB</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Noble&apos;s Shadow</name>
+			<text>Double strike
+Whenever Noble&apos;s Shadow deals combat damage to a player, exile the top card of that player&apos;s library. Until end of turn, you may play that card and you may spend mana as though it were mana of any type to play it.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/81_Noble&apos;s Shadow.png" num="81">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Springwater Nereid</name>
+			<text>Each multicolored permanent spell you cast costs {1} less to cast for each of its colors.
+Lands you control have &quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/112_Springwater Nereid.png" num="112">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Traversal</name>
+			<text>You may look at the top card of your library any time.
+You may play lands from the top of your library.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/114_Traversal.png" num="114">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Worldwalker</name>
+			<text>Each multicolored creature you control enters the battlefield with an additional +1/+1 counter.
+Whenever Worldwalker attacks, put a +1/+1 counter on it for each multicolored creature you control.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/115_Worldwalker.png" num="115">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dremora Dreadlord</name>
+			<text>Menace, lifelink
+When Dremora Dreadlord enters the battlefield, discard your hand, then search your library for any number of nonland cards with total mana value X or less, reveal them, put those cards into your hand, then shuffle. X is the total mana value of cards discarded this way.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/146_Dremora Dreadlord.png" num="146">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4BR</manacost>
+				<cmc>6</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dream Stride</name>
+			<text>Choose up to X creatures. Those creatures get +X/+0 until end of turn and can&apos;t be blocked this turn, where X is the number of noncreature spells you&apos;ve cast this turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/145_Dream Stride.png" num="145">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Depraved Alchemist</name>
+			<text>When Depraved Alchemist enters the battlefield, choose target creature you control. For each counter on that creature, you may give that creature another counter of that kind. Otherwise, put a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/141_Depraved Alchemist.png" num="141">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wartime Treasurer</name>
+			<text>When Wartime Treasurer enters the battlefield, create two tapped Treasure tokens.
+At the beginning of combat on your turn, put X +1/+1 counters on target creature you control, where X is the number of tokens you created this turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/203_Wartime Treasurer.png" num="203">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Augustine St. Vinsev</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/TOB-files/img/121_Augustine St. Vinsev.png" num="121">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Augustine</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Convergant Company</name>
+			<text>Converge — Look at the top X cards of your library. You may put up to two creature cards with mana value less than or equal to the number of colors of mana spent to cast Convergant Company from among them onto the battlefield. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/136_Convergant Company.png" num="136">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XGW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Oblivion Triad</name>
+			<text>This spell costs {Y} less to cast, where Y is the total amount of noncombat damage dealt to your opponents this turn.
+The Oblivion Triad enters the battlefield with half X +1/+1 counters, rounded down.
+Your opponents can&apos;t activate abilities of permanents with mana value less than or equal to the number of +1/+1 counters on The Oblivion Triad unless they&apos;re mana abilities.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/TOB-files/img/182_The Oblivion Triad.png" num="182">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>XRWB</manacost>
+				<cmc>3</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skittering Aberration</name>
+			<text>Skittering Aberration can&apos;t attack or block unless it had a counter placed on it this turn.
+Whenever a player sacrifices a permanent, put a +1/+1 counter on Skittering Aberration. This ability triggers only once per player each turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/192_Skittering Aberration.png" num="192">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bull Netch</name>
+			<text>Converge — As Bull Netch enters the battlefield, choose an attribute for each color of mana spent to cast it. Bull Netch enters the battlefield with a counter for each of the chosen attributes.
+• +1/+1 • Flying • Deathtouch • Lifelink • Haste
+Each other creature you control enters the battlefield with the same number of each kind of counter on Bull Netch.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/130_Bull Netch.png" num="130">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Jellyfish Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hateful Dovah</name>
+			<text>Flying
+Each player&apos;s maximum hand size is one.
+Whenever a player discards a card, Hateful Dovah deals 1 damage to that player.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/163_Hateful Dovah.png" num="163">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>1BBRR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Azura&apos;s Future</name>
+			<text>Exile the top card of your library, up to one target card in your graveyard, and a card from your hand. Until end of turn you may play lands and cast noncreature spells exiled this way without paying their mana cost. At the beginning of the end step, if any of those cards remain exiled, put them on the bottom of your library in any order.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/122_Azura&apos;s Future.png" num="122">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UR</manacost>
+				<cmc>5</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Emberheart Dryad</name>
+			<text>Whenever Emberheart Dryad becomes the target of a spell an opponent controls, it fights up to one target creature you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/102_Emberheart Dryad.png" num="102">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Faralda, College Master</name>
+			<text>Whenever you cast a noncreature spell, Faralda fights up to one target creature.
+Whenever a creature dealt damage by Faralda this turn dies, put a +1/+1 counter on Faralda.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/147_Faralda, College Master.png" num="147">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seasoned Adventurer</name>
+			<text>Flash
+Whenever an opponent casts their first spell during your turn, draw a card.
+Whenever you cast your first spell during each opponent&apos;s turn, put a +1/+1 counter on Seasoned Adventurer.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/189_Seasoned Adventurer.png" num="189">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rend from Nirn</name>
+			<text>Exile target artifact, creature, or spell. (That spell won&apos;t resolve.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/185_Rend from Nirn.png" num="185">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WWU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unintended Discovery</name>
+			<text>At the beginning of your end step, create Location, a colorless land token that&apos;s every basic land type.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/200_Unintended Discovery.png" num="200">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Heroic Convergence</name>
+			<text>Other multicolored permanents you control have hexproof.
+{W}{U}{B}{R}{G}: For each color, choose a creature you control of that color, then put a +1/+1 counter on those creatures.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/164_Heroic Convergence.png" num="164">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ri&apos;saad the Roving Caravan</name>
+			<text>Each spell that would cost no mana to cast costs three mana to cast.
+Each noncreature spell with no targets that would cost less than three mana to cast costs three mana to cast.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/TOB-files/img/19_Ri&apos;saad the Roving Caravan.png" num="19">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Nomad</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Torment Halls</name>
+			<text>Spells you cast cost {1} less to cast for each card you&apos;ve discarded this turn.
+Nonland cards in your hand have cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/TOB-files/img/43_Torment Halls.png" num="43">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Form of the Lich</name>
+			<text>If you would sacrifice an untapped permanent to cast a spell or activate an ability, instead tap that permanent and put a stun counter on it.
+Whenever a player attacks you, that player loses 2 life.
+At the beginning of each end step, your life total becomes 5.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/TOB-files/img/51_Form of the Lich.png" num="51">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lucky, Notorious Slayer</name>
+			<text>---
+(Back): Luke, Nefarious Rogue</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/TOB-files/img/80_Lucky, Notorious Slayer_front.png" num="80a">TOB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Lucky</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Luke, Nefarious Rogue</related>
+		</card>
+		<card>
+			<name>Luke, Nefarious Rogue</name>
+			<text>---
+(Front): Lucky, Notorious Slayer</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/TOB-files/img/80_Lucky, Notorious Slayer_back.png" num="80b">TOB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Planeswalker — Luke</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Lucky, Notorious Slayer</related>
+		</card>
+		<card>
+			<name>Chuan-Ji, Matron Spirit</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/TOB-files/img/98_Chuan-Ji, Matron Spirit.png" num="98">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Chuan-Ji</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crab TOB</name>
+			<text></text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/TOB-files/img/2t_Crab.png" num="2">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Crab</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Spell Tome</name>
+			<text>{T}: Exile target card from a graveyard.
+{3}, {T}: Search your library for a card that shares a name with a card exiled by Spell Tome, exile it, then shuffle.
+{7}, {T}, Exile Spell Tome: Put all cards you own exiled by Spell Tome into your hand.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/225_Spell Tome.png" num="225">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crushing Warhammer</name>
+			<text>Equipped creature has first strike and haste.
+Equipped creature has &quot;{X}{X}, {T}, Unattach Crushing Warhammer: Destroy target nonland permanent with mana value X. Activate only if you didn&apos;t equip Crushing Warhammer this turn.&quot;
+Equip {2}</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/218_Crushing Warhammer.png" num="218">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fitted Armor</name>
+			<text>As Fitted Armor enters the battlefield, choose a creature type.
+Equipped creature gets +1/+1.
+Equip {2}
+Equip creature of the chosen type {0}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/223_Fitted Armor.png" num="223">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sanctuary Door</name>
+			<text>When Sanctuary Door enters the battlefield, create a Gem token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)
+{T}, Sacrifice an artifact or creature: Add {C}.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/224_Sanctuary Door.png" num="224">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Defense Animunculi</name>
+			<text>When Defense Animunculi dies, create a 2/2 colorless Construct artifact creature token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/219_Defense Animunculi.png" num="219">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wolf TOB</name>
+			<text></text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/TOB-files/img/5t_Wolf.png" num="5">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Goblin Electromancer</name>
+			<text>Instant and sorcery spells you cast cost {1} less to cast.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/158_Goblin Electromancer.png" num="158">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beyond Knowledge</name>
+			<text>Choose one—
+• Return target creature or planeswalker card from your graveyard to the battlefield.
+• Search your library for a card, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/125_Beyond Knowledge.png" num="125">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WBB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Oblivion</name>
+			<text>Destroy all creatures. You may have your life total become equal to the number of creature cards in graveyards.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/181_Oblivion.png" num="181">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WWBB</manacost>
+				<cmc>6</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blood on the Ice</name>
+			<text></text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/126_Blood on the Ice.png" num="126">TOB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Armed for War</name>
+			<text>Whenever one or more creatures you control deal combat damage to a player, choose one that hasn&apos;t been chosen—
+• Put a +1/+1 counter on each creature you control.
+• Exile the top two cards of your library. You may play them for as long as you control Armed for War.
+• Untap a creature you control. After this phase, there&apos;s an additional combat phase. At the beginning of the end step, you lose the game.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/120_Armed for War.png" num="120">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Caravan Recruiter</name>
+			<text>Whenever you attack, create a token that&apos;s a copy of up to one other target attacking creature, except the token isn&apos;t legendary. Exile that token at end of combat unless it dealt damage to an opponent this turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/131_Caravan Recruiter.png" num="131">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Conquer the Deadlands</name>
+			<text>Until end of turn, target creature you control gets +1/+1 and gains double strike, vigilance, menace, and haste. Whenever that creature deals combat damage to a player this turn, you may put a creature card from your hand onto the battlefield.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/135_Conquer the Deadlands.png" num="135">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Foraging Netch</name>
+			<text>Flying, trample
+Whenever Foraging Netch deals combat damage to a player, shuffle that many cards from your graveyard into your library, then draw a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/152_Foraging Netch.png" num="152">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Jellyfish Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wave Sower</name>
+			<text>Flying
+At the beginning of each opponent&apos;s upkeep, choose one—
+• Until end of turn, you may cast spells as though they had flash.
+• Untap all lands you control.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/204_Wave Sower.png" num="204">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hierophantic Prose</name>
+			<text>Exile the top three cards of your library. You may put a land card from among them onto the battlefield tapped. An opponent chooses one of them, then put all cards not chosen this way into your hand.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/166_Hierophantic Prose.png" num="166">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sithis Throatslitter</name>
+			<text>Deathtouch
+{1}, Remove a counter from a permanent you control: Sithis Throatslitter gets +1/+1 until end of turn. Create a Gem token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/214_Sithis Throatslitter.png" num="214">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Viashino Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>B/GB/GB/G</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oathsworn Cultist</name>
+			<text>Haste
+Whenever Oathsworn Cultist attacks, if you have one or fewer cards in hand, target creature defending player controls blocks it this turn if able.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/213_Oathsworn Cultist.png" num="213">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>B/RB/RB/R</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Craven Witch</name>
+			<text>Menace
+Whenever you sacrifice a permanent, you may switch Craven Witch&apos;s power and toughness until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/208_Craven Witch.png" num="208">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Harpy Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U/BU/BU/B</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dunmeri Cutpurse</name>
+			<text>Vigilance
+Whenever you mill one or more cards, you may put a permanent card from among the milled cards on top of your library.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/210_Dunmeri Cutpurse.png" num="210">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>G/UG/UG/U</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heartfire Atronach</name>
+			<text>Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/212_Heartfire Atronach.png" num="212">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U/RU/RU/R</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Argonian Shieldmate</name>
+			<text>Trample
+Whenever you create a token, target creature you control gets +X/+0 until end of turn, where X is Argonian Shieldmate&apos;s power.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/206_Argonian Shieldmate.png" num="206">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Viashino Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>R/GR/GR/G</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bishop of the Pantheon</name>
+			<text>Lifelink
+Whenever a permanent an opponent controls leaves the battlefield, you gain life equal to that permanent&apos;s mana value.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/207_Bishop of the Pantheon.png" num="207">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W/BW/BW/B</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sparring Dummy</name>
+			<text>Defender, ward {4} 
+{T}: Put a level up counter on each creature you control with level up.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/215_Sparring Dummy.png" num="215">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>W/UW/UW/U</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cyrodilic Diplomat</name>
+			<text>Indestructible
+Whenever you cast a multicolored spell, you may have Cyrodilic Diplomat&apos;s base power and toughness each become equal to the number of colors of mana spent to cast that spell.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/209_Cyrodilic Diplomat.png" num="209">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>G/WG/WG/W</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gate Guard</name>
+			<text>Double strike
+Whenever Gate Guard deals combat damage to a player, put a +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/211_Gate Guard.png" num="211">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>R/WR/WR/W</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sonjor, Waking Cosmos</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/TOB-files/img/194_Sonjor, Waking Cosmos.png" num="194">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Sonjor</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vilgrund, Raider Scourge</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/TOB-files/img/202_Vilgrund, Raider Scourge.png" num="202">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Vilgrund</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Seal the Gate</name>
+			<text>Destroy target artifact or land. Its controller sacrifices all planeswalkers they control. If they can&apos;t, that player discards a card and loses 3 life.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/TOB-files/img/188_Seal the Gate.png" num="188">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mora&apos;s Watcher</name>
+			<text>Flash
+Flying
+Whenever an opponent draws a card outside their draw step for the first time each turn, you get an additional beginning phase after this phase. (The beginning phase includes the untap, upkeep, and draw steps.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/176_Mora&apos;s Watcher.png" num="176">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Akatosh&apos;s Great Intervention</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/TOB-files/img/119_Akatosh&apos;s Great Intervention.png" num="119">TOB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4RG</manacost>
+				<cmc>6</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Courage</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1.
+Whenever enchanted creature becomes blocked, other creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/7_Courage.png" num="7">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Total Disarray</name>
+			<text>Counter target spell. Each player mills three cards.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/44_Total Disarray.png" num="44">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Speakers of Night</name>
+			<text>Lifelink
+{T}, Discard a card: Create a Gem token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/64_Speakers of Night.png" num="64">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Duneripper</name>
+			<text>Discard a card: Duneripper gains first strike until end of turn. Activate only once each turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/74_Duneripper.png" num="74">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Above Tamriel</name>
+			<text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle. Create a Gem token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/93_Above Tamriel.png" num="93">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Meridia&apos;s Sanctifier</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/12_Meridia&apos;s Sanctifier.png" num="12">TOB</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Elf Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Foe Thrower</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/28_Foe Thrower.png" num="28">TOB</set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wayward Draugr</name>
+			<text>Sacrifice a creature: Wayward Draugr gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/68_Wayward Draugr.png" num="68">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scorching Dynamo</name>
+			<text>Prowess
+Breach {5}{R} (You may cast this card from your graveyard with a finality counter by sacrificing a permanent and paying the breach cost reduced by that permanent&apos;s mana value.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/87_Scorching Dynamo.png" num="87">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Khenarthi Druid</name>
+			<text>{T}: Add {G}.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/106_Khenarthi Druid.png" num="106">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Valiant Nord</name>
+			<text>When Valiant Nord enters the battlefield, for each opponent, exile up to one target creature that player controls until Valiant Nord leaves the battlefield. Each of those players creates a Treasure token.
+Whenever an opponent sacrifices a permanent, put a +1/+1 counter on Valiant Nord.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/21_Valiant Nord.png" num="21">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elsweyr Marshlurker</name>
+			<text>Flash
+Ward {2}
+{7}{U}: Draw a card, then put a +1/+1 counter on Elsweyr Marshlurker. This ability costs {1} less to activate for each card type among cards in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/27_Elsweyr Marshlurker.png" num="27">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crocodile</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soul Trap</name>
+			<text>Destroy target creature. Each player creates a Gem token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/63_Soul Trap.png" num="63">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Catalyzing Lightning</name>
+			<text>Catalyzing Lightning deals 3 damage to any target. Add {R}{R}.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/71_Catalyzing Lightning.png" num="71">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bruma Outfitter</name>
+			<text>When Bruma Outfitter enters the battlefield, create a token that&apos;s a copy of target artifact you control. If you can&apos;t, create a Treasure token.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/128_Bruma Outfitter.png" num="128">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Redguard Rescuer</name>
+			<text>Ward {3}
+Whenever an opponent pays Redguard Rescuer&apos;s ward cost, draw a card.
+At the beginning of each opponent&apos;s upkeep, put a creature card from that player&apos;s graveyard onto the battlefield under your control, then exile it.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/16_Redguard Rescuer.png" num="16">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Swindle</name>
+			<text>Choose two—
+• Copy target spell. You may choose new targets for the copy.
+• Gain control of target spell. You may choose new targets for it.
+• Create a token that&apos;s a copy of target artifact or creature.
+• Gain control of target artifact or creature.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/42_Swindle.png" num="42">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vastarie, Twilight Lich</name>
+			<text>Deathtouch
+If a permanent card would be put into an opponent&apos;s graveyard from anywhere other than the battlefield, instead put that card face-down onto the battlefield under your control. (It becomes a 2/2 creature.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/66_Vastarie, Twilight Lich.png" num="66">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kwama Tender</name>
+			<text>Whenever a nontoken creature you control dies, create a 0/1 red Egg creature token with defender.
+Each creature card in your graveyard that wasn&apos;t put there this turn has breach. The breach cost is equal to its mana cost plus &quot;Sacrifice an Egg.&quot; (You may cast it from your graveyard with a finality counter by sacrificing a permanent and paying the breach cost reduced by that permanent&apos;s mana value.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/79_Kwama Tender.png" num="79">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Nomad</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Everblossom Spriggan</name>
+			<text>Deathtouch
+If one or more counters would be put on a creature you control, instead create a 1/1 green Saproling creature token and put those counters on both creatures.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/103_Everblossom Spriggan.png" num="103">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zombie TOB</name>
+			<text></text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/TOB-files/img/3t_Zombie.png" num="3">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Fabled Passage</name>
+			<text>{T}, Sacrifice Fabled Passage: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. Then if you control four or more lands, untap that land.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/TOB-files/img/229_Fabled Passage.png" num="229">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ancestor Glade</name>
+			<text>{T}: Add {C}.
+{T}: Draw a card if there are exactly seven cards in your graveyard.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/TOB-files/img/227_Ancestor Glade.png" num="227">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Alchemist&apos;s Kit</name>
+			<text>Whenever you cast a noncreature spell, put a +1/+1 counter on equipped creature.
+Equip {2}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/TOB-files/img/216_Alchemist&apos;s Kit.png" num="216">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Saproling TOB</name>
+			<text></text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/TOB-files/img/4t_Saproling.png" num="4">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Saproling</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Location TOB</name>
+			<text></text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/TOB-files/img/10t_Location.png" num="10">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Land — Plains Island Swamp Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Plains TOB</name>
+			<text></text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/TOB-files/img/12t_Plains.png" num="12">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Island TOB</name>
+			<text></text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/TOB-files/img/9t_Island.png" num="9">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Swamp TOB</name>
+			<text></text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/TOB-files/img/13t_Swamp.png" num="13">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Mountain TOB</name>
+			<text></text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/TOB-files/img/11t_Mountain.png" num="11">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Forest TOB</name>
+			<text></text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/TOB-files/img/8t_Forest.png" num="8">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Construct TOB</name>
+			<text></text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/TOB-files/img/6t_Construct.png" num="6">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Sanctuary Door</name>
+			<text>When Sanctuary Door enters the battlefield, create a Gem token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)
+{T}, Sacrifice an artifact or creature: Add {C}.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/TOB-files/img/1_Sanctuary Door.png" num="1">TOB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

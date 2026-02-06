@@ -1,0 +1,5128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>FTB</name>
+			<longname>Fate of the Dragonborn</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-02-06</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Restoration Tutor</name>
+			<text>Skill tree — {X}, {T}: The next X damage that would be dealt to target creature you control this turn is dealt to this creature instead. Activate only if there are four or more card types among permanents you control and/or cards you own exiled this turn.
+Whenever this creature is dealt damage, put a +1/+1 counter on it and you gain 1 life.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/26_Restoration Tutor.png" num="26">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Awake at Last</name>
+			<text>Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped. Study the voice. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/4_Awake at Last.png" num="4">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Conjure Golden Saint Warrior</name>
+			<text></text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/10_Conjure Golden Saint Warrior.png" num="10">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fleeing Fugitive</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/18_Fleeing Fugitive.png" num="18">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gormlaith Golden-Hilt</name>
+			<text>Spells you cast from anywhere other than your hand cost {X} less to cast, where X is the number of enchantments you control.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/19_Gormlaith Golden-Hilt.png" num="19">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stormcloak Clan Captain</name>
+			<text>Whenever this creature attacks, target creature you control gets +1/+1 until end of turn for each lore counter among Sagas you control.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/31_Stormcloak Clan Captain.png" num="31">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dispatched Vigilant</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/11_Dispatched Vigilant.png" num="11">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Human</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blood-Tested Brawler</name>
+			<text>Vigilance
+Skill tree — Pay 2 life: This creature gets +1/+1 until end of turn. Activate only if there are four or more card types among permanents you control and/or cards you own exiled this turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/6_Blood-Tested Brawler.png" num="6">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Attentive Jarl</name>
+			<text>Whenever you lose life during your turn, put a +1/+1 counter on target creature you control.
+{5}: Inspect five cards. You may reveal a creature card with power 3 or less from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/3_Attentive Jarl.png" num="3">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>War Rallier</name>
+			<text>This creature has double strike as long as you lost life this turn.
+Whenever you gain life, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/36_War Rallier.png" num="36">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Armament Forging</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/1_Armament Forging.png" num="1">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Arcaneum Lorekeeper</name>
+			<text>As long as a noncreature, nonland card was put into your graveyard from your library this turn, this spell costs {1}{U} less to cast.
+Vigilance
+{T}: Surveil 1.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/40_Arcaneum Lorekeeper.png" num="40">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Meet in Sovngarde</name>
+			<text>When this enchantment enters, draw two cards, then discard a card.
+Whenever one or more cards are put into your graveyard from your hand or library, create a tapped 2/2 colorless Adventurer creature token for each permanent type among them. Do this only once each turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/56_Meet in Sovngarde.png" num="56">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Conjure Frost Atronach</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/44_Conjure Frost Atronach.png" num="44">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dwemer Mobilization</name>
+			<text>Enchant artifact you control
+Enchanted artifact is a Construct creature with base power and toughness 4/4 in addition to its other types.
+When this enchantment leaves the battlefield, surveil 1, then draw a card.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/46_Dwemer Mobilization.png" num="46">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Quickswap</name>
+			<text>You may put an Equipment card from your hand onto the battlefield. When you do, attach it to up to one target creature you control. Return that Equipment to its owner&apos;s hand at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/64_Quickswap.png" num="64">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fact or Fiction</name>
+			<text>Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/47_Fact or Fiction.png" num="47">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nocturnal&apos;s Chosen</name>
+			<text>Whenever an artifact you control enters, this creature can&apos;t be blocked this turn.
+Whenever this creature deals combat damage to a player, you may draw that many cards. When you do, discard two cards.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/59_Nocturnal&apos;s Chosen.png" num="59">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Felldir the Old</name>
+			<text>Vigilance
+When Felldir enters, study the voice, then tap target creature an opponent controls and put a stun counter on it for each enchantment you control, to a maximum of 3. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/48_Felldir the Old.png" num="48">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Voice of Frost</name>
+			<text>When this creature enters, choose one —
+• Tap up to two target creatures you don&apos;t control.
+• Mill two cards, then you may put a noncreature, nonland card from your graveyard on top of your library.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/70_Voice of Frost.png" num="70">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twin Souls</name>
+			<text>Create a token that&apos;s a copy of target creature or enchantment you control, except it&apos;s legendary. That token enters tapped unless its your turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/68_Twin Souls.png" num="68">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Misusing the Atronach Forge</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/57_Misusing the Atronach Forge.png" num="57">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Audience with the Jarl</name>
+			<text>Whenever a creature you control enters, you gain 1 life. If this is the first time this ability resolved this turn, surveil 1.
+{4}{B}, Exile a creature card from your graveyard: Create a tapped 2/2 colorless Adventurer creature token.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/79_Audience with the Jarl.png" num="79">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tales of a Liar Cat</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/103_Tales of a Liar Cat.png" num="103">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Volkihar Bloodlord</name>
+			<text>This spell costs {1} less to cast for each card type among cards in your graveyard.
+Flying
+When this creature enters, target opponent loses 3 life and you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/111_Volkihar Bloodlord.png" num="111">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dubious Delicacy</name>
+			<text>Flash
+When this artifact enters, up to one target creature gets -3/-3 until end of turn.
+{2}, {T}: Sacrifice this artifact: You gain 3 life.
+{2}, {T}, Sacrifice this artifact: Target opponent loses 3 life.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/90_Dubious Delicacy.png" num="90">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Desolation of Alduin</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Each non-Dragon creature gets -X/-X until end of turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/85_Desolation of Alduin.png" num="85">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Dragon</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XXB</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Guild Mark</name>
+			<text>Whenever you commit a crime, each opponent loses 1 life and you gain 1 life. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+Skill tree — At the beginning of your upkeep, if there are four or more card types among permanents you control and/or cards you own exiled this turn, target player mills three cards.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/95_Guild Mark.png" num="95">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Alduin, the Catalyst</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Flying
+When Alduin enters, you may sacrifice another creature and/or land. You draw a card and you lose 1 life for each permanent sacrificed this way.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/76_Alduin, the Catalyst.png" num="76">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Briarheart Rite</name>
+			<text>Return target creature card from your graveyard to the battlefield with a finality counter.
+Skill tree — Briarheart Rite has flashback {1}{B} as long as there are four or more card types among permanents you control and/or cards you own exiled this turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/80_Briarheart Rite.png" num="80">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Epic Downfall</name>
+			<text>Exile target creature with mana value 3 or greater.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/93_Epic Downfall.png" num="93">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Twin Moons Wanderer</name>
+			<text>This creature enters with a +1/+1 counter if you gained life this turn.
+You may cast this card from your graveyard as long as you lost life this turn. (Timing rules still apply.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/108_Twin Moons Wanderer.png" num="108">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Assassin&apos;s Contract</name>
+			<text>Choose one —
+• Each opponent sacrifices a creature.
+• Each opponent sacrifices a planeswalker.
+• Each opponent sacrifices an enchantment.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/78_Assassin&apos;s Contract.png" num="78">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mirmulnir, Hidden Hunter</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Flying, haste
+At the beginning of your end step, sacrifice Mirmulnir unless you&apos;ve spent four or more mana on spells or activated abilities this turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/144_Mirmulnir, Hidden Hunter.png" num="144">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Akatosh&apos;s Expectations</name>
+			<text>Target creature you control gets +3/+1 until end of turn. When that creature dies this turn, study the voice. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/115_Akatosh&apos;s Expectations.png" num="115">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>An Old Orc Waits Alone</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/145_An Old Orc Waits Alone.png" num="145">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Orc</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Conjure Flame Atronach</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/123_Conjure Flame Atronach.png" num="123">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goldclaw Dov</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Flying
+Whenever you cast a Dragon spell, create a Treasure token. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/137_Goldclaw Dov.png" num="137">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Children of Akatosh</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Creatures you control get +2/+0 until end of turn. Dragon creatures you control gain haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/121_Children of Akatosh.png" num="121">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Dragon</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Immolating Shout</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Choose one —
+• Immolating Shout deals 5 damage to target creature without flying.
+• Immolating Shout deals 2 damage to each creature.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/140_Immolating Shout.png" num="140">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Dragon</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hakon One-Eye</name>
+			<text>Prowess
+Whenever Hakon One-Eye deals combat damage to a player, exile the top card of your library. Until end of turn you may cast that card for its mana cost reduced by the damage dealt this way.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/138_Hakon One-Eye.png" num="138">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Creature — Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dueling Mages</name>
+			<text></text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/130_Dueling Mages.png" num="130">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ambush Dov</name>
+			<text>Flying
+When this creature enters, exile the top card of your library. Until the end of your next turn, you may play that card.
+Skill tree — This creature has haste as long as there are four or more card types among permanents you control and/or cards you own exiled this turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/116_Ambush Dov.png" num="116">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>White-Gold Enforcer</name>
+			<text>When this creature enters, destroy up to one target artifact or enchantment.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/189_White-Gold Enforcer.png" num="189">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Voice of Wind</name>
+			<text>When this creature enters, choose one —
+• Untap up to one target permanent.
+• Study the voice. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/187_Voice of Wind.png" num="187">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Claimed by Power</name>
+			<text>Enchant creature
+When this Aura enters, study the voice. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)
+Enchanted creature gets +1/+1 for each artifact and/or enchantment you control.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/158_Claimed by Power.png" num="158">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Beast in the Dark</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/155_Beast in the Dark.png" num="155">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alteration Savant</name>
+			<text>Trample
+Whenever you cast a spell with mana value 4 or greater, this creature has base power equal to that spell&apos;s mana value until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/153_Alteration Savant.png" num="153">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Embassy Attendant</name>
+			<text>Other Elves you control get +1/+1.
+{3}{G}: Put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/161_Embassy Attendant.png" num="161">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fleetfoot Wanderer</name>
+			<text>Vigilance
+This creature gets +1/+1 for each differently named land you control.
+{3}, {T}: Choose a color. Add X mana of the chosen color, where X is this creature&apos;s power.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/164_Fleetfoot Wanderer.png" num="164">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Timber Range Grizzly</name>
+			<text>Sacrifice another creature: This creature gains indestructible until end of turn. Tap it. Activate only once each turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/185_Timber Range Grizzly.png" num="185">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bosmer Pathcutter</name>
+			<text>Skill tree — At the beginning of combat on your turn, if there are four or more card types among permanents you control and/or cards you own exiled this turn, put a +1/+1 counter on target creature.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/157_Bosmer Pathcutter.png" num="157">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Scout Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tavern Hireling</name>
+			<text>When this creature enters, create a Treasure token.
+Whenever you sacrifice a permanent, put a +1/+1 counter on this creature. If this is the second time this ability has resolved this turn, scry 1.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/184_Tavern Hireling.png" num="184">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Traitor&apos;s Handoff</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Mill X cards, where X is the sacrificed creature&apos;s power, then return a permanent card that wasn&apos;t sacrificed to pay this spell&apos;s additional cost from your graveyard to your hand. Create a Treasure token.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/186_Traitor&apos;s Handoff.png" num="186">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wandering Quester</name>
+			<text>When this creature enters, search your library for a creature card or enchantment card with mana value 1 or less, reveal it, put it into your hand, then shuffle.
+Sacrifice this creature: Your opponent can&apos;t cast spells this turn. Activate only during your turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/35_Wandering Quester.png" num="35">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dragonborn&apos;s Companion</name>
+			<text>Whenever another creature you control enters, you gain 1 life. If this is the second time this ability has resolved this turn, study the voice. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/13_Dragonborn&apos;s Companion.png" num="13">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Last Dragonborn&apos;s Awakening</name>
+			<text>When Last Dragonborn&apos;s Awakening enters, exile target creature or planeswalker an opponent controls until Last Dragonborn&apos;s Awakening leaves the battlefield.
+Creatures you control get +1/+1.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/23_Last Dragonborn&apos;s Awakening.png" num="23">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Beckoning Wispmother</name>
+			<text>Survey {5}{W} (Exile a nonland permanent you control and cast this for its survey cost reduced by the exiled card&apos;s mana value. You may play that card from exile on a later turn.)
+Flying
+Whenever you cast a spell from anywhere other than your hand, you gain 1 life and create a 1/1 white Spirit creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/5_Beckoning Wispmother.png" num="5">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dovah&apos;s Aftermath</name>
+			<text>Survey {6}{W}{W} (Exile a nonland permanent you control and cast this for its survey cost reduced by the exiled card&apos;s mana value. You may play that card from exile on a later turn.)
+Destroy all creatures.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/12_Dovah&apos;s Aftermath.png" num="12">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Brurlof, Reluctant Hero</name>
+			<text>Vigilance
+Whenever Brurlof attacks, exile up to one card from a graveyard, then put a +1/+1 counter on him if a creature card is exiled this way. If that card was a noncreature card, you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/8_Brurlof, Reluctant Hero.png" num="8">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brurlof, Chosen of Akatosh</name>
+			<text>When Brurlof enters, study the voice. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)
+Creatures you control have indestructible as long as you control three or more Sagas.
+Whenever you sacrifice an enchantment, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/7_Brurlof, Chosen of Akatosh.png" num="7">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Morokei&apos;s Mask of Power</name>
+			<text>Each creature you control enters with an additional +1/+1 counter for each permanent you sacrificed this turn.
+{1}, {T}: Study the voice. Activate only as a sorcery. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/175_Morokei&apos;s Mask of Power.png" num="175">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Telekinetic Mastery</name>
+			<text>Whenever you cast a spell, return up to one target nonland permanent to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/66_Telekinetic Mastery.png" num="66">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scroll Scouting</name>
+			<text>Draw two cards, then discard a card.
+Skill tree — {5}{U}{U}, Exile Scroll Scouting from your graveyard: Create The Elder Scroll, a legendary artifact token with &quot;At the beginning of your first main phase, add {C}{C}{C},&quot; and &quot;{T}: Draw three cards.&quot; Activate only if there are four or more card types among permanents you control and/or cards you own exiled this turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/65_Scroll Scouting.png" num="65">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Wheel Turns</name>
+			<text>As an additional cost to cast this spell, you may behold a Dragon. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)
+Take an extra turn after this one. Put a stun counter on each land you control unless you beheld a Dragon. Exile The Wheel Turns.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/72_The Wheel Turns.png" num="72">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Azura&apos;s Many Visions</name>
+			<text></text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/41_Azura&apos;s Many Visions.png" num="41">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Discerning the Transmundane</name>
+			<text>When this enchantment enters, study the voice twice. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other. Then do it again.)
+You may cast spells with mana value less than or equal to the number of enchantments you control without paying their mana costs.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/45_Discerning the Transmundane.png" num="45">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Paarthurnax, Greybeard Mentor</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Flying, vigilance
+{T}: Mill three cards, then an instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost minus the number of Dragon cards milled this way.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/62_Paarthurnax, Greybeard Mentor.png" num="62">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Dragon Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>We Know</name>
+			<text>Create a 1/1 black Assassin creature token with deathtouch for each creature that died under another player&apos;s control this turn, then you draw a card and you lose 1 life for each creature that died under your control this turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/114_We Know.png" num="114">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Volkihar Claims the Night</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/112_Volkihar Claims the Night.png" num="112">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Thalmor Excruciator</name>
+			<text>When this creature enters, target opponent reveals their hand. You choose a nonland card from it. That player discards that card and you lose 2 life.
+Whenever an opponent discards a card, put a +1/+1 counter on this creature. If it was an enchantment or God card, you gain 2 life.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/105_Thalmor Excruciator.png" num="105">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tombs Unplundered</name>
+			<text>At the beginning of your upkeep, if you control no Adventurers, create a 2/2 colorless Adventurer creature token. You lose 2 life.
+Whenever you attack, exile up to one target card from a graveyard. If a creature card is exiled this way, you gain 2 life. Otherwise, draw a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/107_Tombs Unplundered.png" num="107">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Durnehviir, Soul-Claimed</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Flying
+Whenever another nontoken creature you control dies, you may exile it. If you do, create a token that&apos;s a copy of that creature, except it&apos;s a 2/2 Skeleton.
+{4}{B}, Sacrifice two creatures: Return Durnehviir from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/91_Durnehviir, Soul-Claimed.png" num="91">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hermaeus Mora</name>
+			<text>Flying
+Ward—Sacrifice a nonland permanent
+Sacrifice three permanents: Draw a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/96_Hermaeus Mora.png" num="96">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ominous Portent</name>
+			<text>As an additional cost to cast this spell, discard a card.
+Search your library for a card that shares a card type or mana value with the discarded card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/99_Ominous Portent.png" num="99">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dragon Hunting</name>
+			<text>Survey {4}{R}{R} (Exile a nonland permanent you control and cast this for its survey cost reduced by the exiled card&apos;s mana value. You may play that card from exile on a later turn.)
+When this enchantment enters and whenever you cast a spell from anywhere other than your hand, create a 2/2 colorless Adventurer creature token.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/128_Dragon Hunting.png" num="128">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fire Wyrm</name>
+			<text>Whenever you cast a Dragon spell, double this creature&apos;s power until end of turn.
+{2}{R}: This creature gains flying until end of turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/132_Fire Wyrm.png" num="132">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Way of the Voice</name>
+			<text>Whenever you cast an instant, sorcery, or Dragon spell, put a number of quest counters on this enchantment equal to that spell&apos;s mana value.
+As long as there are nine or more quest counters on this enchantment, it has flying and is a 4/4 Dragon creature in addition to its other types.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/151_Way of the Voice.png" num="151">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Dragon</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Karthspire Warbreaker</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Flying
+When this creature enters, if you cast it, untap target creature you control. It gains haste until end of turn. After this phase, there is an additional combat phase.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/142_Karthspire Warbreaker.png" num="142">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Delphine, Last of the Blades</name>
+			<text>Survey {5}{R} (Exile a nonland permanent you control and cast this for its survey cost reduced by the exiled card&apos;s mana value. You may play that card from exile on a later turn.)
+Double strike
+When Delphine enters, she deals X damage to up to one target creature, where X is 1 plus the mana value of a card exiled with her.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/126_Delphine, Last of the Blades.png" num="126">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Madanach, King in Rags</name>
+			<text>Survey {5}{R}{G} (Exile a nonland permanent you control and cast this for its survey cost reduced by the exiled card&apos;s mana value. You may play that card from exile on a later turn.)
+You may inspect a card any time.
+Spells on the top of your library have survey {5}{R}{G}.
+You may cast spells from the top of your library for their survey cost.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/211_Madanach, King in Rags.png" num="211">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Firebolt Adept</name>
+			<text>Whenever you cast an instant, sorcery, or Dragon spell, this creature deals 1 damage to each opponent. If this is the second time this ability has resolved this turn, study the voice. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/133_Firebolt Adept.png" num="133">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scapegoat Opportunist</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/180_Scapegoat Opportunist.png" num="180">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sommerset Shielding</name>
+			<text>You may return an enchantment you control to its owner&apos;s hand rather than pay this spell&apos;s mana cost.
+You gain hexproof until end of turn. Up to one target creature you control gains hexproof and indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/182_Sommerset Shielding.png" num="182">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gildergreen Tender</name>
+			<text>{T}: Add {C}.
+Exhaust — {T}: Add one mana of any color. (Activate each exhaust ability only once.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/167_Gildergreen Tender.png" num="167">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>On Ancient Stones</name>
+			<text>Search your library for a creature or enchantment card with mana value X or less, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/176_On Ancient Stones.png" num="176">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fabled Riftstrider</name>
+			<text>At the beginning of combat on your turn, put a +1/+1 counter or a lore counter on target creature or enchantment you control.
+Skill tree — {4}, {T}: Copy each triggered ability you control from an enchantment source. Activate only if there are four or more card types among permanents you control and/or cards you own exiled this turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/162_Fabled Riftstrider.png" num="162">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Unicorn</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bringer of Myth</name>
+			<text>You don&apos;t sacrifice Saga creatures for their final chapter ability triggering.
+Whenever one or more enchantment creatures or enchanted creatures you control deal combat damage to a player, draw that many cards.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/43_Bringer of Myth.png" num="43">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pilgrim&apos;s Bane</name>
+			<text>Survey {6}{G}{G} (Exile a nonland permanent you control and cast this for its survey cost reduced by the exiled card&apos;s mana value. You may play that card from exile on a later turn.)
+Trample
+At the beginning of your end step, if a permanent you control left the battlefield this turn, this creature fights up to one target creature.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/177_Pilgrim&apos;s Bane.png" num="177">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Troll</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Adrianne Avenicci</name>
+			<text>The first artifact spell you cast each turn costs {X} less to cast, where X is Adrianne Avenicci&apos;s power.
+{T}: Add {C}{C}. Spend this mana only to activate abilities of artifacts.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/191_Adrianne Avenicci.png" num="191">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Delphine, Scheming Innkeep</name>
+			<text>Lifelink
+When Delphine enters, surveil 2, draw two cards, then discard two cards unless there are four or more card types among cards in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/200_Delphine, Scheming Innkeep.png" num="200">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brynjolf, Rat Catcher</name>
+			<text>When Brynjolf enters, you may pay {2}. If you do, create a 2/2 colorless Adventurer creature token.
+Whenever you commit a crime, another target creature you control gets +1/+0 until end of turn and can&apos;t be blocked this turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/196_Brynjolf, Rat Catcher.png" num="196">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arngeir, Word Seeker</name>
+			<text>When Arngeir enters, you may search your library for a land card, reveal it, then shuffle and put that card on top.
+At the beginning of combat on your turn, if you&apos;ve spent four or more mana on spells or activated abilities this turn, put a +1/+1 counter on Arngeir. He gains trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/195_Arngeir, Word Seeker.png" num="195">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lydia, Stalwart Houscarl</name>
+			<text>Vigilance
+Whenever one or more lore counters are put on one or more sagas you control, Lydia gets +X/+X until end of turn, where X is the total number of counters. Do this only once each turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/210_Lydia, Stalwart Houscarl.png" num="210">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Commander Maro</name>
+			<text>Vigilance
+Whenever you gain life for the first time during your turn, put a +1/+1 counter on Commander Maro.
+Whenever you lose life for the first time during your turn, create a tapped 2/2 colorless Adventure creature token.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/198_Commander Maro.png" num="198">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Naaslaarum and Voslaarum</name>
+			<text>This spell costs {1} less to cast for each instant, sorcery, and Dragon card in your graveyard.
+Flying
+When Naaslaarum and Voslaarum enters, draw a card.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/212_Naaslaarum and Voslaarum.png" num="212">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>6UR</manacost>
+				<cmc>8</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Faendal, Yearning Hunter</name>
+			<text>Reach
+Whenever a creature you control dies, you gain 1 life. Then if this is the second time this ability has resolved this turn, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/206_Faendal, Yearning Hunter.png" num="206">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>General Tullius, War Breaker</name>
+			<text>Survey {4}{R}{W} (Exile a nonland permanent you control and cast this for its survey cost reduced by the exiled card&apos;s mana value. You may play that card from exile on a later turn.)
+Haste
+Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/208_General Tullius, War Breaker.png" num="208">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Farengar Secret-Fire</name>
+			<text>When Farengar Secret-Fire enters, create a 2/2 colorless Adventurer creature token if you control an artifact.
+Other creatures you control enter with an additional +1/+1 counter as long as you control an enchantment.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/207_Farengar Secret-Fire.png" num="207">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Victory or Sovngarde</name>
+			<text>Exile all artifacts and creatures with mana value 2 or less.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/214_Victory or Sovngarde.png" num="214">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>World-Eaters Dissent</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Discard your hand, then draw three cards. Then, return a creature with mana value less than or equal to the number of cards you&apos;ve drawn this turn from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/215_World-Eaters Dissent.png" num="215">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Dragon</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UB</manacost>
+				<cmc>6</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Alduin, World-Eater</name>
+			<text>Thu&apos;um
+Flying, trample
+Ward—Sacrifice two permanents
+Whenever you cast a Dragon spell, destroy up to one target creature or planeswalker with mana value less than or equal to that spell&apos;s mana value, then put a +1/+1 counter on Alduin.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/FTB-files/img/193_Alduin, World-Eater.png" num="193">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Dragon God</type>
+				<maintype>Creature</maintype>
+				<manacost>5BBRR</manacost>
+				<cmc>9</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shearpoint Champion</name>
+			<text>Flying
+At the beginning of your upkeep, exile an instant or sorcery card from your graveyard at random and copy it. If that card was a Dragon, this creature deals 2 damage to each opponent. Until end of turn, you may cast the copy.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/148_Shearpoint Champion.png" num="148">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Talsgar the Wanderer</name>
+			<text>If one or more counters would be put on a creature or enchantment you control, that many plus your choice of a +1/+1 counter or a lore counter are put on it instead.
+Whenever you sacrifice a Saga, mill cards equal to the number of lore counters on it. You may put a creature or land card from among them into your hand.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/213_Talsgar the Wanderer.png" num="213">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Coerced Steward</name>
+			<text>Lifelink
+Whenever Coerced Steward or another creature you control dies, put target permanent card with lesser mana value from a graveyard onto the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/197_Coerced Steward.png" num="197">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warlock Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>4WB</manacost>
+				<cmc>6</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elderboon Dovah</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Flying
+The first noncreature spell you cast each turn is a kindred Dragon. If it doesn&apos;t have thu&apos;um, it gains thu&apos;um.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/201_Elderboon Dovah.png" num="201">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4UR</manacost>
+				<cmc>6</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elenwen, First Emissary</name>
+			<text>Whenever you cast an Elf or kindred spell, create a 1/1 green Elf Soldier creature token.
+{X}{B}{G}, Sacrifice X Elves: Exile target creature with mana value X and put a +1/+1 counter on Elenwen.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/202_Elenwen, First Emissary.png" num="202">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elenwen&apos;s Soiree</name>
+			<text>This enchantment enters with X distraction counters.
+Whenever a creature or planeswalker an opponent controls is dealt excess noncombat damage by a source you control, create a 2/2 colorless Adventurer creature token. It enters with a +1/+1 counter for each distraction counter on this enchantment.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/203_Elenwen&apos;s Soiree.png" num="203">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>XRWW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Conjure Storm Atronach</name>
+			<text></text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/199_Conjure Storm Atronach.png" num="199">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sleeping Tree Giant</name>
+			<text>Survey {5}{W}{W} (Exile a nonland permanent you control and cast this for its survey cost reduced by the exiled card&apos;s mana value. You may play that card from exile on a later turn.)
+Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/29_Sleeping Tree Giant.png" num="29">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Caravan Peddler</name>
+			<text>Caravan Peddler enters with a +1/+1 counter if you control an artifact.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/9_Caravan Peddler.png" num="9">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Helgen Rescue Party</name>
+			<text>Skill tree — At the beginning of combat on your turn, if there are four or more card types among permanents you control and/or cards you own exiled this turn, this creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/21_Helgen Rescue Party.png" num="21">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sovngarde Honored</name>
+			<text>Flying
+This creature enters with two +1/+1 counters if you didn&apos;t cast it from your hand.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/30_Sovngarde Honored.png" num="30">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Spirit Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Armored Steed</name>
+			<text>{1}, {T}: Attach target Equipment you control to another target creature you control. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/2_Armored Steed.png" num="2">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horse</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reliable Courier</name>
+			<text>Survey {3}{W}{W} (Exile a nonland permanent you control and cast this for its survey cost reduced by the exiled card&apos;s mana value. You may play that card from exile on a later turn.)
+When this creature enters, you gain 3 life and draw a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/25_Reliable Courier.png" num="25">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Haafingar Dock Glider</name>
+			<text>Flying
+Whenever an enchantment you control enters, tap target creature an opponent controls. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/20_Haafingar Dock Glider.png" num="20">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sweet Roll</name>
+			<text>When this artifact enters and when you sacrifice it, search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+{2}, {T}: Sacrifice this artifact: You gain 3 life. Scry 1.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/32_Sweet Roll.png" num="32">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Riften Rabble</name>
+			<text>Lifelink
+Skill tree — Whenever this creature attacks, if there are four or more card types among permanents you control and/or cards you own exiled this turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/27_Riften Rabble.png" num="27">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prize-winning Goat</name>
+			<text>Survey {6}{W} (Exile a nonland permanent you control and cast this for its survey cost reduced by the exiled card&apos;s mana value. You may play that card from exile on a later turn.)
+When this creature enters, create two 2/2 colorless Adventurer creature tokens.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/24_Prize-winning Goat.png" num="24">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goat</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shor&apos;s Fox</name>
+			<text>When this creature enters, you may pay {2}. When you do, put a +1/+1 counter on this creature and study the voice. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/28_Shor&apos;s Fox.png" num="28">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fox</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Voice of Serenity</name>
+			<text>When this creature enters, choose one —
+• Return target artifact or enchantment card from your graveyard to your hand.
+• Put a +1/+1 counter on each of up to two target creatures.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/34_Voice of Serenity.png" num="34">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eager Hireling</name>
+			<text>Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/16_Eager Hireling.png" num="16">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dragonrend</name>
+			<text>Skill tree — As long as there are four or more card types among permanents you control and/or cards you own exiled this turn, this spell costs {1} less to cast.
+Exile target creature or enchantment.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/15_Dragonrend.png" num="15">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Way of Jurgen Windcaller</name>
+			<text>Choose one —
+• Put a lore counter on any number of Sagas you control.
+• Remove a lore counter from any number of Sagas you control. (This doesn&apos;t trigger chapter abilities.)
+• Create a 2/2 colorless Adventurer creature token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/37_Way of Jurgen Windcaller.png" num="37">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Explorer&apos;s Hook</name>
+			<text>When this Equipment enters, create a 2/2 colorless Adventurer creature token, then attach this artifact to it.
+Equipped creature gets +1/+0.
+Equipped creature has first strike as long as its your turn.
+Equip {1}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/17_Explorer&apos;s Hook.png" num="17">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tavern Lute</name>
+			<text>Equipped creature gets +1/+1.
+Whenever equipped creature deals combat damage to a player, study the voice. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)
+Equip {2}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/33_Tavern Lute.png" num="33">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Imperial Apprehension</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block and has &quot;{6}: Imperial Apprehension&apos;s controller sacrifices it, then creates a 2/2 colorless Adventurer creature token and puts a +1/+1 counter on it. Activate only as a sorcery.&quot;</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/22_Imperial Apprehension.png" num="22">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dragonborn&apos;s Resolve</name>
+			<text>Target creature you control gets +1/+1 and gains lifelink and indestructible until end of turn. Study the voice. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/14_Dragonborn&apos;s Resolve.png" num="14">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nuisance Mudcrabs</name>
+			<text>This spell costs {1} less to cast for each card type among cards in your graveyard.
+Ward {2}
+Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/61_Nuisance Mudcrabs.png" num="61">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crab</type>
+				<maintype>Creature</maintype>
+				<manacost>6U</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancient Word Wall</name>
+			<text>Defender
+{4}{U}: Create a 2/2 colorless Adventurer creature token, then study the voice. Activate only as a sorcery. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/39_Ancient Word Wall.png" num="39">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Magicka Scholar</name>
+			<text>Whenever this creature becomes tapped, study the voice. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/55_Magicka Scholar.png" num="55">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Novice Mage</name>
+			<text>Defender
+This creature gets +1/+1 as long as you control an artifact.
+This creature can attack as though it didn&apos;t have defender as long as you control an enchantment.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/60_Novice Mage.png" num="60">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Winterhold Student</name>
+			<text>Prowess
+When this creature enters, surveil 1.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/75_Winterhold Student.png" num="75">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thieves Guild Trainee</name>
+			<text>Skill tree — This creature can&apos;t be blocked as long as there are four or more card types among permanents you control and/or cards you own exiled this turn.
+Whenever this creature deals combat damage to a player, surveil 2.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/67_Thieves Guild Trainee.png" num="67">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imperial Outfitter</name>
+			<text>Vigilance
+Whenever an artifact or enchantment you control enters, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/53_Imperial Outfitter.png" num="53">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Windchill Wraiths</name>
+			<text>Flying
+Sacrifice this creature: Study the voice. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/74_Windchill Wraiths.png" num="74">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Warding Robes</name>
+			<text>Flash
+When this Equipment enters, create a 2/2 colorless Adventurer creature token, then attach this artifact to a creature you control. That creature phases out.
+Equipped creature gets +1/+1.
+Equip {3}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/71_Warding Robes.png" num="71">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nimble Automaton</name>
+			<text>Flash
+This creature enters tapped unless its your turn.
+Cycling {2}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/58_Nimble Automaton.png" num="58">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bound Specter</name>
+			<text>Flying
+When this creature enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/42_Bound Specter.png" num="42">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unrelenting Force</name>
+			<text>When you cast this spell, if you control a Dragon or there is a Dragon card in your graveyard, copy it. You may choose new targets for the copy.
+Counter target spell unless its controller pays {2}.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/69_Unrelenting Force.png" num="69">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Labyrinthian Spelldrinker</name>
+			<text>Flash
+Flying
+Skill tree — When this creature enters, if there are four or more card types among permanents you control and/or cards you own exiled this turn, counter up to one target spell.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/54_Labyrinthian Spelldrinker.png" num="54">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Homesteading</name>
+			<text>The owner of target nonland permanent puts it into their library second from the top or on the bottom. If it had mana value 3 or less, study the voice. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/50_Homesteading.png" num="50">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ice Form</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Return target creature to its owner&apos;s hand. Surveil 2.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/51_Ice Form.png" num="51">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Dragon</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hjaalmarch Outrider</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+Skill tree — When this creature enters, if there are four or more card types among permanents you control and/or cards you own exiled this turn, draw a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/49_Hjaalmarch Outrider.png" num="49">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alchemist&apos;s Table</name>
+			<text>When this artifact enters, inspect three cards. Put one of them into your hand and the rest into your graveyard. (To inspect cards, look at them from your library.)
+{4}{U}, {T}, Sacrifice this artifact: Return target noncreature card from your graveyard to your hand. Put a +1/+1 counter on up to one target creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/38_Alchemist&apos;s Table.png" num="38">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Immobilizing Spike</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t become untapped.
+Cycling {2}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/52_Immobilizing Spike.png" num="52">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wandering Draugr</name>
+			<text>When this creature enters, target player discards a card and loses 1 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/113_Wandering Draugr.png" num="113">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disturbed Dead</name>
+			<text>Deathtouch
+When this creature enters, you may pay 2 life. When you do, create a 2/2 colorless Adventurer creature token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/87_Disturbed Dead.png" num="87">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brotherhood Shadowscale</name>
+			<text>Skill tree — At the beginning of combat on your turn, if there are four or more card types among permanents you control and/or cards you own exiled this turn, this creature gets +1/+0 and gains deathtouch until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/81_Brotherhood Shadowscale.png" num="81">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Falmer Gloomlurker</name>
+			<text>Whenever this creature attacks, if you lost life this turn, it gains menace until end of turn.
+At the beginning of your end step, if an opponent lost life this turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/94_Falmer Gloomlurker.png" num="94">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dredged Dovah</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Flying
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/89_Dredged Dovah.png" num="89">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>6B</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Talos Confiscator</name>
+			<text>Whenever another creature you control enters, you gain 1 life.
+Whenever a creature an opponent controls enters, that player loses 1 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/104_Talos Confiscator.png" num="104">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hulking Draugr</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+When this creature enters, target creature you control gets +2/+0 and gains indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/97_Hulking Draugr.png" num="97">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ragged Flagon Rogue</name>
+			<text>Whenever you commit a crime, target creature you control gets +2/+0 and gains deathtouch until end of turn. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/100_Ragged Flagon Rogue.png" num="100">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ustengrav Shambler</name>
+			<text>Menace
+When this creature enters, target opponent loses X life, where X is the number of card types among cards in your graveyard.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/110_Ustengrav Shambler.png" num="110">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eastmarch Hunter</name>
+			<text>Skill tree — As long as there are four or more card types among permanents you control and/or cards you own exiled this turn, this creature has flying.
+Whenever another creature you control dies, each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/92_Eastmarch Hunter.png" num="92">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Caravan Opportunist</name>
+			<text>When this creature enters, target player mill 2 cards. You gain 2 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/82_Caravan Opportunist.png" num="82">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Undercity Skeever</name>
+			<text>Sacrifice a creature: This creature gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/109_Undercity Skeever.png" num="109">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sanguinare Neonate</name>
+			<text>Whenever you commit a crime, you lose 1 life and put a +1/+1 counter on this creature. It attacks this turn if able. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/101_Sanguinare Neonate.png" num="101">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Knock Down</name>
+			<text>Skill tree — Target creature gets -3/-0 until end of turn. Then you may switch that creature&apos;s power and toughness if there are four or more card types among permanents you control and/or cards you own exiled this turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/98_Knock Down.png" num="98">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Through the Dark</name>
+			<text>Choose one —
+• Target opponent reveals their hand. You choose a nonland permanent card from it. That player discards that card.
+• Surveil 1, then return a creature card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/106_Through the Dark.png" num="106">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Corner</name>
+			<text>Destroy target creature or enchantment an opponent controls. You lose life equal to that permanent&apos;s mana value.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/84_Corner.png" num="84">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Destiny Unbound</name>
+			<text>Surveil 1. You draw two cards and you lose 2 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/86_Destiny Unbound.png" num="86">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Doom Driven</name>
+			<text>Enchant creature
+When this Aura enters, put a +1/+1 counter on up to one target creature you control.
+Enchanted creature gets -2/-2 and can&apos;t block.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/88_Doom Driven.png" num="88">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sundered Soul</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+You may sacrifice a creature, then put a +1/+1 counter on target creature for each card type among cards in your graveyard.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/102_Sundered Soul.png" num="102">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Dragon</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dragontongue Necklace</name>
+			<text>This artifact enters tapped. 
+When this artifact enters, you may discard a card. If you do, draw two cards.
+{3}{R}, {T}, Sacrifice this artifact: Return target instant, sorcery, or Dragon card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/129_Dragontongue Necklace.png" num="129">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flame Whip</name>
+			<text>Double target creature&apos;s power until end of turn.
+Draw a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/134_Flame Whip.png" num="134">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>East Empire Nightwatch</name>
+			<text>{T}: Add {R}.
+{4}{R}: Create a 2/2 colorless Adventurer creature token. Activate only during your turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/131_East Empire Nightwatch.png" num="131">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dawnguard War Troll</name>
+			<text>Menace
+Whenever you spend your fourth total mana casting spells or activating abilities during your turn, this creature gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/125_Dawnguard War Troll.png" num="125">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Troll</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dawnguard Suncaster</name>
+			<text>Haste
+Whenever you commit a crime, put a +1/+1 counter on this creature. This ability triggers only once each turn. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/124_Dawnguard Suncaster.png" num="124">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Voice of Fire</name>
+			<text>When this creature enters, choose one —
+• Creatures you control get +1/+0 until end of turn.
+• Target creature you control gains first strike and haste until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/150_Voice of Fire.png" num="150">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bitterwinter Brute</name>
+			<text>Survey {4}{R} (Exile a nonland permanent you control and cast this for its survey cost reduced by the exiled card&apos;s mana value. You may play that card from exile on a later turn.)
+Trample</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/120_Bitterwinter Brute.png" num="120">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imperial Battlemage</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Whenever you cast a Dragon spell, this creature gets +1/+1 until end of turn.
+Cycling {1}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/141_Imperial Battlemage.png" num="141">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Malacath Devotee</name>
+			<text>Whenever this creature attacks, if you spent four or more mana casting spells or activating abilities this turn, put a +1/+1 counter on it.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/143_Malacath Devotee.png" num="143">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forsworn Conjurer</name>
+			<text>Reach
+{3}: Exile the top card of your library. You may play that card this turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/135_Forsworn Conjurer.png" num="135">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bandit Marauder</name>
+			<text>This creature has double strike as long as you control three or more artifacts.
+Whenever you commit a crime, create a Treasure token. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/119_Bandit Marauder.png" num="119">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dovah&apos;s Roar</name>
+			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Dovah&apos;s Roar deals 1 damage to each creature you don&apos;t control. If it was kicked, put a +1/+1 counter on up to one target creature you control.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/127_Dovah&apos;s Roar.png" num="127">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glass-Clad Battlemage</name>
+			<text>Menace
+Skill tree — Whenever this creature attacks, if there are four or more card types among permanents you control and/or cards you own exiled this turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/136_Glass-Clad Battlemage.png" num="136">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Wizard Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raining Dragonfire</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Raining Dragonfire deals 3 damage to any target.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/147_Raining Dragonfire.png" num="147">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Dragon</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Atronach Summoner</name>
+			<text>Survey {4}{R}{R} (Exile a nonland permanent you control and cast this for its survey cost reduced by the exiled card&apos;s mana value. You may play that card from exile on a later turn.)
+Whenever you cast a spell from anywhere other than your hand, this creature gets +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/118_Atronach Summoner.png" num="118">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Anarchist&apos;s Spear</name>
+			<text>Equipped creature gets +2/+0 and has menace.
+Whenever you commit a crime, attach this Equipment to target creature you control. (Targeting opponents, anything they control, and/or cards in their graveyards is a crime.)
+Equip {2}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/117_Anarchist&apos;s Spear.png" num="117">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Compell</name>
+			<text>Survey {4}{R} (Exile a nonland permanent you control and cast this for its survey cost reduced by the exiled card&apos;s mana value. You may play that card from exile on a later turn.)
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/122_Compell.png" num="122">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pickpocket</name>
+			<text>Exile the top two cards of your library and choose one. You may play the chosen card until the end of your next turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/146_Pickpocket.png" num="146">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shock</name>
+			<text>Shock deals 2 damage to any target.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/149_Shock.png" num="149">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Windhelm Bard</name>
+			<text>{T}: Add one mana of any color.
+{3}, {T}: Put a lore counter on target Saga you control or remove a lore counter from it. Activate only as a sorcery. (Removing lore counters doesn&apos;t trigger chapter abilities.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/190_Windhelm Bard.png" num="190">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wandering Thalmor Patrol</name>
+			<text></text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/188_Wandering Thalmor Patrol.png" num="188">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Elf</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jerall Mountain Hunter</name>
+			<text>Sacrifice this creature: You may put a land card from your hand onto the battlefield tapped.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/173_Jerall Mountain Hunter.png" num="173">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Falkreath Prized Game</name>
+			<text>Trample
+When this creature enters, other creatures you control get +2/+2 until end of turn.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/163_Falkreath Prized Game.png" num="163">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Darkwater Denizen</name>
+			<text>When this creature leaves the battlefield, you gain 2 life and create a 2/2 colorless Adventurer creature token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/160_Darkwater Denizen.png" num="160">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancestor Moths</name>
+			<text>Whenever an enchantment you control enters, put a +1/+1 counter on this creature.
+{3}{G}, {T}: Study the voice. Activate only as a sorcery. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/154_Ancestor Moths.png" num="154">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sanctuary Spider</name>
+			<text>Deathtouch
+Whenever another creature you control dies, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/179_Sanctuary Spider.png" num="179">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forsworn Windspeaker</name>
+			<text>Reach
+Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/165_Forsworn Windspeaker.png" num="165">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rift Troll</name>
+			<text>Reach
+Skill tree — Whenever this creature attacks, if there are four or more card types among permanents you control and/or cards you own exiled this turn, it gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/178_Rift Troll.png" num="178">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Troll</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Greenwarden Spriggan</name>
+			<text>Trample
+Skill tree — As long as there are four or more card types among permanents you control and/or cards you own exiled this turn, this creature can&apos;t be blocked by more than one creature.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/168_Greenwarden Spriggan.png" num="168">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Market Merchant</name>
+			<text>When this creature enters, you may pay {2}. If you do, you gain 2 life and create a 2/2 colorless Adventurer creature token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/174_Market Merchant.png" num="174">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Game Hunters</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/166_Game Hunters.png" num="166">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Conjure Familiar</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/159_Conjure Familiar.png" num="159">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hail of Arrows</name>
+			<text>Choose one —
+• Target creature you control deals damage equal to its power to target creature you don&apos;t control.
+• Destroy target creature with flying.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/169_Hail of Arrows.png" num="169">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Into the Barrow</name>
+			<text>You may play land cards from your graveyard this turn. You may play an additional land card this turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/172_Into the Barrow.png" num="172">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spellwoven Ring</name>
+			<text>When this artifact enters, scry 2. You gain 2 life.
+{3}{G}, {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/183_Spellwoven Ring.png" num="183">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blood-Claimed Territory</name>
+			<text>Sacrifice a creature or land, then search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/156_Blood-Claimed Territory.png" num="156">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Heavy Blow</name>
+			<text>Target creature you control gets +1/+1 until end of turn for each enchantment you control. If you control an artifact, that creature fights up to one target creature.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/170_Heavy Blow.png" num="170">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Emperor Titus Mede II</name>
+			<text>Whenever Emperor Titus Mede II becomes the target of a spell for the first time each turn, create a 2/2 colorless Adventurer creature token, then change the target to that token if able.
+Whenever another creature you control dies, exile the top card of your library. You may cast that card for its mana cost reduced by the mana value of the creature that died this way. When you don&apos;t, put that card into your hand.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/FTB-files/img/204_Emperor Titus Mede II.png" num="204">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2WBG</manacost>
+				<cmc>5</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Last Dragonborn</name>
+			<text>Vigilance, reach, protection from Dragons
+Whenever you cast a spell from your hand, study the voice.
+{T}: Add X mana of any one color, where X is the number of card types among other permanents you control.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/FTB-files/img/209_The Last Dragonborn.png" num="209">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Paarthurnax, the Balance</name>
+			<text>Flying
+If casting a Dragon spell or a Dragon you control entering causes an ability of a permanent you control to trigger, that ability triggers an additional time.
+{W}{U}{B}{R}{G}: Exile the top card of your library. If it&apos;s a Dragon, you may play that card this turn without paying its mana cost.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/FTB-files/img/63_Paarthurnax, the Balance.png" num="63">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Dragon Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>WUBRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancano, Scheming Advisor</name>
+			<text>Ward—Discard a card at random
+When Ancano enters, exile all graveyards.
+If a card or token would be put into a graveyard from anywhere, exile it instead.
+Ancano has all activated abilities of all cards exiled with it.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/FTB-files/img/77_Ancano, Scheming Advisor.png" num="77">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Wizard Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Conjure Dremora Lord</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/FTB-files/img/83_Conjure Dremora Lord.png" num="83">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alduin, First-Born of Akatosh</name>
+			<text>Flying
+Alduin has indestructible as long as you control at least three other Dragons.
+At the beginning of combat on your turn, exile up to one target card from a graveyard. If a creature card is exiled this way, create a token that&apos;s a copy of that card, except it&apos;s a 4/4 red Dragon with flying and haste.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/192_Alduin, First-Born of Akatosh.png" num="192">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5BR</manacost>
+				<cmc>7</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Winged Snow Hunter</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/FTB-files/img/152_Winged Snow Hunter.png" num="152">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sinding the Cursed</name>
+			<text>When Sinding enters, create a 2/2 colorless Adventurer creature token.
+Whenever Sinding attacks, target creature you control has base power 4/4 and is a Werewolf in addition to its other types until end of turn.
+{3}{R}{W}: Exile Sinding, then return him to the battlefield transformed under its owner&apos;s control. Activate only as a sorcery.
+---
+(Back): Ill Met by Moonlight</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/FTB-files/img/181_Sinding the Cursed_front.png" num="181a">FTB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Ill Met by Moonlight</related>
+		</card>
+		<card>
+			<name>Ill Met by Moonlight</name>
+			<text>---
+(Front): Sinding the Cursed</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/FTB-files/img/181_Sinding the Cursed_back.png" num="181b">FTB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WR</colors>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Sinding the Cursed</related>
+		</card>
+		<card>
+			<name>The Wheel Turns</name>
+			<text>As an additional cost to cast this spell, you may behold a Dragon.
+Take an extra turn after this one. Put a stun counter on each land you control unless you beheld a Dragon. Exile The Wheel Turns.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/6_The Wheel Turns.png" num="6">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Whirlwind Sprint</name>
+			<text>Target creature gets +1/+1 and can&apos;t be blocked this turn. Whenever that creature attacks this turn, study the voice. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/73_Whirlwind Sprint.png" num="73">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dawnbringer&apos;s Beacon</name>
+			<text>When this artifact enters, inspect four cards. You may reveal a land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. (To inspect cards, look at them from your library.)
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/217_Dawnbringer&apos;s Beacon.png" num="217">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Adventurer FTB</name>
+			<text></text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/FTB-files/img/1t_Adventurer.png" num="1">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Adventurer</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Alduin&apos;s Wall</name>
+			<text>Whenever you cast a Dragon spell from your hand, study the voice. This ability triggers only once each turn. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)
+{T}: Add {C}{C}.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/216_Alduin&apos;s Wall.png" num="216">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Spirit FTB</name>
+			<text>Flying</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/FTB-files/img/3t_Spirit.png" num="3">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Wisp</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Sky-Touched Ruins</name>
+			<text>{T}: Add {W}.
+Skill tree — {T}: Add {U}. Activate only if there are four or more card types among permanents you control and/or cards you own exiled this turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/237_Sky-Touched Ruins.png" num="237">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Roguish Undercity</name>
+			<text>{T}: Add {U}.
+Skill tree — {T}: Add {B}. Activate only if there are four or more card types among permanents you control and/or cards you own exiled this turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/236_Roguish Undercity.png" num="236">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Warmonger&apos;s Hideout</name>
+			<text>{T}: Add {B}.
+Skill tree — {T}: Add {R}. Activate only if there are four or more card types among permanents you control and/or cards you own exiled this turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/241_Warmonger&apos;s Hideout.png" num="241">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ancient Fortress</name>
+			<text>{T}: Add {R}.
+Skill tree — {T}: Add {G}. Activate only if there are four or more card types among permanents you control and/or cards you own exiled this turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/226_Ancient Fortress.png" num="226">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Temple of Destiny</name>
+			<text>{T}: Add {G}.
+Skill tree — {T}: Add {W}. Activate only if there are four or more card types among permanents you control and/or cards you own exiled this turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/240_Temple of Destiny.png" num="240">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wandering Mercenary</name>
+			<text>Commander creatures you own have &quot;Whenever you play a legendary land or cast a legendary spell, create a 2/2 colorless Adventurer creature token, then put a +1/+1 counter on a creature you control.&quot;</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/FTB-files/img/242_Wandering Mercenary.png" num="242">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Background</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Student of Magicka</name>
+			<text>Commander creatures you own have &quot;Whenever you cast a spell, you may tap two untapped permanents you control that share a card type with it. When you do, copy that spell, and you may choose new targets for the copy. Do this only once each turn.&quot;</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/FTB-files/img/243_Student of Magicka.png" num="243">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Background</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Brotherhood Listener</name>
+			<text>Commander creature you own have &quot;Whenever this creature enters, each opponent sacrifices a nontoken creature or planeswalker&quot; and &quot;Whenever another creature dies, put a +1/+1 counter on this creature and surveil 1.&quot;</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/FTB-files/img/244_Brotherhood Listener.png" num="244">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Background</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Thieves Guild Initiate</name>
+			<text>Commander creatures you own have &quot;Whenever you attack, exile the top card of each player&apos;s library you attacked this turn. Create a Treasure token for each card type among cards exiled this way. Until end of turn, you may play those cards.&quot;</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/FTB-files/img/245_Thieves Guild Initiate.png" num="245">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Background</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Agent of the Inner Circle</name>
+			<text>Commander creatures you own have &quot;Whenever this creature attacks, create a 4/4 green Werewolf creature token with trample that&apos;s tapped and attacking. Exile that token at end of combat.&quot;</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/FTB-files/img/246_Agent of the Inner Circle.png" num="246">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Background</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Elder Scroll FTB</name>
+			<text>At the beginning of your first main phase, add {C}{C}{C}.
+{T}: Draw three cards.</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/FTB-files/img/6t_The Elder Scroll.png" num="6">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Token Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Shrine to the Betrayed</name>
+			<text>{T}: Add {C}.
+Skill tree — {T}: Add one mana of any color. This artifact deals 1 damage to you. Activate only if there are four or more card types among permanents you control and/or cards you own exiled this turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/221_Shrine to the Betrayed.png" num="221">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Abhorrent Oculus</name>
+			<text>As an additional cost to cast this spell, exile six cards from your graveyard.
+Flying
+At the beginning of each opponent&apos;s upkeep, manifest dread.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/3_Abhorrent Oculus.png" num="3">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eye</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elemental FTB</name>
+			<text>This creature gets +1/+1 for each artifact and/or enchantment you control.</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/FTB-files/img/4t_Elemental.png" num="4">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Talsgar, Itinerant Minstrel</name>
+			<text>Lifelink
+Whenever you sacrifice an enchantment, draw a card.
+Whenever the final chapter ability of a Saga you control resolves, each opponent loses X life and you gain X life, where X is that Saga&apos;s mana value.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/21_Talsgar, Itinerant Minstrel.png" num="21">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>1WBG</manacost>
+				<cmc>4</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Noble Hierarch</name>
+			<text>Exalted
+{T}: Add {G}, {W}, or {U}.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/14_Noble Hierarch.png" num="14">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crux of Fate</name>
+			<text>Choose one —
+• Destroy all Dragon creatures.
+• Destroy all non-Dragon creatures.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/7_Crux of Fate.png" num="7">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>J&apos;zargo, Brash Mage</name>
+			<text>At the beginning of your upkeep, create a colorless artifact token named Munitions with &quot;When this token leaves the battlefield, it deals 2 damage to any target.&quot;
+Whenever J&apos;zargo attacks, put a +1/+1 counter on him for each card type among permanents you&apos;ve sacrificed this turn.
+Choose a background</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/FTB-files/img/250_J&apos;zargo, Brash Mage.png" num="250">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thalmor Dossier</name>
+			<text>For each card type, whenever you cast a spell of that type for the first time during your turn, create a 2/2 colorless Adventurer creature token.
+{T}: Put a +1/+1 counter on each creature you control that entered this turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/224_Thalmor Dossier.png" num="224">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Generous Visitor</name>
+			<text>Whenever you cast an enchantment spell, put a +1/+1 counter on target creature.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/12_Generous Visitor.png" num="12">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dragonslayer Delphine</name>
+			<text>Blade in the Dark — When Dragonslayer Delphine enters, each opponent sacrifices a tenth of the creatures they control, rounded up.
+Whenever an opponent sacrifices a creature, put a +1/+1 counter on Dragonslayer Delphine.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/19_Dragonslayer Delphine.png" num="19">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alduin, Prophetic End</name>
+			<text>Flying
+Whenever Alduin enters or attacks, sacrifice another permanent.
+Whenever you sacrifice a permanent, put a +1/+1 counter on Alduin and draw a card.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/16_Alduin, Prophetic End.png" num="16">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2BRG</manacost>
+				<cmc>5</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brurlof, Ascendant Dovahkiin</name>
+			<text>As long as you have one or fewer cards in hand, Brurlof has vigilance and haste.
+Whenever Brurlof attacks, inspect six cards. You may exile a legendary creature card from among them. Put the rest on the bottom of your library in a random order. Until end of turn, you may cast the exiled card without paying its mana cost.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/18_Brurlof, Ascendant Dovahkiin.png" num="18">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human God</type>
+				<maintype>Creature</maintype>
+				<manacost>2RRW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Remiel, Dwemer Scholar</name>
+			<text>When Remiel enters, create a 0/0 colorless Construct artifact creature token with &quot;This creature gets +1/+1 for each artifact you control.&quot;
+Tap an untapped artifact you control: Add {U}.
+{5}: Shuffle your library, then exile the top card. Until end of turn, you may play that card without paying its mana cost.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/5_Remiel, Dwemer Scholar.png" num="5">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inigo, Friend to the Dovahkiin</name>
+			<text>Whenever you cast a creature spell with mana value 5 or greater, that creature enters with X additional +1/+1 counters, where X is its mana value minus 4.
+Creatures you control with three or more +1/+1 counters on them have haste.
+{T}: Add {G}.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/13_Inigo, Friend to the Dovahkiin.png" num="13">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arngeir, Voice Within</name>
+			<text>Vigilance
+Whenever you cast a creature spell, draw a card, then you may put a land card from your hand onto the battlefield.
+{3}, {T}: Return target creature you control to its owner&apos;s hand.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/17_Arngeir, Voice Within.png" num="17">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2GWU</manacost>
+				<cmc>5</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jarl Balgruuf the Greater</name>
+			<text>Double strike
+Jarl Balgruuf enters with a +1/+1 counter for each other Human you control.
+When Jarl Balgruuf enters, target player becomes the monarch. Jarl Balgruuf deals damage equal to its power to any target.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/20_Jarl Balgruuf the Greater.png" num="20">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Val Serano, Relic Hunter</name>
+			<text>Whenever you cast your second spell each turn, exile the top card of your library. Until the end of your next turn, you may play that card.
+{T}: Copy target instant or sorcery spell you control. You may choose new targets for the copy. Activate only if you&apos;ve cast three or more spells this turn.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/22_Val Serano, Relic Hunter.png" num="22">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mark of Namira</name>
+			<text>Equipped creature gets +1/+1 and has haste and menace.
+Equip {1}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/220_Mark of Namira.png" num="220">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stolen Trinket</name>
+			<text>Whenever equipped creature deals combat damage to a player, put a +1/+1 counter on it.
+Whenever equipped creature dies, create a Treasure token.
+Equip {3}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/223_Stolen Trinket.png" num="223">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Xelzaz, Telvanni Lawman</name>
+			<text>Noncreature spells you cast from exile have convoke.
+At the beginning of your precombat main phase, you may discard a card. If you do, exile the top two cards of your library, then choose one of them. You may play that card this turn.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/11_Xelzaz, Telvanni Lawman.png" num="11">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stendarr&apos;s Hammer</name>
+			<text>Equipped creature gets +8/+8 and must be blocked each turn if able.
+Equipped creature can&apos;t attack unless its controller pays {2}.
+Equip {4}</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/222_Stendarr&apos;s Hammer.png" num="222">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prosperous Innkeeper</name>
+			<text>When this creature enters, create a Treasure token.
+Whenever another creature you control enters, you gain 1 life.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/15_Prosperous Innkeeper.png" num="15">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Halfling Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fatal Push</name>
+			<text>Destroy target creature if it has mana value 2 or less.
+Revolt — Destroy that creature if it has mana value 4 or less instead if a permanent left the battlefield under your control this turn.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/8_Fatal Push.png" num="8">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blood Crypt</name>
+			<text>({T}: Add {B} or {R}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/23_Blood Crypt.png" num="23">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Breeding Pool</name>
+			<text>({T}: Add {G} or {U}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/24_Breeding Pool.png" num="24">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Godless Shrine</name>
+			<text>({T}: Add {W} or {B}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/25_Godless Shrine.png" num="25">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hallowed Fountain</name>
+			<text>({T}: Add {W} or {U}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/26_Hallowed Fountain.png" num="26">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Overgrown Tomb</name>
+			<text>({T}: Add {B} or {G}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/27_Overgrown Tomb.png" num="27">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sacred Foundry</name>
+			<text>({T}: Add {R} or {W}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/28_Sacred Foundry.png" num="28">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Steam Vents</name>
+			<text>({T}: Add {U} or {R}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/29_Steam Vents.png" num="29">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Stomping Ground</name>
+			<text>({T}: Add {R} or {G}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/30_Stomping Ground.png" num="30">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Temple Garden</name>
+			<text>({T}: Add {G} or {W}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/31_Temple Garden.png" num="31">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Watery Grave</name>
+			<text>({T}: Add {U} or {B}.)
+As this land enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/32_Watery Grave.png" num="32">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dreamstrider&apos;s Robes</name>
+			<text>At the beginning of your upkeep, put a stride counter on this Equipment.
+{T}: You may put a creature card with mana value less than or equal to the number of stride counters on this Equipment from your hand onto the battlefield tapped, then attach this to it.
+Equipped creature gets +2/+2 and has ward {2}.
+Equip {3}</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/FTB-files/img/218_Dreamstrider&apos;s Robes.png" num="218">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grim Tomb</name>
+			<text>As this land enters, you may reveal a Swamp or Forest card from your hand. If you don&apos;t, this land enters tapped.
+{T}: Add {B} or {G}.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/233_Grim Tomb.png" num="233">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Lakeside Thicket</name>
+			<text>As this land enters, you may reveal a Forest or Island card from your hand. If you don&apos;t, this land enters tapped.
+{T}: Add {G} or {U}.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/234_Lakeside Thicket.png" num="234">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Glorious Hall</name>
+			<text>As this land enters, you may reveal a Plains or Swamp card from your hand. If you don&apos;t, this land enters tapped.
+{T}: Add {W} or {B}.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/232_Glorious Hall.png" num="232">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Foreboding Ruins</name>
+			<text>As this land enters, you may reveal a Swamp or Mountain card from your hand. If you don&apos;t, this land enters tapped.
+{T}: Add {B} or {R}.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/229_Foreboding Ruins.png" num="229">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Choked Estuary</name>
+			<text>As this land enters, you may reveal an Island or Swamp card from your hand. If you don&apos;t, this land enters tapped.
+{T}: Add {U} or {B}.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/227_Choked Estuary.png" num="227">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sprawling Valley</name>
+			<text>As this land enters, you may reveal a Mountain or Plains card from your hand. If you don&apos;t, this land enters tapped.
+{T}: Add {R} or {W}.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/239_Sprawling Valley.png" num="239">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Game Trail</name>
+			<text>As this land enters, you may reveal a Mountain or Forest card from your hand. If you don&apos;t, this land enters tapped.
+{T}: Add {R} or {G}.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/231_Game Trail.png" num="231">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Snowswept Peak</name>
+			<text>As this land enters, you may reveal an Island or Mountain card from your hand. If you don&apos;t, this land enters tapped.
+{T}: Add {U} or {R}.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/238_Snowswept Peak.png" num="238">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fortified Village</name>
+			<text>As this land enters, you may reveal a Forest or Plains card from your hand. If you don&apos;t, this land enters tapped.
+{T}: Add {G} or {W}.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/230_Fortified Village.png" num="230">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Port Town</name>
+			<text>As this land enters, you may reveal a Plains or Island card from your hand. If you don&apos;t, this land enters tapped.
+{T}: Add {W} or {U}.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/235_Port Town.png" num="235">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Arngeir, Voice of Heroes</name>
+			<text>Vigilance
+Whenever you cast your first spell each turn, copy it, except it&apos;s legendary. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/FTB-files/img/194_Arngeir, Voice of Heroes.png" num="194">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1GWU</manacost>
+				<cmc>4</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Karliah, Guild Vengeant</name>
+			<text>Dethrone
+Whenever Karliah attacks, cloak the top X cards of defending player&apos;s library, where X is half her power, rounded down. (To cloak a card, put it onto the battlefield face down as a 2/2 creature with ward {2}. Turn it face up any time for its mana cost if it&apos;s a creature card.)
+Choose a background</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/FTB-files/img/251_Karliah, Guild Vengeant.png" num="251">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cicero, Blood Artist</name>
+			<text>Ward—Sacrifice a creature
+Whenever a creature dies, put a +1/+1 counter on up to one target creature. Each opponent loses 1 life and you gain 1 life. If this is the second time this ability has resolved this turn, you draw two cards.
+Choose a background</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/FTB-files/img/248_Cicero, Blood Artist.png" num="248">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Clown Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Isran, Dawnguard Zealot</name>
+			<text>Vigilance
+{R}{W}, {T}, Sacrifice another creature: Isran deals damage to target creature you don&apos;t control equal to the sacrificed creature&apos;s power. Exile a number of cards from the top of your library equal to the amount of excess damage dealt this way. You may play those cards this turn.
+Choose a background</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/FTB-files/img/249_Isran, Dawnguard Zealot.png" num="249">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3RW</manacost>
+				<cmc>5</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aela the Huntress</name>
+			<text>As long as you attacked this turn, other nontoken creatures you control with power 3 or less enter as 4/4 Werewolf creatures in addition to their other types.
+Boast — {2}: Aela has base power and toughness 4/4 until end of turn. (Activate only if this creature attacked this turn and only once each turn.)
+Choose a background</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/FTB-files/img/247_Aela the Huntress.png" num="247">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hoard Keeper</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Flying
+When this creature enters, create a Treasure token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/139_Hoard Keeper.png" num="139">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elf Soldier FTB</name>
+			<text></text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/FTB-files/img/5t_Elf Soldier.png" num="5">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Elf Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure FTB</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/FTB-files/img/8t_Treasure.png" num="8">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Trusty Armaments</name>
+			<text>When this Equipment enters, attach it to target creature you control.
+Equipped creature gets +1/+1.
+Equip {2}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/225_Trusty Armaments.png" num="225">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Heavy Crossbow</name>
+			<text>When this creature enters, create a 2/2 colorless Adventurer creature token, then attach this Equipment to it.
+Equipped creature has reach.
+Whenever equipped creature blocks a creature with flying, equipped creature gets +2/+0 until end of turn.
+Equip {2}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/171_Heavy Crossbow.png" num="171">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Legion Steel</name>
+			<text>When this Equipment enters, you gain 3 life and draw a card.
+Equipped creature gets +5/+5 and has hexproof from each of its colors.
+Equip {5}</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/FTB-files/img/219_Legion Steel.png" num="219">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Draconic Divulging</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Draw three cards, then discard a card.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/4_Draconic Divulging.png" num="4">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Dragon</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Leave the Tomb</name>
+			<text>Thu&apos;um
+Return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/9_Leave the Tomb.png" num="9">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Dragon</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Munitions FTB</name>
+			<text>When this token leaves the battlefield, it deals 2 damage to any target.</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/FTB-files/img/7t_Munitions.png" num="7">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Dragonborn&apos;s Companion</name>
+			<text>Whenever another creature you control enters, you gain 1 life. If this is the second time this ability has resolved this turn, study the voice.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/1_Dragonborn&apos;s Companion.png" num="1">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bandit Marauder</name>
+			<text>This creature has double strike as long as you control three or more artifacts.
+Whenever you commit a crime, create a Treasure token.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/10_Bandit Marauder.png" num="10">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Last Dragonborn&apos;s Awakening</name>
+			<text>When Last Dragonborn&apos;s Awakening enters, exile target creature or planeswalker an opponent controls until Last Dragonborn&apos;s Awakening leaves the battlefield.
+Creatures you control get +1/+1.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/FTB-files/img/2_Last Dragonborn&apos;s Awakening.png" num="2">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Evolving Wilds</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/FTB-files/img/228_Evolving Wilds.png" num="228">FTB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Saga FTB</name>
+			<text>You may play the exiled card.</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/FTB-files/img/2t_Saga.png" num="2">FTB</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Token Saga</type>
+				<maintype>Saga</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Exploit the Time-Wound</name>
+			<text>This Siege enters with X additional defense counters.
+When this Siege enters, exile X target nonland permanents. Return them to the battlefield under their owner&apos;s control at the beginning of the next end step.
+---
+(Back): Alduin&apos;s Bane</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/FTB-files/img/205_Exploit the Time-Wound_front.png" num="205a">FTB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Battle — Seige</type>
+				<maintype>Battle</maintype>
+				<manacost>XWWU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Alduin&apos;s Bane</related>
+		</card>
+		<card>
+			<name>Alduin&apos;s Bane</name>
+			<text>If a nontoken noncreature permanent would enter and it wasn&apos;t cast, put it on the bottom of its owner&apos;s library instead.
+At the beginning of your end step, you gain 2 life and study the voice. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)
+---
+(Front): Exploit the Time-Wound</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/FTB-files/img/205_Exploit the Time-Wound_back.png" num="205b">FTB</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Exploit the Time-Wound</related>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

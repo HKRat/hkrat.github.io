@@ -1,10 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/PRW-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/PRW-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>PRW visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
 		body {
 			font-family: Arial, sans-serif;
 			margin: 0;
@@ -35,19 +42,21 @@
 			position: relative;
 		}
 		.sidebar-h-img {
-			display: none;
-			transform: rotate(90deg);
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
 			position: absolute;
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -58,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -78,11 +87,12 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
 			height: auto;
-			padding-top: 20px;
+			padding-top: 80px;
 			padding-bottom: 50px;
 		}
 		.logo {
@@ -98,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -114,40 +125,54 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
-		.icon-bar {
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
 			display: grid;
-			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
-			gap: 1px;
-			padding-left: 5%;
-			padding-right: 5%;
-			padding-top: 2%;
-			padding-bottom: 1%;
-			justify-items: center;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
 			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
 		}
-		.icon-bar .icon img {
-			width: 90%;
-			max-width: 80px;
-			height: auto;
-			display: block;
-			padding: 5%;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
 		}
-		.icon-bar .dot img {
-			width: 50%;
-			max-width: 65px;
-			height: auto;
-			display: block;
-			margin: auto;
-			text-align: center;
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
 		}
 		.preload-hidden {
 			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
 		}
 		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
 		.footer {
@@ -156,311 +181,328 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/PRW-files/logo.png" />
-	<img class="preload-hidden" src="/sets/TOC-files/icon.png" />
-		<img class="preload-hidden" src="/sets/TOB-files/icon.png" />
-		<img class="preload-hidden" src="/sets/PRW-files/icon.png" />
-		<img class="preload-hidden" src="/sets/FTB-files/icon.png" />
-		<img class="preload-hidden" src="/sets/CSD-files/icon.png" />
-		<img class="preload-hidden" src="/sets/WAW-files/icon.png" />
-		<img class="preload-hidden" src="/sets/PCA-files/icon.png" />
-		<img class="preload-hidden" src="/sets/SRN-files/icon.png" />
-		<img class="preload-hidden" src="/sets/Kube-files/icon.png" />
-		<img class="preload-hidden" src="/sets/COT-files/icon.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/PRW-files/logo.png" />
+	<img class="preload-hidden" src="../sets/FTB-files/icon.png" />
+		<img class="preload-hidden" src="../sets/TOC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/TOB-files/icon.png" />
+		<img class="preload-hidden" src="../sets/PRW-files/icon.png" />
+		<img class="preload-hidden" src="../sets/CSD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/WAW-files/icon.png" />
+		<img class="preload-hidden" src="../sets/PCA-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SRN-files/icon.png" />
+		<img class="preload-hidden" src="../sets/Kube-files/icon.png" />
+		<img class="preload-hidden" src="../sets/COT-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
 
-	<div class="icon-bar">
-			<div class="icon"><a href="TOC"><img src="/sets/TOC-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="TOB"><img src="/sets/TOB-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="PRW"><img src="/sets/PRW-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="FTB"><img src="/sets/FTB-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="CSD"><img src="/sets/CSD-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="WAW"><img src="/sets/WAW-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="PCA"><img src="/sets/PCA-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="SRN"><img src="/sets/SRN-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="Kube"><img src="/sets/Kube-files/icon.png"></img></a></div>
-		 <div class="dot"><img src="/img/dot.png"></img></div>
-		<div class="icon"><a href="COT"><img src="/sets/COT-files/icon.png"></img></a></div>
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
 
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/PRW"><img src="../sets/PRW-files/icon.png">Primal Wilds</a>
+	
+		<a class="set-bar inactive" href="../previews/FTB"><img src="../sets/FTB-files/icon.png">Fate of the Dragonborn</a>
+	
+		<a class="set-bar inactive" href="../previews/TOC"><img src="../sets/TOC-files/icon.png">Tides of Caitisan</a>
+	
+		<a class="set-bar inactive" href="../previews/TOB"><img src="../sets/TOB-files/icon.png">Threat of Oblivion</a>
+	
+		<a class="set-bar inactive" href="../previews/CSD"><img src="../sets/CSD-files/icon.png">Clash of Sordell</a>
+	
+		<a class="set-bar inactive" href="../previews/WAW"><img src="../sets/WAW-files/icon.png">World at War</a>
+	
+		<a class="set-bar inactive" href="../previews/PCA"><img src="../sets/PCA-files/icon.png">Pirates of Caitisan</a>
+	
+		<a class="set-bar inactive" href="../previews/SRN"><img src="../sets/SRN-files/icon.png">Skyrim Nine Divines Edition</a>
+	
+		<a class="set-bar inactive" href="../previews/Kube"><img src="../sets/Kube-files/icon.png">Krowkube</a>
+	
+		<a class="set-bar inactive" href="../previews/COT"><img src="../sets/COT-files/icon.png">Commanders of the Tides</a>
+	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/PRW-files/logo.png">
+		<img class="logo" src="../sets/PRW-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-				<div class="container"><img alt="/sets\PRW-files\img\5_Fell the Beast.png" id="5_Fell the Beast" data-flag="@X" onclick="openSidebar('5_Fell the Beast',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\36_Mystic Rite.png" id="36_Mystic Rite" data-flag="@X" onclick="openSidebar('36_Mystic Rite',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\58_Bortan, Dominant Chieftan.png" id="58_Bortan, Dominant Chieftan" data-flag="@X" onclick="openSidebar('58_Bortan, Dominant Chieftan',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\86_Bloodlust Hunt.png" id="86_Bloodlust Hunt" data-flag="@X" onclick="openSidebar('86_Bloodlust Hunt',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\120_Mammalian Dawn.png" id="120_Mammalian Dawn" data-flag="@X" onclick="openSidebar('120_Mammalian Dawn',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\15_Roaming Negotiator.png" id="15_Roaming Negotiator" data-flag="@X" onclick="openSidebar('15_Roaming Negotiator',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\37_Nesting Pteranodon.png" id="37_Nesting Pteranodon" data-flag="@X" onclick="openSidebar('37_Nesting Pteranodon',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\59_Colossal Frightmaw.png" id="59_Colossal Frightmaw" data-flag="@X" onclick="openSidebar('59_Colossal Frightmaw',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\98_Morubi Flayer.png" id="98_Morubi Flayer" data-flag="@X" onclick="openSidebar('98_Morubi Flayer',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\125_Raptor Riders.png" id="125_Raptor Riders" data-flag="@X" onclick="openSidebar('125_Raptor Riders',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\18_Sauren, Asari Sun-Chief.png" id="18_Sauren, Asari Sun-Chief" data-flag="@X" onclick="openSidebar('18_Sauren, Asari Sun-Chief',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\40_Northlands Tracker.png" id="40_Northlands Tracker" data-flag="@X" onclick="openSidebar('40_Northlands Tracker',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\61_Doomed Sauropod.png" id="61_Doomed Sauropod" data-flag="@X" onclick="openSidebar('61_Doomed Sauropod',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\99_Morubi Native.png" id="99_Morubi Native" data-flag="@X" onclick="openSidebar('99_Morubi Native',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\129_Sun-Valley Lookout.png" id="129_Sun-Valley Lookout" data-flag="@X" onclick="openSidebar('129_Sun-Valley Lookout',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\21_Sunder.png" id="21_Sunder" data-flag="@X" onclick="openSidebar('21_Sunder',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\47_Seronia, Consecrated Oracle.png" id="47_Seronia, Consecrated Oracle" data-flag="@X" onclick="openSidebar('47_Seronia, Consecrated Oracle',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\76_Scavenging Grounds.png" id="76_Scavenging Grounds" data-flag="@X" onclick="openSidebar('76_Scavenging Grounds',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\102_Stalwart Stonehide.png" id="102_Stalwart Stonehide" data-flag="@X" onclick="openSidebar('102_Stalwart Stonehide',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\133_Wandering Caravan.png" id="133_Wandering Caravan" data-flag="@X" onclick="openSidebar('133_Wandering Caravan',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\22_Territorial Sauropod.png" id="22_Territorial Sauropod" data-flag="@X" onclick="openSidebar('22_Territorial Sauropod',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\53_Volta's Assistant.png" id="53_Voltas Assistant" data-flag="@X" onclick="openSidebar('53_Voltas Assistant',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\80_Tyrant's Reign.png" id="80_Tyrants Reign" data-flag="@X" onclick="openSidebar('80_Tyrants Reign',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\87_Bloodscent.png" id="87_Bloodscent" data-flag="@X" onclick="openSidebar('87_Bloodscent',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\134_Warpath Carnivore.png" id="134_Warpath Carnivore" data-flag="@X" onclick="openSidebar('134_Warpath Carnivore',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\2_Badlands Ranger.png" id="2_Badlands Ranger" data-flag="@X" onclick="openSidebar('2_Badlands Ranger',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\32_Frozen Secrets.png" id="32_Frozen Secrets" data-flag="@X" onclick="openSidebar('32_Frozen Secrets',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\60_Deathclaw Pack.png" id="60_Deathclaw Pack" data-flag="@X" onclick="openSidebar('60_Deathclaw Pack',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\91_Feral Contender.png" id="91_Feral Contender" data-flag="@X" onclick="openSidebar('91_Feral Contender',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\110_Beauty of the World.png" id="110_Beauty of the World" data-flag="@X" onclick="openSidebar('110_Beauty of the World',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\7_The Hunt Begins!.png" id="7_The Hunt Begins!" data-flag="@X" onclick="openSidebar('7_The Hunt Begins!',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\38_Northland Mystic.png" id="38_Northland Mystic" data-flag="@X" onclick="openSidebar('38_Northland Mystic',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\63_Forgotten Remains.png" id="63_Forgotten Remains" data-flag="@X" onclick="openSidebar('63_Forgotten Remains',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\93_Frantic Scrabbler.png" id="93_Frantic Scrabbler" data-flag="@X" onclick="openSidebar('93_Frantic Scrabbler',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\116_Herd Guardian.png" id="116_Herd Guardian" data-flag="@X" onclick="openSidebar('116_Herd Guardian',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\8_Intrepid Slayer.png" id="8_Intrepid Slayer" data-flag="@X" onclick="openSidebar('8_Intrepid Slayer',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\43_Open Fields.png" id="43_Open Fields" data-flag="@X" onclick="openSidebar('43_Open Fields',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\66_Hell Warden.png" id="66_Hell Warden" data-flag="@X" onclick="openSidebar('66_Hell Warden',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\95_Magmatic Overflow.png" id="95_Magmatic Overflow" data-flag="@X" onclick="openSidebar('95_Magmatic Overflow',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\117_Hunting Trek.png" id="117_Hunting Trek" data-flag="@X" onclick="openSidebar('117_Hunting Trek',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\12_Osuru Wayguide.png" id="12_Osuru Wayguide" data-flag="@X" onclick="openSidebar('12_Osuru Wayguide',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\44_Pathfinder Raptor.png" id="44_Pathfinder Raptor" data-flag="@X" onclick="openSidebar('44_Pathfinder Raptor',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\67_Insatiable Deathclaw.png" id="67_Insatiable Deathclaw" data-flag="@X" onclick="openSidebar('67_Insatiable Deathclaw',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\100_Raptor Pups.png" id="100_Raptor Pups" data-flag="@X" onclick="openSidebar('100_Raptor Pups',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\121_Nest Scrabblers.png" id="121_Nest Scrabblers" data-flag="@X" onclick="openSidebar('121_Nest Scrabblers',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\16_Run Rampant.png" id="16_Run Rampant" data-flag="@X" onclick="openSidebar('16_Run Rampant',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\45_Primal Form.png" id="45_Primal Form" data-flag="@X" onclick="openSidebar('45_Primal Form',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\72_Overshadow.png" id="72_Overshadow" data-flag="@X" onclick="openSidebar('72_Overshadow',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\101_Scaleplate Raider.png" id="101_Scaleplate Raider" data-flag="@X" onclick="openSidebar('101_Scaleplate Raider',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\122_Osuru Naturalist.png" id="122_Osuru Naturalist" data-flag="@X" onclick="openSidebar('122_Osuru Naturalist',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\17_Rushclaw Hunter.png" id="17_Rushclaw Hunter" data-flag="@X" onclick="openSidebar('17_Rushclaw Hunter',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\49_Sun-Valley Warden.png" id="49_Sun-Valley Warden" data-flag="@X" onclick="openSidebar('49_Sun-Valley Warden',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\73_Predatory Prowl.png" id="73_Predatory Prowl" data-flag="@X" onclick="openSidebar('73_Predatory Prowl',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\105_Thrill of the Hunt.png" id="105_Thrill of the Hunt" data-flag="@X" onclick="openSidebar('105_Thrill of the Hunt',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\124_Pterosaur Hunter.png" id="124_Pterosaur Hunter" data-flag="@X" onclick="openSidebar('124_Pterosaur Hunter',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\20_Show of Strength.png" id="20_Show of Strength" data-flag="@X" onclick="openSidebar('20_Show of Strength',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\50_Sunken End.png" id="50_Sunken End" data-flag="@X" onclick="openSidebar('50_Sunken End',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\74_Proving Grounds.png" id="74_Proving Grounds" data-flag="@X" onclick="openSidebar('74_Proving Grounds',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\107_Volcanic Fallout.png" id="107_Volcanic Fallout" data-flag="@X" onclick="openSidebar('107_Volcanic Fallout',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\126_Scavenging Herd.png" id="126_Scavenging Herd" data-flag="@X" onclick="openSidebar('126_Scavenging Herd',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\27_Wayward Traveler.png" id="27_Wayward Traveler" data-flag="@X" onclick="openSidebar('27_Wayward Traveler',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\51_Supply Trek.png" id="51_Supply Trek" data-flag="@X" onclick="openSidebar('51_Supply Trek',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\78_Stalking Remains.png" id="78_Stalking Remains" data-flag="@X" onclick="openSidebar('78_Stalking Remains',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\82_Ancient Encounter.png" id="82_Ancient Encounter" data-flag="@X" onclick="openSidebar('82_Ancient Encounter',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\132_Urge to Feed.png" id="132_Urge to Feed" data-flag="@X" onclick="openSidebar('132_Urge to Feed',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\1_Arid Warden.png" id="1_Arid Warden" data-flag="@X" onclick="openSidebar('1_Arid Warden',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\28_Badlands Glider.png" id="28_Badlands Glider" data-flag="@X" onclick="openSidebar('28_Badlands Glider',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\55_Alpha's Prize.png" id="55_Alphas Prize" data-flag="@X" onclick="openSidebar('55_Alphas Prize',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\83_Asari Outcast.png" id="83_Asari Outcast" data-flag="@X" onclick="openSidebar('83_Asari Outcast',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\108_Ambuscade.png" id="108_Ambuscade" data-flag="@X" onclick="openSidebar('108_Ambuscade',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\3_Bountiful Hunt.png" id="3_Bountiful Hunt" data-flag="@X" onclick="openSidebar('3_Bountiful Hunt',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\29_Brine Pincher.png" id="29_Brine Pincher" data-flag="@X" onclick="openSidebar('29_Brine Pincher',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\56_Blowdart Hunter.png" id="56_Blowdart Hunter" data-flag="@X" onclick="openSidebar('56_Blowdart Hunter',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\84_Badlands Cartographer.png" id="84_Badlands Cartographer" data-flag="@X" onclick="openSidebar('84_Badlands Cartographer',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\109_Ancient Reclamation.png" id="109_Ancient Reclamation" data-flag="@X" onclick="openSidebar('109_Ancient Reclamation',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\4_Couragous Elder.png" id="4_Couragous Elder" data-flag="@X" onclick="openSidebar('4_Couragous Elder',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\30_Deepwater Swimmer.png" id="30_Deepwater Swimmer" data-flag="@X" onclick="openSidebar('30_Deepwater Swimmer',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\57_Bones of the Past.png" id="57_Bones of the Past" data-flag="@X" onclick="openSidebar('57_Bones of the Past',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\85_Basking Sailback.png" id="85_Basking Sailback" data-flag="@X" onclick="openSidebar('85_Basking Sailback',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\111_Breath of the Wild.png" id="111_Breath of the Wild" data-flag="@X" onclick="openSidebar('111_Breath of the Wild',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\6_Flicker of Inspiration.png" id="6_Flicker of Inspiration" data-flag="@X" onclick="openSidebar('6_Flicker of Inspiration',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\31_Foraging Featherwing.png" id="31_Foraging Featherwing" data-flag="@X" onclick="openSidebar('31_Foraging Featherwing',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\62_Feeding Ground.png" id="62_Feeding Ground" data-flag="@X" onclick="openSidebar('62_Feeding Ground',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\88_Bring Tribute.png" id="88_Bring Tribute" data-flag="@X" onclick="openSidebar('88_Bring Tribute',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\112_Bull Ceratops.png" id="112_Bull Ceratops" data-flag="@X" onclick="openSidebar('112_Bull Ceratops',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\9_Loftwing Glider.png" id="9_Loftwing Glider" data-flag="@X" onclick="openSidebar('9_Loftwing Glider',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\33_Gamaz's Prowl.png" id="33_Gamazs Prowl" data-flag="@X" onclick="openSidebar('33_Gamazs Prowl',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\64_Funeral Grounds.png" id="64_Funeral Grounds" data-flag="@X" onclick="openSidebar('64_Funeral Grounds',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\89_Confrontation.png" id="89_Confrontation" data-flag="@X" onclick="openSidebar('89_Confrontation',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\113_Cairn Painting.png" id="113_Cairn Painting" data-flag="@X" onclick="openSidebar('113_Cairn Painting',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\10_Nomad's Companion.png" id="10_Nomads Companion" data-flag="@X" onclick="openSidebar('10_Nomads Companion',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\34_Infighting.png" id="34_Infighting" data-flag="@X" onclick="openSidebar('34_Infighting',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\65_Glade Scavengers.png" id="65_Glade Scavengers" data-flag="@X" onclick="openSidebar('65_Glade Scavengers',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\90_Cross Boundaries.png" id="90_Cross Boundaries" data-flag="@X" onclick="openSidebar('90_Cross Boundaries',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\114_Charging Hintodon.png" id="114_Charging Hintodon" data-flag="@X" onclick="openSidebar('114_Charging Hintodon',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\11_Osuru Scrapper.png" id="11_Osuru Scrapper" data-flag="@X" onclick="openSidebar('11_Osuru Scrapper',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\35_Mana Malfunction.png" id="35_Mana Malfunction" data-flag="@X" onclick="openSidebar('35_Mana Malfunction',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\68_Morubi Envoys.png" id="68_Morubi Envoys" data-flag="@X" onclick="openSidebar('68_Morubi Envoys',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\92_Foraging Archaeopteryx.png" id="92_Foraging Archaeopteryx" data-flag="@X" onclick="openSidebar('92_Foraging Archaeopteryx',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\115_Giant Tyrannosaur.png" id="115_Giant Tyrannosaur" data-flag="@X" onclick="openSidebar('115_Giant Tyrannosaur',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\13_Outcast's Expedition.png" id="13_Outcasts Expedition" data-flag="@X" onclick="openSidebar('13_Outcasts Expedition',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\39_Northlands Conquerer.png" id="39_Northlands Conquerer" data-flag="@X" onclick="openSidebar('39_Northlands Conquerer',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\69_Morubi Predator.png" id="69_Morubi Predator" data-flag="@X" onclick="openSidebar('69_Morubi Predator',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\94_Gluttonous Gorger.png" id="94_Gluttonous Gorger" data-flag="@X" onclick="openSidebar('94_Gluttonous Gorger',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\118_Huntraptor.png" id="118_Huntraptor" data-flag="@X" onclick="openSidebar('118_Huntraptor',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\14_Primal Challenge.png" id="14_Primal Challenge" data-flag="@X" onclick="openSidebar('14_Primal Challenge',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\41_Ocean Lurker.png" id="41_Ocean Lurker" data-flag="@X" onclick="openSidebar('41_Ocean Lurker',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\70_Morubi Vagrants.png" id="70_Morubi Vagrants" data-flag="@X" onclick="openSidebar('70_Morubi Vagrants',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\96_Maurader's Raptor.png" id="96_Mauraders Raptor" data-flag="@X" onclick="openSidebar('96_Mauraders Raptor',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\119_Journey North.png" id="119_Journey North" data-flag="@X" onclick="openSidebar('119_Journey North',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\19_Scout's Preparations.png" id="19_Scouts Preparations" data-flag="@X" onclick="openSidebar('19_Scouts Preparations',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\42_One With the Herd.png" id="42_One With the Herd" data-flag="@X" onclick="openSidebar('42_One With the Herd',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\71_Northlands Hunter.png" id="71_Northlands Hunter" data-flag="@X" onclick="openSidebar('71_Northlands Hunter',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\97_Morubi Elder.png" id="97_Morubi Elder" data-flag="@X" onclick="openSidebar('97_Morubi Elder',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\123_Primal Proving.png" id="123_Primal Proving" data-flag="@X" onclick="openSidebar('123_Primal Proving',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\23_Travel Caravan.png" id="23_Travel Caravan" data-flag="@X" onclick="openSidebar('23_Travel Caravan',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\46_Pterosaur Flock.png" id="46_Pterosaur Flock" data-flag="@X" onclick="openSidebar('46_Pterosaur Flock',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\75_Scaleplate Ravager.png" id="75_Scaleplate Ravager" data-flag="@X" onclick="openSidebar('75_Scaleplate Ravager',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\103_Stand Tall.png" id="103_Stand Tall" data-flag="@X" onclick="openSidebar('103_Stand Tall',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\127_Scout's Sight.png" id="127_Scouts Sight" data-flag="@X" onclick="openSidebar('127_Scouts Sight',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\24_Tribal Anointer.png" id="24_Tribal Anointer" data-flag="@X" onclick="openSidebar('24_Tribal Anointer',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\48_Skyline Dreams.png" id="48_Skyline Dreams" data-flag="@X" onclick="openSidebar('48_Skyline Dreams',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\77_Sheer Determination.png" id="77_Sheer Determination" data-flag="@X" onclick="openSidebar('77_Sheer Determination',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\104_Tandem Hunters.png" id="104_Tandem Hunters" data-flag="@X" onclick="openSidebar('104_Tandem Hunters',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\128_Shimmer Shaman.png" id="128_Shimmer Shaman" data-flag="@X" onclick="openSidebar('128_Shimmer Shaman',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\25_Updraft.png" id="25_Updraft" data-flag="@X" onclick="openSidebar('25_Updraft',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\52_Touch the Sky.png" id="52_Touch the Sky" data-flag="@X" onclick="openSidebar('52_Touch the Sky',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\79_Sulfur Raptor.png" id="79_Sulfur Raptor" data-flag="@X" onclick="openSidebar('79_Sulfur Raptor',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\106_Turn Upon.png" id="106_Turn Upon" data-flag="@X" onclick="openSidebar('106_Turn Upon',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\130_Survive the Hunt.png" id="130_Survive the Hunt" data-flag="@X" onclick="openSidebar('130_Survive the Hunt',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\26_Valley Ceratops.png" id="26_Valley Ceratops" data-flag="@X" onclick="openSidebar('26_Valley Ceratops',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\54_Wake Crasher.png" id="54_Wake Crasher" data-flag="@X" onclick="openSidebar('54_Wake Crasher',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\81_Unceremonious End.png" id="81_Unceremonious End" data-flag="@X" onclick="openSidebar('81_Unceremonious End',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\131_Territorial Stonehide.png" id="131_Territorial Stonehide" data-flag="@X" onclick="openSidebar('131_Territorial Stonehide',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="gold" class="anchor"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\139_Forgathr the Blessed.png" id="139_Forgathr the Blessed" data-flag="@X" onclick="openSidebar('139_Forgathr the Blessed',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\140_Frightmaw.png" id="140_Frightmaw" data-flag="@X" onclick="openSidebar('140_Frightmaw',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\137_Cerat, Asari Hunter.png" id="137_Cerat, Asari Hunter" data-flag="@X" onclick="openSidebar('137_Cerat, Asari Hunter',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\138_Flittering Featherwing.png" id="138_Flittering Featherwing" data-flag="@X" onclick="openSidebar('138_Flittering Featherwing',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\135_Asari War Plate.png" id="135_Asari War Plate" data-flag="@X" onclick="openSidebar('135_Asari War Plate',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\145_Territorial Bout.png" id="145_Territorial Bout" data-flag="@X" onclick="openSidebar('145_Territorial Bout',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\136_Barren Grounds.png" id="136_Barren Grounds" data-flag="@X" onclick="openSidebar('136_Barren Grounds',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\142_Horizon Sailback.png" id="142_Horizon Sailback" data-flag="@X" onclick="openSidebar('142_Horizon Sailback',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\143_Nomadic Treader.png" id="143_Nomadic Treader" data-flag="@X" onclick="openSidebar('143_Nomadic Treader',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\144_Shore Mystic.png" id="144_Shore Mystic" data-flag="@X" onclick="openSidebar('144_Shore Mystic',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="colorless" class="anchor"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\146_Gamaz the Worldmaw.png" id="146_Gamaz the Worldmaw" data-flag="@X" onclick="openSidebar('146_Gamaz the Worldmaw',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="land" class="anchor"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\147_Abandoned Garrison.png" id="147_Abandoned Garrison" data-flag="@X" onclick="openSidebar('147_Abandoned Garrison',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\149_Fossil Shores.png" id="149_Fossil Shores" data-flag="@X" onclick="openSidebar('149_Fossil Shores',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\154_Primeval Marsh.png" id="154_Primeval Marsh" data-flag="@X" onclick="openSidebar('154_Primeval Marsh',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\148_Erupting Volcano.png" id="148_Erupting Volcano" data-flag="@X" onclick="openSidebar('148_Erupting Volcano',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\156_Verdant Jungle.png" id="156_Verdant Jungle" data-flag="@X" onclick="openSidebar('156_Verdant Jungle',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\150_Lichen Slab.png" id="150_Lichen Slab" data-flag="@X" onclick="openSidebar('150_Lichen Slab',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\151_Lowland Pools.png" id="151_Lowland Pools" data-flag="@X" onclick="openSidebar('151_Lowland Pools',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\153_Primal Isle.png" id="153_Primal Isle" data-flag="@X" onclick="openSidebar('153_Primal Isle',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\155_Sulfur Fields.png" id="155_Sulfur Fields" data-flag="@X" onclick="openSidebar('155_Sulfur Fields',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\157_Volcanic Basin.png" id="157_Volcanic Basin" data-flag="@X" onclick="openSidebar('157_Volcanic Basin',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\152_Magmatic Horizon.png" id="152_Magmatic Horizon" data-flag="@X" onclick="openSidebar('152_Magmatic Horizon',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\159_Plains.png" id="159_Plains" data-flag="@X" onclick="openSidebar('159_Plains',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\160_Island.png" id="160_Island" data-flag="@X" onclick="openSidebar('160_Island',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\161_Swamp.png" id="161_Swamp" data-flag="@X" onclick="openSidebar('161_Swamp',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\162_Mountain.png" id="162_Mountain" data-flag="@X" onclick="openSidebar('162_Mountain',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\163_Forest.png" id="163_Forest" data-flag="@X" onclick="openSidebar('163_Forest',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\158_Wastes.png" id="158_Wastes" data-flag="@X" onclick="openSidebar('158_Wastes',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="token" class="anchor"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\9t_Construct.png" id="9t_Construct" data-flag="@X" onclick="openSidebar('9t_Construct',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\1t_Human.png" id="1t_Human" data-flag="@X" onclick="openSidebar('1t_Human',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\2t_Wolf Dragon.png" id="2t_Wolf Dragon" data-flag="@X" onclick="openSidebar('2t_Wolf Dragon',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\3t_Phyrexian Sphinx.png" id="3t_Phyrexian Sphinx" data-flag="@X" onclick="openSidebar('3t_Phyrexian Sphinx',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\4t_Warrior.png" id="4t_Warrior" data-flag="@X" onclick="openSidebar('4t_Warrior',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\5t_Dinosaur.png" id="5t_Dinosaur" data-flag="@X" onclick="openSidebar('5t_Dinosaur',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\6t_Snake Druid.png" id="6t_Snake Druid" data-flag="@X" onclick="openSidebar('6t_Snake Druid',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\7t_Dinosaur.png" id="7t_Dinosaur" data-flag="@X" onclick="openSidebar('7t_Dinosaur',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\8t_Wilds of Morubi.png" id="8t_Wilds of Morubi" data-flag="@X" onclick="openSidebar('8t_Wilds of Morubi',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-<div id="masterpiece" class="anchor"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\3_Bountiful Shores.png" id="3_Bountiful Shores" data-flag="@X" onclick="openSidebar('3_Bountiful Shores',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\4_Decrepit Boneyard.png" id="4_Decrepit Boneyard" data-flag="@X" onclick="openSidebar('4_Decrepit Boneyard',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\5_Floodplain Marsh.png" id="5_Floodplain Marsh" data-flag="@X" onclick="openSidebar('5_Floodplain Marsh',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\6_Glorious Keep.png" id="6_Glorious Keep" data-flag="@X" onclick="openSidebar('6_Glorious Keep',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\7_Meandering River.png" id="7_Meandering River" data-flag="@X" onclick="openSidebar('7_Meandering River',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\1_Roaming Raptor.png" id="1_Roaming Raptor" data-flag="@X" onclick="openSidebar('1_Roaming Raptor',false)"></div>
-			<div class="container"><img alt="/sets\PRW-files\img\2_Galthus the Terror.png" id="2_Galthus the Terror" data-flag="@X" onclick="openSidebar('2_Galthus the Terror',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\PRW-files\img\5_Fell the Beast.png" id="PRW_5_Fell the Beast" data-flag="@X" onclick="openSidebar('PRW_5_Fell the Beast',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\36_Mystic Rite.png" id="PRW_36_Mystic Rite" data-flag="@X" onclick="openSidebar('PRW_36_Mystic Rite',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\58_Bortan, Dominant Chieftan.png" id="PRW_58_Bortan, Dominant Chieftan" data-flag="@X" onclick="openSidebar('PRW_58_Bortan, Dominant Chieftan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\86_Bloodlust Hunt.png" id="PRW_86_Bloodlust Hunt" data-flag="@X" onclick="openSidebar('PRW_86_Bloodlust Hunt',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\120_Mammalian Dawn.png" id="PRW_120_Mammalian Dawn" data-flag="@X" onclick="openSidebar('PRW_120_Mammalian Dawn',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\15_Roaming Negotiator.png" id="PRW_15_Roaming Negotiator" data-flag="@X" onclick="openSidebar('PRW_15_Roaming Negotiator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\37_Nesting Pteranodon.png" id="PRW_37_Nesting Pteranodon" data-flag="@X" onclick="openSidebar('PRW_37_Nesting Pteranodon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\59_Colossal Frightmaw.png" id="PRW_59_Colossal Frightmaw" data-flag="@X" onclick="openSidebar('PRW_59_Colossal Frightmaw',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\98_Morubi Flayer.png" id="PRW_98_Morubi Flayer" data-flag="@X" onclick="openSidebar('PRW_98_Morubi Flayer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\125_Raptor Riders.png" id="PRW_125_Raptor Riders" data-flag="@X" onclick="openSidebar('PRW_125_Raptor Riders',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\18_Sauren, Asari Sun-Chief.png" id="PRW_18_Sauren, Asari Sun-Chief" data-flag="@X" onclick="openSidebar('PRW_18_Sauren, Asari Sun-Chief',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\40_Northlands Tracker.png" id="PRW_40_Northlands Tracker" data-flag="@X" onclick="openSidebar('PRW_40_Northlands Tracker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\61_Doomed Sauropod.png" id="PRW_61_Doomed Sauropod" data-flag="@X" onclick="openSidebar('PRW_61_Doomed Sauropod',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\99_Morubi Native.png" id="PRW_99_Morubi Native" data-flag="@X" onclick="openSidebar('PRW_99_Morubi Native',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\129_Sun-Valley Lookout.png" id="PRW_129_Sun-Valley Lookout" data-flag="@X" onclick="openSidebar('PRW_129_Sun-Valley Lookout',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\21_Sunder.png" id="PRW_21_Sunder" data-flag="@X" onclick="openSidebar('PRW_21_Sunder',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\47_Seronia, Consecrated Oracle.png" id="PRW_47_Seronia, Consecrated Oracle" data-flag="@X" onclick="openSidebar('PRW_47_Seronia, Consecrated Oracle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\76_Scavenging Grounds.png" id="PRW_76_Scavenging Grounds" data-flag="@X" onclick="openSidebar('PRW_76_Scavenging Grounds',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\102_Stalwart Stonehide.png" id="PRW_102_Stalwart Stonehide" data-flag="@X" onclick="openSidebar('PRW_102_Stalwart Stonehide',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\133_Wandering Caravan.png" id="PRW_133_Wandering Caravan" data-flag="@X" onclick="openSidebar('PRW_133_Wandering Caravan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\22_Territorial Sauropod.png" id="PRW_22_Territorial Sauropod" data-flag="@X" onclick="openSidebar('PRW_22_Territorial Sauropod',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\53_Volta's Assistant.png" id="PRW_53_Voltas Assistant" data-flag="@X" onclick="openSidebar('PRW_53_Voltas Assistant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\80_Tyrant's Reign.png" id="PRW_80_Tyrants Reign" data-flag="@X" onclick="openSidebar('PRW_80_Tyrants Reign',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\87_Bloodscent.png" id="PRW_87_Bloodscent" data-flag="@X" onclick="openSidebar('PRW_87_Bloodscent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\134_Warpath Carnivore.png" id="PRW_134_Warpath Carnivore" data-flag="@X" onclick="openSidebar('PRW_134_Warpath Carnivore',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\2_Badlands Ranger.png" id="PRW_2_Badlands Ranger" data-flag="@X" onclick="openSidebar('PRW_2_Badlands Ranger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\32_Frozen Secrets.png" id="PRW_32_Frozen Secrets" data-flag="@X" onclick="openSidebar('PRW_32_Frozen Secrets',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\60_Deathclaw Pack.png" id="PRW_60_Deathclaw Pack" data-flag="@X" onclick="openSidebar('PRW_60_Deathclaw Pack',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\91_Feral Contender.png" id="PRW_91_Feral Contender" data-flag="@X" onclick="openSidebar('PRW_91_Feral Contender',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\110_Beauty of the World.png" id="PRW_110_Beauty of the World" data-flag="@X" onclick="openSidebar('PRW_110_Beauty of the World',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\7_The Hunt Begins!.png" id="PRW_7_The Hunt Begins!" data-flag="@X" onclick="openSidebar('PRW_7_The Hunt Begins!',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\38_Northland Mystic.png" id="PRW_38_Northland Mystic" data-flag="@X" onclick="openSidebar('PRW_38_Northland Mystic',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\63_Forgotten Remains.png" id="PRW_63_Forgotten Remains" data-flag="@X" onclick="openSidebar('PRW_63_Forgotten Remains',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\93_Frantic Scrabbler.png" id="PRW_93_Frantic Scrabbler" data-flag="@X" onclick="openSidebar('PRW_93_Frantic Scrabbler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\116_Herd Guardian.png" id="PRW_116_Herd Guardian" data-flag="@X" onclick="openSidebar('PRW_116_Herd Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\8_Intrepid Slayer.png" id="PRW_8_Intrepid Slayer" data-flag="@X" onclick="openSidebar('PRW_8_Intrepid Slayer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\43_Open Fields.png" id="PRW_43_Open Fields" data-flag="@X" onclick="openSidebar('PRW_43_Open Fields',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\66_Hell Warden.png" id="PRW_66_Hell Warden" data-flag="@X" onclick="openSidebar('PRW_66_Hell Warden',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\95_Magmatic Overflow.png" id="PRW_95_Magmatic Overflow" data-flag="@X" onclick="openSidebar('PRW_95_Magmatic Overflow',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\117_Hunting Trek.png" id="PRW_117_Hunting Trek" data-flag="@X" onclick="openSidebar('PRW_117_Hunting Trek',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\12_Osuru Wayguide.png" id="PRW_12_Osuru Wayguide" data-flag="@X" onclick="openSidebar('PRW_12_Osuru Wayguide',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\44_Pathfinder Raptor.png" id="PRW_44_Pathfinder Raptor" data-flag="@X" onclick="openSidebar('PRW_44_Pathfinder Raptor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\67_Insatiable Deathclaw.png" id="PRW_67_Insatiable Deathclaw" data-flag="@X" onclick="openSidebar('PRW_67_Insatiable Deathclaw',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\100_Raptor Pups.png" id="PRW_100_Raptor Pups" data-flag="@X" onclick="openSidebar('PRW_100_Raptor Pups',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\121_Nest Scrabblers.png" id="PRW_121_Nest Scrabblers" data-flag="@X" onclick="openSidebar('PRW_121_Nest Scrabblers',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\16_Run Rampant.png" id="PRW_16_Run Rampant" data-flag="@X" onclick="openSidebar('PRW_16_Run Rampant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\45_Primal Form.png" id="PRW_45_Primal Form" data-flag="@X" onclick="openSidebar('PRW_45_Primal Form',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\72_Overshadow.png" id="PRW_72_Overshadow" data-flag="@X" onclick="openSidebar('PRW_72_Overshadow',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\101_Scaleplate Raider.png" id="PRW_101_Scaleplate Raider" data-flag="@X" onclick="openSidebar('PRW_101_Scaleplate Raider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\122_Osuru Naturalist.png" id="PRW_122_Osuru Naturalist" data-flag="@X" onclick="openSidebar('PRW_122_Osuru Naturalist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\17_Rushclaw Hunter.png" id="PRW_17_Rushclaw Hunter" data-flag="@X" onclick="openSidebar('PRW_17_Rushclaw Hunter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\49_Sun-Valley Warden.png" id="PRW_49_Sun-Valley Warden" data-flag="@X" onclick="openSidebar('PRW_49_Sun-Valley Warden',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\73_Predatory Prowl.png" id="PRW_73_Predatory Prowl" data-flag="@X" onclick="openSidebar('PRW_73_Predatory Prowl',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\105_Thrill of the Hunt.png" id="PRW_105_Thrill of the Hunt" data-flag="@X" onclick="openSidebar('PRW_105_Thrill of the Hunt',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\124_Pterosaur Hunter.png" id="PRW_124_Pterosaur Hunter" data-flag="@X" onclick="openSidebar('PRW_124_Pterosaur Hunter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\20_Show of Strength.png" id="PRW_20_Show of Strength" data-flag="@X" onclick="openSidebar('PRW_20_Show of Strength',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\50_Sunken End.png" id="PRW_50_Sunken End" data-flag="@X" onclick="openSidebar('PRW_50_Sunken End',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\74_Proving Grounds.png" id="PRW_74_Proving Grounds" data-flag="@X" onclick="openSidebar('PRW_74_Proving Grounds',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\107_Volcanic Fallout.png" id="PRW_107_Volcanic Fallout" data-flag="@X" onclick="openSidebar('PRW_107_Volcanic Fallout',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\126_Scavenging Herd.png" id="PRW_126_Scavenging Herd" data-flag="@X" onclick="openSidebar('PRW_126_Scavenging Herd',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\27_Wayward Traveler.png" id="PRW_27_Wayward Traveler" data-flag="@X" onclick="openSidebar('PRW_27_Wayward Traveler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\51_Supply Trek.png" id="PRW_51_Supply Trek" data-flag="@X" onclick="openSidebar('PRW_51_Supply Trek',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\78_Stalking Remains.png" id="PRW_78_Stalking Remains" data-flag="@X" onclick="openSidebar('PRW_78_Stalking Remains',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\82_Ancient Encounter.png" id="PRW_82_Ancient Encounter" data-flag="@X" onclick="openSidebar('PRW_82_Ancient Encounter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\132_Urge to Feed.png" id="PRW_132_Urge to Feed" data-flag="@X" onclick="openSidebar('PRW_132_Urge to Feed',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\1_Arid Warden.png" id="PRW_1_Arid Warden" data-flag="@X" onclick="openSidebar('PRW_1_Arid Warden',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\28_Badlands Glider.png" id="PRW_28_Badlands Glider" data-flag="@X" onclick="openSidebar('PRW_28_Badlands Glider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\55_Alpha's Prize.png" id="PRW_55_Alphas Prize" data-flag="@X" onclick="openSidebar('PRW_55_Alphas Prize',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\83_Asari Outcast.png" id="PRW_83_Asari Outcast" data-flag="@X" onclick="openSidebar('PRW_83_Asari Outcast',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\108_Ambuscade.png" id="PRW_108_Ambuscade" data-flag="@X" onclick="openSidebar('PRW_108_Ambuscade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\3_Bountiful Hunt.png" id="PRW_3_Bountiful Hunt" data-flag="@X" onclick="openSidebar('PRW_3_Bountiful Hunt',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\29_Brine Pincher.png" id="PRW_29_Brine Pincher" data-flag="@X" onclick="openSidebar('PRW_29_Brine Pincher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\56_Blowdart Hunter.png" id="PRW_56_Blowdart Hunter" data-flag="@X" onclick="openSidebar('PRW_56_Blowdart Hunter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\84_Badlands Cartographer.png" id="PRW_84_Badlands Cartographer" data-flag="@X" onclick="openSidebar('PRW_84_Badlands Cartographer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\109_Ancient Reclamation.png" id="PRW_109_Ancient Reclamation" data-flag="@X" onclick="openSidebar('PRW_109_Ancient Reclamation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\4_Couragous Elder.png" id="PRW_4_Couragous Elder" data-flag="@X" onclick="openSidebar('PRW_4_Couragous Elder',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\30_Deepwater Swimmer.png" id="PRW_30_Deepwater Swimmer" data-flag="@X" onclick="openSidebar('PRW_30_Deepwater Swimmer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\57_Bones of the Past.png" id="PRW_57_Bones of the Past" data-flag="@X" onclick="openSidebar('PRW_57_Bones of the Past',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\85_Basking Sailback.png" id="PRW_85_Basking Sailback" data-flag="@X" onclick="openSidebar('PRW_85_Basking Sailback',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\111_Breath of the Wild.png" id="PRW_111_Breath of the Wild" data-flag="@X" onclick="openSidebar('PRW_111_Breath of the Wild',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\6_Flicker of Inspiration.png" id="PRW_6_Flicker of Inspiration" data-flag="@X" onclick="openSidebar('PRW_6_Flicker of Inspiration',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\31_Foraging Featherwing.png" id="PRW_31_Foraging Featherwing" data-flag="@X" onclick="openSidebar('PRW_31_Foraging Featherwing',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\62_Feeding Ground.png" id="PRW_62_Feeding Ground" data-flag="@X" onclick="openSidebar('PRW_62_Feeding Ground',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\88_Bring Tribute.png" id="PRW_88_Bring Tribute" data-flag="@X" onclick="openSidebar('PRW_88_Bring Tribute',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\112_Bull Ceratops.png" id="PRW_112_Bull Ceratops" data-flag="@X" onclick="openSidebar('PRW_112_Bull Ceratops',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\9_Loftwing Glider.png" id="PRW_9_Loftwing Glider" data-flag="@X" onclick="openSidebar('PRW_9_Loftwing Glider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\33_Gamaz's Prowl.png" id="PRW_33_Gamazs Prowl" data-flag="@X" onclick="openSidebar('PRW_33_Gamazs Prowl',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\64_Funeral Grounds.png" id="PRW_64_Funeral Grounds" data-flag="@X" onclick="openSidebar('PRW_64_Funeral Grounds',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\89_Confrontation.png" id="PRW_89_Confrontation" data-flag="@X" onclick="openSidebar('PRW_89_Confrontation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\113_Cairn Painting.png" id="PRW_113_Cairn Painting" data-flag="@X" onclick="openSidebar('PRW_113_Cairn Painting',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\10_Nomad's Companion.png" id="PRW_10_Nomads Companion" data-flag="@X" onclick="openSidebar('PRW_10_Nomads Companion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\34_Infighting.png" id="PRW_34_Infighting" data-flag="@X" onclick="openSidebar('PRW_34_Infighting',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\65_Glade Scavengers.png" id="PRW_65_Glade Scavengers" data-flag="@X" onclick="openSidebar('PRW_65_Glade Scavengers',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\90_Cross Boundaries.png" id="PRW_90_Cross Boundaries" data-flag="@X" onclick="openSidebar('PRW_90_Cross Boundaries',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\114_Charging Hintodon.png" id="PRW_114_Charging Hintodon" data-flag="@X" onclick="openSidebar('PRW_114_Charging Hintodon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\11_Osuru Scrapper.png" id="PRW_11_Osuru Scrapper" data-flag="@X" onclick="openSidebar('PRW_11_Osuru Scrapper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\35_Mana Malfunction.png" id="PRW_35_Mana Malfunction" data-flag="@X" onclick="openSidebar('PRW_35_Mana Malfunction',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\68_Morubi Envoys.png" id="PRW_68_Morubi Envoys" data-flag="@X" onclick="openSidebar('PRW_68_Morubi Envoys',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\92_Foraging Archaeopteryx.png" id="PRW_92_Foraging Archaeopteryx" data-flag="@X" onclick="openSidebar('PRW_92_Foraging Archaeopteryx',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\115_Giant Tyrannosaur.png" id="PRW_115_Giant Tyrannosaur" data-flag="@X" onclick="openSidebar('PRW_115_Giant Tyrannosaur',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\13_Outcast's Expedition.png" id="PRW_13_Outcasts Expedition" data-flag="@X" onclick="openSidebar('PRW_13_Outcasts Expedition',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\39_Northlands Conquerer.png" id="PRW_39_Northlands Conquerer" data-flag="@X" onclick="openSidebar('PRW_39_Northlands Conquerer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\69_Morubi Predator.png" id="PRW_69_Morubi Predator" data-flag="@X" onclick="openSidebar('PRW_69_Morubi Predator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\94_Gluttonous Gorger.png" id="PRW_94_Gluttonous Gorger" data-flag="@X" onclick="openSidebar('PRW_94_Gluttonous Gorger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\118_Huntraptor.png" id="PRW_118_Huntraptor" data-flag="@X" onclick="openSidebar('PRW_118_Huntraptor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\14_Primal Challenge.png" id="PRW_14_Primal Challenge" data-flag="@X" onclick="openSidebar('PRW_14_Primal Challenge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\41_Ocean Lurker.png" id="PRW_41_Ocean Lurker" data-flag="@X" onclick="openSidebar('PRW_41_Ocean Lurker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\70_Morubi Vagrants.png" id="PRW_70_Morubi Vagrants" data-flag="@X" onclick="openSidebar('PRW_70_Morubi Vagrants',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\96_Maurader's Raptor.png" id="PRW_96_Mauraders Raptor" data-flag="@X" onclick="openSidebar('PRW_96_Mauraders Raptor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\119_Journey North.png" id="PRW_119_Journey North" data-flag="@X" onclick="openSidebar('PRW_119_Journey North',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\19_Scout's Preparations.png" id="PRW_19_Scouts Preparations" data-flag="@X" onclick="openSidebar('PRW_19_Scouts Preparations',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\42_One With the Herd.png" id="PRW_42_One With the Herd" data-flag="@X" onclick="openSidebar('PRW_42_One With the Herd',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\71_Northlands Hunter.png" id="PRW_71_Northlands Hunter" data-flag="@X" onclick="openSidebar('PRW_71_Northlands Hunter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\97_Morubi Elder.png" id="PRW_97_Morubi Elder" data-flag="@X" onclick="openSidebar('PRW_97_Morubi Elder',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\123_Primal Proving.png" id="PRW_123_Primal Proving" data-flag="@X" onclick="openSidebar('PRW_123_Primal Proving',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\23_Travel Caravan.png" id="PRW_23_Travel Caravan" data-flag="@X" onclick="openSidebar('PRW_23_Travel Caravan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\46_Pterosaur Flock.png" id="PRW_46_Pterosaur Flock" data-flag="@X" onclick="openSidebar('PRW_46_Pterosaur Flock',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\75_Scaleplate Ravager.png" id="PRW_75_Scaleplate Ravager" data-flag="@X" onclick="openSidebar('PRW_75_Scaleplate Ravager',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\103_Stand Tall.png" id="PRW_103_Stand Tall" data-flag="@X" onclick="openSidebar('PRW_103_Stand Tall',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\127_Scout's Sight.png" id="PRW_127_Scouts Sight" data-flag="@X" onclick="openSidebar('PRW_127_Scouts Sight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\24_Tribal Anointer.png" id="PRW_24_Tribal Anointer" data-flag="@X" onclick="openSidebar('PRW_24_Tribal Anointer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\48_Skyline Dreams.png" id="PRW_48_Skyline Dreams" data-flag="@X" onclick="openSidebar('PRW_48_Skyline Dreams',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\77_Sheer Determination.png" id="PRW_77_Sheer Determination" data-flag="@X" onclick="openSidebar('PRW_77_Sheer Determination',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\104_Tandem Hunters.png" id="PRW_104_Tandem Hunters" data-flag="@X" onclick="openSidebar('PRW_104_Tandem Hunters',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\128_Shimmer Shaman.png" id="PRW_128_Shimmer Shaman" data-flag="@X" onclick="openSidebar('PRW_128_Shimmer Shaman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\25_Updraft.png" id="PRW_25_Updraft" data-flag="@X" onclick="openSidebar('PRW_25_Updraft',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\52_Touch the Sky.png" id="PRW_52_Touch the Sky" data-flag="@X" onclick="openSidebar('PRW_52_Touch the Sky',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\79_Sulfur Raptor.png" id="PRW_79_Sulfur Raptor" data-flag="@X" onclick="openSidebar('PRW_79_Sulfur Raptor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\106_Turn Upon.png" id="PRW_106_Turn Upon" data-flag="@X" onclick="openSidebar('PRW_106_Turn Upon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\130_Survive the Hunt.png" id="PRW_130_Survive the Hunt" data-flag="@X" onclick="openSidebar('PRW_130_Survive the Hunt',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\26_Valley Ceratops.png" id="PRW_26_Valley Ceratops" data-flag="@X" onclick="openSidebar('PRW_26_Valley Ceratops',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\54_Wake Crasher.png" id="PRW_54_Wake Crasher" data-flag="@X" onclick="openSidebar('PRW_54_Wake Crasher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\81_Unceremonious End.png" id="PRW_81_Unceremonious End" data-flag="@X" onclick="openSidebar('PRW_81_Unceremonious End',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\131_Territorial Stonehide.png" id="PRW_131_Territorial Stonehide" data-flag="@X" onclick="openSidebar('PRW_131_Territorial Stonehide',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\139_Forgathr the Blessed.png" id="PRW_139_Forgathr the Blessed" data-flag="@X" onclick="openSidebar('PRW_139_Forgathr the Blessed',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\140_Frightmaw.png" id="PRW_140_Frightmaw" data-flag="@X" onclick="openSidebar('PRW_140_Frightmaw',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\137_Cerat, Asari Hunter.png" id="PRW_137_Cerat, Asari Hunter" data-flag="@X" onclick="openSidebar('PRW_137_Cerat, Asari Hunter',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\138_Flittering Featherwing.png" id="PRW_138_Flittering Featherwing" data-flag="@X" onclick="openSidebar('PRW_138_Flittering Featherwing',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\135_Asari War Plate.png" id="PRW_135_Asari War Plate" data-flag="@X" onclick="openSidebar('PRW_135_Asari War Plate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\145_Territorial Bout.png" id="PRW_145_Territorial Bout" data-flag="@X" onclick="openSidebar('PRW_145_Territorial Bout',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\136_Barren Grounds.png" id="PRW_136_Barren Grounds" data-flag="@X" onclick="openSidebar('PRW_136_Barren Grounds',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\142_Horizon Sailback.png" id="PRW_142_Horizon Sailback" data-flag="@X" onclick="openSidebar('PRW_142_Horizon Sailback',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\143_Nomadic Treader.png" id="PRW_143_Nomadic Treader" data-flag="@X" onclick="openSidebar('PRW_143_Nomadic Treader',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\144_Shore Mystic.png" id="PRW_144_Shore Mystic" data-flag="@X" onclick="openSidebar('PRW_144_Shore Mystic',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\146_Gamaz the Worldmaw.png" id="PRW_146_Gamaz the Worldmaw" data-flag="@X" onclick="openSidebar('PRW_146_Gamaz the Worldmaw',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div id="land" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\147_Abandoned Garrison.png" id="PRW_147_Abandoned Garrison" data-flag="@X" onclick="openSidebar('PRW_147_Abandoned Garrison',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\149_Fossil Shores.png" id="PRW_149_Fossil Shores" data-flag="@X" onclick="openSidebar('PRW_149_Fossil Shores',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\154_Primeval Marsh.png" id="PRW_154_Primeval Marsh" data-flag="@X" onclick="openSidebar('PRW_154_Primeval Marsh',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\148_Erupting Volcano.png" id="PRW_148_Erupting Volcano" data-flag="@X" onclick="openSidebar('PRW_148_Erupting Volcano',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\156_Verdant Jungle.png" id="PRW_156_Verdant Jungle" data-flag="@X" onclick="openSidebar('PRW_156_Verdant Jungle',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\150_Lichen Slab.png" id="PRW_150_Lichen Slab" data-flag="@X" onclick="openSidebar('PRW_150_Lichen Slab',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\151_Lowland Pools.png" id="PRW_151_Lowland Pools" data-flag="@X" onclick="openSidebar('PRW_151_Lowland Pools',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\153_Primal Isle.png" id="PRW_153_Primal Isle" data-flag="@X" onclick="openSidebar('PRW_153_Primal Isle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\155_Sulfur Fields.png" id="PRW_155_Sulfur Fields" data-flag="@X" onclick="openSidebar('PRW_155_Sulfur Fields',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\157_Volcanic Basin.png" id="PRW_157_Volcanic Basin" data-flag="@X" onclick="openSidebar('PRW_157_Volcanic Basin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\152_Magmatic Horizon.png" id="PRW_152_Magmatic Horizon" data-flag="@X" onclick="openSidebar('PRW_152_Magmatic Horizon',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\159_Plains.png" id="PRW_159_Plains" data-flag="@X" onclick="openSidebar('PRW_159_Plains',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\160_Island.png" id="PRW_160_Island" data-flag="@X" onclick="openSidebar('PRW_160_Island',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\161_Swamp.png" id="PRW_161_Swamp" data-flag="@X" onclick="openSidebar('PRW_161_Swamp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\162_Mountain.png" id="PRW_162_Mountain" data-flag="@X" onclick="openSidebar('PRW_162_Mountain',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\163_Forest.png" id="PRW_163_Forest" data-flag="@X" onclick="openSidebar('PRW_163_Forest',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\158_Wastes.png" id="PRW_158_Wastes" data-flag="@X" onclick="openSidebar('PRW_158_Wastes',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\9t_Construct.png" id="PRW_9t_Construct" data-flag="@X" onclick="openSidebar('PRW_9t_Construct',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\1t_Human.png" id="PRW_1t_Human" data-flag="@X" onclick="openSidebar('PRW_1t_Human',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\2t_Wolf Dragon.png" id="PRW_2t_Wolf Dragon" data-flag="@X" onclick="openSidebar('PRW_2t_Wolf Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\3t_Phyrexian Sphinx.png" id="PRW_3t_Phyrexian Sphinx" data-flag="@X" onclick="openSidebar('PRW_3t_Phyrexian Sphinx',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\4t_Warrior.png" id="PRW_4t_Warrior" data-flag="@X" onclick="openSidebar('PRW_4t_Warrior',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\5t_Dinosaur.png" id="PRW_5t_Dinosaur" data-flag="@X" onclick="openSidebar('PRW_5t_Dinosaur',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\6t_Snake Druid.png" id="PRW_6t_Snake Druid" data-flag="@X" onclick="openSidebar('PRW_6t_Snake Druid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\7t_Dinosaur.png" id="PRW_7t_Dinosaur" data-flag="@X" onclick="openSidebar('PRW_7t_Dinosaur',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\8t_Wilds of Morubi.png" id="PRW_8t_Wilds of Morubi" data-flag="@X" onclick="openSidebar('PRW_8t_Wilds of Morubi',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div id="masterpiece" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\3_Bountiful Shores.png" id="PRW_3_Bountiful Shores" data-flag="@X" onclick="openSidebar('PRW_3_Bountiful Shores',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\4_Decrepit Boneyard.png" id="PRW_4_Decrepit Boneyard" data-flag="@X" onclick="openSidebar('PRW_4_Decrepit Boneyard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\5_Floodplain Marsh.png" id="PRW_5_Floodplain Marsh" data-flag="@X" onclick="openSidebar('PRW_5_Floodplain Marsh',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\6_Glorious Keep.png" id="PRW_6_Glorious Keep" data-flag="@X" onclick="openSidebar('PRW_6_Glorious Keep',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\7_Meandering River.png" id="PRW_7_Meandering River" data-flag="@X" onclick="openSidebar('PRW_7_Meandering River',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\1_Roaming Raptor.png" id="PRW_1_Roaming Raptor" data-flag="@X" onclick="openSidebar('PRW_1_Roaming Raptor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\PRW-files\img\2_Galthus the Terror.png" id="PRW_2_Galthus the Terror" data-flag="@X" onclick="openSidebar('PRW_2_Galthus the Terror',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="PRW_e" data-flag="@E" onclick="openSidebar('PRW_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="PRW_er" data-flag="@E" onclick="openSidebar('PRW_er',false)"></div>
 	</div>
-</div>
+	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -473,13 +515,13 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
@@ -487,8 +529,100 @@
 
 				card_list_arrayified = card_list.cards;
 
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
 		preloadImgs = document.getElementsByClassName('preload-hidden');
-		
+
 		let images_loaded = [];
 
 		do {
@@ -520,13 +654,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -552,49 +689,75 @@
 	let horizontal = false;
 
 	function imgFlip(num) {
-		tmp = document.getElementById(num).src;
-		console.log(num);
-		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
-		document.getElementById(num).dataset.alt_src = tmp;
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
 
-		if (num == 'sidebar_img')
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
 		{
-			const rotated_img = document.getElementById('sidebar_h_img');
 			const sidebar_img = document.getElementById('sidebar_img');
 
-			if (horizontal && rotated_img.style.display == 'none')
-			{
-				rotated_img.style.display = "block";
-				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
-			}
-			else
-			{
-				rotated_img.style.display = "none";
-				sidebar_img.style.filter = "";
-			}
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
 		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
 	}
 
 	function openSidebar(id, h = false) {
 		horizontal = h;
 		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
-		
+
 		document.getElementById('sidebar').style.display = 'grid';
 
 		const rotated_img = document.getElementById('sidebar_h_img');
 		const sidebar_img = document.getElementById('sidebar_img');
 
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
 		sidebar_img.src = document.getElementById(id).src;
 		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
 
 		if (horizontal && !sidebar_img.src.includes("_back"))
 		{
-			rotated_img.style.display = "block";
+			rotated_img.style.opacity = "1";
 			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
 		}
 		else
 		{
-			rotated_img.style.display = "none";
+			rotated_img.style.opacity = "0";
 			sidebar_img.style.filter = "";
 		}
 
@@ -609,7 +772,7 @@
 			document.getElementById('sidebar-flip-btn').style.display = 'none';
 		}
 		document.getElementById('main-content').style.width = '60%';
-		
+
 		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
 		window.scrollTo(window.scrollX, scroll_pos);
 		setSidebarTop();
@@ -620,10 +783,30 @@
 
 		document.getElementById('sidebar').style.display = 'none';
 		document.getElementById('main-content').style.width = '100%';
-		
+
 
 		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
 		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
 	}
 
 	document.getElementById("search").addEventListener("keypress", function(event) {
@@ -634,16 +817,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -653,7 +836,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

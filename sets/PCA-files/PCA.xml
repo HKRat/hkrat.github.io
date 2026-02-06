@@ -1,0 +1,4709 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>PCA</name>
+			<longname>Pirates of Caitisan</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-02-06</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Queen&apos;s Revenge</name>
+			<text>Draft this card face up.
+Immediately after the draft, look at another player&apos;s card pool. You may reveal a Vehicle card from it and offer that player one card in your card pool in exchange. They may decline offer.
+Queen&apos;s Revenge can&apos;t be blocked by creatures if their controller declined its offer.
+Crew 2</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/220_Queen&apos;s Revenge.png" num="220">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Commodore Ana Axela</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/PCA-files/img/188_Commodore Ana Axela.png" num="188">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Ana</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Trusty Rapier</name>
+			<text>Reveal this card as you draft it. Reveal a creature card you drafted this round and note its name.
+Equipped creature gets +2/+2.
+Equip creature with a noted name {1}
+Equip {3}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/234_Trusty Rapier.png" num="234">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Recruiter General</name>
+			<text>Draft this card face up.
+As you draft an Equipment card, you may reveal it, note its name, then turn this card face down.
+Whenever your team casts an artifact spell with a name they noted, create a 1/1 white Solider creature token.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/23_Recruiter General.png" num="23">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vibrant Watcher</name>
+			<text>Reveal this card as you draft it. Look at the next card drafted by a player of your choice and note its name.
+You may cast this card as though it had flash if an opponent cast a card this turn with a name you&apos;ve noted.
+Flying</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/73_Vibrant Watcher.png" num="73">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Harpy</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deadwater Vermin</name>
+			<text>Reveal this card as you draft it. Look at the next card drafted by a player of your choice and note its name.
+{1}{B}: Return Deadwater Vermin from your graveyard to your hand. Activate this ability only if your team cast a spell with a name you&apos;ve noted.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/83_Deadwater Vermin.png" num="83">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Personal Armsmith</name>
+			<text>Draft this card face up.
+As you draft an Equipment or Vehicle card, you may reveal it, note its name, then turn this card face down.
+Whenever your team casts an artifact spell with a name they&apos;ve noted, that player creates a Treasure token.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/138_Personal Armsmith.png" num="138">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ahba Shorewalker</name>
+			<text>Reveal this card as you draft it. Look at the next card drafted by a player of your choice and note its name.
+Whenever your team casts a spell with a name you&apos;ve noted, put a +1/+1 counter on Ahba Shorewalker.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/152_Ahba Shorewalker.png" num="152">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wellweather Distracter</name>
+			<text>Draft this card face up.
+As you draft a card, you may draft an additional card from that booster pack. If you do, turn this card face down, then pass the next booster pack without drafting a card from it. (You may look at that booster pack.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/113_Wellweather Distracter.png" num="113">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Agall Spymaster</name>
+			<text>Draft this card face up.
+During the draft, you may turn this card face down. If you do, look at each name another player has noted during the draft.
+Flash</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/40_Agall Spymaster.png" num="40">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wonder Weaver</name>
+			<text>Draft this card face up.
+As you draft a card, you may reveal it, note its colors, then turn this card face down.
+When Wonder Weaver dies, you may search your library for land card that produces a color you&apos;ve noted, reveal it, put it onto the battlefield tapped, then shuffle your library.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/185_Wonder Weaver.png" num="185">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moonracer Cannoneer</name>
+			<text>Draft this card face up.
+As you draft a card, you may reveal and draft an additional artifact card from that booster pack. If you do, turn this card face down, then pass the next booster pack without drafting a card from it. (You may look at that booster pack.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/133_Moonracer Cannoneer.png" num="133">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Westerly Dockhand</name>
+			<text>Reveal this card as you draft it. Reveal a creature card you&apos;ve drafted this round and note its creature types.
+When Westerly Dockhand enters the battlefield, each creature your team controls with a creature type or name they noted gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/38_Westerly Dockhand.png" num="38">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Her Majesty&apos;s Armory</name>
+			<text>Draft this card face up.
+As you draft an Equipment card, you may reveal it, note its name, then turn this card face down.
+When Her Majesty&apos;s Armory enters the battlefield, you may put an artifact card with a name you noted from outside the game into your hand.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/13_Her Majesty&apos;s Armory.png" num="13">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tideseer Captain</name>
+			<text>Draft this card face up.
+As you draft a Pirate or Vehicle card, you may reveal it, note its name, then turn this card face down.
+Each Pirate and Vehicle your team controls with a name they noted enters the battlefield with an additional +1/+1 counter.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/70_Tideseer Captain.png" num="70">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Smuggler Captain</name>
+			<text>Draft this card face up.
+As you draft a card, you may reveal it, note its name, then turn this card face down.
+When Smuggler Captain enters the battlefield, you may search your library for a card with a name you noted for cards named Smuggler Captain, reveal it, put it into your hand, then shuffle your library.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/108_Smuggler Captain.png" num="108">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Careless Buccaneer</name>
+			<text>Draft this card face up.
+As you draft an Equipment or Vehicle card, you may reveal it, note its name, then turn this card face down.
+Whenever you cast an artifact spell with a name you noted, Careless Buccaneer deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/120_Careless Buccaneer.png" num="120">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Porta Bay Pest</name>
+			<text>Reveal this card as you draft it. Reveal a nonland card you drafted this round and note its colors.
+Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+{T}: Add one mana of any color among colors you&apos;ve noted.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/171_Porta Bay Pest.png" num="171">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Greed&apos;s Goaded</name>
+			<text>Reveal this card as you draft it. Look at the next card drafted by a player of your choice and note its name.
+When Greed&apos;s Goaded enters the battlefield, each creature with a name you noted gets -2/-2 until end of turn. When a creature dies this way, its controller creates a Treasure.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/90_Greed&apos;s Goaded.png" num="90">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Her Majesty&apos;s Will</name>
+			<text>Draft this card face up.
+As you draft a card you may reveal it, note its name, and turn this card face down.
+You may cast this spell without paying its mana cost if it targets a spell that targets a spell or permanent with a name you noted.
+Counter target noncreature spell.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/52_Her Majesty&apos;s Will.png" num="52">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Evergrove Wanderer</name>
+			<text>Reveal this card as you draft it. Reveal a nonland card you drafted this round and note its colors.
+When Evergrove Wanderer enters the battlefield, draw a card, then you may put a land card from your hand onto the battlefield tapped. If that land produces a color you&apos;ve noted, you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/159_Evergrove Wanderer.png" num="159">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Myra&apos;s Acquisitioner</name>
+			<text>Draft this card face up.
+At the end of this round, look at each card another player has drafted this round. You may note an artifact card name from among them.
+When Myra&apos;s Acquisitioner enters the battlefield, gain control of all artifacts with names you&apos;ve noted until end of turn. Untap those artifacts. They gain haste this turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/135_Myra&apos;s Acquisitioner.png" num="135">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Doctrine Director</name>
+			<text>Reveal this card as you draft it. Reveal a creature card you drafted this round and note its creature types.
+Vigilance
+Creature spells your team casts with creature types or names they noted cost {1} less to cast.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/8_Doctrine Director.png" num="8">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Royal Lieutenant</name>
+			<text>Reveal this card as you draft it. When you do, each other player turns each face up card they&apos;ve drafted this round face down.
+First strike, lifelink</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/27_Royal Lieutenant.png" num="27">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Treasures Lost and Sunken</name>
+			<text>Reveal this card as you draft it and note how many cards you&apos;ve drafted this round, including this card.
+Enchant player
+Whenever enchanted player casts a spell, they put the top X cards of their library into their graveyard and you draw a card. X is the highest number you noted for cards named Treasures Lost and Sunken.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/71_Treasures Lost and Sunken.png" num="71">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ghost Crew</name>
+			<text>Draft this card face up.
+As you draft a creature card, you may reveal it, note its name, then turn this card face down.
+At the beginning of each end step, if your team cast a spell with a name they noted this turn, return Ghost Crew from your graveyard to the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/89_Ghost Crew.png" num="89">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Halyard Lookout</name>
+			<text>Draft this card face up.
+As you draft a card, you may reveal it, note its colors, then turn this card face down.
+Reach
+You may play an additional land each turn.
+Lands you control have &quot;{T}: Add one mana of any color among colors you&apos;ve noted.&quot;</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/163_Halyard Lookout.png" num="163">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Master Manipulator</name>
+			<text>Draft this card face up.
+As you draft a card, you may remove it from the draft face up. (It isn&apos;t in your card pool.)
+When Master Manipulator enters the battlefield, you create X Treasure tokens and lose X life, where X is the number of cards you removed from the draft with cards named Master Manipulator.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/99_Master Manipulator.png" num="99">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wellweather Christener</name>
+			<text>Draft this card face up.
+As you draft an artifact card, you may reveal it, note its name, then turn this card face down.
+Artifacts your team control with names they&apos;ve noted have spirited. (When a card with spirited enters the battlefield, its controller may activate one of its activated abilities without paying its cost.) (When this creature enters the battlefield, you may activate one of its activated abilities without paying its cost.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/75_Wellweather Christener.png" num="75">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kitchen Slinks</name>
+			<text>Draft this card face up.
+As you draft a creature card, you may reveal it, note its name, then turn this card face down.
+Whenever a permanent with a name you&apos;ve noted enters the battlefield under your control, mill three cards. When you do, return Kitchen Slinks from your graveyard to your hand. You gain 3 life.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/167_Kitchen Slinks.png" num="167">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Monkey</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unquenchable Flame</name>
+			<text>Reveal this card as you draft it. Look at the next card drafted by a player of your choice and note its name.
+Unquenchable Flame deals 2 damage to any target.
+Whenever an opponent cast a spell with a name you&apos;ve noted, you may return Unquenchable Flame from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/148_Unquenchable Flame.png" num="148">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Highrock Griffin</name>
+			<text>Reveal this card as you draft it. Reveal a creature card you drafted this round and note its creature types.
+Flying
+Whenever a creature your team controls with a creature type or name they noted attacks, it gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/15_Highrock Griffin.png" num="15">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Griffin</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Merchant Sloop</name>
+			<text>Reveal this card as you draft it. Look at the next card drafted by a player of your choice and note its name.
+Whenever your team casts a spell with a name they&apos;ve noted, that player may draw a card, then discard a card.
+Crew 2</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/215_Merchant Sloop.png" num="215">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stormfarer</name>
+			<text>Whenever a creature deals combat damage to an opponent, it becomes infamous. (Note its name.)
+Sea&apos;s spoils — Whenever a player plays a card with a name your team noted, put a +1/+1 counter on each other creature your team controls.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/178_Stormfarer.png" num="178">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Swiftwater Frigate</name>
+			<text>Haste
+Spirited (When this creature enters the battlefield, you may activate one of its activated abilities without paying its cost.)
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/232_Swiftwater Frigate.png" num="232">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stowawaif</name>
+			<text>Spirited (When this creature enters the battlefield, you may activate one of its activated abilities without paying its cost.)
+Sacrifice a creature: Each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/110_Stowawaif.png" num="110">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Myra of the Twin Galleons</name>
+			<text>Trample
+Whenever one or more creatures attacks an opponent, reveal the top card of your library. If that card was a land, put it into your hand. Myra deals 2 damage to any target.
+Partner</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/134_Myra of the Twin Galleons.png" num="134">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crimson Jack of the Moonracer</name>
+			<text>Deathtouch
+Whenever a creature dies, if it attacked this turn, create a colorless Treasure artifact token with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;
+Partner</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/80_Crimson Jack of the Moonracer.png" num="80">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lucelle of the Twin Galleons</name>
+			<text>Whenever one or more creatures attacks an opponent, scry 2.
+Cycling {2}
+Partner (You can have two commanders if both have partner.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/55_Lucelle of the Twin Galleons.png" num="55">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gezroil of the Sunken Gem</name>
+			<text>Menace
+If a creature you control would deal combat damage to a player, that player exiles that many cards from their hand and from the top of their library instead.
+Partner</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/PCA-files/img/190_Gezroil of the Sunken Gem.png" num="190">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Merfolk Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Espaza of the Sparrow</name>
+			<text>Haste
+Whenever one or more creatures attack an opponent, exile the top card of your library. You may play that card until end of turn as though it had flash and it costs {1} less to cast.
+Partner</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/PCA-files/img/189_Espaza of the Sparrow.png" num="189">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Contract Killer</name>
+			<text>When Contract Killer enters the battlefield, target opponent reveals their hand. A nonland card from it becomes infamous. (Note its name.)
+Sea&apos;s spoils — Whenever a player plays a card your team noted, put a +1/+1 counter on Contract Killer. If that player was an opponent, create a Treasure token.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/78_Contract Killer.png" num="78">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Curse of Loose Lips</name>
+			<text>Enchant player
+Enchanted player plays with the top card of their library revealed.
+{2}{U}, Sacrifice Curse of Loose Lips: Enchanted player puts the top three cards of their library into their graveyard.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/46_Curse of Loose Lips.png" num="46">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kraken&apos;s Claim</name>
+			<text>Target player puts the top six cards of their library into their graveyard. If that player is cursed, you may exile a nonland card from among those cards. You may cast that card for as long as it remains exiled and you may spend mana as though it were mana of any type to cast it. (A player enchanted with an Aura Curse is cursed.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/54_Kraken&apos;s Claim.png" num="54">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Evergrove Pilgrim</name>
+			<text>When Evergrove Pilgrim enters the battlefield, if your team controls another Elf, draw a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/158_Evergrove Pilgrim.png" num="158">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Turn the Tides</name>
+			<text>Creatures your team controls get +3/+3 and gain trample until end of turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/182_Turn the Tides.png" num="182">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>In Spades</name>
+			<text>Create a 1/1 green Elf Warrior creature token for each Elf you control.
+Sea&apos;s spoils — If a player played a card this turn with a name your team noted, creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/165_In Spades.png" num="165">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Give Chase</name>
+			<text>Choose one —
+• Target Vehicle you control becomes a creature until end of turn. It gets +3/+1 this turn.
+• Target creature you control gets +3/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/128_Give Chase.png" num="128">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Braizen Plunder</name>
+			<text>Target creature gets +3/+0 and gains first strike until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+When you cycle Braizen Plunder, create a Treasure token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/117_Braizen Plunder.png" num="117">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Seaside Peddler</name>
+			<text>Equip costs you pay cost {1} less.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/30_Seaside Peddler.png" num="30">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glorious Redemption</name>
+			<text>Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield. Create a create a colorless Equipment artifact token with &quot;Equipped creature gets +1/+1&quot; and equip {1}, then attach it to that creature.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/11_Glorious Redemption.png" num="11">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Razorwind Griffin</name>
+			<text>Flash
+Flying
+When Razorwind Griffin enters the battlefield, exile target attacking creature.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/PCA-files/img/22_Razorwind Griffin.png" num="22">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Griffin</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rookie Recruit</name>
+			<text>Whenever Rookie Recruit attacks, it gets +1/+2 until end of turn if your team controls another creature named Rookie Recruit.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/25_Rookie Recruit.png" num="25">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Agall Renegade</name>
+			<text>Spirited (When this creature enters the battlefield, you may activate one of its activated abilities without paying its cost.)
+{3}{U}: Target creature can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/39_Agall Renegade.png" num="39">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Torch Snuffer</name>
+			<text>When Torch Snuffer enters the battlefield, each cursed player loses 3 life. (A player enchanted with an Aura Curse is cursed.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/112_Torch Snuffer.png" num="112">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raid Leader</name>
+			<text>Whenever Raid Leader attacks, the next artifact spell a player on your team casts this turn cost {2} less to cast.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/140_Raid Leader.png" num="140">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Agall Brute</name>
+			<text>Trample
+Sea&apos;s spoils — Whenever a player plays a card with a name your team noted, Agall Brute gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/151_Agall Brute.png" num="151">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ahba Island Battalion</name>
+			<text>When Ahba Island Battalion enters the battlefield, each player on your team creates a 1/1 white Soldier creature token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/1_Ahba Island Battalion.png" num="1">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Coastal Adept</name>
+			<text>Flash
+Spirited (When this creature enters the battlefield, you may activate one of its activated abilities without paying its cost.)
+{U}: Coastal Adept gets +1/-1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/43_Coastal Adept.png" num="43">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>il-Verde Cutthroat</name>
+			<text>Spirited (When this creature enters the battlefield, you may activate one of its activated abilities without paying its cost.)
+{3}{B}, Sacrifice il-Verde Cutthroat: Destroy target creature that was dealt damage this turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/95_il-Verde Cutthroat.png" num="95">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rowdy Freebooter</name>
+			<text>Haste
+When Rowdy Freebooter dies, create a Treasure token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/141_Rowdy Freebooter.png" num="141">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tallora Wakerider</name>
+			<text>Spirited (When this creature enters the battlefield, you may activate one of its activated abilities without paying its cost.)
+{1}{G}{G}, {T}: Mill two cards. You may put a basic land card from your graveyard onto the battlefield tapped.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/180_Tallora Wakerider.png" num="180">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Porta Bay Ramparts</name>
+			<text>Defender
+When Porta Bay Ramparts enters the battlefield, you may exile target enchantment.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/20_Porta Bay Ramparts.png" num="20">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Undertow Mystic</name>
+			<text>Undertow Mystic can&apos;t be blocked.
+When Undertow Mystic enters the battlefield, you may untap target artifact. If it was a Vehicle, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/72_Undertow Mystic.png" num="72">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rigging Rider</name>
+			<text>Haste
+Sacrifice an artifact or creature: Rigging Rider gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/105_Rigging Rider.png" num="105">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brilliant Trove</name>
+			<text>Exile the top card of your library, then exile the top card of your library for each card named Brilliant Trove in your team&apos;s graveyards. You may play those cards until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/118_Brilliant Trove.png" num="118">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vale Rider</name>
+			<text>Vale Rider gets +1/+1 for each other creature your team controls named Vale Rider.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/183_Vale Rider.png" num="183">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Salvage Expert</name>
+			<text>Spirited (When this creature enters the battlefield, you may activate one of its activated abilities without paying its cost.)
+{W}, Sacrifice Salvage Expert: Return target artifact card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/28_Salvage Expert.png" num="28">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Defensive Ward</name>
+			<text>Counter target noncreature spell unless its controller pays {X}, where X is 1 plus the number of cards named Defensive Ward in your team&apos;s graveyards.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/47_Defensive Ward.png" num="47">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Festerpriest</name>
+			<text>Whenever you sacrifice a permanent, Festerpriest gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/87_Festerpriest.png" num="87">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Salty Sailor</name>
+			<text>Spirited (When this creature enters the battlefield, you may activate one of its activated abilities without paying its cost.)
+{T}: Attach target Equipment you control to Salty Sailor.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/143_Salty Sailor.png" num="143">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soulsworn Mystic</name>
+			<text>Spirited (When this creature enters the battlefield, you may activate one of its activated abilities without paying its cost.)
+{2}{G}, Sacrifice Soulsworn Mystic: Create a token that is a copy of target creature token you control.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/177_Soulsworn Mystic.png" num="177">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ahba Island Healer</name>
+			<text>Spirited (When this creature enters the battlefield, you may activate one of its activated abilities without paying its cost.)
+{1}{W}, {T}: You gain 2 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/2_Ahba Island Healer.png" num="2">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Only Cure</name>
+			<text>Draw two cards. If a player is cursed, draw three cards instead. (A player enchanted with an Aura Curse is cursed.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/60_The Only Cure.png" num="60">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ripclaw Harpy</name>
+			<text>Flying
+When Ripclaw Harpy enters the battlefield, target opponent loses 2 life for each creature your team controls named Ripclaw Harpy.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/106_Ripclaw Harpy.png" num="106">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Harpy</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Settle Infamy</name>
+			<text>Settle Infamy costs {2} less to cast if it targets one or more Pirates.
+Target creature you control fights target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/174_Settle Infamy.png" num="174">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Second Burst</name>
+			<text>Flash
+Enchant creature
+Spirited (When this enters the battlefield, you may activate one of its activated abilities without paying its cost.)
+Enchanted creature gets +1/+1.
+{W}: Enchanted creature gains indestructible until end of turn. Tap it.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/31_Second Burst.png" num="31">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lucelle&apos;s Demise</name>
+			<text>Choose one or both —
+• Return target artifact to its owner&apos;s hand.
+• Return target nonland permanent to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/56_Lucelle&apos;s Demise.png" num="56">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hands of Fate</name>
+			<text>Choose one —
+• Destroy target creature unless its controller pays {2}.
+• Destroy target creature if its controller is cursed. (A player enchanted with an Aura Curse is cursed.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/92_Hands of Fate.png" num="92">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Curse of Parley</name>
+			<text>Enchant player
+Whenever enchanted player attacks with one or more creatures, Curse of Parley deals 1 damage to each attacking creature. Each of enchanted player&apos;s opponents creates a colorless Treasure artifact token with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/123_Curse of Parley.png" num="123">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gezroil&apos;s Demise</name>
+			<text>Choose one or both —
+• Destroy target artifact.
+• Destroy target noncreature permanent.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/160_Gezroil&apos;s Demise.png" num="160">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Espaza&apos;s Betrayal</name>
+			<text>Choose one or both —
+• Exile target artifact with converted mana cost 1.
+• Exile target creature with converted mana cost 1.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/9_Espaza&apos;s Betrayal.png" num="9">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Summon the Skysailer</name>
+			<text>Look at the top five cards of your library. You may reveal an artifact, enchantment, or legendary card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/68_Summon the Skysailer.png" num="68">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deadwater Ringleader</name>
+			<text>Whenever Deadwater Ringleader attacks, another target Merfolk gets +2/+2 and gains trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/155_Deadwater Ringleader.png" num="155">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twinblade Adept</name>
+			<text>As long as Twinblade Adept is equipped, it has double strike.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/36_Twinblade Adept.png" num="36">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crimson Jack&apos;s Demise</name>
+			<text>Choose one or both —
+• Target opponent reveals their hand and discards an artifact card.
+• Target opponent discards a card at random.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/81_Crimson Jack&apos;s Demise.png" num="81">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vale Vanguard</name>
+			<text>Trample
+When Vale Vanguard enters the battlefield, target artifact or creature becomes infamous. (Note its name.)
+Sea&apos;s spoils — Whenever a player plays a card with a name your team noted, Vale Vanguard gets +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/149_Vale Vanguard.png" num="149">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wreckage Lurker</name>
+			<text>Whenever Wreckage Lurker or another Merfolk enters the battlefield under your control, you may mill a card. If an artifact or land card is milled this way, put a +1/+1 counter on Wreckage Lurker.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/186_Wreckage Lurker.png" num="186">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Master Armsmith</name>
+			<text>{W}, {T}, Return an Equipment you control to its owner&apos;s hand: You may put an Equipment card from your hand onto the battlefield.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/19_Master Armsmith.png" num="19">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sickening Seas</name>
+			<text>Enchant player
+Creatures enchanted player controls can&apos;t attack your team unless enchanted player pays {X} for each of those creatures, where X is the number of Curses attached to enchanted player.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/66_Sickening Seas.png" num="66">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Goldhunter Dragon</name>
+			<text>Flying
+When Goldhunter Dragon enters the battlefield, if you sacrificed a permanent this turn, it deals 2 damage to each opponent.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/129_Goldhunter Dragon.png" num="129">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wilds Warden</name>
+			<text>Other Elves your team control get +1/+1.
+{G}: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/184_Wilds Warden.png" num="184">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Portside Collector</name>
+			<text>When Portside Collector enters the battlefield, search a player on your team&apos;s library for an Equipment card with converted mana cost 2, put it onto the battlefield, attach it to a creature that player controls, then that player shuffles their library.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/21_Portside Collector.png" num="21">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Law of the Sea</name>
+			<text>Enchant player
+Whenever a permanent entering the battlefield under enchanted player&apos;s control causes an ability to trigger, gain control of that ability.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/96_Law of the Sea.png" num="96">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Captain&apos;s Gathering</name>
+			<text>When Captain&apos;s Gathering enters the battlefield, exile the top three cards of your library with galleon counters on them. Those cards become infamous. (Note their names.)
+Sea&apos;s spoils — You may play cards you own in exile with galleon counters on them on any turn a player played a card with a name your team noted.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/119_Captain&apos;s Gathering.png" num="119">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Keelhaul</name>
+			<text>Exile target creature. Create a create a colorless Equipment artifact token with &quot;Equipped creature gets +1/+1&quot; and equip {1}.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/18_Keelhaul.png" num="18">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Getaway Leader</name>
+			<text>Vehicles crewed by Getaway Leader this turn have hexproof.
+Sea&apos;s spoils — Whenever a player plays a card with a name your team noted, untap Getaway Leader.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/50_Getaway Leader.png" num="50">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fall from Grace</name>
+			<text>Each opponent sacrifices a creature.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/86_Fall from Grace.png" num="86">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tamper</name>
+			<text>Gain control of target artifact until end of turn. Untap that artifact. It gains haste until end of turn. If it was an Equipment, you may attach it to target creature you control. If it was a Vehicle, it becomes an artifact creature until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/146_Tamper.png" num="146">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glit-Cove Guardians</name>
+			<text>Glit-Cove Guardians enters the battlefield with a +1/+1 counter on it for each card put into your graveyard from your library this turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/162_Glit-Cove Guardians.png" num="162">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deploy</name>
+			<text>Create a 1/1 white Soldier creature token.
+Draw a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/7_Deploy.png" num="7">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Delayed Voyage</name>
+			<text>Counter target artifact or creature spell. If that spell is countered this way, put it on the bottom of its owner&apos;s library instead of into that player&apos;s graveyard.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/48_Delayed Voyage.png" num="48">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Curse of Doomed Voyages</name>
+			<text>Enchant player
+Whenever a player casts a spell that targets enchanted player, enchanted player loses 1 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/82_Curse of Doomed Voyages.png" num="82">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rampant Growth</name>
+			<text>Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/172_Rampant Growth.png" num="172">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Splendid Preservation</name>
+			<text>Return target artifact card from your graveyard to the battlefield. If it was an Equipment, you gain 3 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/34_Splendid Preservation.png" num="34">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sunk Below</name>
+			<text>Return up to two target creatures to their owner&apos;s hands.
+If your team controls a Merfolk, draw a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/69_Sunk Below.png" num="69">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Overboard!</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Draw a card. Each opponent loses 1 life and you gain that much life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/102_Overboard!.png" num="102">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dragonfire</name>
+			<text>Dragonfire deals 3 damage to any target. Scry 1.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/124_Dragonfire.png" num="124">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Giant Growth</name>
+			<text>Target creature gets +3/+3 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/161_Giant Growth.png" num="161">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Her Majesty&apos;s Blessing</name>
+			<text>Creature tokens your team control get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/14_Her Majesty&apos;s Blessing.png" num="14">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scourge of Infamy</name>
+			<text>Whenever Scourge of Infamy crews a Vehicle, put a +1/+1 counter on Scourge of Infamy.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/64_Scourge of Infamy.png" num="64">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Haunting Memory</name>
+			<text>Spirited (When this creature enters the battlefield, you may activate one of its activated abilities without paying its cost.)
+Sacrifice a Curse: You draw a card and lose 1 life. Activate this ability only once each turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/93_Haunting Memory.png" num="93">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Myra&apos;s Demise</name>
+			<text>Choose one or both —
+• Myra&apos;s Demise deals 3 damage to target artifact creature.
+• Myra&apos;s Demise deals 3 damage to target creature.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/136_Myra&apos;s Demise.png" num="136">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tallora Traveler</name>
+			<text>When Tallora Traveler enters the battlefield, target permanent becomes infamous. (Note its name.)
+Sea&apos;s spoils — Whenever a player plays a card with a name your team noted, put a +1/+1 counter on Tallora Traveler.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/179_Tallora Traveler.png" num="179">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Valiant Fencers</name>
+			<text>Vigilance
+When Valiant Fencers enters the battlefield, target artifact, creature, or enchantment becomes infamous. (Note its name.)
+Sea&apos;s spoils — Whenever a player plays a card with a name your team noted, create a 1/1 white Soldier creature token.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/37_Valiant Fencers.png" num="37">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghost Crew&apos;s Curse</name>
+			<text>Enchant player
+You may have Ghost Crew&apos;s Curse enter the battlefield as a copy of any Curse card on the battlefield or in a graveyard, except it becomes infamous. (Note its name.)
+Sea&apos;s spoils — Whenever a player plays a card with a name your team noted, you may have Ghost Crew&apos;s Curse become a copy of any Curse card on the battlefield or in a graveyard.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/51_Ghost Crew&apos;s Curse.png" num="51">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mark of the Sea</name>
+			<text>Enchant player
+Spells that target enchanted player cost {1} less to cast.
+At the beginning of enchanted player&apos;s upkeep, they lose 1 life.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/98_Mark of the Sea.png" num="98">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Havoc Admiral</name>
+			<text>Whenever Havoc Admiral crews a Vehicle, Havoc Admiral deals 1 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/131_Havoc Admiral.png" num="131">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Into the Unknown</name>
+			<text>Whenever a creature your team controls becomes the target of an instant or sorcery spell, that creature gets +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/166_Into the Unknown.png" num="166">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Evergrove Matron</name>
+			<text>Vigilance
+Spirited (When this creature enters the battlefield, you may activate one of its activated abilities without paying its cost.)
+{3}{W}, {T}: Exile target non-Avatar creature you control, then return that card to the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/10_Evergrove Matron.png" num="10">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arrogant Helmsman</name>
+			<text>Whenever you cast a Vehicle spell, you may draw a card. If you do, discard a card.
+Whenever one or more creatures you control crews a Vehicle, you may draw a card. If you do, discard a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/41_Arrogant Helmsman.png" num="41">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sulfurous Wanderer</name>
+			<text>Other creatures get -1/-1.
+Whenever a creature you control without a +1/+1 counter on it dies, return that card to the battlefield with a +1/+1 counter at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/111_Sulfurous Wanderer.png" num="111">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat</type>
+				<maintype>Creature</maintype>
+				<manacost>2BBB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Merfolk Shorestalker</name>
+			<text>Trample
+When Merfolk Shorestalker enters the battlefield, look at the top six cards of your library. You may put a creature card with converted mana cost 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/169_Merfolk Shorestalker.png" num="169">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sunk at Sea</name>
+			<text>Sea&apos;s spoils — If a player played a card this turn with a name your team noted, you may exile up to one target creature. It becomes infamous. Return that card to the battlefield under its owner&apos;s control at the beginning of the next end step. (Note its name.)
+Destroy all creatures.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/35_Sunk at Sea.png" num="35">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spellweaver Harpy</name>
+			<text>Flying
+Activated abilities of creatures you control cost up to {2} less to activate. This effect can&apos;t reduce the amount of mana an ability costs to activate to less than one mana.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/67_Spellweaver Harpy.png" num="67">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Harpy</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Notoriety</name>
+			<text>Enchant player
+Whenever enchanted player casts a spell, it becomes infamous. (Note its name.)
+Sea&apos;s spoils — Whenever a player plays a card with a name your team noted, enchanted player loses 1 life and you gain 1 life.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/101_Notoriety.png" num="101">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shipwreck Stalker</name>
+			<text>Flying
+When Shipwreck Stalker enters the battlefield, you may return target Vehicle card from your graveyard to the battlefield. It becomes a creature with haste until end of turn. Exile it at the beginning of the end step or if it would leave the battlefield.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/144_Shipwreck Stalker.png" num="144">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Iron Shot</name>
+			<text>{3}, {T}, Sacrifice Iron Shot: It deals 3 damage to target creature. Vehicles dealt damage this way are no longer creatures this turn and can&apos;t be crewed this turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/211_Iron Shot.png" num="211">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Treacherous Map</name>
+			<text>When Treacherous Map enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{2}, {T}, Sacrifice Treacherous Map: Reveal the top card of your library. If it is a land card, you may put that card onto the battlefield tapped.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/233_Treacherous Map.png" num="233">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Decoy Skiff</name>
+			<text>Sacrifice Decoy Skiff: Target creature gains indestructible until end of turn. Activate this ability only if Decoy Skiff is a creature.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/205_Decoy Skiff.png" num="205">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fool&apos;s Fortune</name>
+			<text>{1}, {T}, Sacrifice Fool&apos;s Fortune: Gain control of target token.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/209_Fool&apos;s Fortune.png" num="209">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sleek Schooner</name>
+			<text>Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/227_Sleek Schooner.png" num="227">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Disabling Shot</name>
+			<text>{1}, {T}, Sacrifice Disabling Shot: It deals 1 damage to target creature. Tap that creature. Vehicles dealt damage this way are no longer creatures this turn and can&apos;t be crewed this turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/206_Disabling Shot.png" num="206">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pirate Chaser</name>
+			<text>When Pirate Chaser enters the battlefield, choose one —
+• Create a 1/1 white Soldier creature token
+• Put a +1/+1 counter on Pirate Chaser.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/217_Pirate Chaser.png" num="217">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Renowned Flagship</name>
+			<text>Pirates you control get +1/+1.
+When Renowned Flagship enters the battlefield, you may search your library for a legendary creature card, reveal it, and put it into your hand. Then shuffle your library.
+Crew 2</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/221_Renowned Flagship.png" num="221">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scatter Shot</name>
+			<text>{4}, {T}, Sacrifice Scatter Shot: It deals 3 damage to each creature. Vehicles dealt damage this way are no longer creatures this turn and can&apos;t be crewed this turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/224_Scatter Shot.png" num="224">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Skysailer, Axela&apos;s Pride</name>
+			<text>Flying
+Discard a card: Skysailer, Axela&apos;s Pride gains hexproof until end of turn.
+Whenever Skysailer deals combat damage to a player, that player sacrifices a permanent and you draw a card.
+Crew 4</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/PCA-files/img/225_Skysailer, Axela&apos;s Pride.png" num="225">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shoreline Cartographer</name>
+			<text>Whenever a player on your team activates an ability of a nonland permanent for the first time each turn, that player may scry 2, then draw a card. They gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/199_Shoreline Cartographer.png" num="199">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Malignant Malcrafter</name>
+			<text>Flying
+When Malignant Malcrafter enters the battlefield, reveal the top four cards of your library. You may put a Curse from among them into your hand. Put the rest into your graveyard.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/194_Malignant Malcrafter.png" num="194">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Harpy</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Captain of Vigor</name>
+			<text>Menace
+When Captain of Vigor enters the battlefield, create a Treasure token.
+Whenever you sacrifice a permanent, creatures your team control get +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/187_Captain of Vigor.png" num="187">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Territorial Runt</name>
+			<text>Whenever a creature dealt damage by Territorial Runt this turn dies, you may put a land card from your hand onto the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/200_Territorial Runt.png" num="200">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Guardian of Growth</name>
+			<text>Reach
+If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/192_Guardian of Growth.png" num="192">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>4GW</manacost>
+				<cmc>6</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Royal Instructor</name>
+			<text>Whenever an Equipment you control becomes attached to a creature, that creature gains double strike until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/195_Royal Instructor.png" num="195">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scourge of the Seas</name>
+			<text>Other Merfolk you control get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/197_Scourge of the Seas.png" num="197">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sanctifying Light</name>
+			<text>Exile target creature.
+{W}{B}, Exile Sanctifying Light from your graveyard: Target opponent loses 3 life and you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/196_Sanctifying Light.png" num="196">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Traitorous Admiral</name>
+			<text>Haste
+When Traitorous Admiral enters the battlefield, target Vehicle you control becomes an artifact creature until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/201_Traitorous Admiral.png" num="201">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shallows Fisher</name>
+			<text>When Shallows Fisher enters the battlefield, discard your hand, then draw a card for each Elf you control.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/198_Shallows Fisher.png" num="198">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Her Majesty Justicia</name>
+			<text>Her Majesty Justicia has indestructible as long as it&apos;s attacking.
+Creatures your opponents control lose all abilities and can&apos;t have or gain abilities.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/PCA-files/img/12_Her Majesty Justicia.png" num="12">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Caitisan&apos;s Conquest</name>
+			<text>Target player takes an extra turn after this one. Spells that player casts cost {1} less to cast during that turn. Exile Caitisan&apos;s Conquest.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/PCA-files/img/42_Caitisan&apos;s Conquest.png" num="42">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UUU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pearl Black the Dreadwight</name>
+			<text>You may cast Curse cards from your graveyard.
+Whenever you cast a spell that targets an opponent, that player loses 2 life.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/PCA-files/img/103_Pearl Black the Dreadwight.png" num="103">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ruby Spade Swashbuckler</name>
+			<text>Other attacking Pirates your team controls get +1/+0.
+Whenever Ruby Spade Swashbuckler attacks, create two 1/1 Pirate creature tokens that are all colors tapped and attacking.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/PCA-files/img/142_Ruby Spade Swashbuckler.png" num="142">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fractured Morality</name>
+			<text>Each player discards their hand.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/88_Fractured Morality.png" num="88">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scallywag&apos;s Slicer</name>
+			<text>Equipped creature gets +2/+2 and can&apos;t be blocked except by Pirates.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/223_Scallywag&apos;s Slicer.png" num="223">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stalwart Galleon</name>
+			<text>Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/230_Stalwart Galleon.png" num="230">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pirate Market</name>
+			<text>When Pirate Market enters the battlefield or at the beginning of your upkeep, you may attach target Equipment to target creature your team controls. (Control of the Equipment doesn&apos;t change.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/218_Pirate Market.png" num="218">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Royal Fleet</name>
+			<text>Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/222_Royal Fleet.png" num="222">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Captain&apos;s Hat</name>
+			<text>Equipped creature gets +1/+1 and has menace.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/203_Captain&apos;s Hat.png" num="203">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Drifting Skiff</name>
+			<text>Whenever Drifting Skiff attacks, another target attacking creature gets +1/+1 until end of turn.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/207_Drifting Skiff.png" num="207">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Solemn Wreck</name>
+			<text>When Solemn Wreck is put into a graveyard from the battlefield, you may draw a card.
+Crew 1</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/229_Solemn Wreck.png" num="229">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prying Blade</name>
+			<text>Equipped creature gets +1/+0.
+Whenever equipped creature deals combat damage to a player, create a colorless Treasure artifact token with &quot;{T}, Sacrifice this artifact: Add one mana of any color.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/219_Prying Blade.png" num="219">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Heavy Cannonade</name>
+			<text>Equipped creature doesn&apos;t untap during its controller&apos;s untap step.
+You may have equipped creature assign combat damage as though it weren&apos;t blocked.
+Equip Vehicle {2}
+Equip {5}</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/210_Heavy Cannonade.png" num="210">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hold Captive</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or crew Vehicles.
+Sea&apos;s spoils — Whenever a player plays a card with a name your team noted, you may exile Hold Captive. Return it to the battlefield at the beginning of your next upkeep.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/16_Hold Captive.png" num="16">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fluttering Flock</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/49_Fluttering Flock.png" num="49">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Harpy</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hold Hostage</name>
+			<text>Target player discards a card. The discarded card becomes infamous. (Note its name.)
+Sea&apos;s spoils — Whenever a player plays a card with a name your team noted, if Hold Hostage is in your graveyard, you may discard a card. If you do, return Hold Hostage to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/94_Hold Hostage.png" num="94">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Show of Arms</name>
+			<text>Target creature gets +1/+0 until end of turn. Create a create a colorless Equipment token with &quot;Equipped creature gets +1/+1&quot; and equip {1}.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/145_Show of Arms.png" num="145">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>il-Verde Archers</name>
+			<text>Reach (This creature can block creatures with flying.)
+{G}, Sacrifice il-Verde Archers: Destroy target creature with flying.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/164_il-Verde Archers.png" num="164">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spirit of Sonder</name>
+			<text>Flying
+Whenever you activate an ability of a nonland permanent you control for the first time each turn, you gain 1 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/32_Spirit of Sonder.png" num="32">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Curse of Disrespect</name>
+			<text>Enchant player
+At the beginning of enchanted player&apos;s upkeep, you may tap target creature.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/45_Curse of Disrespect.png" num="45">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>A Crime for Liars</name>
+			<text>Enchant player
+Sea&apos;s spoils — Whenever a player plays a card with a name your team noted, target creature enchanted player controls gets -1/-1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/79_A Crime for Liars.png" num="79">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Curse of Confrontation</name>
+			<text>Enchant player
+Spirited (When this enters the battlefield, you may activate one of its activated abilities without paying its cost.)
+{R}, Sacrifice a permanent: You chose if target creature enchanted player controls attacks or blocks this turn and how that creature attacks or blocks.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/122_Curse of Confrontation.png" num="122">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shorebound</name>
+			<text>You may play an additional land card this turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/176_Shorebound.png" num="176">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reed Walkers</name>
+			<text>When Reed Walkers enters the battlefield, target creature or enchantment becomes infamous. (Note its name.)
+Sea&apos;s spoils — Whenever a player plays a card with a name your team noted, you gain 2 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/24_Reed Walkers.png" num="24">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Provisions Expert</name>
+			<text>{T}: Add {C}. Spend this mana only to cast an artifact or enchantment spell.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/61_Provisions Expert.png" num="61">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elvish Swashbuckler</name>
+			<text>When Elvish Swashbuckler enters the battlefield, up to one target creature gets -2/-1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/85_Elvish Swashbuckler.png" num="85">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Charted Course</name>
+			<text>Create three Treasure tokens. If a permanent you control left the battlefield this turn, create four of those tokens instead.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/121_Charted Course.png" num="121">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Elven Linebreaker</name>
+			<text>When Elven Linebreaker enters the battlefield, target nonland permanent becomes infamous. (Note its name.)
+Sea&apos;s spoils — Whenever a player plays a card with a name your team noted, Elf creatures your team controls get +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/156_Elven Linebreaker.png" num="156">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spirit Sea-Singer</name>
+			<text>Spirited (When this creature enters the battlefield, you may activate one of its activated abilities without paying its cost.)
+{1}{W}, Exile Spirit Sea-Singer from your graveyard: Create a 1/1 white Spirit creature token with flying. Activate this ability only any time you could cast a sorcery.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/33_Spirit Sea-Singer.png" num="33">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shiphunter</name>
+			<text>When Shiphunter enters the battlefield, target nonland card in a graveyard becomes infamous. (Note its name.)
+Shiphunter has hexproof as long as it&apos;s untapped.
+Sea&apos;s spoils — Whenever a player plays a card with a name your team noted, untap Shiphunter.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/65_Shiphunter.png" num="65">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Checkmate</name>
+			<text>Target creature gets -2/-2 until end of turn. If you sacrificed a permanent this turn, that creature gets -4/-4 until end of turn instead.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/77_Checkmate.png" num="77">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fool&apos;s Allure</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Create two colorless Treasure artifact tokens with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/127_Fool&apos;s Allure.png" num="127">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Leaf Wanderer</name>
+			<text>Spirited (When this creature enters the battlefield, you may activate one of its activated abilities without paying its cost.)
+Tap two untapped Elves you control: Target creature gets +2/+2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/168_Leaf Wanderer.png" num="168">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ocean Spyglass</name>
+			<text>When Ocean Spyglass enters the battlefield, draw a card, then discard a card. The discarded card becomes infamous. (Note its name.)
+Sea&apos;s spoils — Whenever a player plays a card with a name your team noted, scry 1</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/216_Ocean Spyglass.png" num="216">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Smoldering Flintlock</name>
+			<text>Equipped creature has &quot;{T}, Unattach Smoldering Flintlock: It deals 2 damage to target creature.&quot;
+Equip {4}</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/228_Smoldering Flintlock.png" num="228">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Coastal Explorer</name>
+			<text>As long as Coastal Explorer is equipped, it gets +1/+1 and has vigilance.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/5_Coastal Explorer.png" num="5">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grim Bastion&apos;s Call</name>
+			<text>Return up to one target creature card and up to one target Curse card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/91_Grim Bastion&apos;s Call.png" num="91">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Treasure Dragon</name>
+			<text>Flying
+Whenever Treasure Dragon attacks, you may sacrifice a permanent. When you do, create a Treasure token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/147_Treasure Dragon.png" num="147">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancient Snapper</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/153_Ancient Snapper.png" num="153">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Turtle</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Royal Helmsguard</name>
+			<text>First strike
+Royal Helmsguard&apos;s power and toughness are each equal to the number of permanent types among permanents you control. (Artifact, creature, enchantment, land, and planeswalker are permanent types.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/26_Royal Helmsguard.png" num="26">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Majestic Spectacle</name>
+			<text>Look at target opponent&apos;s hand and the top five cards of that player&apos;s library. You may put a creature card from among them onto the battlefield under your control. Put that card on top of its owner&apos;s library at the beginning of your next upkeep.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/57_Majestic Spectacle.png" num="57">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gunpowder Buccaneer</name>
+			<text>As long as Gunpowder Buccaneer is equipped, it has first strike.
+Whenever an Equipment becomes unattached from Gunpowder Buccaneer, Gunpowder Buccaneer deals 2 damage to each creature.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/130_Gunpowder Buccaneer.png" num="130">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Coastrender</name>
+			<text>Spirited (When this creature enters the battlefield, you may activate one of its activated abilities without paying its cost.)
+Coastrender enters the battlefield with X +1/+1 counters on it.
+{G}, Remove a +1/+1 counter from Coastrender: It gains your choice of vigilance, reach, trample, hexproof, or haste until end of turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/154_Coastrender.png" num="154">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flooded Morass</name>
+			<text>({T}: Add {U} or {B}.)
+Flooded Morass enters the battlefield tapped unless you control a basic Island or a basic Swamp.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/237_Flooded Morass.png" num="237">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Lavatorn Fields</name>
+			<text>({T}: Add {B} or {R}.)
+Lavatorn Fields enters the battlefield tapped unless you control a basic Swamp or a basic Mountain.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/240_Lavatorn Fields.png" num="240">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Heart of the Glade</name>
+			<text>({T}: Add {G} or {W}.)
+Heart of the Glade enters the battlefield tapped unless you control a basic Forest or a basic Plains.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/239_Heart of the Glade.png" num="239">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Flourishing Crevasse</name>
+			<text>({T}: Add {R} or {G}.)
+Flourishing Crevasse enters the battlefield tapped unless you control a basic Mountain or a basic Forest.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/238_Flourishing Crevasse.png" num="238">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ancient Heirloom</name>
+			<text>Whenever equipped creature deals damage to a player or planeswalker, put two ancestry counters on Ancient Heirloom.
+Remove an ancestry counter from Ancient Heirloom: Choose one —
+• Put a +1/+1 counter on equipped creature.
+• Create a Treasure token.
+Equip {1}</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/202_Ancient Heirloom.png" num="202">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Colossal Landsailer</name>
+			<text>{5}: Colossal Landsailer gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/204_Colossal Landsailer.png" num="204">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skysailer&apos;s Beacon</name>
+			<text>At the beginning of combat on your turn, you may have target Vehicle you control become a 7/7 artifact creature with vigilance and haste until end of turn.
+Whenever a creature you control deals combat damage to a player, you may draw a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/226_Skysailer&apos;s Beacon.png" num="226">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Eavesdrop Adept</name>
+			<text>When Eavesdrop Adept enters the battlefield, search your library for an Elf card, reveal it, and put into into your hand. Then shuffle your library.
+Whenever another Elf enters the battlefield under your team&apos;s control, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/PCA-files/img/84_Eavesdrop Adept.png" num="84">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leyline Convergence</name>
+			<text>As Leyline Convergence enters the battlefield, choose a color.
+{T}, Add one mana of the chosen color.
+{2}, {T}: Untap target creature.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/213_Leyline Convergence.png" num="213">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Merchant Caravan</name>
+			<text>Lifelink
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/214_Merchant Caravan.png" num="214">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>False Flintlock</name>
+			<text>Equipped creature gets +1/+2 and has vigilance.
+Equip {3}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/208_False Flintlock.png" num="208">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/249_Plains.png" num="249">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/251_Island.png" num="251">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/254_Swamp.png" num="254">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/261_Forest.png" num="261">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/257_Mountain.png" num="257">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Equipment PCA</name>
+			<text>Equipped creature gets +1/+1.
+Equip {1}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/5t_Equipment.png" num="5">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Equipment PCA</name>
+			<text>Equipped creature gets +1/+1.
+Equip {1}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/6t_Equipment.png" num="6">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Judgmental Orator</name>
+			<text>Whenever you activate an ability of a nonland permanent for the first time each turn, tap target creature an opponent controls.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/17_Judgmental Orator.png" num="17">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Current Seer</name>
+			<text>You have no maximum hand size as long as a player is cursed. (A player enchanted with an Aura Curse is cursed.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/44_Current Seer.png" num="44">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>A Lonely Death</name>
+			<text>Enchant player
+When A Lonely Death enters the battlefield, destroy target creature an opponent controls.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/97_A Lonely Death.png" num="97">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Novice Drunkard</name>
+			<text>Novice Drunkard can&apos;t attack or block alone.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/137_Novice Drunkard.png" num="137">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plunder Patrols</name>
+			<text>Whenever a token enters the battlefield under your control, put a +1/+1 counter on Plunder Patrols.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/170_Plunder Patrols.png" num="170">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mariner&apos;s Skill</name>
+			<text>Choose two —
+• Return target spell to its owner&apos;s hand.
+• Return target instant or sorcery card with converted mana cost 2 from your graveyard to your hand.
+• Draw a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/58_Mariner&apos;s Skill.png" num="58">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sanctimony Ward</name>
+			<text>Choose two —
+• Destroy target attacking creature.
+• Spells your opponents cast cost {2} more to cast this turn.
+• Tap all creatures your opponents control.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/29_Sanctimony Ward.png" num="29">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scoundril&apos;s Bounty</name>
+			<text>Choose two —
+• Each opponent loses 3 life and you gain that much life.
+• Put up to two creature cards from a single graveyard with total power 4 or less onto the battlefield under your control.
+• Target player draws two cards, then discards three cards.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/107_Scoundril&apos;s Bounty.png" num="107">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Abandon Ship</name>
+			<text>Choose two —
+• Destroy all artifacts with converted mana cost 3 or less.
+• Abandon Ship deals 3 damage to each target dealt damage this turn.
+• You may cast a card with converted mana cost 3 or less from your hand without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/114_Abandon Ship.png" num="114">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tracker&apos;s Revelation</name>
+			<text>Choose two —
+• You may play an additional land this turn.
+• You gain 1 life for each differently named land you control.
+• Return target permanent card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/181_Tracker&apos;s Revelation.png" num="181">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Adrift Wreckage</name>
+			<text>{T}: Add {C}.
+{3}, {T}: A player on your team creates a Treasure token.
+{2}, {T}, Sacrifice a Gold or Treasure: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/235_Adrift Wreckage.png" num="235">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Merfolk PCA</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/2t_Merfolk.png" num="2">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Merfolk Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/260_Forest.png" num="260">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/250_Island.png" num="250">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/248_Plains.png" num="248">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/255_Swamp.png" num="255">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/258_Mountain.png" num="258">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Merfolk Wavemaster</name>
+			<text>Spirited (When this creature enters the battlefield, you may activate one of its activated abilities without paying its cost.)
+{T}, Tap an untapped Merfolk you control: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/59_Merfolk Wavemaster.png" num="59">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plundered Secrets</name>
+			<text>Enchant player
+Whenever a creature enchanted player controls dies, you gain 3 life.
+Whenever enchanted player discards a card, you gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/104_Plundered Secrets.png" num="104">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wayward Plunderer</name>
+			<text>Whenever your team attacks with one or more creatures, target creature can&apos;t block this turn. That creature becomes infamous. (Note its name.)
+Sea&apos;s spoils — Whenever a player plays a card with a name your team noted, creatures your team controls get +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/150_Wayward Plunderer.png" num="150">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sails to Adventure</name>
+			<text>When Sails to Adventure enters the battlefield, look at the top two cards of your library. You may reveal a creature or land card from among them, put it into your hand, and the other into your graveyard.
+If a player on your team would create a token, each player on your team creates that token instead.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/173_Sails to Adventure.png" num="173">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Soldier PCA</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/1t_Soldier.png" num="1">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Pirate PCA</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/3t_Pirate.png" num="3">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure PCA</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/7t_Treasure.png" num="7">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Coral Cove</name>
+			<text>Coral Cove enters the battlefield tapped.
+When Coral Cove enters the battlefield, you may look at the top card of your library. You may put that card into your graveyard.
+{T}: A player on your team adds {G}.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/236_Coral Cove.png" num="236">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Towering Spires</name>
+			<text>Towering Spires enters the battlefield tapped.
+When Towering Spires enters the battlefield, target creature gains double strike until end of turn.
+{T}: A player on your team adds {R}.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/245_Towering Spires.png" num="245">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Smuggler&apos;s Cove</name>
+			<text>Smuggler&apos;s Cove enters the battlefield tapped.
+When Smuggler&apos;s Cove enters the battlefield, each opponent loses 1 life.
+{T}: A player on your team adds {B}.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/244_Smuggler&apos;s Cove.png" num="244">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Seaside Market</name>
+			<text>Seaside Market enters the battlefield tapped.
+When Seaside Market enters the battlefield, you may untap target creature.
+{T}: A player on your team adds {U}.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/243_Seaside Market.png" num="243">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Open Shore</name>
+			<text>Open Shore enters the battlefield tapped.
+When Open Shore enters the battlefield, you may tap target creature.
+{T}: A player on your team adds {W}.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/241_Open Shore.png" num="241">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Illypso, Sea&apos;s Majesty</name>
+			<text>Flash
+When Illypso, Sea&apos;s Majesty enters the battlefield, exile target creature spell.
+You may have other creatures you control enter the battlefield as a copy of a creature card exiled with Illypso.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/PCA-files/img/193_Illypso, Sea&apos;s Majesty.png" num="193">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>3GUU</manacost>
+				<cmc>6</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stowaway&apos;s Knife</name>
+			<text>Creatures can&apos;t block equipped creature unless their controller pays {2}.
+Equipped creature gets +2/+1.
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/231_Stowaway&apos;s Knife.png" num="231">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Treasure PCA</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/8t_Treasure.png" num="8">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Pool of Light</name>
+			<text>({T}: Add {W} or {U}.)
+Pool of Light enters the battlefield tapped unless you control a basic Plains or a basic Island.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/242_Pool of Light.png" num="242">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wayfarer&apos;s Shrine</name>
+			<text>{T}, Pay 1 life, Sacrifice Wayfarer&apos;s Shrine: Search your library for a basic land card, put it onto the battlefield, then shuffle your library.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/246_Wayfarer&apos;s Shrine.png" num="246">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Lush Oasis</name>
+			<text>({T}: Add {G} or {U}.)
+Lush Oasis enters the battlefield tapped unless you control a basic Forest or a basic Island.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/PCA-files/img/4_Lush Oasis.png" num="4">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Frostfire Geysers</name>
+			<text>({T}: Add {U} or {R}.)
+Frostfire Geysers enters the battlefield tapped unless you control a basic Island or a basic Mountain.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/PCA-files/img/1_Frostfire Geysers.png" num="1">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Spiraling Canyon</name>
+			<text>({T}: Add {R} or {W}.)
+Spiraling Canyon enters the battlefield tapped unless you control a basic Mountain or a basic Plains.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/PCA-files/img/5_Spiraling Canyon.png" num="5">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Gloomcover Steppe</name>
+			<text>({T}: Add {W} or {B}.)
+Gloomcover Steppe enters the battlefield tapped unless you control a basic Plains or a basic Swamp.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/PCA-files/img/3_Gloomcover Steppe.png" num="3">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fungal Mire</name>
+			<text>({T}: Add {B} or {G}.)
+Fungal Mire enters the battlefield tapped unless you control a basic Swamp or a basic Forest.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/PCA-files/img/2_Fungal Mire.png" num="2">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cursebreak</name>
+			<text>Destroy target enchantment. You gain 2 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/6_Cursebreak.png" num="6">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Into the Ocean</name>
+			<text>Sea&apos;s spoils — Draw three cards, then discard two cards unless a player played a card this turn with a name your team noted.
+Cycling {2}
+When you cycle Into the Ocean, target nonland card in a graveyard becomes infamous. (Note its name.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/53_Into the Ocean.png" num="53">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bravado</name>
+			<text>Target creature gets -1/-2 until end of turn. Up to one other target creature gets +2/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/76_Bravado.png" num="76">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Braizen Captain</name>
+			<text>Sea&apos;s spoils — Whenever a player plays a card with a name your team noted, create a Treasure token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/116_Braizen Captain.png" num="116">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elven Sailor</name>
+			<text>Vigilance (Attacking doesn&apos;t cause this creature to tap.)
+When Elven Sailor enters the battlefield, reveal the top five cards of your library. You may put a land card from among them into your hand. Put the rest into your graveyard.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/157_Elven Sailor.png" num="157">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brandish</name>
+			<text>Search your library for up to two Equipment cards and reveal them. Put one into your hand, then shuffle your library and put the other on top of it.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/3_Brandish.png" num="3">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Renegade Tidemaster</name>
+			<text>Spells your opponents cast that target Merfolk you control cost {2} more to cast.
+Sea&apos;s spoils — Whenever a player plays a card with a name your team noted, create a 2/2 blue Merfolk Pirate creature token.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/62_Renegade Tidemaster.png" num="62">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Merciless Stalker</name>
+			<text>Sea&apos;s spoils — Whenever a player plays a card with a name your team noted, target opponent loses 1 life.
+{2}{B}, Discard two cards: Return Merciless Stalker from your graveyard to the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/100_Merciless Stalker.png" num="100">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shiprender</name>
+			<text>Spirited (When this creature enters the battlefield, you may activate one of its activated abilities without paying its cost.)
+{2}{G}, Sacrifice Shiprender: Destroy target artifact or enchantment.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/175_Shiprender.png" num="175">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/259_Forest.png" num="259">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/252_Island.png" num="252">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/256_Mountain.png" num="256">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/247_Plains.png" num="247">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/253_Swamp.png" num="253">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island Sinker</name>
+			<text>First strike, trample, lifelink
+Sacrifice another artifact or creature: Put a +1/+1 counter on Island Sinker. It can&apos;t be crewed this turn.
+When Island Sinker dies, you may move its +1/+1 counters onto target creature that crewed it this turn.
+Crew 2</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/PCA-files/img/212_Island Sinker.png" num="212">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/0</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Brigand&apos;s Bargain</name>
+			<text>Sea&apos;s spoils — Whenever a player plays a card with a name your team noted, put a coerce counter on Brigand&apos;s Bargain.
+Remove X coerce counters from Brigand&apos;s Bargain and sacrifice it: Exile target creature you control with converted mana cost X, then return it to the battlefield under your control.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/4_Brigand&apos;s Bargain.png" num="4">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sailor&apos;s Slip</name>
+			<text>Return target nonland permanent to its owner&apos;s hand. If that player is cursed, look at their hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of their library, then draws a card. (A player enchanted with an Aura Curse is cursed.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/63_Sailor&apos;s Slip.png" num="63">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Voyage&apos;s End</name>
+			<text>Return target creature to its owner&apos;s hand. Scry 1.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/74_Voyage&apos;s End.png" num="74">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stagger Back</name>
+			<text>Put target creature card from a graveyard onto the battlefield under your control. If that card was a Pirate, put two +1/+1 counters on it.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/109_Stagger Back.png" num="109">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Archipelago Tyrant</name>
+			<text>Draft this card face up.
+At the end of this round, reveal the last card you drafted and note it&apos;s name.
+Flying
+Whenever you cast a spell with a name you noted for cards named Archipelago Tyrant, exile the top three cards of your library. You may cast them without paying their mana costs.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PCA-files/img/115_Archipelago Tyrant.png" num="115">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plunder and Pillage</name>
+			<text>Plunder and Pillage deals 3 damage to target creature or planeswalker.
+Sea&apos;s spoils — If a player played a card this turn with a name your team noted, Plunder and Pillage deals 2 damage to that permanent&apos;s controller.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/139_Plunder and Pillage.png" num="139">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Explosive Entrance</name>
+			<text>Reveal cards from the top of your library until you reveal a Pirate card. Explosive Entrance deals damage equal to that card&apos;s converted mana cost to each player. Put the Pirate card into your hand and the rest on the bottom of your library in a random order.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PCA-files/img/125_Explosive Entrance.png" num="125">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flintlock Sharpshot</name>
+			<text>Spirited (When this creature enters the battlefield, you may activate one of its activated abilities without paying its cost.)
+{T}: Flintlock Sharpshot deals 1 damage to any target.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/126_Flintlock Sharpshot.png" num="126">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Her Majesty&apos;s Deliverance</name>
+			<text>Her Majesty&apos;s Deliverance deals 2 damage to target creature. When that creature dies this turn, add {R}{R}.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/132_Her Majesty&apos;s Deliverance.png" num="132">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pirate PCA</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PCA-files/img/4t_Pirate.png" num="4">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Green-Hunt Olivera</name>
+			<text>Other Elves you control get +1/+1.
+Whenever you discard an Elf card, exile that card from your graveyard.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/PCA-files/img/191_Green-Hunt Olivera.png" num="191">PCA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>3BG</manacost>
+				<cmc>5</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,3089 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>PRW</name>
+			<longname>Primal Wilds</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-02-06</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Nesting Pteranodon</name>
+			<text>This spell can&apos;t be countered
+Flying
+Creature spells you cast with flying can&apos;t be countered.
+Whenever one or more creatures you control with flying deal combat damage to a player, draw that many cards.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/37_Nesting Pteranodon.png" num="37">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scavenging Herd</name>
+			<text>{T}: Add one mana a land in your territory could produce.
+{2}{G}: Claim a territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/126_Scavenging Herd.png" num="126">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Territorial Sauropod</name>
+			<text>Lifelink
+Whenever Territorial Sauropod becomes blocked by exactly one creature, Territorial Sauropod gains indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/22_Territorial Sauropod.png" num="22">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sun-Valley Lookout</name>
+			<text>Whenever Sun-Valley Lookout or another creature enters the battlefield under your control, venture into the wilds. This ability triggers only once each turn. (Enter the Wilds of Morubi if you&apos;re not already lost there. If you are, advance further.)
+As long as you&apos;ve completed a dungeon, spells and abilities your opponents control can&apos;t cause you to sacrifice permanents.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/129_Sun-Valley Lookout.png" num="129">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Intrepid Slayer</name>
+			<text>Kicker {1}{B} (You may pay an additional {1}{B} as you cast this spell.)
+When Intrepid Slayer enters the battlefield, if it was kicked, you may destroy target permanent with mana value 4 or greater.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/8_Intrepid Slayer.png" num="8">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Open Fields</name>
+			<text>Creatures you control with flying get +1/+1 and have ward {1}.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/43_Open Fields.png" num="43">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Overshadow</name>
+			<text>Target creature gets -3/-2 until end of turn. You lose 2 life.
+Dominance — If you control the creature with the greatest power or tied for greatest, that creature gets -5/-4 until end of turn instead.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/72_Overshadow.png" num="72">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Territorial Bout</name>
+			<text>Target creature you control fights target creature an opponent controls. Venture into the wilds. (Enter the Wilds of Morubi if you&apos;re not already lost there. If you are, advance further.)
+As long as you control a creature with power 4 or greater, Territorial Bout has flashback {3}{R}{G}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/145_Territorial Bout.png" num="145">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thrill of the Hunt</name>
+			<text>Thrill of the Hunt deals 4 damage to any target.
+Dominance — Thrill of the Hunt costs {2} less to cast as long as you control the creature with the greatest power or tied for greatest.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/105_Thrill of the Hunt.png" num="105">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bortan, Dominant Chieftan</name>
+			<text>Kicker {1}{B} (You may pay an additional {1}{B} as you cast this spell.)
+Lifelink
+When Bortan, Dominant Chieftan enters the battlefield, if it was kicked, target opponent sacrifices a creature with the highest mana value among creatures they control.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/58_Bortan, Dominant Chieftan.png" num="58">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cerat, Asari Hunter</name>
+			<text></text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/137_Cerat, Asari Hunter.png" num="137">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Cerat</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Magmatic Overflow</name>
+			<text>Venture into the wilds. If you&apos;ve completed a dungeon, damage can&apos;t be prevented this turn. Magmatic Overflow deals 4 damage to target creature or planeswalker. (Enter the Wilds of Morubi if you&apos;re not already lost there. If you are, advance further.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/95_Magmatic Overflow.png" num="95">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bountiful Shores</name>
+			<text>({T}: Add {G}, {U}, or {R}.)
+Bountiful Shores enters the battlefield tapped unless you control two or more basic lands.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/PRW-files/img/3_Bountiful Shores.png" num="3">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Island Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Floodplain Marsh</name>
+			<text>({T}: Add {B}, {G}, or {U}.)
+Floodplain Marsh enters the battlefield tapped unless you control two or more basic lands.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/PRW-files/img/5_Floodplain Marsh.png" num="5">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Forest Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Decrepit Boneyard</name>
+			<text>({T}: Add {W}, {B}, or {G}.)
+Decrepit Boneyard enters the battlefield tapped unless you control two or more basic lands.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/PRW-files/img/4_Decrepit Boneyard.png" num="4">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Swamp Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Glorious Keep</name>
+			<text>({T}: Add {R}, {W}, or {B}.)
+Glorious Keep enters the battlefield tapped unless you control two or more basic lands.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/PRW-files/img/6_Glorious Keep.png" num="6">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Primal Isle</name>
+			<text>({T}: Add {U}, {B}, or {R}.)
+Primal Isle enters the battlefield tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/153_Primal Isle.png" num="153">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Lichen Slab</name>
+			<text>({T}: Add {B}, {R}, or {G}.)
+Lichen Slab enters the battlefield tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/150_Lichen Slab.png" num="150">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Mountain Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Meandering River</name>
+			<text>({T}: Add {U}, {R}, or {W}.)
+Meandering River enters the battlefield tapped unless you control two or more basic lands.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/PRW-files/img/7_Meandering River.png" num="7">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Mountain Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Lowland Pools</name>
+			<text>({T}: Add {G}, {W}, or {U}.)
+Lowland Pools enters the battlefield tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/151_Lowland Pools.png" num="151">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest Plains Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sulfur Fields</name>
+			<text>({T}: Add {W}, {U}, or {B}.)
+Sulfur Fields enters the battlefield tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/155_Sulfur Fields.png" num="155">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Island Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Volcanic Basin</name>
+			<text>({T}: Add {R}, {G}, or {W}.)
+Volcanic Basin enters the battlefield tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/157_Volcanic Basin.png" num="157">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Forest Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Osuru Wayguide</name>
+			<text>Lifelink
+Whenever another creature enters the battlefield, Osuru Wayguide gets +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/12_Osuru Wayguide.png" num="12">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Osuru Naturalist</name>
+			<text>Whenever another nontoken enchanted creature dies, create a 1/1 green Snake Druid creature token, then you may attach any number of Auras you controlled attached to that creature to the token.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/122_Osuru Naturalist.png" num="122">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Insatiable Deathclaw</name>
+			<text>Whenever you cast a kicked spell, you draw a card and each player loses 1 life.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/67_Insatiable Deathclaw.png" num="67">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pathfinder Raptor</name>
+			<text>Whenever you cast your second spell each turn, venture into the wilds. (Enter the Wilds of Morubi if you&apos;re not already lost there. If you are, advance further.)
+Whenever Pathfinder Raptor deals combat damage to a player, draw a card.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/44_Pathfinder Raptor.png" num="44">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodscent</name>
+			<text>Gain control of target creature until end of turn. Untap that creature. It gets +2/+0 and gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/87_Bloodscent.png" num="87">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sauren, Asari Sun-Chief</name>
+			<text>Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.)
+Whenever Sauren, Asari Sun-Chief becomes tapped, put a +1/+1 counter on each creature you control.
+When Sauren enters the battlefield, if it was kicked, you may tap or untap up to three target creatures.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/18_Sauren, Asari Sun-Chief.png" num="18">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Volta&apos;s Assistant</name>
+			<text>Flying
+When Volta&apos;s Assistant enters the battlefield, claim a territory, then draw X cards, where is X is half Volta&apos;s Assistant&apos;s power, rounded down. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/53_Volta&apos;s Assistant.png" num="53">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scavenging Grounds</name>
+			<text>At the beginning of your upkeep, you lose 1 life and create a 1/1 black Dinosaur creature token with menace.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/76_Scavenging Grounds.png" num="76">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bloodlust Hunt</name>
+			<text>When Bloodlust Hunt enters the battlefield, claim a territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)
+Tap an untapped land in your territory: Target creature gets +1/+0 and gains haste until end of turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/86_Bloodlust Hunt.png" num="86">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Warpath Carnivore</name>
+			<text>Haste
+Dominance — At the beginning of combat on your turn, if you control the creature with the greatest power or tied for greatest, create a 3/3 green Dinosaur creature token. Otherwise, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/134_Warpath Carnivore.png" num="134">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Roaming Negotiator</name>
+			<text>Whenever an opponent draws a card, that player may pay {2}. If the player doesn&apos;t, you create a 2/2 white Human creature token.
+Dominance — When Roaming Negotiator attacks, if you control the creature with the greatest power or tied for greatest, you and defending player each draw a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/15_Roaming Negotiator.png" num="15">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Nomad</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mystic Rite</name>
+			<text>Search your library for an Aura card, reveal it, put it into your hand, then shuffle.
+Dominance — If you control the creature with the greatest power or tied for greatest, the next time you cast an Aura spell this turn you may copy that spell for any number of creatures it could target. Each copy targets a different creature.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/36_Mystic Rite.png" num="36">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tyrant&apos;s Reign</name>
+			<text>Dominance — If you control the creature with the greatest power or tied for greatest, that creature gets +3/+3 until end of turn.
+All creatures get -3/-3 until end of turn. You lose 3 life.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/80_Tyrant&apos;s Reign.png" num="80">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Morubi Flayer</name>
+			<text>Haste
+Dominance — Whenever Morubi Flayer attacks, if you control the creature with the greatest power or tied for greatest, you may cast a card from your hand with mana value 3 or less without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/98_Morubi Flayer.png" num="98">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wandering Caravan</name>
+			<text>Whenever your second land enters the battlefield each turn, claim a territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)
+Untap each land in your territory during each other player&apos;s untap step.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/133_Wandering Caravan.png" num="133">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rushclaw Hunter</name>
+			<text>Vigilance
+Whenever you cast a kicked spell, you may tap target creature an opponent controls.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/17_Rushclaw Hunter.png" num="17">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Nomad</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Primal Form</name>
+			<text>Enchant creature
+Whenever enchanted creature attacks, look at the top card of each player&apos;s library. You may reveal a creature from among them and have each enchanted creature you control become a copy of that card until end of turn. Then you may have each player mill a card.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/45_Primal Form.png" num="45">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stalking Remains</name>
+			<text>When Stalking Remains enters the battlefield, claim a territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)
+When Stalking Remains dies, return another target creature card with power less than or equal to the number of lands in your territory from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/78_Stalking Remains.png" num="78">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raptor Pups</name>
+			<text>When Raptor Pups enters the battlefield, claim a territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)
+When Raptor Pups dies, it deals damage to target opponent equal to the number of lands in your territory.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/100_Raptor Pups.png" num="100">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Herd Guardian</name>
+			<text>Dominance — At the beginning of each upkeep, if you control the creature with the greatest power or tied for greatest, draw a card. Otherwise, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/116_Herd Guardian.png" num="116">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scout&apos;s Preparations</name>
+			<text>Enchant creature
+Dominance — When Scout&apos;s Preparations enters the battlefield, if you control the creature with the greatest power or tied for greatest, return target permanent card with mana value 3 or less from your graveyard to the battlefield.
+Enchanted creature gets +3/+3.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/19_Scout&apos;s Preparations.png" num="19">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Northland Mystic</name>
+			<text>When Northland Mystic enters the battlefield, claim a territory, then you may return another target nonland permanent with mana value less than or equal to Northland Mystic&apos;s power to its owner&apos;s hand. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/38_Northland Mystic.png" num="38">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hell Warden</name>
+			<text>The first kicker ability you pay each turn costs {1} less to pay for each 1 life your opponent lost this turn.
+{1}, {T}: Each opponent loses 2 life.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/66_Hell Warden.png" num="66">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cross Boundaries</name>
+			<text>Claim a territory. Cross Boundaries deals X damage to target creature, where X is the number of lands in your territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/90_Cross Boundaries.png" num="90">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nest Scrabblers</name>
+			<text>Whenever you cast a creature spell with power 4 or greater, create a create a 1/1 black Dinosaur creature token with menace.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/121_Nest Scrabblers.png" num="121">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Badlands Ranger</name>
+			<text>Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.)
+First strike
+When Badlands Ranger enters the battlefield, if it was kicked, exile target nonland permanent an opponent controls until Badlands Ranger leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/2_Badlands Ranger.png" num="2">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frozen Secrets</name>
+			<text>Dominance — If you control the creature with the greatest power or tied for greatest, scry 2.
+Draw two cards, then discard a card.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/32_Frozen Secrets.png" num="32">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deathclaw Pack</name>
+			<text>Kicker {X}{1}{W} (You may pay an additional {X}{1}{W} as you cast this spell.)
+Deathtouch
+When Deathclaw Pack enters the battlefield, if it was kicked, create X tokens that are a copy of it.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/60_Deathclaw Pack.png" num="60">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Volcanic Fallout</name>
+			<text>This spell can&apos;t be countered.
+Volcanic Fallout deals 2 damage to each creature and each player.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/107_Volcanic Fallout.png" num="107">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Urge to Feed</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 for each enchantment you control and has trample.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/132_Urge to Feed.png" num="132">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nomad&apos;s Companion</name>
+			<text>Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)
+Flying
+Nomad&apos;s Companion enters the battlefield with two +1/+1 counters on it if it was kicked.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/10_Nomad&apos;s Companion.png" num="10">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Foraging Featherwing</name>
+			<text>Flying
+When Foraging Featherwing enters the battlefield, claim a territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/31_Foraging Featherwing.png" num="31">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sheer Determination</name>
+			<text>Until end of turn, target creature you control gets +2/+0, gains menace, and gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/77_Sheer Determination.png" num="77">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scaleplate Raider</name>
+			<text>When Scaleplate Raider enters the battlefield, claim a territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)
+Scaleplate Raider gets +2/+1 as long as you have a non-Mountain territory.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/101_Scaleplate Raider.png" num="101">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Huntraptor</name>
+			<text>When Huntraptor enters the battlefield, claim a territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)
+Huntraptor gets +2/+2 as long as there are three or more lands in your territory.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/118_Huntraptor.png" num="118">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Loftwing Glider</name>
+			<text>When Loftwing Glider enters the battlefield, claim a territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)
+Whenever Loftwing Glider attacks, if you have a Plains territory, it and up to one target creature gain flying until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/9_Loftwing Glider.png" num="9">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wake Crasher</name>
+			<text>Defender
+{5}: Claim a territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)
+Wake Crasher can attack as though it didn&apos;t have defender as long as there are three or more lands in your territory.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/54_Wake Crasher.png" num="54">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Morubi Envoys</name>
+			<text>When Morubi Envoys enters the battlefield and whenever Morubi Envoys or another creature dies, surveil 1.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/68_Morubi Envoys.png" num="68">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Maurader&apos;s Raptor</name>
+			<text>Dominance — When Maurader&apos;s Raptor enters the battlefield, it gains haste until end of turn if you control the creature with the greatest power or tied for greatest.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/96_Maurader&apos;s Raptor.png" num="96">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Charging Hintodon</name>
+			<text>When Charging Hintodon enters the battlefield, other creatures you control named Charging Hintodon get +2/+2 and gain trample until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/114_Charging Hintodon.png" num="114">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tribal Anointer</name>
+			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
+When Tribal Anointer enters the battlefield, you gain 3 life. If it was kicked, put two +1/+1 counters on it.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/24_Tribal Anointer.png" num="24">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Nomad</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mana Malfunction</name>
+			<text>Claim a territory, then counter target spell unless its controller pays {1} for each land in your territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/35_Mana Malfunction.png" num="35">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Proving Grounds</name>
+			<text>Whenever you cast a kicked spell, each opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/74_Proving Grounds.png" num="74">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Badlands Cartographer</name>
+			<text>When Badlands Cartographer enters the battlefield, you may discard a card. If you do, draw a card and claim a territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/84_Badlands Cartographer.png" num="84">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scout&apos;s Sight</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+2 and has vigilance and reach.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/127_Scout&apos;s Sight.png" num="127">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Arid Warden</name>
+			<text>When Arid Warden enters the battlefield, you gain 2 life and draw a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/1_Arid Warden.png" num="1">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skyline Dreams</name>
+			<text>When Skyline Dreams enters the battlefield, draw two cards.
+Enchanted creature gets +2/+2 and has flying.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/48_Skyline Dreams.png" num="48">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Morubi Vagrants</name>
+			<text>Whenever you cast a kicked spell, put a +1/+1 counter on Morubi Vagrants and each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/70_Morubi Vagrants.png" num="70">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Morubi Elder</name>
+			<text>When Morubi Elder enters the battlefield, create a 1/1 red Warrior creature token, then claim a territory. If you have a Mountain territory, that token gains haste until end of turn. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/97_Morubi Elder.png" num="97">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bull Ceratops</name>
+			<text>When Bull Ceratops enters the battlefield, claim a territory (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)
+Whenever Bull Ceratops attacks, it gets +1/+1 for each land in your territory.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/112_Bull Ceratops.png" num="112">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Show of Strength</name>
+			<text>Creatures you control get +1/+1 until end of turn. Untap those creatures.
+Dominance — If you control the creature with the greatest power or tied for greatest, tap each creature target opponent controls.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/20_Show of Strength.png" num="20">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Northlands Conquerer</name>
+			<text>Dominance — At the beginning of your upkeep, if you control the creature with the greatest power or tied for greatest, venture into the wilds. (Enter the Wilds of Morubi if you&apos;re not already lost there. If you are, advance further.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/39_Northlands Conquerer.png" num="39">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Northlands Hunter</name>
+			<text>Menace
+Dominance — When Northlands Hunter enters the battlefield, if it isn&apos;t a token and you control the creature with the greatest power or tied for greatest, create a token that is a copy of it.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/71_Northlands Hunter.png" num="71">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gluttonous Gorger</name>
+			<text>Sacrifice a creature, pay 1 life: Add {R}. Activate only once each turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/94_Gluttonous Gorger.png" num="94">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancient Reclamation</name>
+			<text>Claim a territory. Search your library for a land card that shares a type with a land in your territory, put it onto the battlefield, then shuffle. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/109_Ancient Reclamation.png" num="109">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Primal Challenge</name>
+			<text>Target creature you control gets +2/+2 and gains vigilance and lifelink until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/14_Primal Challenge.png" num="14">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>One With the Herd</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 and has hexproof.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/42_One With the Herd.png" num="42">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Feeding Ground</name>
+			<text>Claim a territory, then target opponent sacrifices a creature with mana value greater than the number of lands in your territory. If they can&apos;t, draw a card. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/62_Feeding Ground.png" num="62">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Basking Sailback</name>
+			<text>Reach
+When Basking Sailback enters the battlefield, venture into the wilds. (Enter the Wilds of Morubi if you&apos;re not already lost there. If you are, advance further.)
+{R}: Basking Sailback gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/85_Basking Sailback.png" num="85">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Survive the Hunt</name>
+			<text>Dominance — Put a +1/+1 counter on target creature, then that creature gains indestructible and trample until end of turn if you control the creature with the greatest power or tied for greatest.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/130_Survive the Hunt.png" num="130">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Valley Ceratops</name>
+			<text>When Valley Ceratops enters the battlefield, claim a territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)
+Lands in your territory have &quot;{3}, {T}: Tap target creature.&quot;</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/26_Valley Ceratops.png" num="26">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Touch the Sky</name>
+			<text>Put a flying counter on target creature you control. Whenever that creature deals combat damage to a player this turn, draw two cards.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/52_Touch the Sky.png" num="52">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Morubi Predator</name>
+			<text>Kicker {1}{B} (You may pay an additional {1}{B} as you cast this spell.)
+When Morubi Predator enters the battlefield, sacrifice a creature unless it was kicked.
+{1}{B}, Exile a creature card from your graveyard: Morubi Predator gets +2/+2 and gains menace until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/69_Morubi Predator.png" num="69">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancient Encounter</name>
+			<text>Whenever you sacrifice a permanent, Ancient Encounter deals 1 damage to any target. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/82_Ancient Encounter.png" num="82">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Breath of the Wild</name>
+			<text>Enchant creature
+When Breath of the Wild enters the battlefield and whenever enchanted creature deals combat damage to a player, venture into the wilds. (Enter the Wilds of Morubi if you&apos;re not already lost there. If you are, advance further.)
+Enchanted creature gets +2/+2.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/111_Breath of the Wild.png" num="111">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Outcast&apos;s Expedition</name>
+			<text>Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.)
+Put a +1/+1 counter on up to one target creature for each opponent that controls more lands than you. If Outcast&apos;s Expedition was kicked, draw a card for each opponent that has more cards in hand than you.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/13_Outcast&apos;s Expedition.png" num="13">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ocean Lurker</name>
+			<text>Whenever one or more creatures you control attacks and isn&apos;t blocked, scry 1.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/41_Ocean Lurker.png" num="41">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alpha&apos;s Prize</name>
+			<text>Kicker {1} (You may pay an additional {1} as you cast this spell.)
+If Alpha&apos;s Prize was kicked, scry 2. You draw two cards and lose 2 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/55_Alpha&apos;s Prize.png" num="55">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tandem Hunters</name>
+			<text>When Tandem Hunters enters the battlefield, put a +1/+1 counter on each other creature you control named Tandem Hunters.
+Tandem Hunters has double strike as long as its your turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/104_Tandem Hunters.png" num="104">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Journey North</name>
+			<text>Look at the top four cards of your library. You may reveal a creature, land, or Aura card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/119_Journey North.png" num="119">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bountiful Hunt</name>
+			<text>Exile target artifact, enchantment, or creature without flying.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/3_Bountiful Hunt.png" num="3">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Badlands Glider</name>
+			<text>Flying
+When Badlands Glider enters the battlefield, draw a card for each other creature you control named Badlands Glider.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/28_Badlands Glider.png" num="28">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unceremonious End</name>
+			<text>Kicker {B} (You may pay an additional {B} as you cast this spell.)
+Destroy target creature. If Unceremonious End was kicked, exile its controller&apos;s graveyard.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/81_Unceremonious End.png" num="81">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Asari Outcast</name>
+			<text>When Asari Outcast enters the battlefield, create a 1/1 red Warrior creature token.
+Tap an untapped creature you control: Asari Outcast gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/83_Asari Outcast.png" num="83">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ambuscade</name>
+			<text>Target creature you control gets +1/+0 until end of turn. It deals damage equal to its power to target creature an opponent controls.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/108_Ambuscade.png" num="108">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flittering Featherwing</name>
+			<text>Flying
+Creature spells with flying cost {1} less to cast.
+Other creatures you control with flying get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/138_Flittering Featherwing.png" num="138">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shore Mystic</name>
+			<text>When Shore Mystic enters the battlefield, venture into the wilds. (Enter the Wilds of Morubi if you&apos;re not already lost there. If you are, advance further.)
+Whenever an enchanted creature dies, venture into the wilds for each Aura you controlled that was attached to it.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/144_Shore Mystic.png" num="144">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Asari War Plate</name>
+			<text>{T}, Sacrifice a permanent: The next spell you cast this turn costs {2} less to cast.
+At the beginning of your end step, if you sacrificed three or more permanents this turn, draw a card.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/135_Asari War Plate.png" num="135">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nomadic Treader</name>
+			<text>Vigilance
+Whenever you cast a kicked spell, target creature you control gets +X/+X until end of turn, where X is that spell&apos;s kicker value.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/143_Nomadic Treader.png" num="143">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Nomad</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dinosaur PRW</name>
+			<text></text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/PRW-files/img/5t_Dinosaur.png" num="5">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/159_Plains.png" num="159">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/160_Island.png" num="160">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/161_Swamp.png" num="161">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/162_Mountain.png" num="162">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/163_Forest.png" num="163">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Warrior PRW</name>
+			<text></text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/PRW-files/img/4t_Warrior.png" num="4">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Human PRW</name>
+			<text></text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/PRW-files/img/1t_Human.png" num="1">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Abandoned Garrison</name>
+			<text>({T}: Add {W}.)
+Abandoned Garrison enters the battlefield tapped.
+{W}, {T}: Add one mana of any color for each land you control named Abandoned Garrison.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/147_Abandoned Garrison.png" num="147">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Verdant Jungle</name>
+			<text>({T}: Add {G}.)
+Verdant Jungle enters the battlefield tapped.
+{G}, {T}: Add one mana of any color for each land you control named Verdant Jungle.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/156_Verdant Jungle.png" num="156">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Primeval Marsh</name>
+			<text>({T}: Add {B}.)
+Primeval Marsh enters the battlefield tapped.
+{B}, {T}: Add one mana of any color for each land you control named Primeval Marsh.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/154_Primeval Marsh.png" num="154">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Erupting Volcano</name>
+			<text>({T}: Add {R}.)
+Erupting Volcano enters the battlefield tapped.
+{R}, {T}: Add one mana of any color for each land you control named Erupting Volcano.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/148_Erupting Volcano.png" num="148">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fossil Shores</name>
+			<text>({T}: Add {U}.)
+Fossil Shores enters the battlefield tapped.
+{U}, {T}: Add one mana of any color for each land you control named Fossil Shores.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/149_Fossil Shores.png" num="149">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Stalwart Stonehide</name>
+			<text>Trample
+Dominance — At the beginning of combat on your turn, if you control the creature with the greatest power or tied for greatest, Stalwart Stonehide deals 2 damage to any target. Creatures dealt damage this way can&apos;t block this turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/102_Stalwart Stonehide.png" num="102">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frightmaw</name>
+			<text>Haste, menace
+Whenever Frightmaw deals combat damage to a player, that player loses 3 life unless they sacrifice a nonland permanent or discard a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/140_Frightmaw.png" num="140">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Barren Grounds</name>
+			<text>Whenever you cast your first spell each turn with an even kicker value, you draw a card and create a 2/2 white Human creature token.
+Whenever you cast your first spell each turn with an odd kicker value, you create a 1/1 black Dinosaur creature token with menace and target opponent discards a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/136_Barren Grounds.png" num="136">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Forgathr the Blessed</name>
+			<text>Flying
+Whenever you cast an instant or sorcery spell from your hand, you may exile that spell as it resolves and create a 1/1 white Wolf Dragon creature token with flying. Whenever that token deals combat damage to a player, you may cast the exiled card.
+Forgathr has indestructible as long as you control three or more other creatures with flying.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/139_Forgathr the Blessed.png" num="139">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Wolf Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Horizon Sailback</name>
+			<text>Ward {2}
+Whenever you cast a spell that targets a creature you control, you may draw a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/142_Horizon Sailback.png" num="142">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Run Rampant</name>
+			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
+Creatures you control get +1/+1 until end of turn. If this spell was kicked, put a +1/+1 counter on those creatures instead.
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/16_Run Rampant.png" num="16">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sun-Valley Warden</name>
+			<text>Aura spells you cast cost {1} less to cast.
+{U}: Target enchantment or enchanted creature phases out.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/49_Sun-Valley Warden.png" num="49">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glade Scavengers</name>
+			<text>When Glade Scavengers enters the battlefield, create a 1/1 black Dinosaur creature token with menace for each other creature you control named Glade Scavengers.
+{2}, Sacrifice a creature: Put a +1/+1 counter on Glade Scavengers.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/65_Glade Scavengers.png" num="65">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hunting Trek</name>
+			<text>Enchant creature
+When Hunting Trek enters the battlefield and at the beginning of combat on your turn, put a +1/+1 counter on each enchanted creature you control.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/117_Hunting Trek.png" num="117">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Osuru Scrapper</name>
+			<text>Whenever you cast a kicked spell, you may create a 2/2 white Human creature token. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/11_Osuru Scrapper.png" num="11">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pterosaur Flock</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)
+Pterosaur Flock&apos;s power and toughness are each equal to the number of creatures you control with flying.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/46_Pterosaur Flock.png" num="46">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Funeral Grounds</name>
+			<text>Mill five cards, then put a creature or land card in your graveyard on top of your library.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/64_Funeral Grounds.png" num="64">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Confrontation</name>
+			<text>Target creature or planeswalker deals damage to itself equal to its mana value.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/89_Confrontation.png" num="89">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Territorial Stonehide</name>
+			<text>Reach (This creature can block creatures with flying.)
+Territorial Stonehide gets +2/+2 for each Aura you control.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/131_Territorial Stonehide.png" num="131">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fell the Beast</name>
+			<text>Flash
+When Fell the Beast enters the battlefield, exile target nonland permanent with mana value less than or equal to the number of creatures and/or enchantments you control.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/5_Fell the Beast.png" num="5">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Northlands Tracker</name>
+			<text>Whenever Northlands Tracker becomes the target of a spell, venture into the wilds. (Enter the Wilds of Morubi if you&apos;re not already lost there. If you are, advance further.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/40_Northlands Tracker.png" num="40">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Doomed Sauropod</name>
+			<text>Creature tokens you control get +2/+0.
+Whenever Doomed Sauropod or another nontoken creature dies, create a 1/1 black Dinosaur creature token with menace. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/61_Doomed Sauropod.png" num="61">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Morubi Native</name>
+			<text>Whenever you create a token, venture into the wilds. This ability triggers only once each turn. (Enter the Wilds of Morubi if you&apos;re not already lost there. If you are, advance further.)
+As long as you&apos;ve completed a dungeon, creatures you control get +2/+0.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/99_Morubi Native.png" num="99">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mammalian Dawn</name>
+			<text>At the beginning of your end step, you may sacrifice permanent. If you do, search your library for a green creature card with mana value equal to 1 plus the sacrificed permanent&apos;s mana value, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/120_Mammalian Dawn.png" num="120">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Travel Caravan</name>
+			<text>You gain 2 life. Put a +1/+1 counter on each of up to two target creatures you control. When you can&apos;t, create a 2/2 white Human creature token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/23_Travel Caravan.png" num="23">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deepwater Swimmer</name>
+			<text>{2}{U}: Deepwater Swimmer can&apos;t be blocked this turn.
+Whenever Deepwater Swimmer deals combat damage to a player, venture into the wilds. (Enter the Wilds of Morubi if you&apos;re not already lost there. If you are, advance further.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/30_Deepwater Swimmer.png" num="30">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sulfur Raptor</name>
+			<text>Deathtouch
+When Sulfur Raptor dies, each opponent loses 2 life and puts a card from their hand on the bottom of their library.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/79_Sulfur Raptor.png" num="79">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Foraging Archaeopteryx</name>
+			<text>{R}, Sacrifice a permanent: Foraging Archaeopteryx gets +1/+0 until end of turn.
+Whenever Foraging Archaeopteryx attacks, it gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/92_Foraging Archaeopteryx.png" num="92">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Primal Proving</name>
+			<text>Choose one—
+• Target creature you control fights target creature you don&apos;t control.
+• Destroy target creature with flying.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/123_Primal Proving.png" num="123">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gamaz the Worldmaw</name>
+			<text>Gamaz the Worldmaw can&apos;t attack or block unless you control four or more other artifacts.
+At the beginning of each upkeep, you may pay {X}. When you do, create an X/X colorless Construct artifact creature token. X can&apos;t be 0.
+{3}, Sacrifice an artifact: Gamaz gains indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/146_Gamaz the Worldmaw.png" num="146">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Construct PRW</name>
+			<text></text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/PRW-files/img/9t_Construct.png" num="9">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>X/X</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Flicker of Inspiration</name>
+			<text>Choose target creature, then claim a territory. That creature gains hexproof until end of turn and gets +1/+1 until end of turn for each Plains in your territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/6_Flicker of Inspiration.png" num="6">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Brine Pincher</name>
+			<text>Brine Pincher gets +2/+2 for each Aura you control.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/29_Brine Pincher.png" num="29">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Trilobite</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scaleplate Ravager</name>
+			<text>When Scaleplate Ravager enters the battlefield, claim a territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)
+{2}{B}, Sacrifice a creature or land in your territory: Draw a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/75_Scaleplate Ravager.png" num="75">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stand Tall</name>
+			<text>Dominance — Target creature gets +2/+0 until end of turn. Then if you control the creature with the greatest power or tied for greatest, that creature gains first strike and haste until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/103_Stand Tall.png" num="103">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Giant Tyrannosaur</name>
+			<text>{1}{G}: Giant Tyrannosaur gains hexproof from the color of your choice until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/115_Giant Tyrannosaur.png" num="115">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>7/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Couragous Elder</name>
+			<text>Flying
+Whenever Couragous Elder attacks, each other creature you control named Couragous Elder gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/4_Couragous Elder.png" num="4">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Nomad</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sunken End</name>
+			<text>Counter target spell with mana value 4 or greater.
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/50_Sunken End.png" num="50">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bones of the Past</name>
+			<text>Claim a territory, then look at the top X cards of your library, where X is the number of lands in your territory. Put one into your hand and the rest into your graveyard. You lose 2 life. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/57_Bones of the Past.png" num="57">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Turn Upon</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Creatures you control get +X/+0 until end of turn, where X is the sacrificed creature&apos;s power.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/106_Turn Upon.png" num="106">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shimmer Shaman</name>
+			<text>Ward {3}
+Dominance — Whenever Shimmer Shaman attacks, if you control the creature with the greatest power or tied for greatest, Shimmer Shaman gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/128_Shimmer Shaman.png" num="128">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Hunt Begins!</name>
+			<text>When The Hunt Begins! enters the battlefield, claim a territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)
+Lands in your territory have &quot;{1}, {T}: Target creature you control gets +1/+1 and gains flying until end of turn.&quot;</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/7_The Hunt Begins!.png" num="7">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Infighting</name>
+			<text>Put target creature on top of its owner&apos;s library. If that creature had power 4 or greater, that creature&apos;s owner can&apos;t cast spells with the same name as it until your next turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/34_Infighting.png" num="34">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Predatory Prowl</name>
+			<text>Claim a territory, then return up to two creature cards with total mana value less than or equal to the number of lands in your territory from your graveyard to the battlefield. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/73_Predatory Prowl.png" num="73">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Frantic Scrabbler</name>
+			<text>Haste
+When Frantic Scrabbler enters the battlefield, target creature gets +1/+0 and gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/93_Frantic Scrabbler.png" num="93">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pterosaur Hunter</name>
+			<text>Reach
+Whenever Pterosaur Hunter enters the battlefield or attacks, venture into the wilds. (Enter the Wilds of Morubi if you&apos;re not already lost there. If you are, advance further.)
+Whenever you complete a dungeon, Pterosaur Hunter deals damage equal to its power to target creature an opponent controls.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/124_Pterosaur Hunter.png" num="124">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wastes</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/158_Wastes.png" num="158">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Updraft</name>
+			<text>Exile target creature you control. At the beginning of the next end step, return that card to the battlefield under its owner&apos;s control with a flying counter on it.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/25_Updraft.png" num="25">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gamaz&apos;s Prowl</name>
+			<text>Enchant creature
+Enchanted creature doesn&apos;t untap during its controller&apos;s untap step.
+Creatures your opponents control that share a name with enchanted creature get -2/-0.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/33_Gamaz&apos;s Prowl.png" num="33">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blowdart Hunter</name>
+			<text>When Blowdart Hunter dies, put a deathtouch counter on target creature. That creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/56_Blowdart Hunter.png" num="56">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bring Tribute</name>
+			<text>As an additional cost to cast this spell, discard a card.
+Draw two cards, then venture into the wilds. (Enter the Wilds of Morubi if you&apos;re not already lost there. If you are, advance further.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/88_Bring Tribute.png" num="88">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cairn Painting</name>
+			<text>Choose one—
+• Search your library for a basic land card, reveal it, put it into your hand, then shuffle. 
+• Venture into the wilds. (Enter the Wilds of Morubi if you&apos;re not already lost there. If you are, advance further.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/113_Cairn Painting.png" num="113">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wayward Traveler</name>
+			<text>When Wayward Traveler enters the battlefield, claim a territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)
+Whenever Wayward Traveler blocks or becomes blocked, if you have a Plains territory, other creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/27_Wayward Traveler.png" num="27">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Nomad</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Supply Trek</name>
+			<text>Claim a territory, then if you have three or more Islands in your territory, put up to one noncreature, nonland card in your graveyard on top of your library. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/51_Supply Trek.png" num="51">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Forgotten Remains</name>
+			<text>Kicker {3}{B} (You may pay an additional {3}{B} as you cast this spell.)
+Choose target creature card in a graveyard. Create X 1/1 black Dinosaur creature tokens with menace, where X is half the chosen card&apos;s mana value, rounded up. Then if Forgotten Remains was kicked, put that card onto the battlefield under your control.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/63_Forgotten Remains.png" num="63">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Feral Contender</name>
+			<text>Whenever Feral Contender attacks, you may sacrifice a creature. If you do, Feral Contender deals 1 damage to target creature defending player controls. That creature can&apos;t block this turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/91_Feral Contender.png" num="91">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beauty of the World</name>
+			<text>Claim a territory, then put X +1/+1 counters on each creature you control, where X is the number of land types among lands in your territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/110_Beauty of the World.png" num="110">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Seronia, Consecrated Oracle</name>
+			<text></text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/47_Seronia, Consecrated Oracle.png" num="47">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Seronia</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1UUU/P</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sunder</name>
+			<text>Claim a territory, then destroy each nonland permanent with mana value less than or equal to the number of lands in your territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/21_Sunder.png" num="21">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Colossal Frightmaw</name>
+			<text>When Colossal Frightmaw enters the battlefield, claim a territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)
+{2}, Sacrifice a creature or land in your territory: Target opponent loses 3 life unless they sacrifice a nonland permanent or discard a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/59_Colossal Frightmaw.png" num="59">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raptor Riders</name>
+			<text>Trample
+Dominance — Raptor Riders enters the battlefield with two +1/+1 counters on it if you control a creature with the greatest power or tied for greatest.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/125_Raptor Riders.png" num="125">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Galthus the Terror</name>
+			<text></text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/PRW-files/img/141_Galthus the Terror.png" num="141">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Galthus</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dinosaur PRW</name>
+			<text>Menace</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/PRW-files/img/7t_Dinosaur.png" num="7">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Galthus the Terror</name>
+			<text>As long as Galthus the Terror entered the battlefield this turn, she&apos;s a 3/4 Dinosaur creature with haste and menace. She loses all other abilities.
+Draw a card unless an opponent discards a card or sacrifices a nontoken permanent.
+Create two 1/1 black Dinosaur creature tokens with menace if a creature died this turn.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/PRW-files/img/2_Galthus the Terror.png" num="2">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Galthus</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Roaming Raptor</name>
+			<text>Whenever Roaming Raptor deals combat damage to a player, exile the top card of your library. Until end of turn, you may cast that card.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/PRW-files/img/1_Roaming Raptor.png" num="1">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wilds of Morubi PRW</name>
+			<text>[b]Wood&apos;s Edge
+[/b]Surveil 2 (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/PRW-files/img/8t_Wilds of Morubi.png" num="8">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Magmatic Horizon</name>
+			<text>{T}: Add {C}.
+{2}, {T}, Sacrifice Magmatic Horizon: Destroy target nonbasic land. You and that land&apos;s controller create Wastes, a basic land token with &quot;{T}: Add {C}.&quot;</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/PRW-files/img/152_Magmatic Horizon.png" num="152">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Phyrexian Sphinx PRW</name>
+			<text>Flying
+Whenever this creature attacks, proliferate.</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/PRW-files/img/3t_Phyrexian Sphinx.png" num="3">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Phyrexian Sphinx</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Snake Druid PRW</name>
+			<text></text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/PRW-files/img/6t_Snake Druid.png" num="6">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Snake Druid</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Wolf Dragon PRW</name>
+			<text>Flying</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/PRW-files/img/2t_Wolf Dragon.png" num="2">PRW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Wolf Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

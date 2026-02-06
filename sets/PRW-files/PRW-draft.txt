@@ -122,7 +122,7 @@
 		},
 		{
 			"name": "Bountiful Shores",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Island Mountain",
 			"collector_number": "3",
@@ -132,7 +132,7 @@
 		},
 		{
 			"name": "Floodplain Marsh",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest Island",
 			"collector_number": "5",
@@ -142,7 +142,7 @@
 		},
 		{
 			"name": "Decrepit Boneyard",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp Forest",
 			"collector_number": "4",
@@ -152,7 +152,7 @@
 		},
 		{
 			"name": "Glorious Keep",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains Swamp",
 			"collector_number": "6",
@@ -182,7 +182,7 @@
 		},
 		{
 			"name": "Meandering River",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Mountain Plains",
 			"collector_number": "7",
@@ -1017,7 +1017,7 @@
 			"type": "Token Creature — Dinosaur",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/PRW-files/img/5_Dinosaur.png"
+				"en": "https://hkrat.github.io/sets/PRW-files/img/5t_Dinosaur.png"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 			"type": "Token Creature — Warrior",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/PRW-files/img/4_Warrior.png"
+				"en": "https://hkrat.github.io/sets/PRW-files/img/4t_Warrior.png"
 			}
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"type": "Token Creature — Human",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/PRW-files/img/1_Human.png"
+				"en": "https://hkrat.github.io/sets/PRW-files/img/1t_Human.png"
 			}
 		},
 		{
@@ -1397,7 +1397,7 @@
 			"type": "Token Artifact Creature — Construct",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/PRW-files/img/9_Construct.png"
+				"en": "https://hkrat.github.io/sets/PRW-files/img/9t_Construct.png"
 			}
 		},
 		{
@@ -1717,12 +1717,12 @@
 			"type": "Token Creature — Dinosaur",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/PRW-files/img/7_Dinosaur.png"
+				"en": "https://hkrat.github.io/sets/PRW-files/img/7t_Dinosaur.png"
 			}
 		},
 		{
 			"name": "Galthus the Terror",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Planeswalker — Galthus",
 			"collector_number": "2",
@@ -1732,7 +1732,7 @@
 		},
 		{
 			"name": "Roaming Raptor",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Dinosaur",
 			"collector_number": "1",
@@ -1747,7 +1747,7 @@
 			"type": "",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/PRW-files/img/8_Wilds of Morubi.png"
+				"en": "https://hkrat.github.io/sets/PRW-files/img/8t_Wilds of Morubi.png"
 			}
 		},
 		{
@@ -1767,7 +1767,7 @@
 			"type": "Token Creature — Phyrexian Sphinx",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/PRW-files/img/3_Phyrexian Sphinx.png"
+				"en": "https://hkrat.github.io/sets/PRW-files/img/3t_Phyrexian Sphinx.png"
 			}
 		},
 		{
@@ -1777,7 +1777,7 @@
 			"type": "Token Creature — Snake Druid",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/PRW-files/img/6_Snake Druid.png"
+				"en": "https://hkrat.github.io/sets/PRW-files/img/6t_Snake Druid.png"
 			}
 		},
 		{
@@ -1787,9 +1787,9 @@
 			"type": "Token Creature — Wolf Dragon",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/PRW-files/img/2_Wolf Dragon.png"
+				"en": "https://hkrat.github.io/sets/PRW-files/img/2t_Wolf Dragon.png"
 			}
-		},
+		}
 	]
 
 [rare(1)]
@@ -1829,7 +1829,7 @@
 	2 Colossal Frightmaw
 	2 Raptor Riders
 	2 Galthus the Terror
-[uncommon(4)]
+[uncommon(3)]
 	4 Scavenging Herd
 	4 Intrepid Slayer
 	4 Open Fields
@@ -1881,7 +1881,7 @@
 	4 Feral Contender
 	4 Beauty of the World
 	4 Magmatic Horizon
-[common(7)]
+[common(6)]
 	8 Scout's Preparations
 	8 Cross Boundaries
 	8 Nomad's Companion
@@ -1952,7 +1952,243 @@
 	8 Blowdart Hunter
 	8 Bring Tribute
 	8 Cairn Painting
-[wildcard(2)]
+[common | masterpiece(1)]
+	3 Bountiful Shores
+	3 Floodplain Marsh
+	3 Decrepit Boneyard
+	3 Glorious Keep
+	3 Meandering River
+	8 Scout's Preparations
+	8 Cross Boundaries
+	8 Nomad's Companion
+	8 Foraging Featherwing
+	8 Sheer Determination
+	8 Huntraptor
+	8 Loftwing Glider
+	8 Wake Crasher
+	8 Morubi Envoys
+	8 Maurader's Raptor
+	8 Charging Hintodon
+	8 Tribal Anointer
+	8 Mana Malfunction
+	8 Badlands Cartographer
+	8 Scout's Sight
+	8 Arid Warden
+	8 Skyline Dreams
+	8 Morubi Vagrants
+	8 Morubi Elder
+	8 Bull Ceratops
+	8 Northlands Conquerer
+	8 Northlands Hunter
+	8 Gluttonous Gorger
+	8 Ancient Reclamation
+	8 Primal Challenge
+	8 One With the Herd
+	8 Feeding Ground
+	8 Basking Sailback
+	8 Survive the Hunt
+	8 Valley Ceratops
+	8 Touch the Sky
+	8 Morubi Predator
+	8 Ancient Encounter
+	8 Breath of the Wild
+	8 Outcast's Expedition
+	8 Ocean Lurker
+	8 Alpha's Prize
+	8 Tandem Hunters
+	8 Journey North
+	8 Bountiful Hunt
+	8 Badlands Glider
+	8 Unceremonious End
+	8 Asari Outcast
+	8 Ambuscade
+	8 Glade Scavengers
+	8 Osuru Scrapper
+	8 Pterosaur Flock
+	8 Funeral Grounds
+	8 Confrontation
+	8 Territorial Stonehide
+	8 Travel Caravan
+	8 Deepwater Swimmer
+	8 Sulfur Raptor
+	8 Foraging Archaeopteryx
+	8 Primal Proving
+	8 Flicker of Inspiration
+	8 Brine Pincher
+	8 Scaleplate Ravager
+	8 Stand Tall
+	8 Giant Tyrannosaur
+	8 Couragous Elder
+	8 Bones of the Past
+	8 Turn Upon
+	8 Shimmer Shaman
+	8 Infighting
+	8 Updraft
+	8 Gamaz's Prowl
+	8 Blowdart Hunter
+	8 Bring Tribute
+	8 Cairn Painting
+	3 Galthus the Terror
+	3 Roaming Raptor
+[foil(1)]
+	2 Nesting Pteranodon
+	6 Scavenging Herd
+	2 Territorial Sauropod
+	2 Sun-Valley Lookout
+	6 Intrepid Slayer
+	6 Open Fields
+	6 Overshadow
+	6 Territorial Bout
+	6 Thrill of the Hunt
+	2 Bortan, Dominant Chieftan
+	2 Cerat, Asari Hunter
+	6 Magmatic Overflow
+	2 Primal Isle
+	2 Lichen Slab
+	2 Lowland Pools
+	2 Sulfur Fields
+	2 Volcanic Basin
+	6 Osuru Wayguide
+	6 Osuru Naturalist
+	6 Insatiable Deathclaw
+	6 Pathfinder Raptor
+	6 Bloodscent
+	2 Sauren, Asari Sun-Chief
+	2 Volta's Assistant
+	2 Scavenging Grounds
+	2 Bloodlust Hunt
+	2 Warpath Carnivore
+	2 Roaming Negotiator
+	2 Mystic Rite
+	2 Tyrant's Reign
+	2 Morubi Flayer
+	2 Wandering Caravan
+	6 Rushclaw Hunter
+	6 Primal Form
+	6 Stalking Remains
+	6 Raptor Pups
+	6 Herd Guardian
+	12 Scout's Preparations
+	6 Northland Mystic
+	6 Hell Warden
+	12 Cross Boundaries
+	6 Nest Scrabblers
+	6 Badlands Ranger
+	6 Frozen Secrets
+	6 Deathclaw Pack
+	6 Volcanic Fallout
+	6 Urge to Feed
+	12 Nomad's Companion
+	12 Foraging Featherwing
+	12 Sheer Determination
+	6 Scaleplate Raider
+	12 Huntraptor
+	12 Loftwing Glider
+	12 Wake Crasher
+	12 Morubi Envoys
+	12 Maurader's Raptor
+	12 Charging Hintodon
+	12 Tribal Anointer
+	12 Mana Malfunction
+	6 Proving Grounds
+	12 Badlands Cartographer
+	12 Scout's Sight
+	12 Arid Warden
+	12 Skyline Dreams
+	12 Morubi Vagrants
+	12 Morubi Elder
+	12 Bull Ceratops
+	6 Show of Strength
+	12 Northlands Conquerer
+	12 Northlands Hunter
+	12 Gluttonous Gorger
+	12 Ancient Reclamation
+	12 Primal Challenge
+	12 One With the Herd
+	12 Feeding Ground
+	12 Basking Sailback
+	12 Survive the Hunt
+	12 Valley Ceratops
+	12 Touch the Sky
+	12 Morubi Predator
+	12 Ancient Encounter
+	12 Breath of the Wild
+	12 Outcast's Expedition
+	12 Ocean Lurker
+	12 Alpha's Prize
+	12 Tandem Hunters
+	12 Journey North
+	12 Bountiful Hunt
+	12 Badlands Glider
+	12 Unceremonious End
+	12 Asari Outcast
+	12 Ambuscade
+	6 Flittering Featherwing
+	6 Shore Mystic
+	6 Asari War Plate
+	6 Nomadic Treader
+	6 Abandoned Garrison
+	6 Verdant Jungle
+	6 Primeval Marsh
+	6 Erupting Volcano
+	6 Fossil Shores
+	2 Stalwart Stonehide
+	2 Frightmaw
+	2 Barren Grounds
+	2 Forgathr the Blessed
+	2 Horizon Sailback
+	6 Run Rampant
+	6 Sun-Valley Warden
+	12 Glade Scavengers
+	6 Hunting Trek
+	12 Osuru Scrapper
+	12 Pterosaur Flock
+	12 Funeral Grounds
+	12 Confrontation
+	12 Territorial Stonehide
+	2 Fell the Beast
+	2 Northlands Tracker
+	2 Doomed Sauropod
+	2 Morubi Native
+	2 Mammalian Dawn
+	12 Travel Caravan
+	12 Deepwater Swimmer
+	12 Sulfur Raptor
+	12 Foraging Archaeopteryx
+	12 Primal Proving
+	2 Gamaz the Worldmaw
+	12 Flicker of Inspiration
+	12 Brine Pincher
+	12 Scaleplate Ravager
+	12 Stand Tall
+	12 Giant Tyrannosaur
+	12 Couragous Elder
+	6 Sunken End
+	12 Bones of the Past
+	12 Turn Upon
+	12 Shimmer Shaman
+	6 The Hunt Begins!
+	12 Infighting
+	6 Predatory Prowl
+	6 Frantic Scrabbler
+	6 Pterosaur Hunter
+	12 Updraft
+	12 Gamaz's Prowl
+	12 Blowdart Hunter
+	12 Bring Tribute
+	12 Cairn Painting
+	6 Wayward Traveler
+	6 Supply Trek
+	6 Forgotten Remains
+	6 Feral Contender
+	6 Beauty of the World
+	2 Seronia, Consecrated Oracle
+	2 Sunder
+	2 Colossal Frightmaw
+	2 Raptor Riders
+	2 Galthus the Terror
+	6 Magmatic Horizon
+[wildcard(1)]
 	7 Nesting Pteranodon
 	15 Scavenging Herd
 	7 Territorial Sauropod

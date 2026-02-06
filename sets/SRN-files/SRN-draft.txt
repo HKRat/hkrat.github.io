@@ -275,7 +275,7 @@
 			"type": "Token Creature — Werewolf",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/SRN-files/img/8_Werewolf.png"
+				"en": "https://hkrat.github.io/sets/SRN-files/img/8t_Werewolf.png"
 			}
 		},
 		{
@@ -295,7 +295,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/SRN-files/img/5_Zombie.png"
+				"en": "https://hkrat.github.io/sets/SRN-files/img/5t_Zombie.png"
 			}
 		},
 		{
@@ -352,7 +352,7 @@
 			"type": "Token Creature — Soldier",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/SRN-files/img/3_Soldier.png"
+				"en": "https://hkrat.github.io/sets/SRN-files/img/3t_Soldier.png"
 			}
 		},
 		{
@@ -810,7 +810,7 @@
 			"type": "Token Creature — Spider",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/SRN-files/img/7_Spider.png"
+				"en": "https://hkrat.github.io/sets/SRN-files/img/7t_Spider.png"
 			}
 		},
 		{
@@ -1501,7 +1501,7 @@
 			"type": "Token Artifact — Elixir",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/SRN-files/img/11_Elixir.png"
+				"en": "https://hkrat.github.io/sets/SRN-files/img/11t_Elixir.png"
 			}
 		},
 		{
@@ -1599,7 +1599,7 @@
 			"type": "Token Creature — Spirit",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/SRN-files/img/4_Spirit.png"
+				"en": "https://hkrat.github.io/sets/SRN-files/img/4t_Spirit.png"
 			}
 		},
 		{
@@ -1736,7 +1736,7 @@
 			"type": "Token Artifact Creature — Construct",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/SRN-files/img/10_Construct.png"
+				"en": "https://hkrat.github.io/sets/SRN-files/img/10t_Construct.png"
 			}
 		},
 		{
@@ -2480,7 +2480,7 @@
 			"type": "Token Creature — Wolf",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/SRN-files/img/9_Wolf.png"
+				"en": "https://hkrat.github.io/sets/SRN-files/img/9t_Wolf.png"
 			}
 		},
 		{
@@ -2520,7 +2520,7 @@
 			"type": "Token Creature — Dragon",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/SRN-files/img/6_Dragon.png"
+				"en": "https://hkrat.github.io/sets/SRN-files/img/6t_Dragon.png"
 			}
 		},
 		{
@@ -2767,7 +2767,7 @@
 			"type": "Token Creature — Monk",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/SRN-files/img/2_Monk.png"
+				"en": "https://hkrat.github.io/sets/SRN-files/img/2t_Monk.png"
 			}
 		},
 		{
@@ -2777,7 +2777,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/SRN-files/img/1_Perk Counters.png"
+				"en": "https://hkrat.github.io/sets/SRN-files/img/1t_Perk Counters.png"
 			}
 		},
 		{
@@ -2839,7 +2839,7 @@
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/SRN-files/img/259_Forest.png"
 			}
-		},
+		}
 	]
 
 [rare(1)]
@@ -2919,7 +2919,7 @@
 	2 M'aiq, Liar-Cat
 	2 Dexion Reads the Elder Scroll
 	2 Miraak's Dragon Uprising
-[uncommon(4)]
+[uncommon(3)]
 	4 Blooded Vampire
 	4 Nightmare Crypt
 	4 Unrelenting Force
@@ -3007,7 +3007,7 @@
 	4 Thalmor Elite
 	4 Arboreal Sanctifier
 	4 Pull from Oblivion
-[common(7)]
+[common(6)]
 	8 Apprentice Archer
 	8 Territorial Bear
 	8 Dragon Rising
@@ -3099,7 +3099,354 @@
 	8 Volkihar Nightstalker
 	8 Crypt Ravager
 	8 Grip of Namira
-[wildcard(2)]
+[common | masterpiece(1)]
+	8 Apprentice Archer
+	8 Territorial Bear
+	8 Dragon Rising
+	8 Skeletal Dovah
+	8 Tested Steel
+	8 Abrade
+	8 Rift Herald
+	8 Freezing Breath
+	8 Whispers in the Dark
+	8 Aspiring Mage
+	8 Blessings of Nature
+	8 Disciple of Hircine
+	8 Agent of Chaos
+	8 Man the Wall
+	8 Khajiit Bodyguard
+	8 Oculatus Agent
+	8 Wall of Ancient Lore
+	8 Sanctuary Raid
+	8 First Lessons
+	8 Study the Scripts
+	8 Nocturnal's Cutthroat
+	8 Whiterun Gateguard
+	8 Tuskling Mammoth
+	8 Guild Infiltrator
+	8 Vampiric Drain
+	8 Scorching Breath
+	8 Rift Spriggan
+	8 Devout of the Nine
+	8 Thalmor Impersonator
+	8 Winterhold Sorcerer
+	8 Ancient Voice
+	8 Voice of Balance
+	8 Servant Dovah
+	8 Harrow
+	8 Volkihar Ancient
+	8 Stronghold Ravager
+	8 Raven Rock Guard
+	8 Debilitating Shot
+	8 Blood Sacrament
+	8 Altered Fate
+	8 Ghost Sea Herald
+	8 Bleak Falls Herald
+	8 Bard's Leap Herald
+	8 Riverwood Herald
+	8 Spider Construct
+	8 Hunting Bow
+	8 Midden Wanderer
+	8 Apprentice Necromancy
+	8 Dwemer Tile
+	8 Repurpose
+	8 Dwemer Delving
+	8 Forgecraft
+	8 Hunter's Shot
+	8 Stalked Delver
+	8 Brute Strength
+	8 Scout Ahead
+	8 Dawn of Dragons
+	8 Bandit Scorcher
+	8 Conjured Apparition
+	8 Magicka Elixir
+	8 Diminishing Deals
+	8 Sovngarde's Glory
+	8 Forsworn Hagraven
+	8 Dark Lineage
+	8 Meridia's Gift
+	8 Draugr Ascendant
+	8 Malacath's Claim
+	8 Sheogorath's Ploy
+	8 Brurlof's Proving
+	8 Traveler's Elixir
+	8 Dwemer Lexicon
+	8 Sweeping Prairie
+	8 Wispform
+	8 Ravenous Draugr
+	8 Crypt Discovery
+	8 Emerge Victorious
+	8 Remember the Lost
+	8 Evolving Wilds
+	8 Mundus Stones
+	8 Discarded Helm
+	8 Amulet of Kindness
+	8 Bludgeon
+	8 Illusion Mastery
+	8 Ravaging Strength
+	8 Dawnguard Warrior
+	8 Windhelm Dock-Worker
+	8 Hold Guard
+	8 College Student
+	8 Volkihar Nightstalker
+	8 Crypt Ravager
+	8 Grip of Namira
+[foil(1)]
+	6 Blooded Vampire
+	1 Hermaeus Mora, Lorekeeper
+	6 Nightmare Crypt
+	6 Unrelenting Force
+	6 Vaermina's Con
+	12 Apprentice Archer
+	6 Beast of Tribute
+	2 Envoy of Autumn
+	6 Apocrypha Loremaster
+	6 Arcane Specialist
+	6 Knotted Spriggan
+	6 World Eater's Eyrie
+	12 Territorial Bear
+	6 Whiterun Patrol
+	6 Bloodcaller Dovah
+	12 Dragon Rising
+	1 Looming Prophecy
+	6 Immolating Blaze
+	2 Burdened Houscarl
+	6 Simple Prisoner
+	2 Brurlof, Dovahkiin Hero
+	6 Taking Sides
+	6 Kyne's Kin
+	12 Skeletal Dovah
+	1 Terror of the Town
+	6 Bludgeoning Mace
+	12 Tested Steel
+	2 Stendarr's Hammer
+	1 Mjoll the Lioness
+	6 Soul Reave
+	12 Abrade
+	6 Morthal Interloper
+	12 Rift Herald
+	12 Freezing Breath
+	2 Glasswing Dovah
+	2 Revealing the Unseen
+	6 Brotherhood Initiate
+	6 Draconic Priest
+	6 Innocence Lost
+	2 Cutthroat Dremora
+	12 Whispers in the Dark
+	2 Death Incarnate
+	6 A Night to Remember
+	12 Aspiring Mage
+	6 Ascended Denial
+	2 Draugr Wight
+	12 Blessings of Nature
+	12 Disciple of Hircine
+	6 Heir to the Wilds
+	6 Novice Explorer
+	2 Blackreach Depths
+	6 Standing Stones Pilgrim
+	6 Brotherhood's Message
+	12 Agent of Chaos
+	12 Man the Wall
+	6 Enlistment Patrol
+	2 Scourge of Autumnwatch
+	2 Shadow Informant
+	6 Argonian Stalker
+	2 Dovahkiin's Fury
+	6 Orcish Striker
+	2 Scorching Scourge
+	6 Displace Through Time
+	12 Khajiit Bodyguard
+	6 Alik'r Battlemage
+	12 Oculatus Agent
+	6 Stormcloak Stalwart
+	6 In Mora's Shadow
+	12 Wall of Ancient Lore
+	12 Sanctuary Raid
+	2 Web-Ridden Den
+	2 Delphine of Riverwood
+	6 Scoundrel's Folly
+	2 Lost to the Ages
+	2 Hail Sithis!
+	12 First Lessons
+	6 Proving Honor
+	6 Battle for Whiterun
+	2 Season Unending
+	12 Study the Scripts
+	12 Nocturnal's Cutthroat
+	12 Whiterun Gateguard
+	12 Tuskling Mammoth
+	12 Guild Infiltrator
+	12 Vampiric Drain
+	12 Scorching Breath
+	12 Rift Spriggan
+	12 Devout of the Nine
+	12 Thalmor Impersonator
+	12 Winterhold Sorcerer
+	12 Ancient Voice
+	12 Voice of Balance
+	6 Face the Axe
+	12 Servant Dovah
+	12 Harrow
+	6 Paralyzing Grip
+	12 Volkihar Ancient
+	12 Stronghold Ravager
+	12 Raven Rock Guard
+	6 Thief's Informant
+	6 Glory of Sovngarde
+	6 Stormcloak Zealot
+	6 Humble
+	6 Archer's Response
+	2 Stormcloak Elite
+	2 Legion's Ranks
+	2 Arcadia the Alchemist
+	2 Stendarr's Ward
+	2 Contraband Confiscator
+	2 Shattered Reality
+	2 Astrid the Black Hand
+	2 Way of the Voice
+	2 Rorikstead Wayguide
+	6 Art of Conjuration
+	2 Fair Fight
+	2 Imperial Agents
+	2 Whiterun Howler
+	2 Stormcloak Rallier
+	6 Trove Archivist
+	2 Greybeard Mentor
+	2 Azura's Judgment
+	2 General Tullius
+	2 Solitude Warden
+	12 Debilitating Shot
+	12 Blood Sacrament
+	6 Belligerent Farmer
+	6 Dungeon Crawl
+	12 Altered Fate
+	1 Meridia's Beacon
+	2 Flittering Wisp
+	12 Ghost Sea Herald
+	12 Bleak Falls Herald
+	12 Bard's Leap Herald
+	12 Riverwood Herald
+	2 Enchanter's Table
+	2 Jorrvaskr Strategist
+	6 Burial Urn
+	12 Spider Construct
+	12 Hunting Bow
+	6 Iron Sword
+	6 Jeweled Ring
+	6 Sanguinare Vampiris
+	6 Banded Shield
+	12 Midden Wanderer
+	6 Heel Pincher
+	12 Apprentice Necromancy
+	6 Wild Crash
+	6 Sturdy Dagger
+	12 Dwemer Tile
+	12 Repurpose
+	12 Dwemer Delving
+	12 Forgecraft
+	12 Hunter's Shot
+	6 Restless Dynamo
+	2 Dwemer Ruins
+	12 Stalked Delver
+	12 Brute Strength
+	12 Scout Ahead
+	12 Dawn of Dragons
+	12 Bandit Scorcher
+	2 Vampire Soulrender
+	2 Mystic Winds
+	2 Meandering Titan
+	2 Ashen Atronach
+	2 Feral Pup
+	6 Bonewatcher Giant
+	2 Dexion, Moth Priest
+	2 Muddle the Mind
+	2 Vulturous Hagraven
+	2 Orsimer Bone-Breaker
+	2 Scaling Strength
+	6 Steadfast Ward
+	6 Daedric Whispers
+	2 Brash Bandit
+	6 Eldergleam Matron
+	12 Conjured Apparition
+	12 Magicka Elixir
+	12 Diminishing Deals
+	12 Sovngarde's Glory
+	12 Forsworn Hagraven
+	12 Dark Lineage
+	1 Volta Hearth
+	12 Meridia's Gift
+	12 Draugr Ascendant
+	12 Malacath's Claim
+	12 Sheogorath's Ploy
+	12 Brurlof's Proving
+	6 College Aprentice
+	6 College Wanderer
+	6 Necrotic Falmer
+	6 Jagged Lightning
+	6 Complacent Farmer
+	2 Vocal Expulsion
+	2 Forgotten Horrors
+	6 Consuming Fire
+	2 Ancient Might
+	6 Ancient Forge
+	6 College Grounds
+	6 Thalmor Estate
+	6 Imperial Encampment
+	6 Stormcloak Encampment
+	12 Traveler's Elixir
+	12 Dwemer Lexicon
+	2 Lasting Legacy
+	2 Thief's Fence
+	2 Draugr Behemoth
+	2 Ruinous Ascension
+	2 Engulf
+	6 Enchanter's Primer
+	6 Dovah's Embrace
+	6 Broken Locks
+	6 Hircine's Prize
+	6 Warded Defense
+	6 Riften Confiscator
+	2 Solstheim Serpent
+	6 Orcish Shopkeep
+	6 Daedric Weaponhunter
+	6 Mara's Kindness
+	12 Sweeping Prairie
+	12 Wispform
+	12 Ravenous Draugr
+	12 Crypt Discovery
+	12 Emerge Victorious
+	12 Remember the Lost
+	1 Crypt Excavator
+	12 Evolving Wilds
+	12 Mundus Stones
+	12 Discarded Helm
+	2 Dragonbone Plate
+	2 Shrine to Talos
+	1 Paarthurnax the Mentor
+	1 Miraak, First Dragonborn
+	1 Amil of the Dawnguard
+	6 Morag Tong Agent
+	2 Dawnbreaker
+	12 Amulet of Kindness
+	2 M'aiq, Liar-Cat
+	6 Spoken-Force Greybeard
+	6 Bandit Profiteer
+	6 Thalmor Elite
+	6 Arboreal Sanctifier
+	6 Pull from Oblivion
+	12 Bludgeon
+	12 Illusion Mastery
+	12 Ravaging Strength
+	12 Dawnguard Warrior
+	12 Windhelm Dock-Worker
+	12 Hold Guard
+	12 College Student
+	12 Volkihar Nightstalker
+	12 Crypt Ravager
+	12 Grip of Namira
+	2 Dexion Reads the Elder Scroll
+	2 Miraak's Dragon Uprising
+[wildcard(1)]
 	15 Blooded Vampire
 	4 Hermaeus Mora, Lorekeeper
 	15 Nightmare Crypt

@@ -1,0 +1,5150 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>SRN</name>
+			<longname>Skyrim Nine Divines Edition</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-02-06</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Blooded Vampire</name>
+			<text>Whenever another creature you control enters the battlefield or dies, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/77_Blooded Vampire.png" num="77">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hermaeus Mora, Lorekeeper</name>
+			<text>If you would draw a card, you draw two cards, lose 2 life, and put a quest counter on Hermaeus Mora, Lorekeeper instead.
+Remove X quest counters from Hermaeus Mora: Put a nonland card you own with mana value X from outside the game into your hand. You lose X life.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/SRN-files/img/89_Hermaeus Mora, Lorekeeper.png" num="89">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nightmare Crypt</name>
+			<text>Target player discards a card.
+{1}{B}{B}: Put Nightmare Crypt from your graveyard onto the battlefield transformed. Activate this ability only any time you could cast a sorcery.
+---
+(Back): Risen Draugr</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/95_Nightmare Crypt_front.png" num="95a">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<related attach="transform">Risen Draugr</related>
+		</card>
+		<card>
+			<name>Risen Draugr</name>
+			<text>Menace (That creature can&apos;t be blocked except by two or more creatures.)
+If Risen Draugr would die, exile it instead.
+---
+(Front): Nightmare Crypt</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/95_Nightmare Crypt_back.png" num="95b">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Nightmare Crypt</related>
+		</card>
+		<card>
+			<name>Unrelenting Force</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Put target non-Dragon permanent on top of its owner&apos;s library.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/68_Unrelenting Force.png" num="68">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vaermina&apos;s Con</name>
+			<text>Acquire a perk, then target opponent looks at the top four cards of your library and separates them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard. If you spent your perks this turn, you may put both into your hand instead. (You get a perk counter, then you may spend them if you have 3 or more.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/69_Vaermina&apos;s Con.png" num="69">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Apprentice Archer</name>
+			<text>Reach (This creature can block creatures with flying.)
+Ferocious — When Apprentice Archer enters the battlefield, if you control a creature with power 4 or greater, put a +1/+1 counter on target creature.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/148_Apprentice Archer.png" num="148">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beast of Tribute</name>
+			<text>Whenever you spend your perks, Beast of Tribute gets +2/+2 and gains trample until end of turn.
+{1}{G}, Discard Beast of Tribute: Acquire a perk. (You get a perk counter, then you may spend them if you have 3 or more.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/151_Beast of Tribute.png" num="151">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elephant</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Envoy of Autumn</name>
+			<text>When Envoy of Autumn enters the battlefield, you may sacrifice a land. If you do, search your library for a land card, put that card onto the battlefield tapped, then shuffle.
+Ferocious — Envoy of Autumn enters the battlefield with two +1/+1 counters on it if you control a creature with power 4 or greater.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/162_Envoy of Autumn.png" num="162">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Apocrypha Loremaster</name>
+			<text>Flying
+Whenever a player discards a card for the first time each turn, you draw a card and lose 1 life.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/184_Apocrypha Loremaster.png" num="184">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arcane Specialist</name>
+			<text>You may cast enchantment spells as though they had flash.
+Adorned — As long as Arcane Specialist is enchanted or equipped, enchantment spells you cast cost {1} less to cast.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/185_Arcane Specialist.png" num="185">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>WUB</manacost>
+				<cmc>3</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Knotted Spriggan</name>
+			<text>When Knotted Spriggan dies, choose one —
+• It deals 3 damage to target player.
+• Target creature gets -3/-3 until end of turn.
+• You gain 3 life.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/202_Knotted Spriggan.png" num="202">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>BRG</manacost>
+				<cmc>3</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>World Eater&apos;s Eyrie</name>
+			<text>Whenever a creature with power 4 enter the battlefield under your control, put a quest counter on World Eater&apos;s Eyrie.
+As long as there are three or more quest counters on World Eater&apos;s Eyrie, creatures you control can&apos;t be blocked by more than one creature.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/219_World Eater&apos;s Eyrie.png" num="219">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RGW</manacost>
+				<cmc>4</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Territorial Bear</name>
+			<text>Territorial Bear gets +2/+0 as long as it&apos;s attacking.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/179_Territorial Bear.png" num="179">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whiterun Patrol</name>
+			<text>Flash
+When Whiterun Patrol enters the battlefield, create a 1/1 white Soldier creature token.
+Whenever a creature token enters the battlefield under your control, target creature an opponent controls gets -1/-0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/218_Whiterun Patrol.png" num="218">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodcaller Dovah</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Flying
+Attacking Dragons you control get +1/+0.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/117_Bloodcaller Dovah.png" num="117">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dragon Rising</name>
+			<text>Whenever you cast a red spell, put a quest counter on Dragon Rising.
+Remove five quest counters from Dragon Rising and sacrifice it: Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/125_Dragon Rising.png" num="125">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Looming Prophecy</name>
+			<text>At the beginning of your upkeep, exile the top card of your library. During any turn you cast a Dragon spell, you may play that card.
+{1}{B}{B}, Put three cards exiled with Looming Prophecy into their owner&apos;s graveyards: Transform Looming Prophecy. Activate this ability only during your turn.
+---
+(Back): Alduin, the World&apos;s Bane</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/SRN-files/img/131_Looming Prophecy_front.png" num="131a">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Alduin, the World&apos;s Bane</related>
+		</card>
+		<card>
+			<name>Alduin, the World&apos;s Bane</name>
+			<text>Flying, menace
+Whenever this creature transforms into Alduin, the World&apos;s Bane, destroy target non-Dragon permanent, then you may cast up to one target Dragon card from your graveyard without paying its mana cost.
+---
+(Front): Looming Prophecy</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/SRN-files/img/131_Looming Prophecy_back.png" num="131b">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Demon Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Looming Prophecy</related>
+		</card>
+		<card>
+			<name>Immolating Blaze</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Immolating Blaze deals 2 damage to each creature.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/127_Immolating Blaze.png" num="127">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Burdened Houscarl</name>
+			<text>Whenever Burdened Houscarl deals combat damage to a player, put a +1/+1 counter on it. Then if there are two or more +1/+1 counters on Burdened Houscarl, remove all counters from it and put a +1/+1 counter on each other creature you control.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/7_Burdened Houscarl.png" num="7">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Simple Prisoner</name>
+			<text>Whenever Simple Prisoner or another nontoken creature enters the battlefield under your control, acquire a perk. (You get a perk counter, then you may spend them if you have 3 or more.)
+When you spend your perks, transform Simple Prisoner.
+---
+(Back): Stormcloak Captain</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/30_Simple Prisoner_front.png" num="30a">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Stormcloak Captain</related>
+		</card>
+		<card>
+			<name>Stormcloak Captain</name>
+			<text>Double strike
+---
+(Front): Simple Prisoner</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/30_Simple Prisoner_back.png" num="30b">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Simple Prisoner</related>
+		</card>
+		<card>
+			<name>Brurlof, Dovahkiin Hero</name>
+			<text>Indestructible
+Brurlof, Dovahkiin Hero&apos;s power and toughness are each equal to the number of card types among permanents you control.
+At the beginning of combat on your turn, if Brurlof&apos;s power is 4 or greater, exile up to one target nonland permanent until Brurlof leaves the battlefield.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/6_Brurlof, Dovahkiin Hero.png" num="6">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Taking Sides</name>
+			<text>Whenever one or more creatures you control attack, put a quest counter on Taking Sides.
+At the beginning of your upkeep, if there are two or more quest counters on Taking Sides, create a 1/1 white Soldier creature token. You gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/34_Taking Sides.png" num="34">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kyne&apos;s Kin</name>
+			<text>Vigilance, trample, haste
+Whenever Kyne&apos;s Kin and a creature you control with power 4 or greater attacks, transform Kyne&apos;s Kin.
+---
+(Back): Merciless Hunter</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/203_Kyne&apos;s Kin_front.png" num="203a">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Merciless Hunter</related>
+		</card>
+		<card>
+			<name>Merciless Hunter</name>
+			<text>Vigilance, trample
+When this creature transforms into Merciless Hunter, exile up to one target artifact, creature, or enchantment until Merciless Hunter leaves the battlefield.
+---
+(Front): Kyne&apos;s Kin</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/203_Kyne&apos;s Kin_back.png" num="203b">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Kyne&apos;s Kin</related>
+		</card>
+		<card>
+			<name>Skeletal Dovah</name>
+			<text>Flying
+{1}{B}, Sacrifice a permanent, discard a card: Return Skeletal Dovah from your graveyard to the battlefield tapped.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/101_Skeletal Dovah.png" num="101">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Werewolf SRN</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/8t_Werewolf.png" num="8">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Terror of the Town</name>
+			<text>Flying, trample
+Creatures you don&apos;t control have haste.
+At the beginning of each opponent&apos;s first postcombat main phase, there is an additional combat phase followed by an additional main phase.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/SRN-files/img/143_Terror of the Town.png" num="143">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zombie SRN</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/5t_Zombie.png" num="5">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Bludgeoning Mace</name>
+			<text>Equipped creature gets +3/+1.
+{1}{G}, Exile two green cards from your graveyard: Transform Bludgeoning Mace. Activate this ability only any time you could cast a sorcery.
+Equip {3}
+---
+(Back): Mace of Purity</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/227_Bludgeoning Mace_front.png" num="227a">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Mace of Purity</related>
+		</card>
+		<card>
+			<name>Mace of Purity</name>
+			<text>Equipped creature gets +3/+1.
+Whenever equipped creature deals combat damage to a player, destroy target artifact or enchantment that player controls.
+Equip {3}
+---
+(Front): Bludgeoning Mace</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/227_Bludgeoning Mace_back.png" num="227b">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Bludgeoning Mace</related>
+		</card>
+		<card>
+			<name>Tested Steel</name>
+			<text>Equipped creature gets +1/+1.
+When equipped creature dies, acquire a perk. (You get a perk counter, then you may spend them if you have 3 or more.)
+Equip {3}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/244_Tested Steel.png" num="244">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stendarr&apos;s Hammer</name>
+			<text>Equipped creature has base power 10.
+Whenever equipped creature becomes blocked, choose target creature blocking it. Return all other creatures blocking equipped creature to their owners&apos; hands.
+Equip {8}</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/242_Stendarr&apos;s Hammer.png" num="242">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mjoll the Lioness</name>
+			<text>At the beginning of your upkeep, create a 3/3 green Elephant creature token with trample. Then if you control two or more other creatures, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/SRN-files/img/25_Mjoll the Lioness.png" num="25">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Mjoll</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>6/6</pt>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Soldier SRN</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/3t_Soldier.png" num="3">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Soul Reave</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Each player loses 1 life, discards a card, sacrifices a creature, then sacrifices a land.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/102_Soul Reave.png" num="102">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Abrade</name>
+			<text>Choose one—
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/110_Abrade.png" num="110">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Morthal Interloper</name>
+			<text>Whenever a creature dealt damage by Morthal Interloper this turn dies, acquire a perk. (You get a perk counter, then you may spend them if you have 3 or more.)
+Whenever you get a perk counter, put a +1/+1 counter on Morthal Interloper.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/133_Morthal Interloper.png" num="133">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rift Herald</name>
+			<text>First strike
+Whenever a player casts a Dragon spell, put a +1/+1 counter on Rift Herald.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/27_Rift Herald.png" num="27">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Freezing Breath</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Tap up to two target creatures. Those creatures don&apos;t untap during their controller&apos;s next untap step.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/47_Freezing Breath.png" num="47">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glasswing Dovah</name>
+			<text>This spell can&apos;t be countered.
+Flying
+Whenever you cast an instant, sorcery, or Dragon spell, scry 1.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/49_Glasswing Dovah.png" num="49">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Revealing the Unseen</name>
+			<text>Whenever you cast a noncreature spell, put a quest counter on Revealing the Unseen.
+As long as there are five or more quest counters on Revealing the Unseen, your opponents play with the top card of their library revealed, and you may play cards from the top of your opponent&apos;s libraries.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/60_Revealing the Unseen.png" num="60">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Brotherhood Initiate</name>
+			<text>Flash
+When Brotherhood Initiate enters the battlefield, acquire a perk, then you may destroy target creature if its mana value is less than or equal to the number of perk counters you have. (You get a perk counter, then you may spend them if you have 3 or more.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/78_Brotherhood Initiate.png" num="78">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Draconic Priest</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+{6}{B}{B}, Sacrifice Draconic Priest: Return target creature card from your graveyard to the battlefield. This ability costs {1} less to activate for each Dragon you control and each Dragon card in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/84_Draconic Priest.png" num="84">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>6BB</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Innocence Lost</name>
+			<text>Whenever a creature dies, you may put a quest counter on Innocence Lost.
+Remove three quest counter from Innocence Lost and sacrifice it: Exile target creature or planeswalker. Its controller loses 2 life.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/90_Innocence Lost.png" num="90">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cutthroat Dremora</name>
+			<text>Whenever Cutthroat Dremora attacks, acquire a perk, then you lose life equal to the number of perk counters you have. (You get a perk counter, then you may spend them if you have 3 or more.)
+Whenever you spend your perks, each opponent discards a card. If four or more perk counters are spent this way, those players each lose 2 life and you gain 2 life.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/80_Cutthroat Dremora.png" num="80">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whispers in the Dark</name>
+			<text>Whenever you cast a black spell, put a quest counter on Whispers in the Dark.
+Remove three quest counters from Whispers in the Dark and sacrifice it: Return target creature card from your graveyard to your hand. Create a 2/2 black Zombie creature token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/109_Whispers in the Dark.png" num="109">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Death Incarnate</name>
+			<text>Whenever you sacrifice a permanent, put a quest counter on Death Incarnate.
+Whenever you sacrifice a permanent, if Death Incarnate has four or more quest counters on it, each opponent sacrifices a permanent.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/191_Death Incarnate.png" num="191">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>A Night to Remember</name>
+			<text>Whenever you discard a card, exile it from your graveyard.
+At the beginning of your end step, if there are three or more card types among cards exiled with A Night to Remember, you may transform it.
+Cycling {1}{U}
+---
+(Back): Sanguine, Lord of Folly</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/57_A Night to Remember_front.png" num="57a">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Sanguine, Lord of Folly</related>
+		</card>
+		<card>
+			<name>Sanguine, Lord of Folly</name>
+			<text>Sanguine, Lord of Folly&apos;s power is equal to the number of card types among cards exiled with it.
+Spells you cast that share a card type with a card exiled by Sanguine cost {1} less to cast.
+---
+(Front): A Night to Remember</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/57_A Night to Remember_back.png" num="57b">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Demon Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>*/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">A Night to Remember</related>
+		</card>
+		<card>
+			<name>Aspiring Mage</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+When Aspiring Mage enters the battlefield, you may tap target permanent.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/39_Aspiring Mage.png" num="39">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ascended Denial</name>
+			<text>Acquire a perk, then counter target spell unless its controller pays {2}. If you spent your perks this turn, counter that spell instead. (You get a perk counter, then you may spend them if you have 3 or more.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/38_Ascended Denial.png" num="38">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Draugr Wight</name>
+			<text>Whenever Draugr Wight or another Zombie enters the battlefield under your control, target player mills three cards.
+{U}{B}, Discard two cards: Return Draugr Wight from your graveyard to the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/193_Draugr Wight.png" num="193">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blessings of Nature</name>
+			<text>Whenever you cast a green spell, put a quest counter on Blessings of Nature.
+Remove two quest counters from Blessings of Nature and sacrifice it: Search your library for a land card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/153_Blessings of Nature.png" num="153">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Disciple of Hircine</name>
+			<text>At the beginning of each upkeep, if no spells were cast last turn, transform Disciple of Hircine.
+---
+(Back): Roadside Hunter</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/158_Disciple of Hircine_front.png" num="158a">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Roadside Hunter</related>
+		</card>
+		<card>
+			<name>Roadside Hunter</name>
+			<text>{3}{G}, Sacrifice a creature: Create a 4/4 green Werewolf creature token.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Roadside Hunter.
+---
+(Front): Disciple of Hircine</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/158_Disciple of Hircine_back.png" num="158b">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Werewolf Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Disciple of Hircine</related>
+		</card>
+		<card>
+			<name>Heir to the Wilds</name>
+			<text>Deathtouch
+Ferocious — Whenever Heir to the Wilds attacks, if you control a creature with power 4 or greater, Heir to the Wilds gets +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/166_Heir to the Wilds.png" num="166">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Novice Explorer</name>
+			<text>When Novice Explorer enters the battlefield, look at the top three cards of your library. You may put a land card from among them into your hand and the rest into your graveyard.
+{5}{G}: Transform Novice Explorer. Activate this ability only during your turn.
+---
+(Back): Weathered Adventurer</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/169_Novice Explorer_front.png" num="169a">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Elf Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Weathered Adventurer</related>
+		</card>
+		<card>
+			<name>Weathered Adventurer</name>
+			<text>Vigilance
+You may play an additional land on each of your turns.
+You may play land cards from your graveyard.
+---
+(Front): Novice Explorer</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/169_Novice Explorer_back.png" num="169b">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Elf Scout</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Novice Explorer</related>
+		</card>
+		<card>
+			<name>Blackreach Depths</name>
+			<text>Acquire a perk, then return up to X cards with different mana values from your graveyard to your hand, where X is the number of perk counters you have. Exile Blackreach Depths. (You get a perk counter, then you may spend them if you have 3 or more.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/152_Blackreach Depths.png" num="152">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Standing Stones Pilgrim</name>
+			<text>{T}: Add {G} for each perk counter you have. You gain 2 life.
+{2}{G}, {T}: Acquire a perk. (You get a perk counter, then you may spend them if you have 3 or more.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/177_Standing Stones Pilgrim.png" num="177">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brotherhood&apos;s Message</name>
+			<text>Put target creature or planeswalker on top of its owner&apos;s library. That player discards a card and you draw a card.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/189_Brotherhood&apos;s Message.png" num="189">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Agent of Chaos</name>
+			<text>When Agent of Chaos enters the battlefield, each player discards a card, then draws a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/111_Agent of Chaos.png" num="111">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Man the Wall</name>
+			<text>Create a 1/1 white Soldier creature token. You may attach up to one Equipment you control to it.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/21_Man the Wall.png" num="21">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Enlistment Patrol</name>
+			<text>When Enlistment Patrol enters the battlefield, create a token that&apos;s a copy of target creature token you control.
+Creature tokens you control get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/196_Enlistment Patrol.png" num="196">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2GWU</manacost>
+				<cmc>5</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scourge of Autumnwatch</name>
+			<text>Flying
+If a black creature, a red creature, and green creature you control died this turn, you may cast Scourge of Autumnwatch without paying its mana cost as though it had flash.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/209_Scourge of Autumnwatch.png" num="209">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>1BRG</manacost>
+				<cmc>4</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shadow Informant</name>
+			<text>If an opponent would draw a card except for the first one they draw during their draw step, Shadow Informant deals 2 damage to that player instead.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/210_Shadow Informant.png" num="210">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Argonian Stalker</name>
+			<text>Ferocious — At the beginning of combat on each of your turns, if you control a creature with power 4 or greater, Argonian Stalker gains first strike and haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/112_Argonian Stalker.png" num="112">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Viashino Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dovahkiin&apos;s Fury</name>
+			<text>Acquire a perk. Spells you cast this turn cost {2} less to cast. If you spent your perks this turn, untap all creatures and lands you control. After this phase, there&apos;s an additional combat phase followed by an additional main phase. (You get a perk counter, then you may spend them if you have 3 or more.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/124_Dovahkiin&apos;s Fury.png" num="124">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Orcish Striker</name>
+			<text>Ferocious — Whenever Orcish Striker attacks, if you control a creature with power 4 or greater, Orcish Striker deals 1 damage to defending player and 1 damage to up to one target creature that player controls.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/134_Orcish Striker.png" num="134">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scorching Scourge</name>
+			<text>Whenever you exile one or more cards from the top of your library, add {R}. Until end of turn, you don&apos;t lose this mana.
+Cycling {R} ({R}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/139_Scorching Scourge.png" num="139">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Displace Through Time</name>
+			<text>Acquire a perk, then tap target nonland permanent. If you spent your perks this turn, exile that permanent instead. (You get a perk counter, then you may spend them if you have 3 or more.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/13_Displace Through Time.png" num="13">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Khajiit Bodyguard</name>
+			<text>Flash
+When Khajiit Bodyguard enters the battlefield, another target creature you control gets +0/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/19_Khajiit Bodyguard.png" num="19">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Alik&apos;r Battlemage</name>
+			<text>When Alik&apos;r Battlemage enters the battlefield, return target Aura or Equipment card from your graveyard to your hand.
+Adorned — As long as Alik&apos;r Battlemage is enchanted or equipped, it has protection from multicolored. This effect doesn&apos;t remove permanents you control attached to Alik&apos;r Battlemage.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/1_Alik&apos;r Battlemage.png" num="1">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Nomad</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oculatus Agent</name>
+			<text>Whenever one or more creatures you control with power 4 or greater attack, tap target creature defending player controls.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/26_Oculatus Agent.png" num="26">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stormcloak Stalwart</name>
+			<text>When Stormcloak Stalwart enters the battlefield, create a 1/1 white Soldier creature token.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/32_Stormcloak Stalwart.png" num="32">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>In Mora&apos;s Shadow</name>
+			<text>This spell costs {2} less to cast if a player discarded a card this turn.
+Until end of turn, you may cast target instant or sorcery card from your graveyard with mana value 3 or less without paying its mana cost.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/128_In Mora&apos;s Shadow.png" num="128">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wall of Ancient Lore</name>
+			<text>Defender
+Dragon spells you cast cost {1} less to cast.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/144_Wall of Ancient Lore.png" num="144">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sanctuary Raid</name>
+			<text>Whenever you cast a white spell, put a quest counter on Sanctuary Raid.
+Remove two quest counters from Sanctuary Raid and sacrifice it: Tap all creatures your opponents control.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/28_Sanctuary Raid.png" num="28">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Web-Ridden Den</name>
+			<text>Whenever you sacrifice a non-Spider permanent, create a 1/2 green Spider creature token with reach.
+Tap seven untapped Spiders you control: Transform Web-Ridden Den.
+---
+(Back): Frostbite Gargantuan</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/216_Web-Ridden Den_front.png" num="216a">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BRG</manacost>
+				<cmc>4</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Frostbite Gargantuan</related>
+		</card>
+		<card>
+			<name>Frostbite Gargantuan</name>
+			<text>Reach
+Whenever you sacrifice a nontoken permanent, create a 1/2 green Spider creature token with reach.
+Whenever Frostbite Gargantuan attacks, it deals damage to any target equal to the number of Spiders you control.
+---
+(Front): Web-Ridden Den</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/216_Web-Ridden Den_back.png" num="216b">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BRG</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Web-Ridden Den</related>
+		</card>
+		<card>
+			<name>Spider SRN</name>
+			<text>Reach (This creature can block creatures with flying.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/7t_Spider.png" num="7">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Delphine of Riverwood</name>
+			<text>Vigilance
+Whenever a creature with power 4 or greater enters the battlefield or a player casts a creature spell with power 4 or greater, transform Delphine of Riverwood.
+---
+(Back): Delphine the Dragon Slayer</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/10_Delphine of Riverwood_front.png" num="10a">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Delphine the Dragon Slayer</related>
+		</card>
+		<card>
+			<name>Delphine the Dragon Slayer</name>
+			<text>First strike, vigilance
+Whenever Delphine the Dragon Slayer deals combat damage to a creature with power 4 or greater, destroy that creature.
+---
+(Front): Delphine of Riverwood</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/10_Delphine of Riverwood_back.png" num="10b">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Delphine of Riverwood</related>
+		</card>
+		<card>
+			<name>Scoundrel&apos;s Folly</name>
+			<text>Whenever one or more cards are put into an opponent&apos;s graveyard from their hand or library, put a quest counter on Scoundrel&apos;s Folly.
+At the beginning of your end step, if Scoundrel&apos;s Folly has three or more quest counters on it, you may put a card from your graveyard on top of your library.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/61_Scoundrel&apos;s Folly.png" num="61">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lost to the Ages</name>
+			<text>Whenever a land enters the battlefield under your control, put a quest counter on Lost to the Ages.
+As long as there are three or more quest counters on Lost to the Ages, if a land entering the battlefield causes a triggered ability of another permanent you control to trigger, that ability triggers an additional time.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/168_Lost to the Ages.png" num="168">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hail Sithis!</name>
+			<text>Whenever an opponent discards a card, put a quest counter on Hail Sithis!.
+Remove a quest counter from Hail Sithis!: Scry 1.
+Remove three quest counters from Hail Sithis!: Add {B}{B}{B}. You lose 3 life.
+Remove five quest counters from Hail Sithis! and sacrifice it: Each player discards their hand. Draw five cards.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/88_Hail Sithis!.png" num="88">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>First Lessons</name>
+			<text>Whenever you cast a blue spell, put a quest counter on First Lessons.
+Remove two quest counters from First Lessons and sacrifice it: Scry 2, then draw a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/45_First Lessons.png" num="45">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Proving Honor</name>
+			<text>Whenever a creature you control deals combat damage, you may put a quest counter on Proving Honor.
+Remove two quest counters from Proving Honor and sacrifice it: Target creature you control deals damage equal to its power to target creature.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/170_Proving Honor.png" num="170">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Battle for Whiterun</name>
+			<text>Whenever a creature attacks, you may put a quest counter on Battle for Whiterun.
+Remove three quest counters from Battle for Whiterun and sacrifice it: Battle for Whiterun deals 3 damage to each creature.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/116_Battle for Whiterun.png" num="116">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Season Unending</name>
+			<text>Whenever a player attacks with one or more creatures, put a quest counter on Season Unending.
+{3}{W}{W}, Remove five quest counters from Season Unending and sacrifice it: Any number of target player&apos;s life totals each become equal to their starting life total. Those players draw a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/29_Season Unending.png" num="29">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Study the Scripts</name>
+			<text>Acquire a perk. Draw three cards, then discard a card unless you spent your perks this turn. (You get a perk counter, then you may spend them if you have 3 or more.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/65_Study the Scripts.png" num="65">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nocturnal&apos;s Cutthroat</name>
+			<text>When Nocturnal&apos;s Cutthroat enters the battlefield, acquire a perk. (You get a perk counter, then you may spend them if you have 3 or more.)
+Whenever you get a perk counter, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/96_Nocturnal&apos;s Cutthroat.png" num="96">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whiterun Gateguard</name>
+			<text>Defender
+Whiterun Gateguard can attack as though it didn&apos;t have defender as long as you control a Dragon or there is a Dragon card in your graveyard.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/146_Whiterun Gateguard.png" num="146">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tuskling Mammoth</name>
+			<text>Ferocious — Tuskling Mammoth enters the battlefield with a +1/+1 counter on it if you control a creature with power 4 or greater.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/180_Tuskling Mammoth.png" num="180">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elephant</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Guild Infiltrator</name>
+			<text>Adorned — As long as Guild Infiltrator is enchanted or equipped, it gets +1/+1 and can&apos;t be blocked.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/50_Guild Infiltrator.png" num="50">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vampiric Drain</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Target opponent loses 3 life and you gain 3 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/105_Vampiric Drain.png" num="105">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scorching Breath</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Scorching Breath deals 4 damage to target player or planeswalker.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/138_Scorching Breath.png" num="138">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rift Spriggan</name>
+			<text>Reach (This creature can block creatures with flying.)
+Vigilance (Attacking doesn&apos;t cause this creature to tap.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/172_Rift Spriggan.png" num="172">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Devout of the Nine</name>
+			<text>Adorned — As long as Devout of the Nine is enchanted or equipped, spells your opponents control that target it cost {2} more to cast.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/43_Devout of the Nine.png" num="43">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thalmor Impersonator</name>
+			<text>Adorned — As long as Thalmor Impersonator is enchanted or equipped, it can&apos;t block or be blocked.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/103_Thalmor Impersonator.png" num="103">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Winterhold Sorcerer</name>
+			<text>Adorned — As long as Winterhold Sorcerer is enchanted or equipped, it gets +2/+2.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/35_Winterhold Sorcerer.png" num="35">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancient Voice</name>
+			<text>Enchant creature
+When Ancient Voice enters the battlefield, acquire a perk. (You get a perk counter, then you may spend them if you have 3 or more.)
+Enchanted creature gets +1/+1.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/3_Ancient Voice.png" num="3">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Voice of Balance</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+When Voice of Balance enters the battlefield, draw a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/71_Voice of Balance.png" num="71">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Face the Axe</name>
+			<text>Destroy target creature. If that creature had mana value 3 or greater, you lose life equal to its mana value.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/86_Face the Axe.png" num="86">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Servant Dovah</name>
+			<text>{1}{R}: Servant Dovah gets +1/+0 and gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/140_Servant Dovah.png" num="140">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Harrow</name>
+			<text>As an additional cost to cast this spell, sacrifice a land.
+Search your library for up to two basic land cards, put them onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/165_Harrow.png" num="165">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Paralyzing Grip</name>
+			<text>Return target nonland permanent to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/58_Paralyzing Grip.png" num="58">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Volkihar Ancient</name>
+			<text>Adorned — As long as Volkihar Ancient is enchanted or equipped, it has deathtouch.
+{1}{B}, Sacrifice a permanent: Volkihar Ancient gains indestructible until end of turn. Tap it.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/106_Volkihar Ancient.png" num="106">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stronghold Ravager</name>
+			<text>Ferocious — Whenever Stronghold Ravager attacks, if you control a creature with power 4 or greater, acquire a perk. (You get a perk counter, then you may spend them if you have 3 or more.)
+Whenever you spend your perks, creatures you control get +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/142_Stronghold Ravager.png" num="142">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raven Rock Guard</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+When Raven Rock Guard enters the battlefield, acquire a perk. (You get a perk counter, then you may spend them if you have 3 or more.)
+Whenever you spend your perks, put a +1/+1 counter on Raven Rock Guard.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/171_Raven Rock Guard.png" num="171">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thief&apos;s Informant</name>
+			<text>Adorned— Whenever you cast an Aura or Equipment spell, if Thief&apos;s Informant is enchanted or equipped, draw two cards, then discard a card.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/67_Thief&apos;s Informant.png" num="67">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glory of Sovngarde</name>
+			<text>This spell costs {1} less to cast for each type of counter among you and permanents you control.
+Create three 1/1 white Spirit creature tokens with flying.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/15_Glory of Sovngarde.png" num="15">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stormcloak Zealot</name>
+			<text>Instant and sorcery spells with no targets cost {1} more to cast.
+Activated abilities with no targets cost an additional {1} to activate unless they&apos;re mana abilities.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/33_Stormcloak Zealot.png" num="33">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Humble</name>
+			<text>Enchant creature
+Enchanted creature has base power and toughness 1/1 and its activated abilities can&apos;t be activated.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/17_Humble.png" num="17">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Archer&apos;s Response</name>
+			<text>Tap any number of untapped creatures you control. Those creatures each deal damage equal to their power to target creature.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/149_Archer&apos;s Response.png" num="149">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stormcloak Elite</name>
+			<text>This spell can&apos;t be countered.
+Trample
+Creature spells you cast with power 4 or greater can&apos;t be countered.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/178_Stormcloak Elite.png" num="178">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Legion&apos;s Ranks</name>
+			<text>Whenever you cast a noncreature spell, acquire a perk. (You get a perk counter, then you may spend them if you have 3 or more.)
+Whenever you spend your perks, create a token that&apos;s a copy of Legion&apos;s Ranks without this ability.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/53_Legion&apos;s Ranks.png" num="53">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arcadia the Alchemist</name>
+			<text>Whenever you cast a noncreature spell, create a colorless Elixir artifact token.
+{T}, Sacrifice three artifacts: Draw three cards.
+{T}, Sacrifice four artifacts: Return target permanent to its owner&apos;s hand.
+{T}, Sacrifice five artifacts: Take an extra turn after this one.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/37_Arcadia the Alchemist.png" num="37">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stendarr&apos;s Ward</name>
+			<text>Counter target noncreature spell. Noncreature spells its controller casts this turn cost {2} more to cast.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/64_Stendarr&apos;s Ward.png" num="64">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Contraband Confiscator</name>
+			<text>Whenever Contraband Confiscator enters the battlefield or deals combat damage to a player, acquire a perk. (You get a perk counter, then you may spend them if you have 3 or more.)
+Whenever you spend your perks, other creatures get -1/-1 until end of turn. You gain 1 life.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/79_Contraband Confiscator.png" num="79">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shattered Reality</name>
+			<text>Whenever you cast a spell, you lose life equal to the mana spent to cast it.
+Spells you cast cost X less to cast, where X is 13 minus your life total.
+{2}{B}: Exile target card in a graveyard. You lose life equal to its mana value. Until end of turn, you may cast that card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/100_Shattered Reality.png" num="100">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Astrid the Black Hand</name>
+			<text>Deathtouch
+When Astrid the Black Hand enters the battlefield, each player sacrifices a creature.
+When Astrid the Black Hand dies, you gain 2 life and you draw a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/74_Astrid the Black Hand.png" num="74">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Way of the Voice</name>
+			<text>Whenever you cast a creature spell, create an X/X red Dragon creature token with flying, where X is that spell&apos;s mana value.
+Cycling {X}{1}{R} ({X}{1}{R}, Discard this card: Draw a card.)
+When you cycle Way of the Voice, create an X/X red Dragon creature token with flying.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/145_Way of the Voice.png" num="145">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rorikstead Wayguide</name>
+			<text>Whenever Rorikstead Wayguide or another Elf enters the battlefield under your control, look at the top card of your library. If its a land card, you may put it onto the battlefield tapped. If you don&apos;t, put a +1/+1 counter on that creature.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/174_Rorikstead Wayguide.png" num="174">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Art of Conjuration</name>
+			<text>Choose two—
+• Create a 2/2 green Wolf creature token.
+• Create a token that is a copy of target creature token you control.
+• Draw a card.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/150_Art of Conjuration.png" num="150">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fair Fight</name>
+			<text>Target creature has base power and toughness 1/1 until end of turn. Create a 1/1 white Soldier creature token.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/197_Fair Fight.png" num="197">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Imperial Agents</name>
+			<text>Vigilance
+Adorned — Whenever Imperial Agents deals combat damage to a player, if Imperial Agents is enchanted or equipped, you may transform it.
+---
+(Back): Oculatus Occupiers</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/18_Imperial Agents_front.png" num="18a">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Oculatus Occupiers</related>
+		</card>
+		<card>
+			<name>Oculatus Occupiers</name>
+			<text>When this permanent transforms into Oculatus Occupiers, create a 1/1 white Soldier creature token for each Aura and Equipment you control.
+Vigilance
+Enchanted and equipped creatures you control get +1/+1.
+---
+(Front): Imperial Agents</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/18_Imperial Agents_back.png" num="18b">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Imperial Agents</related>
+		</card>
+		<card>
+			<name>Whiterun Howler</name>
+			<text>Whenever a permanent you control transforms, put a +1/+1 counter on Whiterun Howler.
+Ferocious — Whenever Whiterun Howler attacks, if you control a creature with power 4 or greater, Whiterun Howler gains trample until end of turn and must be blocked this turn if able.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/217_Whiterun Howler.png" num="217">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stormcloak Rallier</name>
+			<text>Lifelink
+At the beginning of combat on your turn, if you control the creature with the greatest power or tied for greatest, creatures you control get +1/+0 and gain haste until end of turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/213_Stormcloak Rallier.png" num="213">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>RGW</manacost>
+				<cmc>3</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trove Archivist</name>
+			<text>Artifact spells you cast cost {1} less to cast.
+Whenever you cast your second artifact spell each turn, draw a card.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/214_Trove Archivist.png" num="214">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Greybeard Mentor</name>
+			<text>When Greybeard Mentor enters the battlefield, create three 2/2 white Monk creature tokens with defender.
+Whenever Greybeard Mentor attacks, it gets +1/+1 until end of turn for each creature token you control.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/200_Greybeard Mentor.png" num="200">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2GWU</manacost>
+				<cmc>5</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Azura&apos;s Judgment</name>
+			<text>Choose one or more. You lose 2 life for each mode chosen beyond the first—
+• Exile target creature or planeswalker.
+• Each opponent discards a card.
+• Scry 2, then draw a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/186_Azura&apos;s Judgment.png" num="186">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WUB</manacost>
+				<cmc>3</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>General Tullius</name>
+			<text>Haste, vigilance
+You may cast creature spells you control with power 4 or greater by tapping any number of creatures you control with total power X, where X is the creature spell&apos;s power.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/199_General Tullius.png" num="199">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1RGW</manacost>
+				<cmc>4</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Solitude Warden</name>
+			<text>Vigilance
+{T}: Other creatures you control get +1/+1 until end of turn.
+{T}: Another target creature you control gains hexproof until end of turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/211_Solitude Warden.png" num="211">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Debilitating Shot</name>
+			<text>Debilitating Shot deals 2 damage divided as you choose among up to two target creatures. Those creatures can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/123_Debilitating Shot.png" num="123">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blood Sacrament</name>
+			<text>As an additional cost to cast this spell, sacrifice a permanent.
+You draw two cards and gain 2 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/76_Blood Sacrament.png" num="76">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Belligerent Farmer</name>
+			<text>Whenever you sacrifice a permanent, put a +1/+1 counter on Belligerent Farmer. It deals 1 damage to target opponent.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/187_Belligerent Farmer.png" num="187">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dungeon Crawl</name>
+			<text>Mill three cards. Put a +1/+1 counter on up to one target non-Human creature you control. You may put a land card from your graveyard onto the battlefield.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/194_Dungeon Crawl.png" num="194">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Altered Fate</name>
+			<text>Choose one—
+• Exile target creature if you control the creature with the greatest power or tied for greatest.
+• Creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/2_Altered Fate.png" num="2">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Meridia&apos;s Beacon</name>
+			<text>Whenever a quest counter is placed on another permanent you control, put a quest counter on Meridia&apos;s Beacon.
+{9}, Remove nine quest counters from Meridia&apos;s Beacon and sacrifice it: You win the game.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/SRN-files/img/238_Meridia&apos;s Beacon.png" num="238">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flittering Wisp</name>
+			<text>When Flittering Wisp enters the battlefield, create a 1/1 white Spirit creature token with flying.
+Flittering Wisp&apos;s power and toughness are each equal to the number of creature tokens you control.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/198_Flittering Wisp.png" num="198">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghost Sea Herald</name>
+			<text>Whenever a player casts a Dragon spell, put a +1/+1 counter on Ghost Sea Herald.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/48_Ghost Sea Herald.png" num="48">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bleak Falls Herald</name>
+			<text>Haste
+Whenever a player casts a Dragon spell, put a +1/+1 counter on Bleak Falls Herald.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/75_Bleak Falls Herald.png" num="75">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bard&apos;s Leap Herald</name>
+			<text>Trample
+Whenever a player casts a Dragon spell, put a +1/+1 counter on Bard&apos;s Leap Herald.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/115_Bard&apos;s Leap Herald.png" num="115">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Riverwood Herald</name>
+			<text>Reach
+Whenever a player casts a Dragon spell, put a +1/+1 counter on Riverwood Herald.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/173_Riverwood Herald.png" num="173">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Enchanter&apos;s Table</name>
+			<text>{W}{U}{B}, {T}, Return an Aura you control to its owner&apos;s hand: Choose one —
+• You may put an Aura card from your hand onto the battlefield attached to target permanent or player it could enchant.
+• Return target Aura card from your graveyard to your hand.
+• You draw a card and lose 1 life.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/234_Enchanter&apos;s Table.png" num="234">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jorrvaskr Strategist</name>
+			<text>Haste
+Whenever Jorrvaskr Strategist attacks, acquire a perk. (You get a perk counter, then you may spend them if you have 3 or more.)
+Whenever you spend your perks, transform Jorrvaskr Strategist.
+---
+(Back): Jorrvaskr Prowler</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/130_Jorrvaskr Strategist_front.png" num="130a">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Jorrvaskr Prowler</related>
+		</card>
+		<card>
+			<name>Jorrvaskr Prowler</name>
+			<text>Trample
+At the beginning of your upkeep, acquire a perk. (You get a perk counter, then you may spend them if you have 3 or more.)
+Whenever you get a perk, Jorrvaskr Prowler deals damage to any target equal to the number of perk counters you have.
+---
+(Front): Jorrvaskr Strategist</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/130_Jorrvaskr Strategist_back.png" num="130b">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Jorrvaskr Strategist</related>
+		</card>
+		<card>
+			<name>Burial Urn</name>
+			<text>{1}, {T}: Exile target nonland permanent you own.
+{7}, {T}, Sacrifice Burial Urn: Exile target nonland permanent.
+When Burial Urn is put into a graveyard from the battlefield, return all cards exiled with it to their owner&apos;s hands.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/228_Burial Urn.png" num="228">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Elixir SRN</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/11t_Elixir.png" num="11">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Elixir</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Spider Construct</name>
+			<text>Sacrifice Spider Construct: Draw a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/241_Spider Construct.png" num="241">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Spider Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hunting Bow</name>
+			<text>Equipped creature has &quot;{T}: This creature deals 1 damage to target creature. Tap that creature.&quot;
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/235_Hunting Bow.png" num="235">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Iron Sword</name>
+			<text>Equipped creature gets +2/+1.
+{1}{R}, Exile two red cards from your graveyard: Transform Iron Sword. Activate this ability only any time you could cast a sorcery.
+Equip {1}
+---
+(Back): Blade of Dread</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/236_Iron Sword_front.png" num="236a">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Blade of Dread</related>
+		</card>
+		<card>
+			<name>Blade of Dread</name>
+			<text>Equipped creature gets +2/+1.
+Whenever equipped creature attacks, target creature defending player controls can&apos;t block this turn.
+Equip {1}
+---
+(Front): Iron Sword</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/236_Iron Sword_back.png" num="236b">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Iron Sword</related>
+		</card>
+		<card>
+			<name>Jeweled Ring</name>
+			<text>When Jeweled Ring enters the battlefield, draw a card.
+{1}{U}, Exile two blue cards from your graveyard: Transform Jeweled Ring. Activate this ability only any time you could cast a sorcery.
+Equip {2}
+---
+(Back): Ring of Boons</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/237_Jeweled Ring_front.png" num="237a">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Ring of Boons</related>
+		</card>
+		<card>
+			<name>Ring of Boons</name>
+			<text>Creatures can&apos;t block equipped creature unless their controller pays {1} for each of those creatures.
+Whenever equipped creature deals combat damage to a player, draw a card.
+Equip {2}
+---
+(Front): Jeweled Ring</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/237_Jeweled Ring_back.png" num="237b">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Jeweled Ring</related>
+		</card>
+		<card>
+			<name>Sanguinare Vampiris</name>
+			<text>At the beginning of your end step, acquire a perk. Sanguinare Vampiris deals 1 damage to you. (You get a perk counter, then you may spend them if you have 3 or more.)
+Whenever you spend your perks, transform Sanguinare Vampiris and attach it to target opponent.
+---
+(Back): Vampire&apos;s Seduction</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/137_Sanguinare Vampiris_front.png" num="137a">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Vampire&apos;s Seduction</related>
+		</card>
+		<card>
+			<name>Vampire&apos;s Seduction</name>
+			<text>Enchant opponent
+At the beginning of your end step, Vampire&apos;s Seduction deals X damage to enchanted player, where X is 1 plus the number of perk counters you have.
+Whenever you attack with one or more creatures, acquire a perk.
+---
+(Front): Sanguinare Vampiris</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/137_Sanguinare Vampiris_back.png" num="137b">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Sanguinare Vampiris</related>
+		</card>
+		<card>
+			<name>Banded Shield</name>
+			<text>Equipped creature gets +0/+2 and has vigilance.
+{1}{W}, Exile two white cards from your graveyard: Transform Banded Shield. Activate this ability only any time you could cast a sorcery.
+Equip {2}
+---
+(Back): Shield of Divine Protection</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/226_Banded Shield_front.png" num="226a">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Shield of Divine Protection</related>
+		</card>
+		<card>
+			<name>Shield of Divine Protection</name>
+			<text>Equipped creature gets +0/+2 and has vigilance.
+As long as equipped creature is blocking, prevent all damage that would be dealt to it.
+Equip {2}
+---
+(Front): Banded Shield</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/226_Banded Shield_back.png" num="226b">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Banded Shield</related>
+		</card>
+		<card>
+			<name>Spirit SRN</name>
+			<text>Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/4t_Spirit.png" num="4">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Midden Wanderer</name>
+			<text>Adorned — Whenever Midden Wanderer attacks, if its enchanted or equipped, creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/24_Midden Wanderer.png" num="24">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heel Pincher</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Dragon spells you cast can&apos;t be countered by spells or abilities.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/51_Heel Pincher.png" num="51">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crab</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Apprentice Necromancy</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Return target creature card from your graveyard to your hand.
+Draw a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/73_Apprentice Necromancy.png" num="73">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wild Crash</name>
+			<text>Ferocious — If you control a creature with power 4 or greater, damage can&apos;t be prevented this turn.
+Target creature gets +2/+2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/181_Wild Crash.png" num="181">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sturdy Dagger</name>
+			<text>Equipped creature gets +1/+0.
+{1}{B}, Exile two black cards from your graveyard: Transform Sturdy Dagger. Activate this ability only any time you could cast a sorcery.
+Equip {1}
+---
+(Back): Dagger of Trapped Souls</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/243_Sturdy Dagger_front.png" num="243a">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Dagger of Trapped Souls</related>
+		</card>
+		<card>
+			<name>Dagger of Trapped Souls</name>
+			<text>Equipped creature gets +1/+0.
+Whenever equipped creature deals combat damage to a creature, exile that creature.
+Equip {3}
+---
+(Front): Sturdy Dagger</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/243_Sturdy Dagger_back.png" num="243b">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Sturdy Dagger</related>
+		</card>
+		<card>
+			<name>Dwemer Tile</name>
+			<text>{T}, Sacrifice Dwemer Tile: It deals 1 damage to target attacking creature. That creature loses indestructible this turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/233_Dwemer Tile.png" num="233">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Repurpose</name>
+			<text>Target player discards a card.
+Draw a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/99_Repurpose.png" num="99">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dwemer Delving</name>
+			<text>Choose one or both—
+• Return target artifact card from your graveyard to your hand.
+• Return target enchantment card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/14_Dwemer Delving.png" num="14">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Forgecraft</name>
+			<text>Exile the top three cards of your library. Until the end of your next turn, you may play those cards. Acquire a perk. (You get a perk counter, then you may spend them if you have 3 or more.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/126_Forgecraft.png" num="126">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hunter&apos;s Shot</name>
+			<text>Choose one—
+• Hunter&apos;s Shot deals 4 damage to target creature with flying.
+• Destroy target enchantment.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/167_Hunter&apos;s Shot.png" num="167">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Restless Dynamo</name>
+			<text>Defender
+Adorned — As long as Restless Dynamo is enchanted or equipped, it can attack as though it didn&apos;t have defender.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/239_Restless Dynamo.png" num="239">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dwemer Ruins</name>
+			<text>{T}: Add {C}.
+{T}, Sacrifice an artifact: Add one mana of any color.
+{7}, {T}: Create a 2/2 colorless Construct artifact creature token.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/248_Dwemer Ruins.png" num="248">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Construct SRN</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/10t_Construct.png" num="10">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Stalked Delver</name>
+			<text>When Stalked Delver is put into your graveyard from anywhere, you may pay {1}. When you do, create a 2/2 colorless Construct creature token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/62_Stalked Delver.png" num="62">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brute Strength</name>
+			<text>Enchant creature
+When Brute Strength enters the battlefield, you may have enchanted creature fight target creature an opponent controls.
+Enchanted creature gets +2/+2.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/155_Brute Strength.png" num="155">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scout Ahead</name>
+			<text>You may play up to two additional lands this turn.
+Draw a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/176_Scout Ahead.png" num="176">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dawn of Dragons</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Create a 4/4 red Dragon creature token with flying.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/121_Dawn of Dragons.png" num="121">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bandit Scorcher</name>
+			<text>{R}, {T}: Bandit Scorcher deals 1 damage to any target.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/114_Bandit Scorcher.png" num="114">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vampire Soulrender</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+When Vampire Soulrender enters the battlefield, destroy each creature that was dealt damage this turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/104_Vampire Soulrender.png" num="104">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mystic Winds</name>
+			<text>Target player gains control of target spell or activated ability you control.
+Draw a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/56_Mystic Winds.png" num="56">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Meandering Titan</name>
+			<text>When Meandering Titan enters the battlefield, acquire a perk. (You get a perk counter, then you may spend them if you have 3 or more.)
+Players can&apos;t cast spells with mana value equal to the number of perk counters you have.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/22_Meandering Titan.png" num="22">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Nomad</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ashen Atronach</name>
+			<text>As an additional cost to cast this spell, exile X cards from your graveyard.
+When Ashen Atronach enters the battlefield, discard your hand, then draw X cards. Ashen Atronach deals 7 minus X damage to you.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/113_Ashen Atronach.png" num="113">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Feral Pup</name>
+			<text>Whenever an opponent casts a noncreature spell, acquire a perk. (You get a perk counter, then you may spend them if you have 3 or more.)
+Whenever you spend your perks, draw a card. You may play an additional land this turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/163_Feral Pup.png" num="163">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hound</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bonewatcher Giant</name>
+			<text>When Bonewatcher Giant enters the battlefield, create a 3/3 green Elephant creature token.
+Whenever another creature you control dies, you gain life equal to that creature&apos;s toughness.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/5_Bonewatcher Giant.png" num="5">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Nomad</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dexion, Moth Priest</name>
+			<text>When Dexion enters the battlefield, acquire a perk. Then if you spent them this turn, exile each other nonland permanent you own with mana value less than or equal to the number of perk counters spent this way. Return those cards to the battlefield at the beginning of the next end step. (You get a perk counter, then you may spend them if you have 3 or more.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/11_Dexion, Moth Priest.png" num="11">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Muddle the Mind</name>
+			<text>Acquire a perk, then target opponent mills twice X cards. If you spent your perks this turn, you may cast a noncreature card from among the milled cards without paying its mana cost. If that card would be put into a graveyard this turn, exile it instead. (You get a perk counter, then you may spend them if you have 3 or more.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/55_Muddle the Mind.png" num="55">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XUU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vulturous Hagraven</name>
+			<text>Flying
+Adorned — At the beginning of each end step, if Vulturous Hagraven is enchanted or equipped, you may destroy target creature.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/108_Vulturous Hagraven.png" num="108">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Harpy</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Orsimer Bone-Breaker</name>
+			<text>Whenever a player casts a noncreature spell, Orsimer Bone-Breaker deals 2 damage to that player.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/135_Orsimer Bone-Breaker.png" num="135">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scaling Strength</name>
+			<text>Put two +1/+1 counters on each creature you control.
+Ferocious — If you control a creature with power 4 or greater, creatures you control gain trample until end of turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/175_Scaling Strength.png" num="175">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Steadfast Ward</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 and has protection from instant and sorcery spells.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/63_Steadfast Ward.png" num="63">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Daedric Whispers</name>
+			<text>Enchant player
+Whenever enchanted player discards a card, acquire a perk. (You get a perk counter, then you may spend them if you have 3 or more.)
+Whenever you spend your perks, reveal the top card of your library and put that card into your hand. Enchanted player loses life equal to that card&apos;s mana value.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/81_Daedric Whispers.png" num="81">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura Curse</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Brash Bandit</name>
+			<text>Haste
+Whenever Brash Bandit deals combat damage to a player, that player can&apos;t gain life for the rest of the game.
+At the beginning of the end step, sacrifice Brash Bandit.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/118_Brash Bandit.png" num="118">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eldergleam Matron</name>
+			<text>Hexproof
+Whenever you sacrifice a permanent, put a +1/+1 counter on Eldergleam Matron.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/159_Eldergleam Matron.png" num="159">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Conjured Apparition</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 and has flying.
+When enchanted creature dies, create a 1/1 white Spirit creature token with flying.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/9_Conjured Apparition.png" num="9">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Magicka Elixir</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+2.
+{2}{U}: Untap enchanted creature.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/54_Magicka Elixir.png" num="54">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Diminishing Deals</name>
+			<text>Each player draws two cards, then discard three cards.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/83_Diminishing Deals.png" num="83">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sovngarde&apos;s Glory</name>
+			<text>Chose one—
+• Exile target enchantment.
+• Exile target card in a graveyard.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/31_Sovngarde&apos;s Glory.png" num="31">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Forsworn Hagraven</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+Flying (This creature can&apos;t be blocked except by creatures with flying or reach.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/46_Forsworn Hagraven.png" num="46">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Harpy</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dark Lineage</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1.
+Whenever enchanted creature deals combat damage to a player, if you control another enchantment, you draw a card and lose 1 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/82_Dark Lineage.png" num="82">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Volta Hearth</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/SRN-files/img/72_Volta Hearth.png" num="72">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Volta</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Meridia&apos;s Gift</name>
+			<text>Tap up to two target creatures. Acquire a perk. (You get a perk counter, then you may spend them if you have 3 or more.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/23_Meridia&apos;s Gift.png" num="23">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Draugr Ascendant</name>
+			<text>Whenever Draugr Ascendant deals combat damage to a player, acquire a perk. (You get a perk counter, then you may spend them if you have 3 or more.)
+Whenever you spend your perks, you may draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/44_Draugr Ascendant.png" num="44">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Malacath&apos;s Claim</name>
+			<text>Acquire a perk. Up to one target creature gets -1/-1 until end of turn for each perk counter you have. (You get a perk counter, then you may spend them if you have 3 or more.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/91_Malacath&apos;s Claim.png" num="91">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sheogorath&apos;s Ploy</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Exile the top two cards of your library. Until end of turn, you may play those cards.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/141_Sheogorath&apos;s Ploy.png" num="141">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Brurlof&apos;s Proving</name>
+			<text>Acquire a perk. Up to one target creature you control gets +1/+1 until end of turn for each perk counter you have. (You get a perk counter, then you may spend them if you have 3 or more.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/154_Brurlof&apos;s Proving.png" num="154">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>College Aprentice</name>
+			<text>Adorned — As long as College Aprentice is enchanted or equipped, it gets +1/+1 for each artifact and enchantment you control.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/8_College Aprentice.png" num="8">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>College Wanderer</name>
+			<text>Adorned — As long as College Wanderer is enchanted or equipped, you may pay {0} rather than pay mana for spells and abilities you control that target it.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/41_College Wanderer.png" num="41">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Necrotic Falmer</name>
+			<text>Adorned — Whenever Necrotic Falmer attacks, if it&apos;s enchanted or equipped, target creature defending player controls gets -1/-1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/94_Necrotic Falmer.png" num="94">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Mutant</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jagged Lightning</name>
+			<text>Jagged Lightning deals 2 damage to target creature or planeswalker.
+Ferocious — If you control a creature with power 4 or greater, Jagged Lightning deals 2 damage to that permanent&apos;s controller.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/129_Jagged Lightning.png" num="129">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Complacent Farmer</name>
+			<text>Vigilance
+At the beginning of each upkeep, if no spells were cast last turn, transform Complacent Farmer.
+---
+(Back): Midnight Howler</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/156_Complacent Farmer_front.png" num="156a">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Midnight Howler</related>
+		</card>
+		<card>
+			<name>Midnight Howler</name>
+			<text>If one or more creature tokens would be created under your control, that many 4/4 green Werewolf creature tokens are created instead.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Midnight Howler.
+---
+(Front): Complacent Farmer</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/156_Complacent Farmer_back.png" num="156b">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Complacent Farmer</related>
+		</card>
+		<card>
+			<name>Vocal Expulsion</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Return target nonland permanent with mana value X or less to its owner&apos;s hand. If X is 4 or greater, draw a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/70_Vocal Expulsion.png" num="70">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XU</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Forgotten Horrors</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Target player reveals their hand. You choose a nonland card from it. That player shuffles that card into their library.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/87_Forgotten Horrors.png" num="87">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Consuming Fire</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Consuming Fire deals X damage to any target. Creatures dealt damage this way lose indestructible until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/119_Consuming Fire.png" num="119">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ancient Might</name>
+			<text>Enchant creature
+When Ancient Might enters the battlefield, draw a card.
+Enchanted creature has base power and toughness 8/8.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/147_Ancient Might.png" num="147">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ancient Forge</name>
+			<text>Ancient Forge enters the battlefield tapped.
+{T}: Add {U}, {B}, or {R}.
+Cycling {2}{B} ({2}{B}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/246_Ancient Forge.png" num="246">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>College Grounds</name>
+			<text>College Grounds enters the battlefield tapped.
+{T}: Add {W}, {U}, or {B}.
+Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/247_College Grounds.png" num="247">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Thalmor Estate</name>
+			<text>Thalmor Estate enters the battlefield tapped.
+{T}: Add {B}, {R}, or {G}.
+Cycling {2}{R} ({2}{R}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/254_Thalmor Estate.png" num="254">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Imperial Encampment</name>
+			<text>Imperial Encampment enters the battlefield tapped.
+{T}: Add {G}, {W}, or {U}.
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/250_Imperial Encampment.png" num="250">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Stormcloak Encampment</name>
+			<text>Stormcloak Encampment enters the battlefield tapped.
+{T}: Add {R}, {G}, or {W}.
+Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/252_Stormcloak Encampment.png" num="252">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Traveler&apos;s Elixir</name>
+			<text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/245_Traveler&apos;s Elixir.png" num="245">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dwemer Lexicon</name>
+			<text>When Dwemer Lexicon enters the battlefield, draw a card.
+{T}, Reveal a card from your hand: Add one mana of that card&apos;s colors.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/232_Dwemer Lexicon.png" num="232">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lasting Legacy</name>
+			<text>Enchant creature
+When Lasting Legacy enters the battlefield, draw a card.
+Enchanted creature gets +1/+1 for each permanent you control that&apos;s attached to a creature.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/20_Lasting Legacy.png" num="20">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Thief&apos;s Fence</name>
+			<text>Spells you cast that target permanents cost {2} less to cast.
+Adorned — Whenever Thief&apos;s Fence deals combat damage to a player, if it is enchanted or equipped, look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/66_Thief&apos;s Fence.png" num="66">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Draugr Behemoth</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Whenever one or more creature cards are put into your graveyard from anywhere, create a 2/2 black Zombie creature token.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/85_Draugr Behemoth.png" num="85">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ruinous Ascension</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Destroy target land.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/136_Ruinous Ascension.png" num="136">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Engulf</name>
+			<text>The next creature spell you cast this turn may be cast as though it had flash. When you cast that spell this turn, it can&apos;t be countered.
+Draw a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/161_Engulf.png" num="161">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Enchanter&apos;s Primer</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+2 and has prowess and lifelink.
+Spells you cast that target enchanted creature cost {2} less to cast.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/195_Enchanter&apos;s Primer.png" num="195">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dovah&apos;s Embrace</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Enchant creature
+Enchanted creature gets +2/+2 and has flying.
+Whenever enchanted creature attacks, tap target creature defending player controls. That creature gets -2/-2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/192_Dovah&apos;s Embrace.png" num="192">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Broken Locks</name>
+			<text>This spell costs {1} less to cast for each card put into your graveyard from anywhere this turn.
+Each player discards their hand, then draws seven cards.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/188_Broken Locks.png" num="188">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5BR</manacost>
+				<cmc>7</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hircine&apos;s Prize</name>
+			<text>Creature spells you cast with power 4 or greater cost {1} less to cast.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/201_Hircine&apos;s Prize.png" num="201">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Warded Defense</name>
+			<text>Each creature token you control enters the battlefield with an additional +1/+1 counter on it.
+{4}{GW}: Create a 1/1 white Soldier creature token.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/215_Warded Defense.png" num="215">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Riften Confiscator</name>
+			<text>Whenever Riften Confiscator attacks, you may return target Aura or Equipment card from a graveyard to the battlefield under your control and attach it to Riften Confiscator. Exile that permanent at end of combat.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/222_Riften Confiscator.png" num="222">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>W/BW/B</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Solstheim Serpent</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Flying
+Whenever a player discards a card, exile it from that player&apos;s graveyard.
+Whenever Solstheim Serpent deals combat damage to a player, you may cast a card exiled with it without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/212_Solstheim Serpent.png" num="212">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5UBR</manacost>
+				<cmc>8</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Orcish Shopkeep</name>
+			<text>{T}, Sacrifice a permanent: Create a Treasure token.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/206_Orcish Shopkeep.png" num="206">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Daedric Weaponhunter</name>
+			<text>Whenever an Equipment enters the battlefield under your control, you may pay {2}. When you do, draw a card.
+At the beginning of your upkeep, if you control seven or more artifacts, transform Daedric Weaponhunter.
+---
+(Back): Oblivion Walker</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/190_Daedric Weaponhunter_front.png" num="190a">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Oblivion Walker</related>
+		</card>
+		<card>
+			<name>Oblivion Walker</name>
+			<text>When this permanent transforms into Oblivion Walker, you may attach any number of Equipment you control to it.
+Whenever an Equipment enters the battlefield under your control, you may pay {2}. When you do, draw a card.
+---
+(Front): Daedric Weaponhunter</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/190_Daedric Weaponhunter_back.png" num="190b">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Daedric Weaponhunter</related>
+		</card>
+		<card>
+			<name>Mara&apos;s Kindness</name>
+			<text>Draw a card for each differently named land you control, then discard two cards. Untap up to two lands.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/205_Mara&apos;s Kindness.png" num="205">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3GU</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sweeping Prairie</name>
+			<text>Sweeping Prairie enters the battlefield tapped.
+When Sweeping Prairie enters the battlefield, sacrifice it unless you pay {1}.
+{T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/253_Sweeping Prairie.png" num="253">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wispform</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+2 and has lifelink.
+Whenever enchanted creature attacks, you may tap target nonland permanent.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/36_Wispform.png" num="36">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ravenous Draugr</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/98_Ravenous Draugr.png" num="98">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crypt Discovery</name>
+			<text>Mill four cards. You may put a nonland card from among the milled cards into your hand.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/42_Crypt Discovery.png" num="42">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Emerge Victorious</name>
+			<text>Put a +1/+1 counter on target creature. It deals damage equal to its power to up to one other target creature or planeswalker.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/160_Emerge Victorious.png" num="160">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Remember the Lost</name>
+			<text>Return up to one target instant or sorcery card from your graveyard to your hand. Create a 1/1 white Soldier creature token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/59_Remember the Lost.png" num="59">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crypt Excavator</name>
+			<text>Whenever Crypt Excavator or another Elf enters the battlefield under your control, exile target card from an opponent&apos;s graveyard. If that card was a creature card, put a +1/+1 counter on up to one target Elf you control. Otherwise, you may put a land card from you hand onto the battlefield tapped.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/SRN-files/img/157_Crypt Excavator.png" num="157">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Evolving Wilds</name>
+			<text>{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/249_Evolving Wilds.png" num="249">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mundus Stones</name>
+			<text>{T}: Add {C} to your mana pool.
+{T}, Tap an untapped artifact or creature you control: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/251_Mundus Stones.png" num="251">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wolf SRN</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/9t_Wolf.png" num="9">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Discarded Helm</name>
+			<text>Equipped creature gets +2/+2.
+When equipped creature dies, put two +1/+1 counters on target creature you control. When you do, sacrifice Discarded Helm.
+Equip {2}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/230_Discarded Helm.png" num="230">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dragonbone Plate</name>
+			<text>Equipped creature gets +6/+6 and has indestructible.
+Whenever equipped deals combat damage to a player, you may pay {X}. When you do, destroy each nonland permanent that player controls with mana value X.
+Equip {6}</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/231_Dragonbone Plate.png" num="231">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shrine to Talos</name>
+			<text>You may spend mana as though it were mana of any color to cast Dragon spells.
+ {T}: Add {C}.
+{20}, {T}, Sacrifice Shrine to Talos: Cast any number of Dragon cards you own in your graveyard and/or from outside the game without paying their mana costs.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/240_Shrine to Talos.png" num="240">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dragon SRN</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/6t_Dragon.png" num="6">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Paarthurnax the Mentor</name>
+			<text>Flying, vigilance
+Whenever Paarthurnax the Mentor enters the battlefield or attacks, draw a card.
+Discard two cards: Choose one—
+• Spells target player casts this turn cost {1} less to cast.
+• Spells target player casts this turn cost {1} more to cast.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/SRN-files/img/207_Paarthurnax the Mentor.png" num="207">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5WU</manacost>
+				<cmc>7</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Miraak, First Dragonborn</name>
+			<text>Menace
+If a card or token would be put into an opponent&apos;s graveyard from anywhere, exile it instead.
+{3}{U}{R}, Sacrifice a creature: Transform Miraak, First Dragonborn. Activate this ability only during your turn.
+---
+(Back): Miraak Ascendant</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/SRN-files/img/92_Miraak, First Dragonborn_front.png" num="92a">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Miraak Ascendant</related>
+		</card>
+		<card>
+			<name>Miraak Ascendant</name>
+			<text>Menace
+When this permanent transforms into Miraak Ascendant, exile the top three cards of each player&apos;s library.
+You may play cards exiled with Miraak.
+---
+(Front): Miraak, First Dragonborn</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/SRN-files/img/92_Miraak, First Dragonborn_back.png" num="92b">SRN</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Miraak, First Dragonborn</related>
+		</card>
+		<card>
+			<name>Amil of the Dawnguard</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/SRN-files/img/183_Amil of the Dawnguard.png" num="183">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Amil</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1RGW</manacost>
+				<cmc>4</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Morag Tong Agent</name>
+			<text>Whenever a creature dealt damage by Morag Tong Agent this turn dies, create a Clue token. (It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)
+Sacrifice two Clues: Return Morag Tong Agent from your graveyard to the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/93_Morag Tong Agent.png" num="93">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dawnbreaker</name>
+			<text>Equipped creature gets +2/+2 and has protection from black.
+Whenever equipped creature and one other creature attack, draw a card.
+Damage dealt by equipped creatures you control can&apos;t be prevented.
+Equip {2}</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/229_Dawnbreaker.png" num="229">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Amulet of Kindness</name>
+			<text>Equipment spells you cast cost {1} less to cast.
+Equip abilities you activate cost {1} less to activate.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/225_Amulet of Kindness.png" num="225">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>M&apos;aiq, Liar-Cat</name>
+			<text>Whenever a player mills one or more cards, exile a card from among the milled cards.
+{T}, Put a card exiled with M&apos;aiq into its owner&apos;s graveyard: The owner of target nonland permanent with mana value equal to the exiled card&apos;s mana value puts that permanent on the top or bottom of its owner&apos;s library.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/204_M&apos;aiq, Liar-Cat.png" num="204">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>WUB</manacost>
+				<cmc>3</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spoken-Force Greybeard</name>
+			<text>Spells that target noncreature spells you control cost {2} more to cast.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/223_Spoken-Force Greybeard.png" num="223">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U/RU/R</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bandit Profiteer</name>
+			<text>When Bandit Profiteer enters the battlefield, search your library for an Equipment card with mana value 2 or less, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/221_Bandit Profiteer.png" num="221">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>1R/WR/W</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thalmor Elite</name>
+			<text>Other non-Human creatures you control get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/224_Thalmor Elite.png" num="224">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1B/GB/G</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arboreal Sanctifier</name>
+			<text>When Arboreal Sanctifier enters the battlefield, gain control of target land for as long as you control Arboreal Sanctifier.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/220_Arboreal Sanctifier.png" num="220">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G/UG/U</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pull from Oblivion</name>
+			<text>Create a token that&apos;s a copy of target artifact or creature card in your graveyard, except its a white Spirit creature in addition to its other colors and types, has base power and toughness 1/1, and has flying.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/SRN-files/img/208_Pull from Oblivion.png" num="208">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bludgeon</name>
+			<text>This spell costs {1} less to cast for each Equipment you control.
+Destroy target attacking or blocking creature.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/4_Bludgeon.png" num="4">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Illusion Mastery</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+2 and has hexproof.
+Whenever enchanted creature attacks, scry 1.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/52_Illusion Mastery.png" num="52">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ravaging Strength</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1.
+Whenever enchanted creature attacks, defending player loses 2 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/97_Ravaging Strength.png" num="97">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dawnguard Warrior</name>
+			<text>Whenever you discard a card for the first time each turn, put a +1/+1 counter on Dawnguard Warrior.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/122_Dawnguard Warrior.png" num="122">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Windhelm Dock-Worker</name>
+			<text>Whenever another creature you control attacks alone, that creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/182_Windhelm Dock-Worker.png" num="182">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Viashino Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hold Guard</name>
+			<text>Whenever Hold Guard attacks, if you control the creature with the greatest power or tied for greatest, it gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/16_Hold Guard.png" num="16">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>College Student</name>
+			<text>Whenever you cast a spell that targets College Student, put a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/40_College Student.png" num="40">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Volkihar Nightstalker</name>
+			<text>Whenever a player discards a card, Volkihar Nightstalker gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/107_Volkihar Nightstalker.png" num="107">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crypt Ravager</name>
+			<text>When Crypt Ravager dies, it deals 1 damage to any target.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/120_Crypt Ravager.png" num="120">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grip of Namira</name>
+			<text>Target creature gains deathtouch and indestructible until end of turn. Put a +1/+1 counter on that creature.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/164_Grip of Namira.png" num="164">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dexion Reads the Elder Scroll</name>
+			<text></text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/12_Dexion Reads the Elder Scroll.png" num="12">SRN</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Monk SRN</name>
+			<text>Defender</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/2t_Monk.png" num="2">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Monk</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Perk Counters SRN</name>
+			<text>Track your perk counters here.</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/SRN-files/img/1t_Perk Counters.png" num="1">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Miraak&apos;s Dragon Uprising</name>
+			<text></text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/SRN-files/img/132_Miraak&apos;s Dragon Uprising.png" num="132">SRN</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/255_Plains.png" num="255">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/256_Island.png" num="256">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/257_Swamp.png" num="257">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/258_Mountain.png" num="258">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/SRN-files/img/259_Forest.png" num="259">SRN</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

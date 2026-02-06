@@ -2467,7 +2467,7 @@
 			"type": "Token Creature — Elf Citizen",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/CSD-files/img/7_Elf Citizen.png"
+				"en": "https://hkrat.github.io/sets/CSD-files/img/7t_Elf Citizen.png"
 			}
 		},
 		{
@@ -2477,7 +2477,7 @@
 			"type": "Token Creature — Soldier",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/CSD-files/img/10_Soldier.png"
+				"en": "https://hkrat.github.io/sets/CSD-files/img/10t_Soldier.png"
 			}
 		},
 		{
@@ -2597,7 +2597,7 @@
 			"type": "Token Creature — Dragon",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/CSD-files/img/6_Dragon.png"
+				"en": "https://hkrat.github.io/sets/CSD-files/img/6t_Dragon.png"
 			}
 		},
 		{
@@ -2607,7 +2607,7 @@
 			"type": "Token Creature — Wizard",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/CSD-files/img/11_Wizard.png"
+				"en": "https://hkrat.github.io/sets/CSD-files/img/11t_Wizard.png"
 			}
 		},
 		{
@@ -2627,7 +2627,7 @@
 			"type": "Token Creature — Snake",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/CSD-files/img/8_Snake.png"
+				"en": "https://hkrat.github.io/sets/CSD-files/img/8t_Snake.png"
 			}
 		},
 		{
@@ -2637,7 +2637,7 @@
 			"type": "Token Creature — Assassin",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/CSD-files/img/5_Assassin.png"
+				"en": "https://hkrat.github.io/sets/CSD-files/img/5t_Assassin.png"
 			}
 		},
 		{
@@ -2647,7 +2647,7 @@
 			"type": "Token Creature — Illusion",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/CSD-files/img/4_Illusion.png"
+				"en": "https://hkrat.github.io/sets/CSD-files/img/4t_Illusion.png"
 			}
 		},
 		{
@@ -2657,12 +2657,12 @@
 			"type": "Token Creature — Faerie Citizen",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/CSD-files/img/2_Faerie Citizen.png"
+				"en": "https://hkrat.github.io/sets/CSD-files/img/2t_Faerie Citizen.png"
 			}
 		},
 		{
 			"name": "Oakblossom Druid",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Dryad Druid",
 			"collector_number": "3",
@@ -2717,7 +2717,7 @@
 			"type": "Token Creature — Knight",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/CSD-files/img/1_Knight.png"
+				"en": "https://hkrat.github.io/sets/CSD-files/img/1t_Knight.png"
 			}
 		},
 		{
@@ -2787,7 +2787,7 @@
 			"type": "Token Creature — Fish",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/CSD-files/img/3_Fish.png"
+				"en": "https://hkrat.github.io/sets/CSD-files/img/3t_Fish.png"
 			}
 		},
 		{
@@ -2802,7 +2802,7 @@
 		},
 		{
 			"name": "Ransacking Ruffian",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Knight Rogue",
 			"collector_number": "1",
@@ -2817,7 +2817,7 @@
 			"type": "Token Creature — Wolf",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/CSD-files/img/9_Wolf.png"
+				"en": "https://hkrat.github.io/sets/CSD-files/img/9t_Wolf.png"
 			}
 		},
 		{
@@ -2832,7 +2832,7 @@
 		},
 		{
 			"name": "Piracy",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{R}{R}{R}",
 			"type": "Enchantment",
 			"collector_number": "2",
@@ -2872,7 +2872,7 @@
 		},
 		{
 			"name": "Tender of Unbound Groves",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Elf Cleric",
 			"collector_number": "4",
@@ -2942,14 +2942,14 @@
 		},
 		{
 			"name": "Unshackle the Beast",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Enchantment",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/CSD-files/img/5_Unshackle the Beast.png"
 			}
-		},
+		}
 	]
 
 [rare(1)]
@@ -3024,7 +3024,7 @@
 	2 Syr Geigh, Wilds Wanderer
 	1 Infamy
 	2 Southweald Flameweave
-[uncommon(4)]
+[uncommon(3)]
 	4 Leave the Tomb
 	4 Smear Campaign
 	4 Enlightment Apparition
@@ -3106,7 +3106,7 @@
 	4 Gambit
 	4 Witches Hovel
 	4 Unshackle the Beast
-[common(7)]
+[common(6)]
 	8 Crossroads Wanderer
 	8 Kitchen Gossips
 	8 Elnbeth Chaplain
@@ -3218,7 +3218,388 @@
 	8 Rogue's Garb
 	8 Dragon Saddle
 	8 Elven Bow
-[wildcard(2)]
+[common | masterpiece(1)]
+	8 Crossroads Wanderer
+	8 Kitchen Gossips
+	8 Elnbeth Chaplain
+	8 Elven Innmaiden
+	8 War Medic
+	8 Auramancer
+	8 Bravest Guard
+	8 Faithmender
+	8 Prayer Giver
+	8 Dragonbond Trainee
+	8 Lay to Rest
+	8 Rend in Light
+	8 Patrol the Grounds
+	8 Lesser Aeromancy
+	8 Boon of Lordship
+	8 Ardent Charger
+	8 Loreweaver Runes
+	8 Bottled Luck
+	8 Arrest
+	8 Take to the Skies
+	8 Agent of Waves
+	8 Curio Curator
+	8 Castle Correspondent
+	8 Cloudskies Marauder
+	8 Wandering Mystic
+	8 Seabaren Lorekeepers
+	8 Fables Historian
+	8 Make Do
+	8 Murkwater Lurker
+	8 Forlorn and Forgotten
+	8 Wallow's Court
+	8 Arcane Chronicler
+	8 Impromptu Passway
+	8 Traitorous Eyes
+	8 Fickle Fatereader
+	8 Just the Bait
+	8 Impact Bubble
+	8 Mental Breakdown
+	8 Cassowary Warden
+	8 Guard's Narc
+	8 Doomskater
+	8 Shadowed Striker
+	8 Cultist Infiltrator
+	8 Dusk Fiend
+	8 Skittering Snitch
+	8 Scourge of Coasts
+	8 Agent of the Unseen
+	8 Eyes Above
+	8 Unholy Rebirth
+	8 Midnight Visit
+	8 Dragonskin
+	8 Information Highway
+	8 Foolhardy Knight
+	8 Millwater Ruffian
+	8 Estwyle Sneak
+	8 Return to the Nymphs
+	8 Ruinous Retribution
+	8 Skvorang Cliffwalker
+	8 Ember Mage
+	8 Cragbound Dragon
+	8 Dragonfire Rider
+	8 Scorchwielder
+	8 Joust Trumpeteer
+	8 Joust Liberator
+	8 Elnbeth Guardian
+	8 Bloodsea Merchant
+	8 Rend the Coast
+	8 Sundering Breath
+	8 Wealdwalker
+	8 Stormrider
+	8 Profound Understanding
+	8 Draco Knight
+	8 Tandem Maneuver
+	8 Egg of Ash
+	8 Dragonheart
+	8 Skilled Steel
+	8 Gleeful Mayhem
+	8 Yafarrin Hermit
+	8 Pouncing Badwolf
+	8 In Reverence
+	8 Gylleon Warden
+	8 Southweald Tracker
+	8 Gyrwelds Nightwarden
+	8 Cerator Preacher
+	8 Northlands Herald
+	8 Elven Ranger
+	8 Cerator Orator
+	8 Titanize
+	8 Rootform
+	8 Autumn's Reward
+	8 Forest Trek
+	8 Magmatic Emergence
+	8 Woodsman's Dilemma
+	8 Bound by Oath
+	8 To New Shores
+	8 Leafsprout
+	8 Nature's Favor
+	8 Cult Conspirant
+	8 Siphon Soul
+	8 Alpine Meadow
+	8 Fiery Chasm
+	8 Highland Vale
+	8 Sodden Cavern
+	8 Tranquil Stream
+	3 Oakblossom Druid
+	8 Starmapping
+	3 Ransacking Ruffian
+	3 Piracy
+	8 Evolving Wilds
+	3 Tender of Unbound Groves
+	8 Knight Armaments
+	8 Wizard's Cauldron
+	8 Rogue's Garb
+	8 Dragon Saddle
+	8 Elven Bow
+	3 Unshackle the Beast
+[foil(1)]
+	12 Crossroads Wanderer
+	12 Kitchen Gossips
+	12 Elnbeth Chaplain
+	12 Elven Innmaiden
+	12 War Medic
+	12 Auramancer
+	12 Bravest Guard
+	12 Faithmender
+	12 Prayer Giver
+	12 Dragonbond Trainee
+	12 Lay to Rest
+	12 Rend in Light
+	12 Patrol the Grounds
+	12 Lesser Aeromancy
+	12 Boon of Lordship
+	12 Ardent Charger
+	12 Loreweaver Runes
+	12 Bottled Luck
+	12 Arrest
+	12 Take to the Skies
+	12 Agent of Waves
+	12 Curio Curator
+	12 Castle Correspondent
+	12 Cloudskies Marauder
+	12 Wandering Mystic
+	12 Seabaren Lorekeepers
+	12 Fables Historian
+	12 Make Do
+	12 Murkwater Lurker
+	12 Forlorn and Forgotten
+	12 Wallow's Court
+	12 Arcane Chronicler
+	12 Impromptu Passway
+	12 Traitorous Eyes
+	12 Fickle Fatereader
+	12 Just the Bait
+	12 Impact Bubble
+	12 Mental Breakdown
+	12 Cassowary Warden
+	12 Guard's Narc
+	12 Doomskater
+	12 Shadowed Striker
+	12 Cultist Infiltrator
+	12 Dusk Fiend
+	12 Skittering Snitch
+	6 Leave the Tomb
+	12 Scourge of Coasts
+	12 Agent of the Unseen
+	12 Eyes Above
+	12 Unholy Rebirth
+	12 Midnight Visit
+	12 Dragonskin
+	12 Information Highway
+	6 Smear Campaign
+	12 Foolhardy Knight
+	12 Millwater Ruffian
+	12 Estwyle Sneak
+	12 Return to the Nymphs
+	12 Ruinous Retribution
+	12 Skvorang Cliffwalker
+	12 Ember Mage
+	12 Cragbound Dragon
+	12 Dragonfire Rider
+	12 Scorchwielder
+	12 Joust Trumpeteer
+	12 Joust Liberator
+	12 Elnbeth Guardian
+	12 Bloodsea Merchant
+	12 Rend the Coast
+	12 Sundering Breath
+	12 Wealdwalker
+	12 Stormrider
+	12 Profound Understanding
+	12 Draco Knight
+	12 Tandem Maneuver
+	12 Egg of Ash
+	12 Dragonheart
+	12 Skilled Steel
+	12 Gleeful Mayhem
+	12 Yafarrin Hermit
+	12 Pouncing Badwolf
+	12 In Reverence
+	12 Gylleon Warden
+	12 Southweald Tracker
+	12 Gyrwelds Nightwarden
+	12 Cerator Preacher
+	12 Northlands Herald
+	12 Elven Ranger
+	12 Cerator Orator
+	12 Titanize
+	12 Rootform
+	12 Autumn's Reward
+	12 Forest Trek
+	12 Magmatic Emergence
+	12 Woodsman's Dilemma
+	12 Bound by Oath
+	12 To New Shores
+	12 Leafsprout
+	12 Nature's Favor
+	6 Enlightment Apparition
+	6 Gyrwelds Bowman
+	6 Gylleon Champion
+	6 Yafarrin Soothsayer
+	6 Court's Patrol
+	6 Summoner's Circle
+	6 Estwyle Charm
+	6 Twist of Fate
+	6 Rise to the Challenge
+	6 Greater Aeromancy
+	6 Faerie Mendmother
+	6 Thousand-Year Slumber
+	6 Coastline Hatchlings
+	6 Favorable Winds
+	6 Escape Unnoticed
+	6 Mengrin Hustler
+	6 Rhythm of the Wave
+	6 Whisk Away
+	6 Bestoleth Charm
+	6 Unauthorized Mount
+	6 Curse of Transmutation
+	6 Flutter Thoughts
+	6 Dragon Cult Recruiter
+	6 Tavern Traveler
+	6 Consult the Past
+	12 Cult Conspirant
+	6 Sootbelcher
+	6 Murder at Midnight
+	6 False-Lead Miscreant
+	6 Faerie Liemother
+	6 Selnite Charm
+	6 Face the Axe
+	12 Siphon Soul
+	6 Stalk Through the Night
+	6 Claim the Firstborn
+	6 Mother Knows Best
+	6 Feudal Fall
+	6 Skvorang Charm
+	6 Paralyzing Prophecy
+	6 Regal Blade
+	6 Syr Dralock the Swift
+	6 Into the Future
+	6 Banneret Journeyman
+	6 Ruinous Brimstone
+	6 Priest of Immolation
+	6 Crack the Foundations
+	6 Stalked Traveler
+	6 Expanding Horizons
+	6 Storied Songstress
+	6 Manaweft Druid
+	6 Gylleon Charm
+	6 Canopy Drifter
+	2 Brushfire Knight
+	6 Argin's Resolve
+	6 Pristine Vista
+	6 Carniflage
+	6 Underbrush Crusher
+	2 Estwyle Calvary
+	2 Bestoleth Scholars
+	2 Save From the Beast
+	2 Leyline of Sanctity
+	2 Mousecapade Ranger
+	2 Cloudsunder Titan
+	2 Selnite Sneak
+	2 Leyline of Perception
+	2 Center Self
+	2 Sail the Cloudskies
+	2 Love Beyond Time
+	2 Huiltaii Fisher
+	2 Bestoleth Calvary
+	2 Reign Supreme
+	2 Ransacking Ruffian
+	2 Dragon Cult Deathwise
+	2 Condemn the Soul
+	2 Leyline of Finality
+	2 Flight of Soot
+	2 Alkani's Scaledancer
+	2 Selnite Calvary
+	2 Skvorang Calvary
+	2 Cinderblade Paladin
+	2 Leyline of Velocity
+	2 Gravel Lane Lancer
+	2 Forsaken Stories
+	2 Shifting Groves Druid
+	6 Meandering Brunwick
+	2 Crushrunner Wurm
+	2 Leyline of Fertility
+	2 Oakblossom Druid
+	2 Gylleon Calvary
+	1 Elnbeth Justiciar
+	1 Jace, Sublime Mentalist
+	1 Alkani Calden
+	1 Huiltaii Hydra
+	6 Lunar Scholar
+	6 Crossed Stars
+	6 Loch Songstress
+	6 Growing Concern
+	6 Swift Redfang
+	6 Roaming Band
+	6 Syrs Kel and Arnd of Gylleon
+	6 Tender of Unbound Groves
+	6 Leafweaver Druid
+	6 Pontif of Profits
+	6 Sequester to Safety
+	6 Cinder Raven
+	6 The Heir Lay Sleeping
+	6 Smear Fiend
+	6 Hargran Intimidator
+	6 Dragonbond General
+	6 Valorous Squire
+	6 Wondrous Genesis
+	2 Order and Fealty
+	2 Duskwinnow Duelist
+	2 Destiny Approaches
+	2 Maternal Brunwick
+	2 Heartstrings Minstrel
+	2 Cinder Scholar
+	2 Brunwick Devastator
+	2 Wendell, Scorned Embers
+	6 Crossways Bandit
+	1 Elnbeth the Kings' Court
+	1 Wallow the Kingspore
+	1 Argin, Seeker Valiant
+	1 Alfonz, Model g0105
+	1 Mayana, Arrow in the Crowd
+	1 Prelate Zekala
+	1 Preposterous Peddler
+	1 Boltscale Titan
+	1 Gregor, Multiverse Duelist
+	12 Alpine Meadow
+	12 Fiery Chasm
+	12 Highland Vale
+	12 Sodden Cavern
+	12 Tranquil Stream
+	2 Estwyle, the Gleaming Palace
+	2 Gylleon, the Tranquil Court
+	2 Selnite, the Creeping Power
+	2 Skvorang, the Rocky Beacon
+	2 Bestoleth, the Scholar's Bastion
+	6 Ring the Alarm
+	2 Regal Prose
+	2 Court Marshal
+	2 Paleodraconis
+	2 Skvorang Rallier
+	2 Gyrwelds Ambusher
+	2 Yafarrin Cultivator
+	2 Dryad of Eternal Aegis
+	2 Syr Meereth the Halcyon
+	6 Scatter Array
+	1 Otherworldly Orrery
+	12 Starmapping
+	1 Tamiyo of the Orrery
+	2 Syr Geigh, Wilds Wanderer
+	6 Gambit
+	1 Infamy
+	2 Southweald Flameweave
+	12 Evolving Wilds
+	6 Witches Hovel
+	6 Unshackle the Beast
+	12 Knight Armaments
+	12 Wizard's Cauldron
+	12 Rogue's Garb
+	12 Dragon Saddle
+	12 Elven Bow
+[wildcard(1)]
 	6 Crossroads Wanderer
 	6 Kitchen Gossips
 	6 Elnbeth Chaplain

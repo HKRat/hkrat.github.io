@@ -217,7 +217,7 @@
 			"type": "Token Creature — Merfolk Pirate",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/6_Merfolk Pirate.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/6t_Merfolk Pirate.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Token Creature — Pirate",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/11_Pirate.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/11t_Pirate.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Token Creature — Elf Pirate",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/7_Elf Pirate.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/7t_Elf Pirate.png"
 			}
 		},
 		{
@@ -2487,7 +2487,7 @@
 			"type": "Token Creature — Soldier",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/3_Soldier.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/3t_Soldier.png"
 			}
 		},
 		{
@@ -2697,12 +2697,12 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/14_Treasure.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/14t_Treasure.png"
 			}
 		},
 		{
 			"name": "Paradise Found",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "23",
@@ -2712,7 +2712,7 @@
 		},
 		{
 			"name": "Tundra",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
 			"collector_number": "29",
@@ -2722,7 +2722,7 @@
 		},
 		{
 			"name": "Volcanic Island",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
 			"collector_number": "31",
@@ -2732,7 +2732,7 @@
 		},
 		{
 			"name": "Tropical Island",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
 			"collector_number": "28",
@@ -2742,7 +2742,7 @@
 		},
 		{
 			"name": "Savannah",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
 			"collector_number": "25",
@@ -2752,7 +2752,7 @@
 		},
 		{
 			"name": "Bayou",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
 			"collector_number": "22",
@@ -2762,7 +2762,7 @@
 		},
 		{
 			"name": "Underground Sea",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
 			"collector_number": "30",
@@ -2772,7 +2772,7 @@
 		},
 		{
 			"name": "Badlands",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
 			"collector_number": "21",
@@ -2782,7 +2782,7 @@
 		},
 		{
 			"name": "Plateau",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
 			"collector_number": "24",
@@ -2792,7 +2792,7 @@
 		},
 		{
 			"name": "Taiga",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
 			"collector_number": "27",
@@ -2802,7 +2802,7 @@
 		},
 		{
 			"name": "Scrubland",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
 			"collector_number": "26",
@@ -2847,7 +2847,7 @@
 			"type": "Token Creature — Spirit Pirate",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/1_Spirit Pirate.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/1t_Spirit Pirate.png"
 			}
 		},
 		{
@@ -2882,7 +2882,7 @@
 		},
 		{
 			"name": "Alan the Covetous",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary First Mate",
 			"collector_number": "11",
@@ -2892,7 +2892,7 @@
 		},
 		{
 			"name": "Betty Gest the Whaler",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary First Mate",
 			"collector_number": "12",
@@ -2902,7 +2902,7 @@
 		},
 		{
 			"name": "Silt Underhand the Scourge",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary First Mate",
 			"collector_number": "19",
@@ -2912,7 +2912,7 @@
 		},
 		{
 			"name": "Gordon, Cartographer Extraordinaire",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary First Mate",
 			"collector_number": "15",
@@ -2922,7 +2922,7 @@
 		},
 		{
 			"name": "Nelvyra the Wavemaker",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary First Mate",
 			"collector_number": "18",
@@ -2932,7 +2932,7 @@
 		},
 		{
 			"name": "Forthright Gallus the Red",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary First Mate",
 			"collector_number": "14",
@@ -2942,7 +2942,7 @@
 		},
 		{
 			"name": "Taliana Alvarez",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary First Mate",
 			"collector_number": "20",
@@ -2952,7 +2952,7 @@
 		},
 		{
 			"name": "Helgie, Renegade Admiral",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary First Mate",
 			"collector_number": "17",
@@ -2962,7 +2962,7 @@
 		},
 		{
 			"name": "Elgor the Bulwark",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary First Mate",
 			"collector_number": "13",
@@ -2972,7 +2972,7 @@
 		},
 		{
 			"name": "Gunpowder Corynn",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary First Mate",
 			"collector_number": "16",
@@ -3027,7 +3027,7 @@
 			"type": "Token Artifact — Vehicle",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/2_Fleet of the Commons.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/2t_Fleet of the Commons.png"
 			}
 		},
 		{
@@ -3157,7 +3157,7 @@
 			"type": "Token Creature — Cat Pirate",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/9_Cat Pirate.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/9t_Cat Pirate.png"
 			}
 		},
 		{
@@ -3187,7 +3187,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/15_Treasure.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/15t_Treasure.png"
 			}
 		},
 		{
@@ -3197,7 +3197,7 @@
 			"type": "",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/1_Draft Archetypes.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/1t_Draft Archetypes.png"
 			}
 		},
 		{
@@ -3277,7 +3277,7 @@
 			"type": "Token Creature — Elf Pirate",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/8_Elf Pirate.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/8t_Elf Pirate.png"
 			}
 		},
 		{
@@ -3297,7 +3297,7 @@
 			"type": "Token Creature — Crab",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/4_Crab.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/4t_Crab.png"
 			}
 		},
 		{
@@ -3477,7 +3477,7 @@
 			"type": "Token Creature — Cat Pirate",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/10_Cat Pirate.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/10t_Cat Pirate.png"
 			}
 		},
 		{
@@ -3512,7 +3512,7 @@
 		},
 		{
 			"name": "Life from the Loam",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
 			"collector_number": "10",
@@ -3522,7 +3522,7 @@
 		},
 		{
 			"name": "Crackle with Power",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{X}{X}{X}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "8",
@@ -3532,7 +3532,7 @@
 		},
 		{
 			"name": "Browbeat",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
 			"collector_number": "7",
@@ -3542,7 +3542,7 @@
 		},
 		{
 			"name": "Murktide Regent",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Creature — Dragon",
 			"collector_number": "4",
@@ -3552,7 +3552,7 @@
 		},
 		{
 			"name": "Displacer Kitten",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Cat Beast",
 			"collector_number": "3",
@@ -3562,7 +3562,7 @@
 		},
 		{
 			"name": "Blood Artist",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Vampire",
 			"collector_number": "5",
@@ -3572,7 +3572,7 @@
 		},
 		{
 			"name": "Birds of Paradise",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Bird",
 			"collector_number": "9",
@@ -3582,7 +3582,7 @@
 		},
 		{
 			"name": "Temporary Lockdown",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment",
 			"collector_number": "2",
@@ -3592,7 +3592,7 @@
 		},
 		{
 			"name": "Curse of Misfortunes",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{4}{B}",
 			"type": "Enchantment — Aura Curse",
 			"collector_number": "6",
@@ -3602,7 +3602,7 @@
 		},
 		{
 			"name": "Ephemerate",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{W}",
 			"type": "Instant",
 			"collector_number": "1",
@@ -3617,7 +3617,7 @@
 			"type": "Token Land — Island",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/16_Island.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/16t_Island.png"
 			}
 		},
 		{
@@ -3627,7 +3627,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/13_Equipment.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/13t_Equipment.png"
 			}
 		},
 		{
@@ -3637,7 +3637,7 @@
 			"type": "Token Creature — Illusion",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/5_Illusion.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/5t_Illusion.png"
 			}
 		},
 		{
@@ -3647,9 +3647,9 @@
 			"type": "Token Creature — Pirate",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOC-files/img/12_Pirate.png"
+				"en": "https://hkrat.github.io/sets/TOC-files/img/12t_Pirate.png"
 			}
-		},
+		}
 	]
 
 [rare(1)]
@@ -3740,7 +3740,7 @@
 	1 Justicia, Ordeal and Order
 	2 Here be Dragons
 	2 Divined Barrelman
-[uncommon(4)]
+[uncommon(3)]
 	4 Muck Lashweaver
 	4 Liar's Parley
 	4 Kelp Sifter
@@ -3832,7 +3832,7 @@
 	4 Abrade
 	4 Monument to Illypso
 	4 Deadwater Miscreant
-[common(7)]
+[common(6)]
 	8 Forlorn Fisher
 	8 Reef Drifter
 	8 Shaman of Floods
@@ -3947,7 +3947,446 @@
 	8 Youthful Recruiter
 	8 Veteran Surveyor
 	8 North Cradle Cartographer
-[wildcard(2)]
+[common | masterpiece(1)]
+	8 Forlorn Fisher
+	8 Reef Drifter
+	8 Shaman of Floods
+	8 Shoreline Warrior
+	8 Singer to the Sunken
+	8 Eversea's Agent
+	8 Gift of the Goddess
+	8 Hook-Scar Crocodile
+	8 Merfolk Warrior
+	8 Silverpool Patrol
+	8 Brute Fisher Liaison
+	8 Fleeing Renegade
+	8 Away with the Prize
+	8 Bay Plunderer
+	8 Crew's Informant
+	8 Nightshade Florist
+	8 Galavanting Seafarer
+	8 Blockade Skiff
+	8 Freespirit Traveler
+	8 Naval Upstart
+	8 Entropic Chains
+	8 Naval Courier
+	8 Honest Laborer
+	8 Castaway
+	8 Landward Gull
+	8 Messenger Elf
+	8 Blade for Hire
+	8 Tandem Hirelings
+	8 Portside Smith
+	8 Drunken Stupor
+	8 Arms Caravan
+	8 Rewrite History
+	8 Midst of Chaos
+	8 Integral Duelist
+	8 Curious Colonel
+	8 Curse of Mutinous Minds
+	8 Undertow Elemental
+	8 Emissary of Stranger Tides
+	8 Illtide
+	8 Belay
+	8 Consider
+	8 Weight of the Past
+	8 Goldlich Rises
+	8 Hexhunter
+	8 Arrogant Mate
+	8 Pirate's Crime
+	8 Hateful Agent
+	8 Pitiless Slasher
+	8 Slick Schemer
+	8 Crafty Poisoner
+	8 Captain's Cohort
+	8 Stranding Geist
+	8 Accost
+	8 Vicious Hatchling
+	8 Pearl Black's Curse
+	8 Gunpowder Buccaneer
+	8 Explorer's Caravel
+	8 Haul Harvester
+	8 Charismatic Corsair
+	8 Tallora Sandreaver
+	8 Tallora Sidewinder
+	8 Channeled Lightning
+	8 Veteran Cartographer
+	8 Cunning Freebooter
+	8 Morgata Pridesail
+	8 Rowdy Crowd
+	8 Curse of Confidence
+	8 Elvish Sureshot
+	8 Illypso's Wrath
+	8 Buried Treasure
+	8 Leafcrawler Beetle
+	8 Arboreal Grazer
+	8 Brine Bay Miscreant
+	8 Sly Bandit
+	8 Challenge the Storm
+	8 Celestial Wayfaring
+	8 Curse of Worry
+	8 Seasoned Barrelman
+	8 Ruffian's Rummage
+	8 Fast Hands
+	8 Baybound Carrack
+	8 Rogue's Carrack
+	8 Roughwater Carrack
+	8 Naval Carrack
+	8 Ghastly Carrack
+	8 Mutinous Blade
+	8 Boarding Hatchet
+	8 Gilded Blade
+	8 Salvage Serpent
+	8 Imposing Haven
+	8 Smuggler's Haven
+	8 Inlet Haven
+	8 Shoreline Haven
+	8 Coral Haven
+	8 Abandon Ship
+	8 Curse of Restless Souls
+	8 Embittered Alchemist
+	8 Sailor of Misfortune
+	8 Brazen Plunder
+	8 Novice Drunkard
+	8 Bargains Well Struck
+	3 Paradise Found
+	3 Tundra
+	3 Volcanic Island
+	3 Tropical Island
+	3 Savannah
+	3 Bayou
+	3 Underground Sea
+	3 Badlands
+	3 Plateau
+	3 Taiga
+	3 Scrubland
+	8 Curse of Inebriation
+	8 Merchant Sloop
+	3 Alan the Covetous
+	3 Betty Gest the Whaler
+	3 Silt Underhand the Scourge
+	3 Gordon, Cartographer Extraordinaire
+	3 Nelvyra the Wavemaker
+	3 Forthright Gallus the Red
+	3 Taliana Alvarez
+	3 Helgie, Renegade Admiral
+	3 Elgor the Bulwark
+	3 Gunpowder Corynn
+	8 Left to Drown
+	8 Deadly Dispute
+	8 Lookout's Attendant
+	8 Become Prey
+	8 Display of Dominance
+	8 Wreckage Explorer
+	8 From the Depths
+	8 Brought Ashore
+	8 Youthful Recruiter
+	8 Veteran Surveyor
+	8 North Cradle Cartographer
+	3 Life from the Loam
+	3 Crackle with Power
+	3 Browbeat
+	3 Murktide Regent
+	3 Displacer Kitten
+	3 Blood Artist
+	3 Birds of Paradise
+	3 Temporary Lockdown
+	3 Curse of Misfortunes
+	3 Ephemerate
+[foil(1)]
+	12 Forlorn Fisher
+	2 Jade Rescuer
+	12 Reef Drifter
+	12 Shaman of Floods
+	6 Muck Lashweaver
+	2 Conflux of Fate
+	12 Shoreline Warrior
+	12 Singer to the Sunken
+	2 James Grace West
+	12 Eversea's Agent
+	6 Liar's Parley
+	2 Volitan Lurker
+	6 Kelp Sifter
+	6 Flood Swimmer
+	12 Gift of the Goddess
+	1 Crimson Jack, the Goldlich
+	1 Lucia de Merr, La Dama Muerta
+	12 Hook-Scar Crocodile
+	12 Merfolk Warrior
+	6 Brine Bay Swashbuckler
+	6 Steeltooth the Scourge
+	12 Silverpool Patrol
+	6 Shorecrasher
+	6 Sheltering Deepfolk
+	6 Curse of Uncertainty
+	6 Tandem Troublemakers
+	12 Brute Fisher Liaison
+	6 Chase the High
+	12 Fleeing Renegade
+	2 Lords' Reunion
+	6 Shipwreck Raider
+	6 Integral Renegade
+	12 Away with the Prize
+	12 Bay Plunderer
+	6 Decksweeper
+	12 Crew's Informant
+	6 Druid of the Sacred Grove
+	12 Nightshade Florist
+	6 A Nemesis Made
+	6 Raid Captain Genzel
+	2 The Tidespoil
+	1 Dead Men Tell No Tales
+	6 Elven Corsair
+	12 Galavanting Seafarer
+	12 Blockade Skiff
+	12 Freespirit Traveler
+	12 Naval Upstart
+	12 Entropic Chains
+	12 Naval Courier
+	12 Honest Laborer
+	12 Castaway
+	12 Landward Gull
+	12 Messenger Elf
+	12 Blade for Hire
+	12 Tandem Hirelings
+	12 Portside Smith
+	12 Drunken Stupor
+	12 Arms Caravan
+	12 Rewrite History
+	12 Midst of Chaos
+	6 Lost at Sea
+	12 Integral Duelist
+	12 Curious Colonel
+	12 Curse of Mutinous Minds
+	12 Undertow Elemental
+	12 Emissary of Stranger Tides
+	12 Illtide
+	12 Belay
+	12 Consider
+	12 Weight of the Past
+	12 Goldlich Rises
+	12 Hexhunter
+	12 Arrogant Mate
+	12 Pirate's Crime
+	12 Hateful Agent
+	12 Pitiless Slasher
+	12 Slick Schemer
+	12 Crafty Poisoner
+	12 Captain's Cohort
+	6 Loose Cargo
+	12 Stranding Geist
+	12 Accost
+	6 Belle the Upstart LeBall
+	12 Vicious Hatchling
+	12 Pearl Black's Curse
+	12 Gunpowder Buccaneer
+	12 Explorer's Caravel
+	12 Haul Harvester
+	12 Charismatic Corsair
+	12 Tallora Sandreaver
+	12 Tallora Sidewinder
+	12 Channeled Lightning
+	12 Veteran Cartographer
+	12 Cunning Freebooter
+	12 Morgata Pridesail
+	6 Unchecked Authority
+	12 Rowdy Crowd
+	12 Curse of Confidence
+	12 Elvish Sureshot
+	12 Illypso's Wrath
+	12 Buried Treasure
+	12 Leafcrawler Beetle
+	12 Arboreal Grazer
+	12 Brine Bay Miscreant
+	12 Sly Bandit
+	12 Challenge the Storm
+	12 Celestial Wayfaring
+	6 Sink or Swim
+	6 Distinguished General
+	6 Grant Passage
+	6 Horizon Steward
+	6 Morgata Quartermaster
+	6 Hoist the Colors
+	6 Salvage Sifter
+	2 Mapmaking
+	6 Into Port
+	6 Justician Templar
+	6 Diligent Harbormaster
+	6 Stormwake Admiral
+	6 Harbinger of Fate
+	12 Curse of Worry
+	6 Nowhere Left to Sail
+	6 Obsessive Scallywag
+	6 Spectral Sailor
+	6 Cut-Sails Ulril
+	6 Midnight Scourge
+	6 Red River Corsair
+	6 Ambition Sunk at Sea
+	6 What Lurks at World's End
+	6 Mutinous Castaways
+	12 Seasoned Barrelman
+	12 Ruffian's Rummage
+	6 Adventure Seeker
+	6 Shore Omen
+	6 Six Feet and Sixty Pence
+	12 Fast Hands
+	6 Fire-Fist Ace
+	6 Pyretic Savant
+	6 Coralspine Infiltrator
+	6 Hesrika the Cartographer
+	6 Bright-Eyed Aspirant
+	6 Sacred Barkhorn
+	2 Leafchurner
+	6 Seek Gold
+	6 Ghost of Isla Merr
+	2 Naval Benefactor
+	2 Supreme Galleon
+	2 Rear Admiral
+	2 Ana Axela, Remembered
+	2 Naval Port
+	2 Helgie's Raid
+	2 Morgata Grand Admiral
+	2 Dredgewater Menace
+	2 Captain of the Legion
+	2 Spirit of Adventure
+	2 Cloudy Coast
+	2 Aether Genesis
+	2 Spill the Sea
+	2 Roadside Renegade
+	2 Haranguing Hanged
+	2 Torturous Tally Turncoat
+	2 Kelp Tides
+	2 Salt-Kissed Williams, Salvager
+	2 Corrupt Governor
+	2 Wellweather Bespoiler
+	2 Ruthless Scalebeard
+	2 Relic Acquisitioner
+	2 Broadside!
+	2 Goldlich's Assault
+	2 Dread Captain
+	2 Rising Power
+	2 Belligerent Corsair
+	2 Weather Eye Scout
+	2 Topaz, Friend to All
+	2 Bayside Braggart
+	2 River-Reed Weaver
+	2 Pull From Fable
+	2 Second-Star Gwyn
+	2 Magmatic Edge
+	1 The Grim Bastion
+	1 Stormwake Behemoth
+	1 Ajani, Pride of the Sea
+	6 Dockhand's Envoy
+	6 Morgata Midshipman
+	6 Fatesnatcher
+	6 Goldpile Dragon
+	6 Buccaneer Turncoat
+	6 Sailor of the Eversea
+	6 Tallora Traveler
+	6 Mercybringer
+	6 Abha Island Peddler
+	6 Deadwater Jailer
+	6 Restless Shipwright
+	1 Stormshell, Voracious Terror
+	6 il-Verde Alchemist
+	6 Man-at-Arms
+	2 Free as the Sea
+	2 Curse of the Drowned
+	2 A Pirate's Life for Me
+	2 Constant Genesis
+	2 Illypso's Pride
+	2 Avatar of the Sister Gods
+	2 Rum Reveler
+	2 Guest in the Crow's Nest
+	2 Drowned Captivator
+	1 taii-Verde, Sacred Grove
+	1 Admiral Sheppard Drake
+	1 Dread Roberts, the Lord Under
+	1 Star-Born Flynn, the Rookie
+	1 Espaza, the Noble Storm
+	1 The Nameless
+	1 Siren Song of the Black Flag
+	2 Dockside Guardian
+	6 Fleet of the Commons
+	2 Crippling Fear
+	2 Volcanic Spire
+	6 Grave of the Sparrow
+	6 Grave of the Obsidian Heart
+	6 Grave of the Moonracer
+	6 Grave of the Ruby Spade
+	6 Grave of the Sunken Gem
+	6 The Creaken
+	2 Piece of Pirates' Call
+	2 Man O' War
+	6 The Stormsailer
+	2 The Second Wave
+	12 Baybound Carrack
+	12 Rogue's Carrack
+	6 Swift Caravel
+	12 Roughwater Carrack
+	1 The Island Sinker
+	12 Naval Carrack
+	12 Ghastly Carrack
+	12 Mutinous Blade
+	12 Boarding Hatchet
+	12 Gilded Blade
+	12 Salvage Serpent
+	6 Monument to Justicia
+	2 Ship of the Line
+	6 Painsinger
+	6 Embargo Captain
+	12 Imposing Haven
+	12 Smuggler's Haven
+	12 Inlet Haven
+	12 Shoreline Haven
+	12 Coral Haven
+	2 Ghost Crew's Curse
+	2 Mariner's Skill
+	6 Sickening Seas
+	12 Abandon Ship
+	6 In the Chest of Dead Men
+	12 Curse of Restless Souls
+	12 Embittered Alchemist
+	2 Law of the Sea
+	6 Plundered Secrets
+	12 Sailor of Misfortune
+	12 Brazen Plunder
+	2 Curse of Parley
+	12 Novice Drunkard
+	12 Bargains Well Struck
+	6 Nehlim, Relic Hunter
+	1 Battle of Hubris Rock
+	12 Curse of Inebriation
+	1 Sword of Fame and Fortune
+	2 Renowned Flagship
+	12 Merchant Sloop
+	1 Jace, Wayward Sailor
+	1 Zenith, Chitinous Isle
+	6 Contest Morgatan Shores
+	6 Contest the Eversea
+	6 Contest Deadwater
+	6 Contest Jagged Fang Cove
+	6 Contest Brine Bay
+	1 Jess Harriet the Cutthroat
+	12 Left to Drown
+	12 Deadly Dispute
+	12 Lookout's Attendant
+	12 Become Prey
+	12 Display of Dominance
+	1 Illypso, Will and Whim
+	1 Justicia, Ordeal and Order
+	12 Wreckage Explorer
+	6 Abrade
+	12 From the Depths
+	12 Brought Ashore
+	2 Here be Dragons
+	2 Divined Barrelman
+	12 Youthful Recruiter
+	12 Veteran Surveyor
+	12 North Cradle Cartographer
+	6 Monument to Illypso
+	6 Deadwater Miscreant
+[wildcard(1)]
 	6 Forlorn Fisher
 	7 Jade Rescuer
 	6 Reef Drifter

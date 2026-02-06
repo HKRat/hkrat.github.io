@@ -1,0 +1,3584 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>WAW</name>
+			<longname>World at War</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-02-06</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Kyne&apos;s Devoted</name>
+			<text>{T}: Add {G}, {U}, or {R}. If that mana is spent on a creature spell with power 4 or greater, it can&apos;t be countered.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/91_Kyne&apos;s Devoted.png" num="91">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tales Retold</name>
+			<text>Exile up to X target creatures your opponents control and/or creature cards from your opponent&apos;s graveyards. You may cast any number of nonland cards with converted mana cost X or less from among them without paying their mana costs.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/151_Tales Retold.png" num="151">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XGUB</manacost>
+				<cmc>3</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Creeping Crypts</name>
+			<text>At the beginning of your upkeep, put the top three cards of your library into your graveyard. Then, you draw a card and lose 1 life if a noncreature, nonland card was put into your graveyard this way.
+When Creeping Crypts is put into your graveyard from your library, create a 2/2 black Zombie creature token.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/46_Creeping Crypts.png" num="46">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Altmer Emissary</name>
+			<text>{1}{UB}: Mill two cards.
+{1}{UB}{UB}: If there are seven or more cards in your graveyard, Altmer Emissary becomes a 2/4 Elf Rogue and you draw a card.
+{2}{UB}{UB}: If Altmer Emissary is a Rogue, return target card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/82_Altmer Emissary.png" num="82">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Corrupt Keeper</name>
+			<text>Menace (This creature can&apos;t be blocked except by two or more creatures.)
+Creature tokens get -1/-1.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/45_Corrupt Keeper.png" num="45">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Darkness Returns</name>
+			<text>Whenever a player discards a card, you may put a quest counter on Darkness Returns.
+Remove three quest counters from Darkness Returns and sacrifice it: Scry 2, then draw two cards. You lose 2 life.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/47_Darkness Returns.png" num="47">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Soul Leak</name>
+			<text>Destroy target creature unless its controller pays {3}.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/57_Soul Leak.png" num="57">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Winged Descent</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Destroy target creature.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/60_Winged Descent.png" num="60">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Zombie WAW</name>
+			<text></text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/WAW-files/img/4t_Zombie.png" num="4">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Forgotten Knowledge</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Look at the top seven cards of your library. Put two of them into your hand and the rest into your graveyard.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/28_Forgotten Knowledge.png" num="28">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stormwing Dovah</name>
+			<text>Flash; thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Flying
+When Stormwing Dovah enters the battlefield, each player discards their hand, then draws three cards.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/106_Stormwing Dovah.png" num="106">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5UB</manacost>
+				<cmc>7</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chittering Chaurus</name>
+			<text>Trample
+When Chittering Chaurus dies, you may return it to the battlefield transformed with two egg counters on it.
+---
+(Back): Chaurus Nest</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/85_Chittering Chaurus_front.png" num="85a">WAW</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Chaurus Nest</related>
+		</card>
+		<card>
+			<name>Chaurus Nest</name>
+			<text>Defender
+At the beginning of your upkeep, remove an egg counter from Chaurus Nest. Then if there are no egg counters on it, transform it.
+---
+(Front): Chittering Chaurus</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/85_Chittering Chaurus_back.png" num="85b">WAW</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Chittering Chaurus</related>
+		</card>
+		<card>
+			<name>Diving Dovah</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Flying, haste
+When Diving Dovah enters the battlefield, exile the top card of your library. Until end of turn, you may play that card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/65_Diving Dovah.png" num="65">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dovah&apos;s Ire</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Dovah&apos;s Ire deals 3 damage to any target. If a creature dealt damage this way would die this turn, exile it instead.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/66_Dovah&apos;s Ire.png" num="66">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Disgruntled Nord</name>
+			<text>Whenever Disgruntled Nord and at least two other creatures attack, untap Disgruntled Nord and transform it.
+---
+(Back): Ulfric&apos;s Adept</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/8_Disgruntled Nord_front.png" num="8a">WAW</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Ulfric&apos;s Adept</related>
+		</card>
+		<card>
+			<name>Ulfric&apos;s Adept</name>
+			<text>Vigilance
+Other attacking creatures get +1/+0.
+---
+(Front): Disgruntled Nord</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/8_Disgruntled Nord_back.png" num="8b">WAW</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Disgruntled Nord</related>
+		</card>
+		<card>
+			<name>Imperial Legate</name>
+			<text>Vigilance
+At the beginning of each end step, if Imperial Legate is equipped, transform it.
+---
+(Back): Renowned Leader</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/10_Imperial Legate_front.png" num="10a">WAW</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Renowned Leader</related>
+		</card>
+		<card>
+			<name>Renowned Leader</name>
+			<text>Vigilance
+When this creature transforms into Renowned Leader, exile up to one other target creature and up to one target creature card in a graveyard. When Renowned Leader leaves the battlefield, return the exiled cards to their owner&apos;s hands.
+---
+(Front): Imperial Legate</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/10_Imperial Legate_back.png" num="10b">WAW</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Imperial Legate</related>
+		</card>
+		<card>
+			<name>Aspiring Mercenary</name>
+			<text>First strike
+Whenever a permanent becomes attached to Aspiring Mercenary, transform it.
+---
+(Back): Armored Explorer</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/125_Aspiring Mercenary_front.png" num="125a">WAW</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Armored Explorer</related>
+		</card>
+		<card>
+			<name>Armored Explorer</name>
+			<text>Whenever this permanent transforms into Armored Explorer, it gains haste and trample until end of turn.
+Double strike
+---
+(Front): Aspiring Mercenary</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/125_Aspiring Mercenary_back.png" num="125b">WAW</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Aspiring Mercenary</related>
+		</card>
+		<card>
+			<name>M&apos;aiq the Liar</name>
+			<text>At the beginning of your upkeep, choose land or nonland and mill cards until you mill a card of the chosen kind. Put that card into your hand and you lose life equal to the number of cards milled this way.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/54_M&apos;aiq the Liar.png" num="54">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Priest of Undeath</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+{2}{B}, {T}: Until end of turn, you may play land cards and Dragon cards from your graveyard. If a card would be put into your graveyard from anywhere this turn, exile that card instead.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/55_Priest of Undeath.png" num="55">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Invocation of Fire</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Add {R}{R}{R}.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/71_Invocation of Fire.png" num="71">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Product of War</name>
+			<text>Choose one—
+• Destroy target legendary permanent.
+• You may put two +1/+1 counters on target nonbasic permanent. It becomes legendary.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/124_Product of War.png" num="124">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Imperial Smith</name>
+			<text>When Imperial Smith enters the battlefield, choose one—
+• Draw two cards, then discard two cards.
+• Create a 2/2 colorless Construct artifact creature token.
+• Imperial Smith deals 2 damage to target creature or planeswalker.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/120_Imperial Smith.png" num="120">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spellfist Gaijin</name>
+			<text>Whenever you cast</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/149_Spellfist Gaijin.png" num="149">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>RWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Governess Elizabeth Williams</name>
+			<text></text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/139_Governess Elizabeth Williams.png" num="139">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Elizabeth</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1WBR</manacost>
+				<cmc>4</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Swan Song</name>
+			<text>Archive 5 (As this enters the battlefield, shuffle the top five cards of your main library into a new face up library. Sacrifice this after the archived library is empty.)
+Whenever you draw a card from the archived library, create a 1/2 white Human Pirate creature token. You gain 1 life.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/17_The Swan Song.png" num="17">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment — Study</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Human Pirate WAW</name>
+			<text></text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/WAW-files/img/3t_Human Pirate.png" num="3">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Governess&apos;s Might</name>
+			<text>Flying
+Governess&apos;s Might can&apos;t block.
+You may cast Governess&apos;s Might from your graveyard as long as you control a Dragon.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/50_Governess&apos;s Might.png" num="50">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Abhorrent Spriggan</name>
+			<text>Trample
+Abhorrent Spriggan&apos;s power and toughness are each equal to the number of lands you control.
+Whenever Abhorrent Spriggan deals combat damage to a player, draw a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/131_Abhorrent Spriggan.png" num="131">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>1URG</manacost>
+				<cmc>4</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deem Unworthy</name>
+			<text>Exile target permanent.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/135_Deem Unworthy.png" num="135">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BGW</manacost>
+				<cmc>3</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Conscripted Service</name>
+			<text>Whenever you cast your second spell each turn, you may put a quest counter on Conscripted Service if that spell was a creature. Then if there are two or more quest counters on Conscripted Service, transform it.
+---
+(Back): Tamriel&apos;s Training</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/6_Conscripted Service_front.png" num="6a">WAW</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Tamriel&apos;s Training</related>
+		</card>
+		<card>
+			<name>Tamriel&apos;s Training</name>
+			<text>Whenever you cast a creature spell, create three 1/1 white Human creature tokens.
+Tap three untapped creatures you control: Put a +1/+1 counter on each creature you control.
+---
+(Front): Conscripted Service</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/6_Conscripted Service_back.png" num="6b">WAW</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Conscripted Service</related>
+		</card>
+		<card>
+			<name>Thalmor Agent</name>
+			<text>Tap three untapped Elves you control: You draw a card and lose 1 life.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/58_Thalmor Agent.png" num="58">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nocturnal&apos;s Informant</name>
+			<text>Flash
+Whenever Nocturnal&apos;s Informant deals combat damage to a player, draw a card.
+Discard a card: Exile Nocturnal&apos;s Informant. Return it to the battlefield tapped at the beginning of the next end step. Activate this ability only once per turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/36_Nocturnal&apos;s Informant.png" num="36">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dungeon Dive</name>
+			<text>At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an artifact card is revealed this way, put a quest counter on Dungeon Dive.
+Whenever a creature you control attacks, if there are two or more quest counters on Dungeon Dive, transform it.
+---
+(Back): Sword of the Spoils</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/25_Dungeon Dive_front.png" num="25a">WAW</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Sword of the Spoils</related>
+		</card>
+		<card>
+			<name>Sword of the Spoils</name>
+			<text>When this permanent transforms into Sword of the Spoils, create two Treasure tokens, then attach Sword of the Spoils to target creature you control.
+Equipped creature gets +1/+1 for each artifact you control.
+Equip {2}
+---
+(Front): Dungeon Dive</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/25_Dungeon Dive_back.png" num="25b">WAW</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Dungeon Dive</related>
+		</card>
+		<card>
+			<name>Ancano the Underhanded</name>
+			<text>Players can&apos;t cast spells with converted mana cost less than the number of spells cast this turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/21_Ancano the Underhanded.png" num="21">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Power of the Voice</name>
+			<text>Spells you cast with {X} in their mana cost can&apos;t be countered.
+Whenever you cast a spell with converted mana cost 5 or greater, shuffle your hand into your library, then draw that many cards plus one.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/37_Power of the Voice.png" num="37">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reflect on Old Lore</name>
+			<text>Discard your hand, then return up to X target noncreature, nonland cards from your graveyard to your hand.
+Draw a card, then exile Reflect on Old Lore.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/40_Reflect on Old Lore.png" num="40">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XXU</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dungeon Tinkerer</name>
+			<text>Pillage (You may have this enter the battlefield with a +1/+1 counter. If you don&apos;t, create a Treasure token.)
+Tap an untapped artifact you control: Add {C}. Spend this mana only to cast artifact spells or activate abilities of artifacts.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/26_Dungeon Tinkerer.png" num="26">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Greedy Hands</name>
+			<text>When Greedy Hands enters the battlefield, you may tap any number of untapped artifacts you control. Draw that many cards.
+Whenever you cast a noncreature spell, you may draw a card. When you do, discard a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/31_Greedy Hands.png" num="31">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Armored Flunkie</name>
+			<text>Whenever an Equipment enters the battlefield under your control, you may attach it to target creature you control.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/1_Armored Flunkie.png" num="1">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ulfric&apos;s Legion</name>
+			<text>Pillage (You may have this enter the battlefield with a +1/+1 counter. If you don&apos;t, create a Treasure token.)
+Vigilance
+At the beginning of your end step, if you control an artifact, create a 1/1 white Human creature token.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/19_Ulfric&apos;s Legion.png" num="19">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Strategizing</name>
+			<text>Choose one, then choose another for each card named Strategizing in your graveyard.
+• You gain protection from the source of your choice until end of turn.
+• You may tap up to two target creatures, then untap up to two target creatures.
+• Create two 1/1 white Human creature tokens.
+• Permanents you control gain hexproof until end of turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/16_Strategizing.png" num="16">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sparking Automaton</name>
+			<text>Whenever another artifact enters the battlefield under your control, put a +1/+1 counter on Sparking Automaton.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/15_Sparking Automaton.png" num="15">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cyrodillic Captain</name>
+			<text>First strike
+Sacrifice Cyrodillic Captain: You gain hexproof until end of turn. Creatures you control gain hexproof and indestructible this turn. Activate this ability only during combat.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/7_Cyrodillic Captain.png" num="7">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wandering Bard</name>
+			<text>When Wandering Bard enters the battlefield, you may return target artifact card with converted mana cost 2 from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/80_Wandering Bard.png" num="80">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Wizard Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reachman Flamespeaker</name>
+			<text>Dragon spells you cast cost {1} less to cast.
+Whenever you cast a Dragon spell, Reachman Flamespeaker deals 1 damage to target creature an opponent controls.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/75_Reachman Flamespeaker.png" num="75">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rain of Madness</name>
+			<text>You may cast this spell as though it had flash if a player discarded a card this turn.
+Rain of Madness deals 3 damage to each creature and each planeswalker.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/74_Rain of Madness.png" num="74">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Secunda&apos;s Rise</name>
+			<text>When Secunda&apos;s Rise enters the battlefield, draw a card, then choose a nonbasic land name.
+Nonbasic lands with the chosen name lose all types and abilities and have &quot;{T}: Add {C}.&quot; and &quot;{1}, {T}: Add one mana of any color.&quot;</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/77_Secunda&apos;s Rise.png" num="77">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Braizen Bandit</name>
+			<text>Pillage (You may have this enter the battlefield with a +1/+1 counter. If you don&apos;t, create a Treasure token.)
+At the beginning of combat on each of your turns, up to X target creatures can&apos;t block this turn, where X is the number of artifacts you control.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/63_Braizen Bandit.png" num="63">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Orcish Armsguard</name>
+			<text>Pillage (You may have this enter the battlefield with a +1/+1 counter. If you don&apos;t, create a Treasure token.)
+Orcish Armsguard gets +1/+1 for each artifact you control.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/73_Orcish Armsguard.png" num="73">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Romana the Ambassador</name>
+			<text></text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/95_Romana the Ambassador.png" num="95">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Romana</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stand Supreme</name>
+			<text>Destroy target noncreature permanent, then return target card from your graveyard to your hand. Exile Stand Supreme.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/97_Stand Supreme.png" num="97">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Life Unfettered</name>
+			<text>When Life Unfettered enters the battlefield, reveal the top card of your library. If that card is a land card, you may put it onto the battlefield tapped. Otherwise, put that card into your hand.
+At the beginning of your end step, if you control five or more lands, transform Life Unfettered.
+---
+(Back): Gift of the Hist</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/92_Life Unfettered_front.png" num="92a">WAW</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Gift of the Hist</related>
+		</card>
+		<card>
+			<name>Gift of the Hist</name>
+			<text>At the beginning of each opponent&apos;s upkeep, untap all creatures and lands you control.
+---
+(Front): Life Unfettered</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/92_Life Unfettered_back.png" num="92b">WAW</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Life Unfettered</related>
+		</card>
+		<card>
+			<name>Howling Alpha</name>
+			<text>Howling Alpha can&apos;t be countered.
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+Spells and abilities your opponents control can&apos;t cause you to sacrifice Howling Alpha.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/89_Howling Alpha.png" num="89">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thalmor Marshal</name>
+			<text>Tap three untapped Elves you control: Create a 1/1 green Elf Warrior creature token, then add {G}. You gain 1 life.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/98_Thalmor Marshal.png" num="98">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bosmer Ambusher</name>
+			<text>Other Elves you control get +1/+1.
+You may cast Elf spells as though they had flash.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/84_Bosmer Ambusher.png" num="84">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Magicka Siphon</name>
+			<text>This spell costs {1} less to cast for each spell cast before it this turn.
+End the turn. If it was an extra turn, draw two cards, then take an extra turn after this one.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/130_Magicka Siphon.png" num="130">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>6GU</manacost>
+				<cmc>8</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Banneret Raider</name>
+			<text>Pillage (You may have this enter the battlefield with a +1/+1 counter. If you don&apos;t, create a Treasure token.)
+Whenever Banneret Raider attacks, you may sacrifice an artifact. When you do, Banneret Raider deals 2 damage to any target.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/107_Banneret Raider.png" num="107">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Servant of Akatosh</name>
+			<text>Other Human creatures you control get +1/+1.
+{3}{G}{W}, {T}: Put target Human card from your graveyard on top of your library.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/114_Servant of Akatosh.png" num="114">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imperial Turncoat</name>
+			<text>Pillage (You may have this enter the battlefield with a +1/+1 counter. If you don&apos;t, create a Treasure token.)
+The first creature spell you cast each turn has pillage.
+Other creatures you control with +1/+1 counters on them have haste.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/110_Imperial Turncoat.png" num="110">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Remorse</name>
+			<text>Put all creatures on the bottom of their owner&apos;s libraries.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/103_Remorse.png" num="103">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WWU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Exotic Herbalist</name>
+			<text>{1}, Pay 2 life, Exile Exotic Herbalist from your graveyard: Return target land card from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/WAW-files/img/137_Exotic Herbalist.png" num="137">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Viashino Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1GUB</manacost>
+				<cmc>4</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Guildsworn Adept</name>
+			<text>Flash
+When Guildsworn Adept enters the battlefield, double the amount of each type of unspent mana you have.
+{1}: Add one mana of any color.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/WAW-files/img/141_Guildsworn Adept.png" num="141">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>URG</manacost>
+				<cmc>3</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bosmer Vanguard</name>
+			<text>When Bosmer Vanguard enters the battlefield, you gain 1 life.
+You may have creature tokens you control enter the battlefield as copies of Bosmer Vanguard.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/WAW-files/img/133_Bosmer Vanguard.png" num="133">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>BGW</manacost>
+				<cmc>3</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reunification of Skyrim</name>
+			<text>Whenever one or more creatures attack, put a quest counter on Reunification of Skyrim. Then if there are three or more quest counters on Reunification of Skyrim, transform it.
+---
+(Back): Stormcloak Foothold</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/WAW-files/img/147_Reunification of Skyrim_front.png" num="147a">WAW</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WBR</manacost>
+				<cmc>3</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Stormcloak Foothold</related>
+		</card>
+		<card>
+			<name>Stormcloak Foothold</name>
+			<text>{T}: Add one mana of any color.
+{W}{B}{R}, {T}: Exile target unblocked attacking creature. If you controlled that creature, return it to the battlefield tapped and attacking. Otherwise, return that card to the battlefield tapped at the beginning of the next end step.
+---
+(Front): Reunification of Skyrim</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/WAW-files/img/147_Reunification of Skyrim_back.png" num="147b">WAW</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Reunification of Skyrim</related>
+		</card>
+		<card>
+			<name>Trinket Delver</name>
+			<text>Whenever you cast an artifact spell, you gain 1 life.
+At the beginning of each end step, if you gained 4 or more life this turn, return target artifact card from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/WAW-files/img/153_Trinket Delver.png" num="153">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>RWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>High King Ulfric Stormcloak</name>
+			<text>Vigilance
+Non-Human spells cost {1} more to cast.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/116_High King Ulfric Stormcloak.png" num="116">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unending Automatons</name>
+			<text>When Unending Automatons dies, create a 3/3 colorless Construct artifact creature token with &quot;When this creature dies, create two 1/1 colorless Servo artifact creature tokens with ‘When this creature dies, create two 0/1 colorless Servo artifact creature tokens.&apos;&quot;</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/179_Unending Automatons.png" num="179">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Construct WAW</name>
+			<text>When this creature dies, create two 1/1 colorless Servo artifact creature tokens.</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/WAW-files/img/6t_Construct.png" num="6">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Servo WAW</name>
+			<text>When this creature dies, create two 0/1 colorless Servo artifact creature tokens.</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/WAW-files/img/8t_Servo.png" num="8">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Servo</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Servo WAW</name>
+			<text></text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/WAW-files/img/9t_Servo.png" num="9">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Servo</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Brotherhood Conspirant</name>
+			<text>Sacrifice a creature: Look at the top card of your library. You may put that card into your graveyard.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/42_Brotherhood Conspirant.png" num="42">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Questing Mage</name>
+			<text>Prowess
+Whenever you cast a noncreature spell, put a quest counter on Questing Mage. Then if there are three or more quest counters on Questing Mage, remove all counters from it, scry 1, then draw a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/39_Questing Mage.png" num="39">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elvish Opportunist</name>
+			<text>Pillage (You may have this enter the battlefield with a +1/+1 counter. If you don&apos;t, create a Treasure token.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/88_Elvish Opportunist.png" num="88">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Draconic Divulging</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard. This card is a Dragon.)
+Draw three cards, then discard a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/24_Draconic Divulging.png" num="24">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Solar Flare</name>
+			<text>Solar Flare deals 4 damage to target creature without flying or planeswalker.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/79_Solar Flare.png" num="79">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Warden of Harmony</name>
+			<text>When Warden of Harmony enters the battlefield, return target artifact card from your graveyard to your hand. You gain life equal to its converted mana cost.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/20_Warden of Harmony.png" num="20">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Balgruuf of Whiterun</name>
+			<text>Indestructible
+Other Humans you control have indestructible.
+Whenever Balgruuf of Whiterun enters the battlefield or attacks, create a 1/1 white Human creature token.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/2_Balgruuf of Whiterun.png" num="2">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Insidious Dismissal</name>
+			<text>Insidious Dismissal costs {1} less to cast for each noncreature card put into your graveyard from anywhere this turn.
+Counter target spell.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/34_Insidious Dismissal.png" num="34">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Constant Conjuring</name>
+			<text>When Constant Conjuring enters the battlefield, it becomes an Aura with enchant creature. Return target creature card from your graveyard to the battlefield and attach Constant Conjuring to it.
+When enchanted creature dies, exile Constant Conjuring. Return it to the battlefield at the beginning of your next upkeep.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/44_Constant Conjuring.png" num="44">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Guild Opportunist</name>
+			<text>Pillage (You may have this enter the battlefield with a +1/+1 counter. If you don&apos;t, create a Treasure token.)
+Whenever you sacrifice an artifact, exile the top card of your library. Until end of turn, you may play that card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/69_Guild Opportunist.png" num="69">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aldmeri Wardcaster</name>
+			<text>Flash
+When Aldmeri Wardcaster enters the battlefield, target Elf gains indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/81_Aldmeri Wardcaster.png" num="81">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sheogorath, Demonic Madness</name>
+			<text>At the beginning of each player&apos;s end step, that player draws two cards, then exiles a card from their hand at random.
+Players may play cards exiled with Sheogorath, Demonic Madness.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/109_Sheogorath, Demonic Madness.png" num="109">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Perserverence</name>
+			<text>Enchant creature
+You may cast this spell as though it had flash if you attacked with a creature this turn.
+Enchanted creature gets +2/+2.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/13_Perserverence.png" num="13">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dwemer-Bound Specter</name>
+			<text>This spell costs {1} less to cast for each artifact you control.
+Flying
+When Dwemer-Bound Specter enters the battlefield, draw a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/27_Dwemer-Bound Specter.png" num="27">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>7U</manacost>
+				<cmc>8</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Consuming Flames</name>
+			<text>Consuming Flames deals X damage to any target.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/64_Consuming Flames.png" num="64">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Conjure Creation</name>
+			<text>Put X +1/+1 counters on target creature.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/86_Conjure Creation.png" num="86">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Chaos in Bloom</name>
+			<text>As an additional cost to cast this spell, exile X cards from your graveyard.
+Destroy up to X target creatures and/or planeswalkers with converted mana cost X or less.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/43_Chaos in Bloom.png" num="43">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Elndor, Aldmeri Commander</name>
+			<text>When Elndor, Aldmeri Commander enters the battlefield, non-Elf creatures get -1/-1 until end of turn.
+Whenever one or more creatures an opponent controls dies, create a 1/1 green Elf Warrior creature token.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/122_Elndor, Aldmeri Commander.png" num="122">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shadows of Alduin</name>
+			<text>Put the top four cards of your library into your graveyard, then choose a Dragon card in your graveyard. Until end of turn, you may cast that card without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/105_Shadows of Alduin.png" num="105">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crashing Wave</name>
+			<text>Choose X. You may choose the same mode more than once.
+• You gain 4 life.
+• Draw a card.
+• Creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/128_Crashing Wave.png" num="128">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XGGUU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hushing Word</name>
+			<text>Counter target spell unless its controller has that spell deal damage to them equal to two plus its converted mana cost.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/119_Hushing Word.png" num="119">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ruinous Wake</name>
+			<text>Destroy target land that doesn&apos;t share a name with another land on the battlefield.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/112_Ruinous Wake.png" num="112">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Knight of Order</name>
+			<text>When Knight of Order enters the battlefield, look at target opponent&apos;s hand. You may choose a nonland card from among them. Exile that card until Knight of Order leaves the battlefield.
+Players can&apos;t cast cards that share a name with cards exiled by Knight of Order.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/118_Knight of Order.png" num="118">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Priest of Prosperity</name>
+			<text>If one or more +1/+1 counters would be placed on a creature you control, you may create that many 1/1 white Human creature tokens instead.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/113_Priest of Prosperity.png" num="113">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elusive Mage</name>
+			<text>Each opponent can cast spells that target you or Humans you control only any time they could cast a sorcery.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/101_Elusive Mage.png" num="101">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Increasing Efforts</name>
+			<text>Search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle your library.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/127_Increasing Efforts.png" num="127">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Markarth Assailant</name>
+			<text>Haste
+Cycling {1}{U}{R}{G} ({1}{U}{R}{G}, Discard this card: Draw a card.)
+When you cycle Markarth Assailant, it deals damage to any target equal to the number of differently named lands you control.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/144_Markarth Assailant.png" num="144">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>URG</manacost>
+				<cmc>3</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Delve Through Depths</name>
+			<text>At the beginning of your upkeep, draw a card, discard a card, then you may shuffle a card from your graveyard into your library.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/136_Delve Through Depths.png" num="136">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GUB</manacost>
+				<cmc>3</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jarl&apos;s Brutalizer</name>
+			<text>You may sacrifice seven permanents rather than pay this spell&apos;s mana cost.
+Hexproof, indestructible
+When Jarl&apos;s Brutalizer is put into your graveyard from anywhere, shuffle your graveyard into your library.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/143_Jarl&apos;s Brutalizer.png" num="143">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4BGW</manacost>
+				<cmc>7</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Steam Ballista</name>
+			<text>Prowess, lifelink
+Whenever you cast an artifact spell, Steam Ballista deals 1 damage to any target.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/150_Steam Ballista.png" num="150">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1RWU</manacost>
+				<cmc>4</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tyrant Toppler</name>
+			<text>When you cast Tyrant Toppler, exile target nonland permanent.
+Flying, haste
+If a creature dealt damage by Tyrant Toppler would die, exile it instead.
+Whenever Tyrant Toppler attacks, it deals damage to any target equal to the total converted mana cost of cards exiled by it.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/154_Tyrant Toppler.png" num="154">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4WBR</manacost>
+				<cmc>7</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unburial Totem</name>
+			<text>{T}: Exile all cards from your graveyard.
+{2}, Sacrifice Unburial Totem: Put all cards exiled with Unburial Totem into their owner&apos;s graveyards. Draw a card.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/WAW-files/img/178_Unburial Totem.png" num="178">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Assassin&apos;s Blade</name>
+			<text>Whenever a creature you control attacks and isn&apos;t blocked, you may put Assassin&apos;s Blade from your hand onto the battlefield attached to that creature.
+Enchanted creature gets +1/+1 and has deathtouch.
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/WAW-files/img/167_Assassin&apos;s Blade.png" num="167">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fighter&apos;s Arena</name>
+			<text>If you would create one or more tokens, create that many tokens plus one instead.
+{1}{W}{W}: Create a 1/1 white Human creature token.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/9_Fighter&apos;s Arena.png" num="9">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pyrelight Guide</name>
+			<text>Flash
+Pillage (You may have this enter the battlefield with a +1/+1 counter. If you don&apos;t, create a Treasure token.)
+When Pyrelight Guide enters the battlefield, you may counter target spell with converted mana cost less than or equal to the number of artifacts you control.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/38_Pyrelight Guide.png" num="38">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jyggalag&apos;s Intrusion</name>
+			<text>Choose target card in a graveyard other than a basic land card. Search its owner&apos;s graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles their library. You gain life equal to the number of cards exiled this way.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/52_Jyggalag&apos;s Intrusion.png" num="52">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Legacy of the Dragonborn</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/72_Legacy of the Dragonborn.png" num="72">WAW</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Altmer Negotiators</name>
+			<text>Pillage (You may have this enter the battlefield with a +1/+1 counter. If you don&apos;t, create a Treasure token.)
+Vigilance
+When Altmer Negotiators enters the battlefield or dies, choose a land of each basic land type, then untap those lands.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/83_Altmer Negotiators.png" num="83">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reflective Automaton</name>
+			<text>Whenever another artifact enters the battlefield under your control, scry 1.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/WAW-files/img/176_Reflective Automaton.png" num="176">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Traitorous Informant</name>
+			<text>Hexproof
+When Traitorous Informant enters the battlefield, for each white, black, and/or green color pair, you may discard up to one card that&apos;s exactly those colors. If you do, return that many target cards from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/152_Traitorous Informant.png" num="152">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1BGW</manacost>
+				<cmc>4</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Misdirection Mage</name>
+			<text>If an instant or sorcery spell you control would deal damage to a permanent, you may put that permanent on the top or bottom of its owner&apos;s library instead.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/145_Misdirection Mage.png" num="145">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>RWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Falkreath Necromancer</name>
+			<text>Deathtouch
+Whenever you cast a spell, you gain 1 life for each card in your graveyard.
+{G}{U}{B}, Pay X life, Exile X cards from your graveyard: Draw half X cards, rounded down.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/138_Falkreath Necromancer.png" num="138">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2GUB</manacost>
+				<cmc>5</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>3/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hero of Whiterun</name>
+			<text>Haste
+Whenever Hero of Whiterun attacks, create a 1/1 white Human creature token that&apos;s tapped and attacking.
+Whenever Hero of Whiterun attacks, other attacking creatures gain indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/142_Hero of Whiterun.png" num="142">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1WBR</manacost>
+				<cmc>4</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Groverender</name>
+			<text>Flash
+When Groverender enters the battlefield, tap all lands target opponent controls and empty their mana pool. Add that much mana in any combination of colors.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/140_Groverender.png" num="140">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>3URG</manacost>
+				<cmc>6</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Makeshift Mace</name>
+			<text>This spell costs {1} less to cast for each artifact card in your graveyard.
+Equipped creature gets +6/+6.
+Equip {6}
+Makeshift Mace&apos;s equip ability costs {1} less to cast for each artifact card in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/WAW-files/img/174_Makeshift Mace.png" num="174">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Construct Caverns</name>
+			<text>Construct Caverns enters the battlefield with a charge counter on it.
+{3}: Put a charge counter on Construct Caverns or remove one from it.
+{T}: You may put an artifact card or a colorless nonland card with converted mana cost equal to the number of charge counters on Construct Caverns from your hand onto the battlefield.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/169_Construct Caverns.png" num="169">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blessings of Armor</name>
+			<text>You may put an Equipment card from your hand or graveyard onto the battlefield and attach it to target creature. At the beginning of your next end step, exile that card unless it was equipped to a creature that dealt damage that turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/4_Blessings of Armor.png" num="4">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Myriada the Neuropath</name>
+			<text></text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/35_Myriada the Neuropath.png" num="35">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Myriada</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lowered Guard</name>
+			<text>Destroy target creature that entered the battlefield this turn. Its controller loses 2 life.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/53_Lowered Guard.png" num="53">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Immolation Incantation</name>
+			<text>Whenever you cast a spell with {X} in its mana cost, exile the top card of your library. If it costs less, you may cast that card this turn and you may cast it without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/70_Immolation Incantation.png" num="70">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Eager Ears</name>
+			<text>Put the top seven cards of your library into your graveyard, then return up to one permanent card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/87_Eager Ears.png" num="87">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rally-Cry Nord</name>
+			<text>When Rally-Cry Nord dies, create a 1/1 white Human creature token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/160_Rally-Cry Nord.png" num="160">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>G/W</manacost>
+				<cmc>1</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unbreachable Walls</name>
+			<text>Counter target spell that targets you or a permanent you control.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/156_Unbreachable Walls.png" num="156">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W/U</manacost>
+				<cmc>1</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spire Tormentor</name>
+			<text>Flying
+Spire Tormentor can&apos;t block.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/158_Spire Tormentor.png" num="158">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2B/R</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unquenched Greed</name>
+			<text>Draw two cards, then discard two cards.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/162_Unquenched Greed.png" num="162">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U/R</manacost>
+				<cmc>1</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thalmor Degenerate</name>
+			<text>When Thalmor Degenerate enters the battlefield, put a +1/+1 counter on target Elf creature.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/163_Thalmor Degenerate.png" num="163">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1B/G</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Human WAW</name>
+			<text></text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/WAW-files/img/2t_Human.png" num="2">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Elf Warrior WAW</name>
+			<text></text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/WAW-files/img/5t_Elf Warrior.png" num="5">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Sealed Missive</name>
+			<text>When Sealed Missive enters the battlefield, you gain 3 life.
+{2}{WB}, Pay 3 life: Transform Sealed Missive.
+---
+(Back): Death of the Messenger</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/161_Sealed Missive_front.png" num="161a">WAW</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W/B</manacost>
+				<cmc>1</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Death of the Messenger</related>
+		</card>
+		<card>
+			<name>Death of the Messenger</name>
+			<text>Whenever a creature dies, each opponent loses 1 life and you gain 1 life.
+---
+(Front): Sealed Missive</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/161_Sealed Missive_back.png" num="161b">WAW</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Sealed Missive</related>
+		</card>
+		<card>
+			<name>Ratway Runner</name>
+			<text>Pillage (You may have this enter the battlefield with a +1/+1 counter. If you don&apos;t, create a Treasure token.)
+Trample</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/159_Ratway Runner.png" num="159">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3R/G</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sadistic Sadist</name>
+			<text>When Sadistic Sadist enters the battlefield or is put into your graveyard from your library, put the top two cards of your library into your graveyard.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/157_Sadistic Sadist.png" num="157">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/B</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Searing Burst</name>
+			<text>Searing Burst deals 4 damage to target attacking or blocking creature. If that creature would die this turn, exile it instead.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/164_Searing Burst.png" num="164">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R/W</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nightstep</name>
+			<text>Until end of turn, up to two target creatures you control each gain &quot;When this creature deals combat damage to a player, draw a card,&quot; and can&apos;t be blocked this turn by creatures with greater toughness.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/165_Nightstep.png" num="165">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G/UG/U</manacost>
+				<cmc>5</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Adrenaline Rush</name>
+			<text>Attacking creatures you control get +1/+0.
+Whenever three or more creatures you control attack, Adrenaline Rush deals 1 damage to any target. You gain 1 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/132_Adrenaline Rush.png" num="132">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WBR</manacost>
+				<cmc>3</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mzinchaleft Tinkerer</name>
+			<text>Artifact spells you cast cost {1} less to cast.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/146_Mzinchaleft Tinkerer.png" num="146">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>RWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUR</colors>
+				<coloridentity>WUR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sinew Colossus</name>
+			<text>Sinew Colossus costs {1} less to cast for each nonland card in your graveyard.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/148_Sinew Colossus.png" num="148">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>5GUB</manacost>
+				<cmc>8</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Conquest</name>
+			<text>Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Conquest deals damage to target creature equal to the number of differently named lands you control.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/134_Conquest.png" num="134">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1URG</manacost>
+				<cmc>4</cmc>
+				<colors>URG</colors>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Valenwood Scouting</name>
+			<text>Exile up to three target cards from a single graveyard. Create that many 1/1 green Elf Warrior creature tokens.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/155_Valenwood Scouting.png" num="155">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BGW</manacost>
+				<cmc>3</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Construct WAW</name>
+			<text></text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/WAW-files/img/7t_Construct.png" num="7">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Market Center</name>
+			<text>({T}: Add {W}.)
+Market Center enters the battlefield tapped unless you control a Swamp or Mountain.
+{1}, {T}: Add {B}{R}.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/185_Market Center.png" num="185">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Harvest Fields</name>
+			<text>({T}: Add {G}.)
+Harvest Fields enters the battlefield tapped unless you control an Island or Swamp.
+{1}, {T}: Add {U}{B}.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/183_Harvest Fields.png" num="183">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>GUB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Burial Grounds</name>
+			<text>({T}: Add {B}.)
+Burial Grounds enters the battlefield tapped unless you control a Forest or Plains.
+{1}, {T}: Add {G}{W}.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/180_Burial Grounds.png" num="180">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BWG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cold Pass</name>
+			<text>({T}: Add {U}.)
+Cold Pass enters the battlefield tapped unless you control a Mountain or Forest.
+{1}, {T}: Add {R}{G}.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/181_Cold Pass.png" num="181">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Guild Tower</name>
+			<text>({T}: Add {R}.)
+Guild Tower enters the battlefield tapped unless you control a Plains or Island.
+{1}, {T}: Add {W}{U}.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/182_Guild Tower.png" num="182">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RWU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Imperial City</name>
+			<text>{T}: Add {C}.
+{2}, {T}, Sacrifice a creature or land: Scry 1, then reveal the top card of your library. If that card is a land card, you may put it onto the battlefield tapped. Otherwise, put that card into your hand.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/184_The Imperial City.png" num="184">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Inspiring Monument</name>
+			<text>When Inspiring Monument enters the battlefield, draw a card.
+{T}: Add {R}, {W}, or {U}.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/173_Inspiring Monument.png" num="173">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mystic Monument</name>
+			<text>When Mystic Monument enters the battlefield, draw a card.
+{T}: Add {U}, {R}, or {G}.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/175_Mystic Monument.png" num="175">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Decrepit Monument</name>
+			<text>When Decrepit Monument enters the battlefield, draw a card.
+{T}: Add {G}, {U}, or {B}.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/170_Decrepit Monument.png" num="170">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ancestral Monument</name>
+			<text>When Ancestral Monument enters the battlefield, draw a card.
+{T}: Add {B}, {G}, or {W}.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/166_Ancestral Monument.png" num="166">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Infernal Monument</name>
+			<text>When Infernal Monument enters the battlefield, draw a card.
+{T}: Add {W}, {B}, or {R}.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/172_Infernal Monument.png" num="172">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Impeccable Aim</name>
+			<text>Choose one—
+• Exile target creature with power 4 or greater.
+• Exile up to four target noncreature cards from graveyards.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/117_Impeccable Aim.png" num="117">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nimble Elemental</name>
+			<text>Prowess
+Whenever Nimble Elemental deals combat damage to a player, you may draw a card. If you do, discard a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/121_Nimble Elemental.png" num="121">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4UR</manacost>
+				<cmc>6</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dragon Initiate</name>
+			<text>Defender, flying
+Whenever you cast a noncreature spell, Dragon Initiate gets +2/+0 and loses defender until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/67_Dragon Initiate.png" num="67">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancestor&apos;s Calling</name>
+			<text>Return up to two target creature cards from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/41_Ancestor&apos;s Calling.png" num="41">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Evoke the Ancients</name>
+			<text>Untap target creature and target land.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/129_Evoke the Ancients.png" num="129">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Barricade Watch</name>
+			<text>Whenever Barricade Watch is dealt damage, put a +1/+1 counter on it. (It must survive the damage to get the counter.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/3_Barricade Watch.png" num="3">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clairvoyant Mage</name>
+			<text>When Clairvoyant Mage enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/22_Clairvoyant Mage.png" num="22">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Landbound Ritualist</name>
+			<text>When Landbound Ritualist enters the battlefield, you may put a land card from your hand or graveyard onto the battlefield tapped.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/123_Landbound Ritualist.png" num="123">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reserve Troops</name>
+			<text>Exile the top two cards of your library. Until end of turn, you may play those cards. Then, add {R} for each creature card exiled this way.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/76_Reserve Troops.png" num="76">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pinpoint Accuracy</name>
+			<text>Target creature you control gets +2/+2 until end of turn. It fights target creature with flying you don&apos;t control.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/93_Pinpoint Accuracy.png" num="93">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Prepare for Confrontation</name>
+			<text>Creatures you control get +0/+2 until end of turn. Untap those creatures.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/14_Prepare for Confrontation.png" num="14">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ice Over</name>
+			<text>Enchant artifact or creature
+Enchanted permanent doesn&apos;t untap during its controller&apos;s untap step.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/32_Ice Over.png" num="32">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shadow Ambusher</name>
+			<text>At the beginning of your upkeep, you lose 1 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/56_Shadow Ambusher.png" num="56">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fervent Strike</name>
+			<text>Target creature gets +1/+0 and gains first strike and haste until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/68_Fervent Strike.png" num="68">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tunnel Web Spider</name>
+			<text>Reach, deathtouch</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/100_Tunnel Web Spider.png" num="100">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Incapacitated</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block.
+At the beginning of your upkeep, you gain 1 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/11_Incapacitated.png" num="11">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Imperial Taxes</name>
+			<text>Enchant land you don&apos;t control
+Whenever enchanted land becomes tapped, you may draw a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/33_Imperial Taxes.png" num="33">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Forbidden Knowledge</name>
+			<text>Target player discards a card and loses 2 life.
+Draw a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/49_Forbidden Knowledge.png" num="49">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bloodcrazed Acolyte</name>
+			<text>Bloodcrazed Acolyte enters the battlefield with a +1/+1 counter on it for each player who lost life this turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/62_Bloodcrazed Acolyte.png" num="62">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Return to Earth</name>
+			<text>Destroy target artifact or enchantment. If you controlled that artifact or enchantment, draw two cards.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/94_Return to Earth.png" num="94">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Omensoul</name>
+			<text>Flying
+When Omensoul enters the battlefield, return a creature you control to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/12_Omensoul.png" num="12">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clever Diversion</name>
+			<text>Return target creature you control and target creature you don&apos;t control to their owners&apos; hands.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/23_Clever Diversion.png" num="23">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Doomstep Giant</name>
+			<text>When Doomstep Giant enters the battlefield, each player sacrifices a land.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/48_Doomstep Giant.png" num="48">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Barbarian Hoarders</name>
+			<text>When Barbarian Hoarders enters the battlefield, you may attach target Equipment you control to it.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/126_Barbarian Hoarders.png" num="126">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Barbarian Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RW</manacost>
+				<cmc>3</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scout the Terrain</name>
+			<text>Look at the top four cards of your library. You may put a land card from among them onto the battlefield tapped, then put the rest into your graveyard.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/96_Scout the Terrain.png" num="96">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Treacherous Tumble</name>
+			<text>Put up to two target creatures on the bottom of their owner&apos;s libraries.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/18_Treacherous Tumble.png" num="18">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Frosthulk</name>
+			<text>When Frosthulk enters the battlefield, tap target creature. That creature doesn&apos;t untap during its controller&apos;s next untap step.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/29_Frosthulk.png" num="29">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hammerbreak Orc</name>
+			<text>Pillage (You may have this enter the battlefield with a +1/+1 counter. If you don&apos;t, create a Treasure token.)
+When Hammerbreak Orc dies, each opponent loses life equal to Hammerbreak Orc&apos;s power.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/51_Hammerbreak Orc.png" num="51">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sky Ancient</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Flying
+Sky Ancient&apos;s power is equal to the number of Dragon cards in your graveyard.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/78_Sky Ancient.png" num="78">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>*/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Treasure Troll</name>
+			<text>Pillage (You may have this enter the battlefield with a +1/+1 counter. If you don&apos;t, create a Treasure token.)
+{2}, Sacrifice an artifact: Treasure Troll gains indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/99_Treasure Troll.png" num="99">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Troll</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skyfall Blade</name>
+			<text>When Skyfall Blade enters the battlefield, it deals 2 damage to any target.
+Equipped creature gets +2/+2.
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/WAW-files/img/177_Skyfall Blade.png" num="177">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dwemer-Made Dovah</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Flying</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/171_Dwemer-Made Dovah.png" num="171">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodied Blade</name>
+			<text>Equipped creature gets +2/+2.
+Whenever equipped creature deals combat damage to a player, that player creates Open Wound, a colorless enchantment with &quot;At the beginning of your upkeep, you lose 1 life.&quot;
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/WAW-files/img/168_Bloodied Blade.png" num="168">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Conquest Captain</name>
+			<text>Lifelink
+Whenever another Human enters the battlefield under your control, Conquest Captain gets +1/+1 until end of turn.
+At the beginning of your end step, you may put a Human card with converted mana cost X from your hand onto the battlefield, where X is the amount of life you gained this turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/5_Conquest Captain.png" num="5">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghost Sea Corsair</name>
+			<text>Prowess
+{1}, Sacrifice Ghost Sea Corsair: Return target instant or sorcery card with converted mana cost equal to Ghost Sea Corsair&apos;s power from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/30_Ghost Sea Corsair.png" num="30">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Pirate</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unbound Dremora</name>
+			<text>Unbound Dremora can&apos;t block.
+When Unbound Dremora enters the battlefield, each player discards a card.
+Whenever you sacrifice a creature, if it&apos;s the second creature you&apos;ve sacrificed this turn, return Unbound Dremora from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/59_Unbound Dremora.png" num="59">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imperial Paragon</name>
+			<text>Vigilance
+Whenever a creature dealt damage by Imperial Paragon or another Human you control dies, draw a card.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/90_Imperial Paragon.png" num="90">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stormcloak Armorer</name>
+			<text>Creature tokens you control get +1/+1.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/115_Stormcloak Armorer.png" num="115">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Piling Corpses</name>
+			<text>Target player puts the top four cards of their library into their graveyard.
+Draw a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/104_Piling Corpses.png" num="104">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Late Night Legionnaire</name>
+			<text>At the beginning of your end step, if an opponent lost life this turn, that player discards a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/108_Late Night Legionnaire.png" num="108">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Intense Interrogation</name>
+			<text>Target creature you control fights target creature you don&apos;t control. When the creature you don&apos;t control dies this turn, untap up to two target lands.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/111_Intense Interrogation.png" num="111">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Makeshift Mishandling</name>
+			<text>Draw two cards. The next equipment spell you cast this turn costs {2} less to cast.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/102_Makeshift Mishandling.png" num="102">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Baltrice, Consortium Agent</name>
+			<text></text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/WAW-files/img/61_Baltrice, Consortium Agent.png" num="61">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Baltrice</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Open Wound WAW</name>
+			<text>At the beginning of your upkeep, you lose 1 life.</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/WAW-files/img/1t_Open Wound.png" num="1">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure WAW</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/WAW-files/img/10t_Treasure.png" num="10">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Sheogorath, Demonic Madness</name>
+			<text>At the beginning of each player&apos;s end step, that player draws two cards, then exiles a card from their hand at random.
+Players may play cards exiled with Sheogorath, Demonic Madness.</text>
+			<set rarity="masterpiece" picurl="https://hkrat.github.io/sets/WAW-files/img/1_Sheogorath, Demonic Madness.png" num="1">WAW</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

@@ -137,7 +137,7 @@
 			"type": "Token Artifact — Gem",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOB-files/img/7_Gem.png"
+				"en": "https://hkrat.github.io/sets/TOB-files/img/7t_Gem.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Token Creature — Soldier",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOB-files/img/1_Soldier.png"
+				"en": "https://hkrat.github.io/sets/TOB-files/img/1t_Soldier.png"
 			}
 		},
 		{
@@ -1841,7 +1841,7 @@
 			"type": "Token Creature — Crab",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOB-files/img/2_Crab.png"
+				"en": "https://hkrat.github.io/sets/TOB-files/img/2t_Crab.png"
 			}
 		},
 		{
@@ -1901,7 +1901,7 @@
 			"type": "Token Creature — Wolf",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOB-files/img/5_Wolf.png"
+				"en": "https://hkrat.github.io/sets/TOB-files/img/5t_Wolf.png"
 			}
 		},
 		{
@@ -2361,7 +2361,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOB-files/img/3_Zombie.png"
+				"en": "https://hkrat.github.io/sets/TOB-files/img/3t_Zombie.png"
 			}
 		},
 		{
@@ -2401,7 +2401,7 @@
 			"type": "Token Creature — Saproling",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOB-files/img/4_Saproling.png"
+				"en": "https://hkrat.github.io/sets/TOB-files/img/4t_Saproling.png"
 			}
 		},
 		{
@@ -2411,57 +2411,57 @@
 			"type": "Token Land — Plains Island Swamp Mountain Forest",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOB-files/img/10_Location.png"
+				"en": "https://hkrat.github.io/sets/TOB-files/img/10t_Location.png"
 			}
 		},
 		{
 			"name": "Plains",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOB-files/img/12_Plains.png"
+				"en": "https://hkrat.github.io/sets/TOB-files/img/12t_Plains.png"
 			}
 		},
 		{
 			"name": "Island",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOB-files/img/9_Island.png"
+				"en": "https://hkrat.github.io/sets/TOB-files/img/9t_Island.png"
 			}
 		},
 		{
 			"name": "Swamp",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOB-files/img/13_Swamp.png"
+				"en": "https://hkrat.github.io/sets/TOB-files/img/13t_Swamp.png"
 			}
 		},
 		{
 			"name": "Mountain",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOB-files/img/11_Mountain.png"
+				"en": "https://hkrat.github.io/sets/TOB-files/img/11t_Mountain.png"
 			}
 		},
 		{
 			"name": "Forest",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOB-files/img/8_Forest.png"
+				"en": "https://hkrat.github.io/sets/TOB-files/img/8t_Forest.png"
 			}
 		},
 		{
@@ -2471,19 +2471,19 @@
 			"type": "Token Artifact Creature — Construct",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/TOB-files/img/6_Construct.png"
+				"en": "https://hkrat.github.io/sets/TOB-files/img/6t_Construct.png"
 			}
 		},
 		{
 			"name": "Sanctuary Door",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}",
 			"type": "Artifact",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/TOB-files/img/1_Sanctuary Door.png"
 			}
-		},
+		}
 	]
 
 [rare(1)]
@@ -2561,7 +2561,7 @@
 	2 Kwama Tender
 	2 Everblossom Spriggan
 	2 Ancestor Glade
-[uncommon(4)]
+[uncommon(3)]
 	4 Confounding Confluence
 	4 Telendride the Sanctifier
 	4 Sheogorath, Unending Insanity
@@ -2627,7 +2627,7 @@
 	4 Soul Trap
 	4 Catalyzing Lightning
 	4 Fabled Passage
-[common(7)]
+[common(6)]
 	8 Student of Souls
 	8 Traveler's Amulet
 	8 Grim Decadence
@@ -2722,7 +2722,337 @@
 	8 Scorching Dynamo
 	8 Khenarthi Druid
 	8 Alchemist's Kit
-[wildcard(2)]
+[common | masterpiece(1)]
+	8 Student of Souls
+	8 Traveler's Amulet
+	8 Grim Decadence
+	8 Murder
+	8 Ego Bleed
+	8 Poison the Party
+	8 Bone Reader
+	8 Stronghold Brute
+	8 Persistent Imp
+	8 Namira Soultaker
+	8 Impish Invader
+	8 Imperial Necromancer
+	8 Summoner's Bubble
+	8 Martin's Musings
+	8 Daedric Cultist
+	8 Magical Anomaly
+	8 Venerated Teacher
+	8 Guild Agent
+	8 Snapping Slaughterfish
+	8 Merchant of Wares
+	8 Grip of Cowardice
+	8 Rummaging Vagabond
+	8 Iliac Bay Cannoneer
+	8 Ornery Farmer
+	8 Scorcher of Kvatch
+	8 Cultist of Dagon
+	8 Exuberant Guard
+	8 Thieving Impulse
+	8 Swordpoint
+	8 Through the Cairn
+	8 Dangerous Wager
+	8 Kwama Wayfinder
+	8 Mystic Defense
+	8 Elvish Hoarder
+	8 Bloodied Alit
+	8 Domesticated Guar
+	8 Bounty Hunt
+	8 Headstrong
+	8 Rampant Growth
+	8 Magicka Instructor
+	8 Warrior's Call
+	8 Diplomacy
+	8 Altmer Cleric
+	8 Nord Kinsman
+	8 Venerated Captain
+	8 Longing Geist
+	8 Imperial Gatebreakers
+	8 Supply Runner
+	8 Anointed Rider
+	8 Avenging Light
+	8 Muck Dreugh
+	8 Battlewise Elf
+	8 Glittering Saint
+	8 Flamesight
+	8 Ungrateful Occupier
+	8 Gem Collector
+	8 Rookie Soldier
+	8 Hired Hand
+	8 Firewhip Seducer
+	8 Dunmeri Seer
+	8 Nord Snowrunner
+	8 Hideaway Trail
+	8 Banish to Oblivion
+	8 Night's Haul
+	8 Skim History
+	8 Firestarter
+	8 Deathless Brew
+	8 Harvester of Beyonds
+	8 Drag Below
+	8 Adamant Presence
+	8 Pit Wolves
+	8 Terrorizing Matriarch
+	8 Clasping Claws
+	8 Greatwood Elder
+	8 Forsworn Fury
+	8 Bloodlust Initiate
+	8 Overwhelming Voice
+	8 Territorial Echatere
+	8 Fervent Legate
+	8 Depraved Alchemist
+	8 Fitted Armor
+	8 Defense Animunculi
+	8 Goblin Electromancer
+	8 Courage
+	8 Total Disarray
+	8 Speakers of Night
+	8 Duneripper
+	8 Above Tamriel
+	8 Meridia's Sanctifier
+	8 Foe Thrower
+	8 Wayward Draugr
+	8 Scorching Dynamo
+	8 Khenarthi Druid
+	8 Alchemist's Kit
+	3 Sanctuary Door
+[foil(1)]
+	2 Aedra's Whimsy
+	1 M'aiq, Quick Witted
+	1 Inigo the Brave
+	2 Oblivion Invader
+	6 Confounding Confluence
+	6 Telendride the Sanctifier
+	2 Invasion Engine
+	2 Gatekeeper of the Isles
+	6 Sheogorath, Unending Insanity
+	6 Gibbering Scamp
+	6 Whithering Scamp
+	6 Derelict Gate
+	6 Denaelin the Soul Thief
+	6 Guard Captain Morilius
+	6 Jauffre IV, Mentor
+	2 Dwemer-Made Gate
+	12 Student of Souls
+	6 Muraz Cult-Hunter
+	2 Blades Upstart
+	6 Do'ri, Mythic Dawn Initiate
+	6 Martena, Bolt Channeler
+	6 Garzog, Oblivion Speaker
+	6 Ah-Kajee, Hist Keeper
+	6 Start of a Journey
+	2 Obliterating Lightning
+	6 Farmer's Amulet
+	12 Traveler's Amulet
+	2 Amulet of Kings
+	6 Rime Daedra
+	6 Combative Invader
+	2 Nulling Atronach
+	12 Grim Decadence
+	12 Murder
+	12 Ego Bleed
+	12 Poison the Party
+	12 Bone Reader
+	12 Stronghold Brute
+	12 Persistent Imp
+	12 Namira Soultaker
+	12 Impish Invader
+	12 Imperial Necromancer
+	6 Vulturous Twilight
+	12 Summoner's Bubble
+	12 Martin's Musings
+	12 Daedric Cultist
+	12 Magical Anomaly
+	12 Venerated Teacher
+	12 Guild Agent
+	12 Snapping Slaughterfish
+	12 Merchant of Wares
+	12 Grip of Cowardice
+	12 Rummaging Vagabond
+	12 Iliac Bay Cannoneer
+	12 Ornery Farmer
+	12 Scorcher of Kvatch
+	12 Cultist of Dagon
+	12 Exuberant Guard
+	12 Thieving Impulse
+	12 Swordpoint
+	12 Through the Cairn
+	12 Dangerous Wager
+	6 Aedra Chaplain
+	12 Kwama Wayfinder
+	12 Mystic Defense
+	12 Elvish Hoarder
+	12 Bloodied Alit
+	12 Domesticated Guar
+	12 Bounty Hunt
+	12 Headstrong
+	12 Rampant Growth
+	12 Magicka Instructor
+	12 Warrior's Call
+	12 Diplomacy
+	12 Altmer Cleric
+	12 Nord Kinsman
+	12 Venerated Captain
+	12 Longing Geist
+	12 Imperial Gatebreakers
+	12 Supply Runner
+	12 Anointed Rider
+	12 Avenging Light
+	12 Muck Dreugh
+	2 Dreugh Titan
+	6 Witching Hour
+	12 Battlewise Elf
+	12 Glittering Saint
+	12 Flamesight
+	12 Ungrateful Occupier
+	12 Gem Collector
+	12 Rookie Soldier
+	6 Hist Saptender
+	12 Hired Hand
+	12 Firewhip Seducer
+	12 Dunmeri Seer
+	12 Nord Snowrunner
+	6 Precinct Captain
+	12 Hideaway Trail
+	12 Banish to Oblivion
+	12 Night's Haul
+	12 Skim History
+	12 Firestarter
+	12 Deathless Brew
+	12 Harvester of Beyonds
+	12 Drag Below
+	12 Adamant Presence
+	12 Pit Wolves
+	2 Daedric Whispers
+	2 Clangorous Halls
+	6 Mudcrab Den
+	6 Must Have Been the Wind
+	6 Imperial Rescuer
+	6 Arbiter of Taxation
+	6 Embrace of the Hist
+	6 Vengeful Flametongue
+	6 Prismatic Flames
+	6 Stashed Supplies
+	6 Reinforced Chaurus
+	6 Camp Invader
+	2 Dovah Killer
+	12 Terrorizing Matriarch
+	12 Clasping Claws
+	12 Greatwood Elder
+	12 Forsworn Fury
+	12 Bloodlust Initiate
+	12 Overwhelming Voice
+	12 Territorial Echatere
+	12 Fervent Legate
+	6 Choking Blood
+	6 Vampire of Dire Hospitality
+	6 Howler Pup
+	2 Snub
+	6 Goblin Sous-Chef
+	6 Restless Souls
+	6 Adept Training
+	6 Coward Hunter
+	2 Umaril the Ascendant
+	2 Aedra's Vengeance
+	2 Reunification of Tamriel
+	6 Resign to Peace
+	6 Unfettered Alchemist
+	6 Desolation of Kvatch
+	6 Golden Agent
+	6 Force Through
+	2 Ratway Rogue
+	1 Brurlof, Dragonborn Exile
+	1 Mankar, Daedra Devout
+	2 Oblivion Deadlands
+	2 Bruma Guildhall
+	2 Hist Grove
+	2 Skyshard Sanctuary
+	2 Numidium's Tomb
+	2 Live Beyond
+	2 Mundus Infiltrator
+	6 Gentleman Thief
+	2 Noble's Shadow
+	2 Springwater Nereid
+	2 Traversal
+	2 Worldwalker
+	2 Dremora Dreadlord
+	6 Dream Stride
+	12 Depraved Alchemist
+	2 Wartime Treasurer
+	1 Augustine St. Vinsev
+	2 Convergant Company
+	1 The Oblivion Triad
+	2 Skittering Aberration
+	2 Bull Netch
+	2 Hateful Dovah
+	2 Azura's Future
+	6 Emberheart Dryad
+	2 Faralda, College Master
+	2 Seasoned Adventurer
+	2 Rend from Nirn
+	2 Unintended Discovery
+	2 Heroic Convergence
+	1 Ri'saad the Roving Caravan
+	1 Torment Halls
+	1 Form of the Lich
+	1 Lucky, Notorious Slayer
+	1 Chuan-Ji, Matron Spirit
+	6 Spell Tome
+	2 Crushing Warhammer
+	12 Fitted Armor
+	6 Sanctuary Door
+	12 Defense Animunculi
+	12 Goblin Electromancer
+	2 Beyond Knowledge
+	2 Oblivion
+	2 Blood on the Ice
+	2 Armed for War
+	2 Caravan Recruiter
+	2 Conquer the Deadlands
+	2 Foraging Netch
+	2 Wave Sower
+	2 Hierophantic Prose
+	6 Sithis Throatslitter
+	6 Oathsworn Cultist
+	6 Craven Witch
+	6 Dunmeri Cutpurse
+	6 Heartfire Atronach
+	6 Argonian Shieldmate
+	6 Bishop of the Pantheon
+	6 Sparring Dummy
+	6 Cyrodilic Diplomat
+	6 Gate Guard
+	1 Sonjor, Waking Cosmos
+	1 Vilgrund, Raider Scourge
+	1 Seal the Gate
+	2 Mora's Watcher
+	1 Akatosh's Great Intervention
+	12 Courage
+	12 Total Disarray
+	12 Speakers of Night
+	12 Duneripper
+	12 Above Tamriel
+	12 Meridia's Sanctifier
+	12 Foe Thrower
+	12 Wayward Draugr
+	12 Scorching Dynamo
+	12 Khenarthi Druid
+	6 Valiant Nord
+	6 Elsweyr Marshlurker
+	6 Soul Trap
+	6 Catalyzing Lightning
+	2 Bruma Outfitter
+	2 Redguard Rescuer
+	2 Swindle
+	2 Vastarie, Twilight Lich
+	2 Kwama Tender
+	2 Everblossom Spriggan
+	6 Fabled Passage
+	2 Ancestor Glade
+	12 Alchemist's Kit
+[wildcard(1)]
 	7 Aedra's Whimsy
 	4 M'aiq, Quick Witted
 	4 Inigo the Brave

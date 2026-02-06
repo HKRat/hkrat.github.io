@@ -2077,7 +2077,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/PCA-files/img/5_Equipment.png"
+				"en": "https://hkrat.github.io/sets/PCA-files/img/5t_Equipment.png"
 			}
 		},
 		{
@@ -2087,7 +2087,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/PCA-files/img/6_Equipment.png"
+				"en": "https://hkrat.github.io/sets/PCA-files/img/6t_Equipment.png"
 			}
 		},
 		{
@@ -2207,7 +2207,7 @@
 			"type": "Token Creature — Merfolk Pirate",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/PCA-files/img/2_Merfolk.png"
+				"en": "https://hkrat.github.io/sets/PCA-files/img/2t_Merfolk.png"
 			}
 		},
 		{
@@ -2307,7 +2307,7 @@
 			"type": "Token Creature — Soldier",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/PCA-files/img/1_Soldier.png"
+				"en": "https://hkrat.github.io/sets/PCA-files/img/1t_Soldier.png"
 			}
 		},
 		{
@@ -2317,7 +2317,7 @@
 			"type": "Token Creature — Pirate",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/PCA-files/img/3_Pirate.png"
+				"en": "https://hkrat.github.io/sets/PCA-files/img/3t_Pirate.png"
 			}
 		},
 		{
@@ -2327,7 +2327,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/PCA-files/img/7_Treasure.png"
+				"en": "https://hkrat.github.io/sets/PCA-files/img/7t_Treasure.png"
 			}
 		},
 		{
@@ -2407,7 +2407,7 @@
 			"type": "Token Artifact — Treasure",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/PCA-files/img/8_Treasure.png"
+				"en": "https://hkrat.github.io/sets/PCA-files/img/8t_Treasure.png"
 			}
 		},
 		{
@@ -2432,7 +2432,7 @@
 		},
 		{
 			"name": "Lush Oasis",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
 			"collector_number": "4",
@@ -2442,7 +2442,7 @@
 		},
 		{
 			"name": "Frostfire Geysers",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
 			"collector_number": "1",
@@ -2452,7 +2452,7 @@
 		},
 		{
 			"name": "Spiraling Canyon",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
 			"collector_number": "5",
@@ -2462,7 +2462,7 @@
 		},
 		{
 			"name": "Gloomcover Steppe",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
 			"collector_number": "3",
@@ -2472,7 +2472,7 @@
 		},
 		{
 			"name": "Fungal Mire",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
 			"collector_number": "2",
@@ -2727,7 +2727,7 @@
 			"type": "Token Creature — Pirate",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/PCA-files/img/4_Pirate.png"
+				"en": "https://hkrat.github.io/sets/PCA-files/img/4t_Pirate.png"
 			}
 		},
 		{
@@ -2739,7 +2739,7 @@
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/PCA-files/img/191_Green-Hunt Olivera.png"
 			}
-		},
+		}
 	]
 
 [rare(1)]
@@ -2810,7 +2810,7 @@
 	1 Island Sinker
 	2 Archipelago Tyrant
 	1 Green-Hunt Olivera
-[uncommon(4)]
+[uncommon(3)]
 	4 Recruiter General
 	4 Personal Armsmith
 	4 Tideseer Captain
@@ -2887,7 +2887,7 @@
 	4 Stagger Back
 	4 Plunder and Pillage
 	4 Explosive Entrance
-[common(7)]
+[common(6)]
 	8 Trusty Rapier
 	8 Vibrant Watcher
 	8 Deadwater Vermin
@@ -2991,7 +2991,363 @@
 	8 Voyage's End
 	8 Flintlock Sharpshot
 	8 Her Majesty's Deliverance
-[wildcard(2)]
+[common | masterpiece(1)]
+	8 Trusty Rapier
+	8 Vibrant Watcher
+	8 Deadwater Vermin
+	8 Ahba Shorewalker
+	8 Wellweather Distracter
+	8 Agall Spymaster
+	8 Wonder Weaver
+	8 Moonracer Cannoneer
+	8 Westerly Dockhand
+	8 Careless Buccaneer
+	8 Highrock Griffin
+	8 Stowawaif
+	8 Curse of Loose Lips
+	8 Evergrove Pilgrim
+	8 Give Chase
+	8 Braizen Plunder
+	8 Rookie Recruit
+	8 Agall Renegade
+	8 Torch Snuffer
+	8 Raid Leader
+	8 Agall Brute
+	8 Ahba Island Battalion
+	8 Coastal Adept
+	8 il-Verde Cutthroat
+	8 Rowdy Freebooter
+	8 Tallora Wakerider
+	8 Porta Bay Ramparts
+	8 Undertow Mystic
+	8 Rigging Rider
+	8 Brilliant Trove
+	8 Vale Rider
+	8 Salvage Expert
+	8 Defensive Ward
+	8 Festerpriest
+	8 Salty Sailor
+	8 Soulsworn Mystic
+	8 Ahba Island Healer
+	8 The Only Cure
+	8 Ripclaw Harpy
+	8 Settle Infamy
+	8 Vale Vanguard
+	8 Keelhaul
+	8 Getaway Leader
+	8 Fall from Grace
+	8 Glit-Cove Guardians
+	8 Deploy
+	8 Delayed Voyage
+	8 Curse of Doomed Voyages
+	8 Rampant Growth
+	8 Splendid Preservation
+	8 Sunk Below
+	8 Overboard!
+	8 Dragonfire
+	8 Giant Growth
+	8 Iron Shot
+	8 Treacherous Map
+	8 Decoy Skiff
+	8 Royal Fleet
+	8 Captain's Hat
+	8 Drifting Skiff
+	8 Solemn Wreck
+	8 Prying Blade
+	8 Hold Captive
+	8 Fluttering Flock
+	8 Hold Hostage
+	8 Show of Arms
+	8 il-Verde Archers
+	8 Spirit of Sonder
+	8 Curse of Disrespect
+	8 A Crime for Liars
+	8 Shorebound
+	8 Reed Walkers
+	8 Provisions Expert
+	8 Elvish Swashbuckler
+	8 Charted Course
+	8 Elven Linebreaker
+	8 Spirit Sea-Singer
+	8 Coastal Explorer
+	8 Grim Bastion's Call
+	8 Treasure Dragon
+	8 Ancient Snapper
+	8 Colossal Landsailer
+	8 Leyline Convergence
+	8 Merchant Caravan
+	8 False Flintlock
+	8 Judgmental Orator
+	8 Current Seer
+	8 A Lonely Death
+	8 Novice Drunkard
+	8 Plunder Patrols
+	8 Coral Cove
+	8 Towering Spires
+	8 Smuggler's Cove
+	8 Seaside Market
+	8 Open Shore
+	3 Lush Oasis
+	3 Frostfire Geysers
+	3 Spiraling Canyon
+	3 Gloomcover Steppe
+	3 Fungal Mire
+	8 Cursebreak
+	8 Into the Ocean
+	8 Bravado
+	8 Braizen Captain
+	8 Elven Sailor
+	8 Voyage's End
+	8 Flintlock Sharpshot
+	8 Her Majesty's Deliverance
+[foil(1)]
+	2 Queen's Revenge
+	1 Commodore Ana Axela
+	12 Trusty Rapier
+	6 Recruiter General
+	12 Vibrant Watcher
+	12 Deadwater Vermin
+	6 Personal Armsmith
+	12 Ahba Shorewalker
+	12 Wellweather Distracter
+	12 Agall Spymaster
+	12 Wonder Weaver
+	12 Moonracer Cannoneer
+	12 Westerly Dockhand
+	2 Her Majesty's Armory
+	6 Tideseer Captain
+	6 Smuggler Captain
+	12 Careless Buccaneer
+	6 Porta Bay Pest
+	2 Greed's Goaded
+	6 Her Majesty's Will
+	6 Evergrove Wanderer
+	2 Myra's Acquisitioner
+	6 Doctrine Director
+	2 Royal Lieutenant
+	2 Treasures Lost and Sunken
+	2 Ghost Crew
+	2 Halyard Lookout
+	6 Master Manipulator
+	2 Wellweather Christener
+	2 Kitchen Slinks
+	6 Unquenchable Flame
+	12 Highrock Griffin
+	6 Merchant Sloop
+	2 Stormfarer
+	2 Swiftwater Frigate
+	12 Stowawaif
+	2 Myra of the Twin Galleons
+	2 Crimson Jack of the Moonracer
+	2 Lucelle of the Twin Galleons
+	1 Gezroil of the Sunken Gem
+	1 Espaza of the Sparrow
+	6 Contract Killer
+	12 Curse of Loose Lips
+	6 Kraken's Claim
+	12 Evergrove Pilgrim
+	2 Turn the Tides
+	6 In Spades
+	12 Give Chase
+	12 Braizen Plunder
+	6 Seaside Peddler
+	6 Glorious Redemption
+	1 Razorwind Griffin
+	12 Rookie Recruit
+	12 Agall Renegade
+	12 Torch Snuffer
+	12 Raid Leader
+	12 Agall Brute
+	12 Ahba Island Battalion
+	12 Coastal Adept
+	12 il-Verde Cutthroat
+	12 Rowdy Freebooter
+	12 Tallora Wakerider
+	12 Porta Bay Ramparts
+	12 Undertow Mystic
+	12 Rigging Rider
+	12 Brilliant Trove
+	12 Vale Rider
+	12 Salvage Expert
+	12 Defensive Ward
+	12 Festerpriest
+	12 Salty Sailor
+	12 Soulsworn Mystic
+	12 Ahba Island Healer
+	12 The Only Cure
+	12 Ripclaw Harpy
+	12 Settle Infamy
+	6 Second Burst
+	6 Lucelle's Demise
+	6 Hands of Fate
+	6 Curse of Parley
+	6 Gezroil's Demise
+	6 Espaza's Betrayal
+	6 Summon the Skysailer
+	6 Deadwater Ringleader
+	6 Twinblade Adept
+	6 Crimson Jack's Demise
+	12 Vale Vanguard
+	6 Wreckage Lurker
+	2 Master Armsmith
+	6 Sickening Seas
+	2 Goldhunter Dragon
+	2 Wilds Warden
+	2 Portside Collector
+	2 Law of the Sea
+	2 Captain's Gathering
+	12 Keelhaul
+	12 Getaway Leader
+	12 Fall from Grace
+	6 Tamper
+	12 Glit-Cove Guardians
+	12 Deploy
+	12 Delayed Voyage
+	12 Curse of Doomed Voyages
+	12 Rampant Growth
+	12 Splendid Preservation
+	12 Sunk Below
+	12 Overboard!
+	12 Dragonfire
+	12 Giant Growth
+	6 Her Majesty's Blessing
+	6 Scourge of Infamy
+	6 Haunting Memory
+	6 Myra's Demise
+	6 Tallora Traveler
+	6 Valiant Fencers
+	2 Ghost Crew's Curse
+	6 Mark of the Sea
+	6 Havoc Admiral
+	6 Into the Unknown
+	2 Evergrove Matron
+	2 Arrogant Helmsman
+	2 Sulfurous Wanderer
+	2 Merfolk Shorestalker
+	2 Sunk at Sea
+	2 Spellweaver Harpy
+	2 Notoriety
+	2 Shipwreck Stalker
+	12 Iron Shot
+	12 Treacherous Map
+	12 Decoy Skiff
+	6 Fool's Fortune
+	6 Sleek Schooner
+	6 Disabling Shot
+	6 Pirate Chaser
+	2 Renowned Flagship
+	2 Scatter Shot
+	1 Skysailer, Axela's Pride
+	6 Shoreline Cartographer
+	6 Malignant Malcrafter
+	6 Captain of Vigor
+	6 Territorial Runt
+	6 Guardian of Growth
+	6 Royal Instructor
+	6 Scourge of the Seas
+	6 Sanctifying Light
+	6 Traitorous Admiral
+	6 Shallows Fisher
+	1 Her Majesty Justicia
+	1 Caitisan's Conquest
+	1 Pearl Black the Dreadwight
+	1 Ruby Spade Swashbuckler
+	2 Fractured Morality
+	6 Scallywag's Slicer
+	6 Stalwart Galleon
+	2 Pirate Market
+	12 Royal Fleet
+	12 Captain's Hat
+	12 Drifting Skiff
+	12 Solemn Wreck
+	12 Prying Blade
+	2 Heavy Cannonade
+	12 Hold Captive
+	12 Fluttering Flock
+	12 Hold Hostage
+	12 Show of Arms
+	12 il-Verde Archers
+	12 Spirit of Sonder
+	12 Curse of Disrespect
+	12 A Crime for Liars
+	6 Curse of Confrontation
+	12 Shorebound
+	12 Reed Walkers
+	12 Provisions Expert
+	12 Elvish Swashbuckler
+	12 Charted Course
+	12 Elven Linebreaker
+	12 Spirit Sea-Singer
+	6 Shiphunter
+	6 Checkmate
+	6 Fool's Allure
+	6 Leaf Wanderer
+	6 Ocean Spyglass
+	6 Smoldering Flintlock
+	12 Coastal Explorer
+	12 Grim Bastion's Call
+	12 Treasure Dragon
+	12 Ancient Snapper
+	2 Royal Helmsguard
+	2 Majestic Spectacle
+	2 Gunpowder Buccaneer
+	2 Coastrender
+	2 Flooded Morass
+	2 Lavatorn Fields
+	2 Heart of the Glade
+	2 Flourishing Crevasse
+	2 Ancient Heirloom
+	12 Colossal Landsailer
+	2 Skysailer's Beacon
+	1 Eavesdrop Adept
+	12 Leyline Convergence
+	12 Merchant Caravan
+	12 False Flintlock
+	12 Judgmental Orator
+	12 Current Seer
+	12 A Lonely Death
+	12 Novice Drunkard
+	12 Plunder Patrols
+	2 Mariner's Skill
+	2 Sanctimony Ward
+	2 Scoundril's Bounty
+	2 Abandon Ship
+	2 Tracker's Revelation
+	6 Adrift Wreckage
+	6 Merfolk Wavemaster
+	6 Plundered Secrets
+	6 Wayward Plunderer
+	6 Sails to Adventure
+	12 Coral Cove
+	12 Towering Spires
+	12 Smuggler's Cove
+	12 Seaside Market
+	12 Open Shore
+	1 Illypso, Sea's Majesty
+	6 Stowaway's Knife
+	2 Pool of Light
+	2 Wayfarer's Shrine
+	12 Cursebreak
+	12 Into the Ocean
+	12 Bravado
+	12 Braizen Captain
+	12 Elven Sailor
+	6 Brandish
+	6 Renegade Tidemaster
+	6 Merciless Stalker
+	6 Shiprender
+	1 Island Sinker
+	6 Brigand's Bargain
+	6 Sailor's Slip
+	12 Voyage's End
+	6 Stagger Back
+	2 Archipelago Tyrant
+	6 Plunder and Pillage
+	6 Explosive Entrance
+	12 Flintlock Sharpshot
+	12 Her Majesty's Deliverance
+	1 Green-Hunt Olivera
+[wildcard(1)]
 	7 Queen's Revenge
 	4 Commodore Ana Axela
 	6 Trusty Rapier

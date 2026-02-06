@@ -235,9 +235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment Creature — Saga Cat",
-			"collector_number": "104",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/104_Tales of a Liar Cat.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/103_Tales of a Liar Cat.png"
 			}
 		},
 		{
@@ -315,9 +315,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Skeleton Soldier",
-			"collector_number": "109",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/109_Twin Moons Wanderer.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/108_Twin Moons Wanderer.png"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Warrior",
-			"collector_number": "162",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/162_Embassy Attendant.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/161_Embassy Attendant.png"
 			}
 		},
 		{
@@ -495,19 +495,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Scout",
-			"collector_number": "165",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/165_Fleetfoot Wanderer.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/164_Fleetfoot Wanderer.png"
 			}
 		},
 		{
-			"name": "Druadach Range Grizzly",
+			"name": "Timber Range Grizzly",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Bear",
-			"collector_number": "161",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/161_Druadach Range Grizzly.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/185_Timber Range Grizzly.png"
 			}
 		},
 		{
@@ -525,9 +525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Mercenary",
-			"collector_number": "185",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/185_Tavern Hireling.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/184_Tavern Hireling.png"
 			}
 		},
 		{
@@ -593,7 +593,7 @@
 		{
 			"name": "Brurlof, Reluctant Hero",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "8",
 			"image_uris": {
@@ -615,9 +615,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Enchantment Artifact",
-			"collector_number": "176",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/176_Morokei's Mask of Power.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/175_Morokei's Mask of Power.png"
 			}
 		},
 		{
@@ -664,7 +664,7 @@
 			"name": "Discerning the Transmundane",
 			"rarity": "rare",
 			"mana_cost": "{5}{U}{U}",
-			"type": "Sorcery",
+			"type": "Enchantment",
 			"collector_number": "45",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/FTB-files/img/45_Discerning the Transmundane.png"
@@ -705,9 +705,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Elf Warlock",
-			"collector_number": "106",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/106_Thalmor Excruciator.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/105_Thalmor Excruciator.png"
 			}
 		},
 		{
@@ -715,9 +715,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "108",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/108_Tombs Unplundered.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/107_Tombs Unplundered.png"
 			}
 		},
 		{
@@ -745,9 +745,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "100",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/100_Ominous Portent.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/99_Ominous Portent.png"
 			}
 		},
 		{
@@ -825,9 +825,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment Creature — Saga Lizard",
-			"collector_number": "181",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/181_Scapegoat Opportunist.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/180_Scapegoat Opportunist.png"
 			}
 		},
 		{
@@ -835,9 +835,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "183",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/183_Sommerset Shielding.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/182_Sommerset Shielding.png"
 			}
 		},
 		{
@@ -845,9 +845,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "168",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/168_Gildergreen Tender.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/167_Gildergreen Tender.png"
 			}
 		},
 		{
@@ -855,9 +855,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "177",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/177_On Ancient Stones.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/176_On Ancient Stones.png"
 			}
 		},
 		{
@@ -865,9 +865,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Unicorn",
-			"collector_number": "163",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/163_Fabled Riftstrider.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/162_Fabled Riftstrider.png"
 			}
 		},
 		{
@@ -885,9 +885,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Troll",
-			"collector_number": "178",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/178_Pilgrim's Bane.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/177_Pilgrim's Bane.png"
 			}
 		},
 		{
@@ -1383,7 +1383,7 @@
 		{
 			"name": "Bound Specter",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Spirit",
 			"collector_number": "42",
 			"image_uris": {
@@ -1515,9 +1515,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Elf Soldier",
-			"collector_number": "105",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/105_Talos Confiscator.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/104_Talos Confiscator.png"
 			}
 		},
 		{
@@ -1535,9 +1535,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "101",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/101_Ragged Flagon Rogue.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/100_Ragged Flagon Rogue.png"
 			}
 		},
 		{
@@ -1571,13 +1571,13 @@
 			}
 		},
 		{
-			"name": "Morag Tong Stingblade",
+			"name": "Undercity Skeever",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Elf Assassin",
-			"collector_number": "99",
+			"type": "Creature — Rat",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/99_Morag Tong Stingblade.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/109_Undercity Skeever.png"
 			}
 		},
 		{
@@ -1585,9 +1585,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Vampire Berserker",
-			"collector_number": "103",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/103_Sanguinare Neonate.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/101_Sanguinare Neonate.png"
 			}
 		},
 		{
@@ -1605,15 +1605,15 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "107",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/107_Through the Dark.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/106_Through the Dark.png"
 			}
 		},
 		{
 			"name": "Corner",
 			"rarity": "common",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "84",
 			"image_uris": {
@@ -1641,13 +1641,13 @@
 			}
 		},
 		{
-			"name": "Restored Soul",
+			"name": "Sundered Soul",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Kindred Instant — Dragon",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/102_Restored Soul.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/102_Sundered Soul.png"
 			}
 		},
 		{
@@ -1865,9 +1865,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Scout",
-			"collector_number": "174",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/174_Jerall Mountain Hunter.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/173_Jerall Mountain Hunter.png"
 			}
 		},
 		{
@@ -1875,9 +1875,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Elk",
-			"collector_number": "164",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/164_Falkreath Prized Game.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/163_Falkreath Prized Game.png"
 			}
 		},
 		{
@@ -1905,9 +1905,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Spider",
-			"collector_number": "180",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/180_Sanctuary Spider.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/179_Sanctuary Spider.png"
 			}
 		},
 		{
@@ -1915,9 +1915,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Sorcerer",
-			"collector_number": "166",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/166_Forsworn Windspeaker.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/165_Forsworn Windspeaker.png"
 			}
 		},
 		{
@@ -1925,9 +1925,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Troll",
-			"collector_number": "179",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/179_Rift Troll.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/178_Rift Troll.png"
 			}
 		},
 		{
@@ -1935,19 +1935,19 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Dryad",
-			"collector_number": "169",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/169_Greenwarden Spriggan.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/168_Greenwarden Spriggan.png"
 			}
 		},
 		{
-			"name": "Market Peddler",
+			"name": "Market Merchant",
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Elf Citizen",
-			"collector_number": "175",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/175_Market Peddler.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/174_Market Merchant.png"
 			}
 		},
 		{
@@ -1955,9 +1955,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment Creature — Saga Human",
-			"collector_number": "167",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/167_Game Hunters.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/166_Game Hunters.png"
 			}
 		},
 		{
@@ -1975,9 +1975,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "170",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/170_Hail of Arrows.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/169_Hail of Arrows.png"
 			}
 		},
 		{
@@ -1985,9 +1985,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "173",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/173_Into the Barrow.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/172_Into the Barrow.png"
 			}
 		},
 		{
@@ -1995,9 +1995,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Artifact",
-			"collector_number": "184",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/184_Spellwoven Ring.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/183_Spellwoven Ring.png"
 			}
 		},
 		{
@@ -2015,9 +2015,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "171",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/171_Heavy Blow.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/170_Heavy Blow.png"
 			}
 		},
 		{
@@ -2038,23 +2038,6 @@
 			"collector_number": "209",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/FTB-files/img/209_The Last Dragonborn.png"
-			}
-		},
-		{
-			"name": "Exploit the Time-Wound",
-			"rarity": "mythic",
-			"mana_cost": "{1}{W}{U}",
-			"type": "Battle — Seige",
-			"collector_number": "205",
-			"back": {
-				"name": "",
-				"type": "",
-				"image_uris": {
-					"en": "https://hkrat.github.io/sets/FTB-files/img/205_Exploit the Time-Wound_back.png"
-				}
-			},
-			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/205_Exploit the Time-Wound_front.png"
 			}
 		},
 		{
@@ -2112,26 +2095,26 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Human Peasant",
-			"collector_number": "182",
+			"collector_number": "181",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://hkrat.github.io/sets/FTB-files/img/182_Sinding the Cursed_back.png"
+					"en": "https://hkrat.github.io/sets/FTB-files/img/181_Sinding the Cursed_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/182_Sinding the Cursed_front.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/181_Sinding the Cursed_front.png"
 			}
 		},
 		{
 			"name": "The Wheel Turns",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "3",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/3_The Wheel Turns.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/6_The Wheel Turns.png"
 			}
 		},
 		{
@@ -2161,7 +2144,7 @@
 			"type": "Token Creature — Adventurer",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/1_Adventurer.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/1t_Adventurer.png"
 			}
 		},
 		{
@@ -2179,9 +2162,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Wisp",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/2_Spirit.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/3t_Spirit.png"
 			}
 		},
 		{
@@ -2189,9 +2172,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "236",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/236_Sky-Touched Ruins.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/237_Sky-Touched Ruins.png"
 			}
 		},
 		{
@@ -2199,9 +2182,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "235",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/235_Roguish Undercity.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/236_Roguish Undercity.png"
 			}
 		},
 		{
@@ -2209,9 +2192,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "240",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/240_Warmonger's Hideout.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/241_Warmonger's Hideout.png"
 			}
 		},
 		{
@@ -2229,9 +2212,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "239",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/239_Temple of Destiny.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/240_Temple of Destiny.png"
 			}
 		},
 		{
@@ -2239,9 +2222,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Enchantment — Background",
-			"collector_number": "241",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/241_Wandering Mercenary.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/242_Wandering Mercenary.png"
 			}
 		},
 		{
@@ -2249,9 +2232,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Enchantment — Background",
-			"collector_number": "242",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/242_Student of Magicka.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/243_Student of Magicka.png"
 			}
 		},
 		{
@@ -2259,9 +2242,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Enchantment — Background",
-			"collector_number": "243",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/243_Brotherhood Listener.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/244_Brotherhood Listener.png"
 			}
 		},
 		{
@@ -2269,9 +2252,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Enchantment — Background",
-			"collector_number": "244",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/244_Thieves Guild Initiate.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/245_Thieves Guild Initiate.png"
 			}
 		},
 		{
@@ -2279,9 +2262,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Enchantment — Background",
-			"collector_number": "245",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/245_Agent of the Inner Circle.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/246_Agent of the Inner Circle.png"
 			}
 		},
 		{
@@ -2289,9 +2272,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Legendary Token Artifact",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/5_The Elder Scroll.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/6t_The Elder Scroll.png"
 			}
 		},
 		{
@@ -2306,12 +2289,12 @@
 		},
 		{
 			"name": "Abhorrent Oculus",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Eye",
-			"collector_number": "1",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/1_Abhorrent Oculus.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/3_Abhorrent Oculus.png"
 			}
 		},
 		{
@@ -2319,39 +2302,39 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Enchantment Creature — Elemental",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/3_Elemental.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/4t_Elemental.png"
 			}
 		},
 		{
 			"name": "Talsgar, Itinerant Minstrel",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{W}{B}{G}",
 			"type": "Legendary Creature — Human Bard",
-			"collector_number": "16",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/16_Talsgar, Itinerant Minstrel.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/21_Talsgar, Itinerant Minstrel.png"
 			}
 		},
 		{
 			"name": "Noble Hierarch",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "9",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/9_Noble Hierarch.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/14_Noble Hierarch.png"
 			}
 		},
 		{
 			"name": "Crux of Fate",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "4",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/4_Crux of Fate.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/7_Crux of Fate.png"
 			}
 		},
 		{
@@ -2359,9 +2342,9 @@
 			"rarity": "special",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Cat Wizard",
-			"collector_number": "249",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/249_J'zargo, Brash Mage.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/250_J'zargo, Brash Mage.png"
 			}
 		},
 		{
@@ -2376,92 +2359,92 @@
 		},
 		{
 			"name": "Generous Visitor",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{G}",
 			"type": "Creature — Spirit",
-			"collector_number": "7",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/7_Generous Visitor.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/12_Generous Visitor.png"
 			}
 		},
 		{
 			"name": "Dragonslayer Delphine",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "14",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/14_Dragonslayer Delphine.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/19_Dragonslayer Delphine.png"
 			}
 		},
 		{
 			"name": "Alduin, Prophetic End",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Legendary Creature — Dragon Noble",
-			"collector_number": "11",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/11_Alduin, Prophetic End.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/16_Alduin, Prophetic End.png"
 			}
 		},
 		{
 			"name": "Brurlof, Ascendant Dovahkiin",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{R}{R}{W}",
 			"type": "Legendary Creature — Human God",
-			"collector_number": "13",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/13_Brurlof, Ascendant Dovahkiin.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/18_Brurlof, Ascendant Dovahkiin.png"
 			}
 		},
 		{
 			"name": "Remiel, Dwemer Scholar",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "2",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/2_Remiel, Dwemer Scholar.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/5_Remiel, Dwemer Scholar.png"
 			}
 		},
 		{
 			"name": "Inigo, Friend to the Dovahkiin",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Cat Sorcerer",
-			"collector_number": "8",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/8_Inigo, Friend to the Dovahkiin.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/13_Inigo, Friend to the Dovahkiin.png"
 			}
 		},
 		{
-			"name": "Arngier, Voice Within",
-			"rarity": "masterpiece",
+			"name": "Arngeir, Voice Within",
+			"rarity": "special",
 			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Legendary Creature — Human Druid",
-			"collector_number": "12",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/12_Arngier, Voice Within.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/17_Arngeir, Voice Within.png"
 			}
 		},
 		{
 			"name": "Jarl Balgruuf the Greater",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "15",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/15_Jarl Balgruuf the Greater.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/20_Jarl Balgruuf the Greater.png"
 			}
 		},
 		{
 			"name": "Val Serano, Relic Hunter",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "17",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/17_Val Serano, Relic Hunter.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/22_Val Serano, Relic Hunter.png"
 			}
 		},
 		{
@@ -2486,12 +2469,12 @@
 		},
 		{
 			"name": "Xelzaz, Telvanni Lawman",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Lizard Wizard",
-			"collector_number": "6",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/6_Xelzaz, Telvanni Lawman.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/11_Xelzaz, Telvanni Lawman.png"
 			}
 		},
 		{
@@ -2506,122 +2489,122 @@
 		},
 		{
 			"name": "Prosperous Innkeeper",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Halfling Citizen",
-			"collector_number": "10",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/10_Prosperous Innkeeper.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/15_Prosperous Innkeeper.png"
 			}
 		},
 		{
 			"name": "Fatal Push",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "5",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/5_Fatal Push.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/8_Fatal Push.png"
 			}
 		},
 		{
 			"name": "Blood Crypt",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "18",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/18_Blood Crypt.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/23_Blood Crypt.png"
 			}
 		},
 		{
 			"name": "Breeding Pool",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Island",
-			"collector_number": "19",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/19_Breeding Pool.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/24_Breeding Pool.png"
 			}
 		},
 		{
 			"name": "Godless Shrine",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp",
-			"collector_number": "20",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/20_Godless Shrine.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/25_Godless Shrine.png"
 			}
 		},
 		{
 			"name": "Hallowed Fountain",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "21",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/21_Hallowed Fountain.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/26_Hallowed Fountain.png"
 			}
 		},
 		{
 			"name": "Overgrown Tomb",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest",
-			"collector_number": "22",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/22_Overgrown Tomb.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/27_Overgrown Tomb.png"
 			}
 		},
 		{
 			"name": "Sacred Foundry",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains",
-			"collector_number": "23",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/23_Sacred Foundry.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/28_Sacred Foundry.png"
 			}
 		},
 		{
 			"name": "Steam Vents",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Mountain",
-			"collector_number": "24",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/24_Steam Vents.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/29_Steam Vents.png"
 			}
 		},
 		{
 			"name": "Stomping Ground",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "25",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/25_Stomping Ground.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/30_Stomping Ground.png"
 			}
 		},
 		{
 			"name": "Temple Garden",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "26",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/26_Temple Garden.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/31_Temple Garden.png"
 			}
 		},
 		{
 			"name": "Watery Grave",
-			"rarity": "masterpiece",
+			"rarity": "special",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "27",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/27_Watery Grave.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/32_Watery Grave.png"
 			}
 		},
 		{
@@ -2639,9 +2622,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "232",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/232_Grim Tomb.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/233_Grim Tomb.png"
 			}
 		},
 		{
@@ -2649,9 +2632,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/233_Lakeside Thicket.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/234_Lakeside Thicket.png"
 			}
 		},
 		{
@@ -2659,9 +2642,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "231",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/231_Glorious Hall.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/232_Glorious Hall.png"
 			}
 		},
 		{
@@ -2669,9 +2652,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "228",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/228_Foreboding Ruins.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/229_Foreboding Ruins.png"
 			}
 		},
 		{
@@ -2689,9 +2672,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "238",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/238_Sprawling Valley.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/239_Sprawling Valley.png"
 			}
 		},
 		{
@@ -2699,9 +2682,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "230",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/230_Game Trail.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/231_Game Trail.png"
 			}
 		},
 		{
@@ -2709,9 +2692,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "237",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/237_Snowswept Peak.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/238_Snowswept Peak.png"
 			}
 		},
 		{
@@ -2719,9 +2702,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "229",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/229_Fortified Village.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/230_Fortified Village.png"
 			}
 		},
 		{
@@ -2729,9 +2712,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "234",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/234_Port Town.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/235_Port Town.png"
 			}
 		},
 		{
@@ -2749,9 +2732,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Elf Rogue",
-			"collector_number": "250",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/250_Karliah, Guild Vengeant.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/251_Karliah, Guild Vengeant.png"
 			}
 		},
 		{
@@ -2759,9 +2742,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Human Clown Assassin",
-			"collector_number": "247",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/247_Cicero, Blood Artist.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/248_Cicero, Blood Artist.png"
 			}
 		},
 		{
@@ -2769,9 +2752,9 @@
 			"rarity": "special",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "248",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/248_Isran, Dawnguard Zealot.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/249_Isran, Dawnguard Zealot.png"
 			}
 		},
 		{
@@ -2779,9 +2762,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}{G}",
 			"type": "Legendary Creature — Human Werewolf",
-			"collector_number": "246",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/246_Aela the Huntress.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/247_Aela the Huntress.png"
 			}
 		},
 		{
@@ -2799,9 +2782,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Elf Soldier",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/4_Elf Soldier.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/5t_Elf Soldier.png"
 			}
 		},
 		{
@@ -2809,9 +2792,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "6",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/6_Treasure.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/8t_Treasure.png"
 			}
 		},
 		{
@@ -2829,9 +2812,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact — Equipment",
-			"collector_number": "172",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://hkrat.github.io/sets/FTB-files/img/172_Heavy Crossbow.png"
+				"en": "https://hkrat.github.io/sets/FTB-files/img/171_Heavy Crossbow.png"
 			}
 		},
 		{
@@ -2842,6 +2825,103 @@
 			"collector_number": "219",
 			"image_uris": {
 				"en": "https://hkrat.github.io/sets/FTB-files/img/219_Legion Steel.png"
+			}
+		},
+		{
+			"name": "Draconic Divulging",
+			"rarity": "special",
+			"mana_cost": "{3}{U}",
+			"type": "Kindred Sorcery — Dragon",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/FTB-files/img/4_Draconic Divulging.png"
+			}
+		},
+		{
+			"name": "Leave the Tomb",
+			"rarity": "special",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Kindred Sorcery — Dragon",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/FTB-files/img/9_Leave the Tomb.png"
+			}
+		},
+		{
+			"name": "Munitions",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/FTB-files/img/7t_Munitions.png"
+			}
+		},
+		{
+			"name": "Dragonborn's Companion",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/FTB-files/img/1_Dragonborn's Companion.png"
+			}
+		},
+		{
+			"name": "Bandit Marauder",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/FTB-files/img/10_Bandit Marauder.png"
+			}
+		},
+		{
+			"name": "Last Dragonborn's Awakening",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/FTB-files/img/2_Last Dragonborn's Awakening.png"
+			}
+		},
+		{
+			"name": "Evolving Wilds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/FTB-files/img/228_Evolving Wilds.png"
+			}
+		},
+		{
+			"name": "Saga",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Saga",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/FTB-files/img/2t_Saga.png"
+			}
+		},
+		{
+			"name": "Exploit the Time-Wound",
+			"rarity": "mythic",
+			"mana_cost": "{X}{W}{W}{U}",
+			"type": "Battle — Seige",
+			"collector_number": "205",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://hkrat.github.io/sets/FTB-files/img/205_Exploit the Time-Wound_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://hkrat.github.io/sets/FTB-files/img/205_Exploit the Time-Wound_front.png"
 			}
 		},
 	]
@@ -2894,7 +2974,6 @@
 	2 Conjure Storm Atronach
 	1 Emperor Titus Mede II
 	1 The Last Dragonborn
-	1 Exploit the Time-Wound
 	1 Paarthurnax, the Balance
 	1 Ancano, Scheming Advisor
 	1 Conjure Dremora Lord
@@ -2909,7 +2988,8 @@
 	2 Thalmor Dossier
 	2 Dreamstrider's Robes
 	1 Arngeir, Voice of Heroes
-[uncommon(4)]
+	1 Exploit the Time-Wound
+[uncommon(3)]
 	4 Awake at Last
 	4 Fleeing Fugitive
 	4 Gormlaith Golden-Hilt
@@ -2989,11 +3069,11 @@
 	4 Fortified Village
 	4 Port Town
 	4 Legion Steel
-[common(7)]
+[common(6)]
 	8 Voice of Frost
 	8 Conjure Flame Atronach
 	8 Voice of Wind
-	8 Druadach Range Grizzly
+	8 Timber Range Grizzly
 	8 Sleeping Tree Giant
 	8 Caravan Peddler
 	8 Helgen Rescue Party
@@ -3041,14 +3121,14 @@
 	8 Ustengrav Shambler
 	8 Eastmarch Hunter
 	8 Caravan Opportunist
-	8 Morag Tong Stingblade
+	8 Undercity Skeever
 	8 Sanguinare Neonate
 	8 Knock Down
 	8 Through the Dark
 	8 Corner
 	8 Destiny Unbound
 	8 Doom Driven
-	8 Restored Soul
+	8 Sundered Soul
 	8 Flame Whip
 	8 East Empire Nightwatch
 	8 Dawnguard War Troll
@@ -3075,7 +3155,7 @@
 	8 Forsworn Windspeaker
 	8 Rift Troll
 	8 Greenwarden Spriggan
-	8 Market Peddler
+	8 Market Merchant
 	8 Game Hunters
 	8 Conjure Familiar
 	8 Hail of Arrows
@@ -3089,7 +3169,383 @@
 	8 Hoard Keeper
 	8 Trusty Armaments
 	8 Heavy Crossbow
-[wildcard(2)]
+	8 Evolving Wilds
+[common | masterpiece(1)]
+	8 Voice of Frost
+	8 Conjure Flame Atronach
+	8 Voice of Wind
+	8 Timber Range Grizzly
+	8 Sleeping Tree Giant
+	8 Caravan Peddler
+	8 Helgen Rescue Party
+	8 Sovngarde Honored
+	8 Armored Steed
+	8 Reliable Courier
+	8 Haafingar Dock Glider
+	8 Sweet Roll
+	8 Riften Rabble
+	8 Prize-winning Goat
+	8 Shor's Fox
+	8 Voice of Serenity
+	8 Eager Hireling
+	8 Dragonrend
+	8 Way of Jurgen Windcaller
+	8 Explorer's Hook
+	8 Tavern Lute
+	8 Imperial Apprehension
+	8 Dragonborn's Resolve
+	8 Nuisance Mudcrabs
+	8 Ancient Word Wall
+	8 Magicka Scholar
+	8 Novice Mage
+	8 Winterhold Student
+	8 Thieves Guild Trainee
+	8 Imperial Outfitter
+	8 Windchill Wraiths
+	8 Warding Robes
+	8 Nimble Automaton
+	8 Bound Specter
+	8 Unrelenting Force
+	8 Homesteading
+	8 Ice Form
+	8 Hjaalmarch Outrider
+	8 Alchemist's Table
+	8 Immobilizing Spike
+	8 Wandering Draugr
+	8 Disturbed Dead
+	8 Brotherhood Shadowscale
+	8 Falmer Gloomlurker
+	8 Dredged Dovah
+	8 Talos Confiscator
+	8 Hulking Draugr
+	8 Ragged Flagon Rogue
+	8 Ustengrav Shambler
+	8 Eastmarch Hunter
+	8 Caravan Opportunist
+	8 Undercity Skeever
+	8 Sanguinare Neonate
+	8 Knock Down
+	8 Through the Dark
+	8 Corner
+	8 Destiny Unbound
+	8 Doom Driven
+	8 Sundered Soul
+	8 Flame Whip
+	8 East Empire Nightwatch
+	8 Dawnguard War Troll
+	8 Dawnguard Suncaster
+	8 Voice of Fire
+	8 Bitterwinter Brute
+	8 Imperial Battlemage
+	8 Malacath Devotee
+	8 Forsworn Conjurer
+	8 Dovah's Roar
+	8 Glass-Clad Battlemage
+	8 Raining Dragonfire
+	8 Atronach Summoner
+	8 Anarchist's Spear
+	8 Compell
+	8 Pickpocket
+	8 Shock
+	8 Windhelm Bard
+	8 Jerall Mountain Hunter
+	8 Falkreath Prized Game
+	8 Darkwater Denizen
+	8 Ancestor Moths
+	8 Sanctuary Spider
+	8 Forsworn Windspeaker
+	8 Rift Troll
+	8 Greenwarden Spriggan
+	8 Market Merchant
+	8 Game Hunters
+	8 Conjure Familiar
+	8 Hail of Arrows
+	8 Into the Barrow
+	8 Spellwoven Ring
+	8 Heavy Blow
+	3 The Wheel Turns
+	8 Whirlwind Sprint
+	8 Dawnbringer's Beacon
+	3 Abhorrent Oculus
+	3 Talsgar, Itinerant Minstrel
+	3 Noble Hierarch
+	3 Crux of Fate
+	3 Generous Visitor
+	3 Dragonslayer Delphine
+	3 Alduin, Prophetic End
+	3 Brurlof, Ascendant Dovahkiin
+	3 Remiel, Dwemer Scholar
+	3 Inigo, Friend to the Dovahkiin
+	3 Arngeir, Voice Within
+	3 Jarl Balgruuf the Greater
+	3 Val Serano, Relic Hunter
+	8 Mark of Namira
+	8 Stolen Trinket
+	3 Xelzaz, Telvanni Lawman
+	3 Prosperous Innkeeper
+	3 Fatal Push
+	3 Blood Crypt
+	3 Breeding Pool
+	3 Godless Shrine
+	3 Hallowed Fountain
+	3 Overgrown Tomb
+	3 Sacred Foundry
+	3 Steam Vents
+	3 Stomping Ground
+	3 Temple Garden
+	3 Watery Grave
+	8 Hoard Keeper
+	8 Trusty Armaments
+	8 Heavy Crossbow
+	3 Draconic Divulging
+	3 Leave the Tomb
+	3 Dragonborn's Companion
+	3 Bandit Marauder
+	3 Last Dragonborn's Awakening
+	8 Evolving Wilds
+[foil(1)]
+	2 Restoration Tutor
+	6 Awake at Last
+	2 Conjure Golden Saint Warrior
+	6 Fleeing Fugitive
+	6 Gormlaith Golden-Hilt
+	6 Stormcloak Clan Captain
+	6 Dispatched Vigilant
+	6 Blood-Tested Brawler
+	6 Attentive Jarl
+	6 War Rallier
+	6 Armament Forging
+	6 Arcaneum Lorekeeper
+	6 Meet in Sovngarde
+	6 Conjure Frost Atronach
+	6 Dwemer Mobilization
+	6 Quickswap
+	6 Fact or Fiction
+	6 Nocturnal's Chosen
+	6 Felldir the Old
+	12 Voice of Frost
+	6 Twin Souls
+	6 Misusing the Atronach Forge
+	6 Audience with the Jarl
+	6 Tales of a Liar Cat
+	6 Volkihar Bloodlord
+	6 Dubious Delicacy
+	2 Desolation of Alduin
+	6 Guild Mark
+	6 Alduin, the Catalyst
+	6 Briarheart Rite
+	6 Epic Downfall
+	6 Twin Moons Wanderer
+	6 Assassin's Contract
+	6 Mirmulnir, Hidden Hunter
+	6 Akatosh's Expectations
+	6 An Old Orc Waits Alone
+	12 Conjure Flame Atronach
+	6 Goldclaw Dov
+	6 Children of Akatosh
+	6 Immolating Shout
+	6 Hakon One-Eye
+	2 Dueling Mages
+	6 Ambush Dov
+	6 White-Gold Enforcer
+	12 Voice of Wind
+	6 Claimed by Power
+	6 Beast in the Dark
+	6 Alteration Savant
+	6 Embassy Attendant
+	2 Fleetfoot Wanderer
+	12 Timber Range Grizzly
+	6 Bosmer Pathcutter
+	6 Tavern Hireling
+	6 Traitor's Handoff
+	2 Wandering Quester
+	2 Dragonborn's Companion
+	2 Last Dragonborn's Awakening
+	6 Beckoning Wispmother
+	2 Dovah's Aftermath
+	6 Brurlof, Reluctant Hero
+	2 Brurlof, Chosen of Akatosh
+	2 Morokei's Mask of Power
+	2 Telekinetic Mastery
+	2 Scroll Scouting
+	2 The Wheel Turns
+	2 Azura's Many Visions
+	2 Discerning the Transmundane
+	2 Paarthurnax, Greybeard Mentor
+	2 We Know
+	6 Volkihar Claims the Night
+	2 Thalmor Excruciator
+	2 Tombs Unplundered
+	2 Durnehviir, Soul-Claimed
+	2 Hermaeus Mora
+	2 Ominous Portent
+	6 Dragon Hunting
+	2 Fire Wyrm
+	2 Way of the Voice
+	2 Karthspire Warbreaker
+	2 Delphine, Last of the Blades
+	2 Madanach, King in Rags
+	2 Firebolt Adept
+	6 Scapegoat Opportunist
+	2 Sommerset Shielding
+	2 Gildergreen Tender
+	2 On Ancient Stones
+	2 Fabled Riftstrider
+	2 Bringer of Myth
+	2 Pilgrim's Bane
+	6 Adrianne Avenicci
+	6 Delphine, Scheming Innkeep
+	6 Brynjolf, Rat Catcher
+	6 Arngeir, Word Seeker
+	6 Lydia, Stalwart Houscarl
+	6 Commander Maro
+	6 Naaslaarum and Voslaarum
+	6 Faendal, Yearning Hunter
+	6 General Tullius, War Breaker
+	6 Farengar Secret-Fire
+	2 Victory or Sovngarde
+	2 World-Eaters Dissent
+	1 Alduin, World-Eater
+	2 Shearpoint Champion
+	2 Talsgar the Wanderer
+	2 Coerced Steward
+	2 Elderboon Dovah
+	2 Elenwen, First Emissary
+	2 Elenwen's Soiree
+	2 Conjure Storm Atronach
+	12 Sleeping Tree Giant
+	12 Caravan Peddler
+	12 Helgen Rescue Party
+	12 Sovngarde Honored
+	12 Armored Steed
+	12 Reliable Courier
+	12 Haafingar Dock Glider
+	12 Sweet Roll
+	12 Riften Rabble
+	12 Prize-winning Goat
+	12 Shor's Fox
+	12 Voice of Serenity
+	12 Eager Hireling
+	12 Dragonrend
+	12 Way of Jurgen Windcaller
+	12 Explorer's Hook
+	12 Tavern Lute
+	12 Imperial Apprehension
+	12 Dragonborn's Resolve
+	12 Nuisance Mudcrabs
+	12 Ancient Word Wall
+	12 Magicka Scholar
+	12 Novice Mage
+	12 Winterhold Student
+	12 Thieves Guild Trainee
+	12 Imperial Outfitter
+	12 Windchill Wraiths
+	12 Warding Robes
+	12 Nimble Automaton
+	12 Bound Specter
+	12 Unrelenting Force
+	6 Labyrinthian Spelldrinker
+	12 Homesteading
+	12 Ice Form
+	12 Hjaalmarch Outrider
+	12 Alchemist's Table
+	12 Immobilizing Spike
+	12 Wandering Draugr
+	12 Disturbed Dead
+	12 Brotherhood Shadowscale
+	12 Falmer Gloomlurker
+	12 Dredged Dovah
+	12 Talos Confiscator
+	12 Hulking Draugr
+	12 Ragged Flagon Rogue
+	12 Ustengrav Shambler
+	12 Eastmarch Hunter
+	12 Caravan Opportunist
+	12 Undercity Skeever
+	12 Sanguinare Neonate
+	12 Knock Down
+	12 Through the Dark
+	12 Corner
+	12 Destiny Unbound
+	12 Doom Driven
+	12 Sundered Soul
+	6 Dragontongue Necklace
+	12 Flame Whip
+	12 East Empire Nightwatch
+	12 Dawnguard War Troll
+	12 Dawnguard Suncaster
+	12 Voice of Fire
+	12 Bitterwinter Brute
+	12 Imperial Battlemage
+	12 Malacath Devotee
+	12 Forsworn Conjurer
+	6 Bandit Marauder
+	12 Dovah's Roar
+	12 Glass-Clad Battlemage
+	12 Raining Dragonfire
+	12 Atronach Summoner
+	12 Anarchist's Spear
+	12 Compell
+	12 Pickpocket
+	12 Shock
+	12 Windhelm Bard
+	6 Wandering Thalmor Patrol
+	12 Jerall Mountain Hunter
+	12 Falkreath Prized Game
+	12 Darkwater Denizen
+	12 Ancestor Moths
+	12 Sanctuary Spider
+	12 Forsworn Windspeaker
+	12 Rift Troll
+	12 Greenwarden Spriggan
+	12 Market Merchant
+	12 Game Hunters
+	12 Conjure Familiar
+	12 Hail of Arrows
+	12 Into the Barrow
+	12 Spellwoven Ring
+	6 Blood-Claimed Territory
+	12 Heavy Blow
+	1 Emperor Titus Mede II
+	1 The Last Dragonborn
+	1 Paarthurnax, the Balance
+	1 Ancano, Scheming Advisor
+	1 Conjure Dremora Lord
+	2 Alduin, First-Born of Akatosh
+	1 Winged Snow Hunter
+	1 Sinding the Cursed
+	12 Whirlwind Sprint
+	12 Dawnbringer's Beacon
+	6 Alduin's Wall
+	2 Sky-Touched Ruins
+	2 Roguish Undercity
+	2 Warmonger's Hideout
+	2 Ancient Fortress
+	2 Temple of Destiny
+	6 Shrine to the Betrayed
+	2 Thalmor Dossier
+	12 Mark of Namira
+	12 Stolen Trinket
+	6 Stendarr's Hammer
+	2 Dreamstrider's Robes
+	6 Grim Tomb
+	6 Lakeside Thicket
+	6 Glorious Hall
+	6 Foreboding Ruins
+	6 Choked Estuary
+	6 Sprawling Valley
+	6 Game Trail
+	6 Snowswept Peak
+	6 Fortified Village
+	6 Port Town
+	1 Arngeir, Voice of Heroes
+	12 Hoard Keeper
+	12 Trusty Armaments
+	12 Heavy Crossbow
+	6 Legion Steel
+	12 Evolving Wilds
+	1 Exploit the Time-Wound
+[wildcard(1)]
 	7 Restoration Tutor
 	15 Awake at Last
 	7 Conjure Golden Saint Warrior
@@ -3140,7 +3596,7 @@
 	15 Alteration Savant
 	15 Embassy Attendant
 	7 Fleetfoot Wanderer
-	6 Druadach Range Grizzly
+	6 Timber Range Grizzly
 	15 Bosmer Pathcutter
 	15 Tavern Hireling
 	15 Traitor's Handoff
@@ -3247,14 +3703,14 @@
 	6 Ustengrav Shambler
 	6 Eastmarch Hunter
 	6 Caravan Opportunist
-	6 Morag Tong Stingblade
+	6 Undercity Skeever
 	6 Sanguinare Neonate
 	6 Knock Down
 	6 Through the Dark
 	6 Corner
 	6 Destiny Unbound
 	6 Doom Driven
-	6 Restored Soul
+	6 Sundered Soul
 	15 Dragontongue Necklace
 	6 Flame Whip
 	6 East Empire Nightwatch
@@ -3284,7 +3740,7 @@
 	6 Forsworn Windspeaker
 	6 Rift Troll
 	6 Greenwarden Spriggan
-	6 Market Peddler
+	6 Market Merchant
 	6 Game Hunters
 	6 Conjure Familiar
 	6 Hail of Arrows
@@ -3294,7 +3750,6 @@
 	6 Heavy Blow
 	4 Emperor Titus Mede II
 	4 The Last Dragonborn
-	4 Exploit the Time-Wound
 	4 Paarthurnax, the Balance
 	4 Ancano, Scheming Advisor
 	4 Conjure Dremora Lord
@@ -3330,3 +3785,5 @@
 	6 Trusty Armaments
 	6 Heavy Crossbow
 	15 Legion Steel
+	6 Evolving Wilds
+	4 Exploit the Time-Wound
