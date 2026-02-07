@@ -1,4 +1,21 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Armament Forging
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+This Saga gains “Whenever you gain life, put a +1/+1 counter on up to one target creature.”
+Whenever you attack this turn, you gain 2 life.
+Modified creatures you control gain vigilance and indestructible until end of turn. [i](Equipment, Auras you control, and counters are modifications.)[/i] => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — This Saga gains “Whenever you gain life, put a +1/+1 counter on up to one target creature.”
+II, III — Whenever you attack this turn, you gain 2 life.
+IV — Modified creatures you control gain vigilance and indestructible until end of turn. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Exploit the Time-Wound
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Timber Range Grizzly added.

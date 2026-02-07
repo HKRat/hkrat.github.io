@@ -5106,7 +5106,7 @@ When this Siege enters, exile X target nonland permanents. Return them to the ba
 		</card>
 		<card>
 			<name>Alduin&apos;s Bane</name>
-			<text>If a nontoken noncreature permanent would enter and it wasn&apos;t cast, put it on the bottom of its owner&apos;s library instead.
+			<text>If a nontoken nonland permanent would enter and it wasn&apos;t cast, put it on the bottom of its owner&apos;s library instead.
 At the beginning of your end step, you gain 2 life and study the voice. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)
 ---
 (Front): Exploit the Time-Wound</text>
