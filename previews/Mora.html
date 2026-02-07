@@ -1,0 +1,856 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/Mora-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>Mora visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/Mora-files/logo.png" />
+	<img class="preload-hidden" src="../sets/FTB-files/icon.png" />
+		<img class="preload-hidden" src="../sets/TOC-files/icon.png" />
+		<img class="preload-hidden" src="../sets/TOB-files/icon.png" />
+		<img class="preload-hidden" src="../sets/PRW-files/icon.png" />
+		<img class="preload-hidden" src="../sets/CSD-files/icon.png" />
+		<img class="preload-hidden" src="../sets/WAW-files/icon.png" />
+		<img class="preload-hidden" src="../sets/PCA-files/icon.png" />
+		<img class="preload-hidden" src="../sets/SRN-files/icon.png" />
+		<img class="preload-hidden" src="../sets/Kube-files/icon.png" />
+		<img class="preload-hidden" src="../sets/Mora-files/icon.png" />
+		<img class="preload-hidden" src="../sets/COT-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/Mora"><img src="../sets/Mora-files/icon.png">Will of Mora</a>
+	
+		<a class="set-bar inactive" href="../previews/FTB"><img src="../sets/FTB-files/icon.png">Fate of the Dragonborn</a>
+	
+		<a class="set-bar inactive" href="../previews/TOC"><img src="../sets/TOC-files/icon.png">Tides of Caitisan</a>
+	
+		<a class="set-bar inactive" href="../previews/TOB"><img src="../sets/TOB-files/icon.png">Threat of Oblivion</a>
+	
+		<a class="set-bar inactive" href="../previews/PRW"><img src="../sets/PRW-files/icon.png">Primal Wilds</a>
+	
+		<a class="set-bar inactive" href="../previews/CSD"><img src="../sets/CSD-files/icon.png">Clash of Sordell</a>
+	
+		<a class="set-bar inactive" href="../previews/WAW"><img src="../sets/WAW-files/icon.png">World at War</a>
+	
+		<a class="set-bar inactive" href="../previews/PCA"><img src="../sets/PCA-files/icon.png">Pirates of Caitisan</a>
+	
+		<a class="set-bar inactive" href="../previews/SRN"><img src="../sets/SRN-files/icon.png">Skyrim Nine Divines Edition</a>
+	
+		<a class="set-bar inactive" href="../previews/Kube"><img src="../sets/Kube-files/icon.png">Krowkube</a>
+	
+		<a class="set-bar inactive" href="../previews/COT"><img src="../sets/COT-files/icon.png">Commanders of the Tides</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/Mora-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\2_Commander's Insight.png" id="Mora_2_Commanders Insight" data-flag="@X" onclick="openSidebar('Mora_2_Commanders Insight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\13_Desolation of Alduin.png" id="Mora_13_Desolation of Alduin" data-flag="@X" onclick="openSidebar('Mora_13_Desolation of Alduin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\39_Seasoned Pyromancer.png" id="Mora_39_Seasoned Pyromancer" data-flag="@X" onclick="openSidebar('Mora_39_Seasoned Pyromancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\3_Discerning the Transmundane.png" id="Mora_3_Discerning the Transmundane" data-flag="@X" onclick="openSidebar('Mora_3_Discerning the Transmundane',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\17_Durnehviir, Soul-Claimed.png" id="Mora_17_Durnehviir, Soul-Claimed" data-flag="@X" onclick="openSidebar('Mora_17_Durnehviir, Soul-Claimed',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\42_Stormscale Scion.png" id="Mora_42_Stormscale Scion" data-flag="@X" onclick="openSidebar('Mora_42_Stormscale Scion',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\5_Forgotten Knowledge.png" id="Mora_5_Forgotten Knowledge" data-flag="@X" onclick="openSidebar('Mora_5_Forgotten Knowledge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\19_Flight of Soot.png" id="Mora_19_Flight of Soot" data-flag="@X" onclick="openSidebar('Mora_19_Flight of Soot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\44_Winged Snow Hunter.png" id="Mora_44_Winged Snow Hunter" data-flag="@X" onclick="openSidebar('Mora_44_Winged Snow Hunter',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\6_Glasswing Dovah.png" id="Mora_6_Glasswing Dovah" data-flag="@X" onclick="openSidebar('Mora_6_Glasswing Dovah',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\21_Peer into the Abyss.png" id="Mora_21_Peer into the Abyss" data-flag="@X" onclick="openSidebar('Mora_21_Peer into the Abyss',false)"></div>
+				<div class="container"><img loading="lazy" data-alt_src="sets\Mora-files\img\26_Birgi, God of Storytelling_back.png" alt="sets\Mora-files\img\26_Birgi, God of Storytelling_front.png" id="Mora_26_Birgi, God of Storytelling" data-flag="@XD" onclick="openSidebar('Mora_26_Birgi, God of Storytelling',false)"><button class="flip-btn" onclick="imgFlip('Mora_26_Birgi, God of Storytelling')"></button></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\7_Mirrorborn Dovah.png" id="Mora_7_Mirrorborn Dovah" data-flag="@X" onclick="openSidebar('Mora_7_Mirrorborn Dovah',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\22_Schemes of Return.png" id="Mora_22_Schemes of Return" data-flag="@X" onclick="openSidebar('Mora_22_Schemes of Return',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\27_Breach Apocrypha.png" id="Mora_27_Breach Apocrypha" data-flag="@X" onclick="openSidebar('Mora_27_Breach Apocrypha',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\8_Paarthurnax, Greybeard Mentor.png" id="Mora_8_Paarthurnax, Greybeard Mentor" data-flag="@X" onclick="openSidebar('Mora_8_Paarthurnax, Greybeard Mentor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\23_Sedgemoor Witch.png" id="Mora_23_Sedgemoor Witch" data-flag="@X" onclick="openSidebar('Mora_23_Sedgemoor Witch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\30_Fire Wyrm.png" id="Mora_30_Fire Wyrm" data-flag="@X" onclick="openSidebar('Mora_30_Fire Wyrm',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\10_Telekinetic Mastery.png" id="Mora_10_Telekinetic Mastery" data-flag="@X" onclick="openSidebar('Mora_10_Telekinetic Mastery',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\25_Winged Descent.png" id="Mora_25_Winged Descent" data-flag="@X" onclick="openSidebar('Mora_25_Winged Descent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\31_Firebolt Adept.png" id="Mora_31_Firebolt Adept" data-flag="@X" onclick="openSidebar('Mora_31_Firebolt Adept',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\11_The Wheel Turns.png" id="Mora_11_The Wheel Turns" data-flag="@X" onclick="openSidebar('Mora_11_The Wheel Turns',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\14_Diabolic Tutor.png" id="Mora_14_Diabolic Tutor" data-flag="@X" onclick="openSidebar('Mora_14_Diabolic Tutor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\40_Skvorang Calvary.png" id="Mora_40_Skvorang Calvary" data-flag="@X" onclick="openSidebar('Mora_40_Skvorang Calvary',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\1_Bend Will.png" id="Mora_1_Bend Will" data-flag="@X" onclick="openSidebar('Mora_1_Bend Will',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\15_Doomskater.png" id="Mora_15_Doomskater" data-flag="@X" onclick="openSidebar('Mora_15_Doomskater',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\43_Way of the Voice.png" id="Mora_43_Way of the Voice" data-flag="@X" onclick="openSidebar('Mora_43_Way of the Voice',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\4_Draconic Divulging.png" id="Mora_4_Draconic Divulging" data-flag="@X" onclick="openSidebar('Mora_4_Draconic Divulging',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\20_Loyal Subordinate.png" id="Mora_20_Loyal Subordinate" data-flag="@X" onclick="openSidebar('Mora_20_Loyal Subordinate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\28_Dragontongue Necklace.png" id="Mora_28_Dragontongue Necklace" data-flag="@X" onclick="openSidebar('Mora_28_Dragontongue Necklace',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\9_Preordain.png" id="Mora_9_Preordain" data-flag="@X" onclick="openSidebar('Mora_9_Preordain',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\24_Squelching Strike.png" id="Mora_24_Squelching Strike" data-flag="@X" onclick="openSidebar('Mora_24_Squelching Strike',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\32_Goldclaw Dov.png" id="Mora_32_Goldclaw Dov" data-flag="@X" onclick="openSidebar('Mora_32_Goldclaw Dov',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\12_Deadly Dispute.png" id="Mora_12_Deadly Dispute" data-flag="@X" onclick="openSidebar('Mora_12_Deadly Dispute',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\33_Immolating Shout.png" id="Mora_33_Immolating Shout" data-flag="@X" onclick="openSidebar('Mora_33_Immolating Shout',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\16_Dredged Dovah.png" id="Mora_16_Dredged Dovah" data-flag="@X" onclick="openSidebar('Mora_16_Dredged Dovah',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\34_In Mora's Shadow.png" id="Mora_34_In Moras Shadow" data-flag="@X" onclick="openSidebar('Mora_34_In Moras Shadow',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\18_Eyes Above.png" id="Mora_18_Eyes Above" data-flag="@X" onclick="openSidebar('Mora_18_Eyes Above',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\35_Invocation of Fire.png" id="Mora_35_Invocation of Fire" data-flag="@X" onclick="openSidebar('Mora_35_Invocation of Fire',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\86_Hermaeus Mora, Gardner of Men.png" id="Mora_86_Hermaeus Mora, Gardner of Men" data-flag="@X" onclick="openSidebar('Mora_86_Hermaeus Mora, Gardner of Men',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\38_Ruinous Brimstone.png" id="Mora_38_Ruinous Brimstone" data-flag="@X" onclick="openSidebar('Mora_38_Ruinous Brimstone',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\45_Young Pyromancer.png" id="Mora_45_Young Pyromancer" data-flag="@X" onclick="openSidebar('Mora_45_Young Pyromancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\29_Faithless Looting.png" id="Mora_29_Faithless Looting" data-flag="@X" onclick="openSidebar('Mora_29_Faithless Looting',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\36_Lightning Bolt.png" id="Mora_36_Lightning Bolt" data-flag="@X" onclick="openSidebar('Mora_36_Lightning Bolt',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\37_Raining Dragonfire.png" id="Mora_37_Raining Dragonfire" data-flag="@X" onclick="openSidebar('Mora_37_Raining Dragonfire',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\41_Skvorang Cliffwalker.png" id="Mora_41_Skvorang Cliffwalker" data-flag="@X" onclick="openSidebar('Mora_41_Skvorang Cliffwalker',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\51_Miraak's Unraveling.png" id="Mora_51_Miraaks Unraveling" data-flag="@X" onclick="openSidebar('Mora_51_Miraaks Unraveling',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\49_Miraak, First Dovahkiin.png" id="Mora_49_Miraak, First Dovahkiin" data-flag="@X" onclick="openSidebar('Mora_49_Miraak, First Dovahkiin',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\55_Stormwing Dovah.png" id="Mora_55_Stormwing Dovah" data-flag="@X" onclick="openSidebar('Mora_55_Stormwing Dovah',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\57_World-Eaters Dissent.png" id="Mora_57_World-Eaters Dissent" data-flag="@X" onclick="openSidebar('Mora_57_World-Eaters Dissent',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\48_Gurgling Lurker.png" id="Mora_48_Gurgling Lurker" data-flag="@X" onclick="openSidebar('Mora_48_Gurgling Lurker',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\47_Elderboon Dovah.png" id="Mora_47_Elderboon Dovah" data-flag="@X" onclick="openSidebar('Mora_47_Elderboon Dovah',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\52_Mora's Loreseeker.png" id="Mora_52_Moras Loreseeker" data-flag="@X" onclick="openSidebar('Mora_52_Moras Loreseeker',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\87_Miraak, the Pawn.png" id="Mora_87_Miraak, the Pawn" data-flag="@X" onclick="openSidebar('Mora_87_Miraak, the Pawn',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\56_Whispers of Apocrypha.png" id="Mora_56_Whispers of Apocrypha" data-flag="@X" onclick="openSidebar('Mora_56_Whispers of Apocrypha',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\50_Miraak's Command.png" id="Mora_50_Miraaks Command" data-flag="@X" onclick="openSidebar('Mora_50_Miraaks Command',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\53_Nekusar, the Mindrazer.png" id="Mora_53_Nekusar, the Mindrazer" data-flag="@X" onclick="openSidebar('Mora_53_Nekusar, the Mindrazer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\54_Solstheim Serpent.png" id="Mora_54_Solstheim Serpent" data-flag="@X" onclick="openSidebar('Mora_54_Solstheim Serpent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\46_Apocrypha Loremaster.png" id="Mora_46_Apocrypha Loremaster" data-flag="@X" onclick="openSidebar('Mora_46_Apocrypha Loremaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\59_Dwemer-Made Dovah.png" id="Mora_59_Dwemer-Made Dovah" data-flag="@X" onclick="openSidebar('Mora_59_Dwemer-Made Dovah',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\60_Idol of Oblivion.png" id="Mora_60_Idol of Oblivion" data-flag="@X" onclick="openSidebar('Mora_60_Idol of Oblivion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\61_Talisman of Dominance.png" id="Mora_61_Talisman of Dominance" data-flag="@X" onclick="openSidebar('Mora_61_Talisman of Dominance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\62_Talisman of Indulgence.png" id="Mora_62_Talisman of Indulgence" data-flag="@X" onclick="openSidebar('Mora_62_Talisman of Indulgence',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\58_Arcane Signet.png" id="Mora_58_Arcane Signet" data-flag="@X" onclick="openSidebar('Mora_58_Arcane Signet',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div id="land" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\72_Lonely Sandbar.png" id="Mora_72_Lonely Sandbar" data-flag="@X" onclick="openSidebar('Mora_72_Lonely Sandbar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\64_Barren Moor.png" id="Mora_64_Barren Moor" data-flag="@X" onclick="openSidebar('Mora_64_Barren Moor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\70_Forgotten Cave.png" id="Mora_70_Forgotten Cave" data-flag="@X" onclick="openSidebar('Mora_70_Forgotten Cave',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\82_Weathered Slums.png" id="Mora_82_Weathered Slums" data-flag="@X" onclick="openSidebar('Mora_82_Weathered Slums',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\79_Smokeheap Slums.png" id="Mora_79_Smokeheap Slums" data-flag="@X" onclick="openSidebar('Mora_79_Smokeheap Slums',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\65_Choked Estuary.png" id="Mora_65_Choked Estuary" data-flag="@X" onclick="openSidebar('Mora_65_Choked Estuary',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\69_Foreboding Ruins.png" id="Mora_69_Foreboding Ruins" data-flag="@X" onclick="openSidebar('Mora_69_Foreboding Ruins',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\78_Sigils of Fate.png" id="Mora_78_Sigils of Fate" data-flag="@X" onclick="openSidebar('Mora_78_Sigils of Fate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\74_Miraak's Study.png" id="Mora_74_Miraaks Study" data-flag="@X" onclick="openSidebar('Mora_74_Miraaks Study',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\77_Shaded Cove.png" id="Mora_77_Shaded Cove" data-flag="@X" onclick="openSidebar('Mora_77_Shaded Cove',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\71_Halls of Apocrypha.png" id="Mora_71_Halls of Apocrypha" data-flag="@X" onclick="openSidebar('Mora_71_Halls of Apocrypha',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\81_Snowswept Peak.png" id="Mora_81_Snowswept Peak" data-flag="@X" onclick="openSidebar('Mora_81_Snowswept Peak',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\67_Crystal Coasts.png" id="Mora_67_Crystal Coasts" data-flag="@X" onclick="openSidebar('Mora_67_Crystal Coasts',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\75_Oblivion Deadlands.png" id="Mora_75_Oblivion Deadlands" data-flag="@X" onclick="openSidebar('Mora_75_Oblivion Deadlands',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\76_Primal Isle.png" id="Mora_76_Primal Isle" data-flag="@X" onclick="openSidebar('Mora_76_Primal Isle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\73_Luminous Reef.png" id="Mora_73_Luminous Reef" data-flag="@X" onclick="openSidebar('Mora_73_Luminous Reef',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\80_Smoking Crater.png" id="Mora_80_Smoking Crater" data-flag="@X" onclick="openSidebar('Mora_80_Smoking Crater',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\63_Ancient Forge.png" id="Mora_63_Ancient Forge" data-flag="@X" onclick="openSidebar('Mora_63_Ancient Forge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\66_Command Tower.png" id="Mora_66_Command Tower" data-flag="@X" onclick="openSidebar('Mora_66_Command Tower',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\68_Evolving Wilds.png" id="Mora_68_Evolving Wilds" data-flag="@X" onclick="openSidebar('Mora_68_Evolving Wilds',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\85_Mountain.png" id="Mora_85_Mountain" data-flag="@X" onclick="openSidebar('Mora_85_Mountain',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\84_Swamp.png" id="Mora_84_Swamp" data-flag="@X" onclick="openSidebar('Mora_84_Swamp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\83_Island.png" id="Mora_83_Island" data-flag="@X" onclick="openSidebar('Mora_83_Island',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\Mora-files\img\1t_Treasure.png" id="Mora_1t_Treasure" data-flag="@X" onclick="openSidebar('Mora_1t_Treasure',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="Mora_e" data-flag="@E" onclick="openSidebar('Mora_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="Mora_er" data-flag="@E" onclick="openSidebar('Mora_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>

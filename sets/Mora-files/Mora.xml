@@ -1,0 +1,1544 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>Mora</name>
+			<longname>Will of Mora</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-02-07</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Idol of Oblivion</name>
+			<text>{T}: Draw a card. Activate only if you created a token this turn.
+{8}, {T}, Sacrifice this artifact: Create a 10/10 colorless Eldrazi creature token.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/60_Idol of Oblivion.png" num="60">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Miraak, First Dovahkiin</name>
+			<text>Dragon creatures you control have haste.
+When Miraak enters, if he escaped, create two 5/5 red Dragon creature tokens with flying.
+Escape—{5}{B}{R}, Exile ten other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/49_Miraak, First Dovahkiin.png" num="49">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Squelching Strike</name>
+			<text>Creatures you don&apos;t control get -1/-1 until end of turn. Each opponent loses 1 life.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/24_Squelching Strike.png" num="24">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Arcane Signet</name>
+			<text>{T}: Add one mana of any color in your commander&apos;s color identity.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/58_Arcane Signet.png" num="58">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Schemes of Return</name>
+			<text></text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/22_Schemes of Return.png" num="22">Mora</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hermaeus Mora, Gardner of Men</name>
+			<text>Flying, lifelink
+Pay X life: Exile target instant or sorcery card in your graveyard with mana value X. You may cast that card this turn. When you do, it gains cipher.
+Partner—Daedra (You can have two commanders if both have this ability.)</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/Mora-files/img/86_Hermaeus Mora, Gardner of Men.png" num="86">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Wheel Turns</name>
+			<text>As an additional cost to cast this spell, you may behold a Dragon.
+Take an extra turn after this one. Put a stun counter on each land you control unless you beheld a Dragon. Exile The Wheel Turns.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/11_The Wheel Turns.png" num="11">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Seasoned Pyromancer</name>
+			<text>When this creature enters, discard two cards, then draw two cards. For each nonland card discarded this way, create a 1/1 red Elemental creature token.
+{3}{R}{R}, Exile this card from your graveyard: Create two 1/1 red Elemental creature tokens.</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/Mora-files/img/39_Seasoned Pyromancer.png" num="39">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lightning Bolt</name>
+			<text>Lightning Bolt deals 3 damage to any target.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/36_Lightning Bolt.png" num="36">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Miraak&apos;s Command</name>
+			<text>Choose two —
+• Create a token that&apos;s a copy of target Dragon you control.
+• Target player may surveil 3.
+• Creatures target player controls get +3/-3 until end of turn.
+• Exile the top three cards of target player&apos;s library. You may play those cards for as long as they remain exiled.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/50_Miraak&apos;s Command.png" num="50">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Dragon</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1UBR</manacost>
+				<cmc>4</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Miraak, the Pawn</name>
+			<text>Whenever you cast an instant, sorcery, or Dragon spell, create an X/X red Dragon creature token with flying, where X is that spell&apos;s mana value.
+At the beginning of your end step, sacrifice a Dragon and create a tapped Treasure token.
+Partner—Daedra (You can have two commanders if both have this ability.)</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/Mora-files/img/87_Miraak, the Pawn.png" num="87">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demigod Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Command Tower</name>
+			<text>{T}: Add one mana of any color in your commander&apos;s color identity.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/66_Command Tower.png" num="66">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Preordain</name>
+			<text>Scry 2, then draw a card. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom and the rest on top in any order.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/9_Preordain.png" num="9">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mirrorborn Dovah</name>
+			<text>Thu&apos;um
+Flying
+At the beginning of combat on your turn, this creature becomes a copy of up to one other target nonland permanent until end of turn, except it&apos;s a 5/5 Dragon Shapeshifter creature with flying.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/7_Mirrorborn Dovah.png" num="7">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>6UU</manacost>
+				<cmc>8</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bend Will</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Counter target spell.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/1_Bend Will.png" num="1">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Dragon</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Halls of Apocrypha</name>
+			<text>This land enters tapped.
+{T}: Add {U} or {R}.
+{3}{UR}, {T}, Sacrifice this land: Draw a card. This ability costs {1} less to activate for each opponent you have.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/71_Halls of Apocrypha.png" num="71">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Breach Apocrypha</name>
+			<text>Dragon spells you cast from your hand have discover X, where X is their mana value minus 1. (To discover X, exile cards from the top of your library until you exile a nonland card with mana value X or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
+Cycling {1}{R}</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/27_Breach Apocrypha.png" num="27">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Peer into the Abyss</name>
+			<text>Target player draws cards equal to half the number of cards in their library and loses half their life. Round up each time.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/21_Peer into the Abyss.png" num="21">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4BBB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deadly Dispute</name>
+			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw two cards and create a Treasure token.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/12_Deadly Dispute.png" num="12">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Treasure Mora</name>
+			<text>{T}: Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="special" picurl="https://hkrat.github.io/sets/Mora-files/img/1t_Treasure.png" num="1">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Loyal Subordinate</name>
+			<text>Menace
+Lieutenant — At the beginning of combat on your turn, if you control your commander, each opponent loses 3 life.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/20_Loyal Subordinate.png" num="20">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sedgemoor Witch</name>
+			<text>Menace
+Ward—Pay 3 life.
+Magecraft — Whenever you cast or copy an instant or sorcery spell, create a 1/1 black and green Pest creature token with &quot;When this token dies, you gain 1 life.&quot;</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/23_Sedgemoor Witch.png" num="23">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Diabolic Tutor</name>
+			<text>Search your library for a card, put it into your hand, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/14_Diabolic Tutor.png" num="14">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nekusar, the Mindrazer</name>
+			<text>At the beginning of each player&apos;s draw step, that player draws an additional card.
+Whenever an opponent draws a card, Nekusar deals 1 damage to that player.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/53_Nekusar, the Mindrazer.png" num="53">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Young Pyromancer</name>
+			<text>Whenever you cast an instant or sorcery spell, create a 1/1 red Elemental creature token.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/45_Young Pyromancer.png" num="45">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Talisman of Indulgence</name>
+			<text>{T}: Add {C}.
+{T}: Add {B} or {R}. This artifact deals 1 damage to you.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/62_Talisman of Indulgence.png" num="62">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Faithless Looting</name>
+			<text>Draw two cards, then discard two cards.
+Flashback {2}{R}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/29_Faithless Looting.png" num="29">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gurgling Lurker</name>
+			<text>Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of this creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)
+This creature&apos;s power is equal to the number of spells you&apos;ve cast this turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/48_Gurgling Lurker.png" num="48">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Salamander</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>*/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glasswing Dovah</name>
+			<text>This spell can&apos;t be countered.
+Flying
+Whenever you cast an instant, sorcery, or Dragon spell, scry 1.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/6_Glasswing Dovah.png" num="6">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Solstheim Serpent</name>
+			<text>Thu&apos;um
+Flying
+Whenever a player discards a card, exile it from that player&apos;s graveyard.
+Whenever this creature deals combat damage to a player, you may cast a card exiled with it without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/54_Solstheim Serpent.png" num="54">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5UBR</manacost>
+				<cmc>8</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Apocrypha Loremaster</name>
+			<text>Flying
+Whenever a player discards a card for the first time each turn, you draw a card and lose 1 life.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/46_Apocrypha Loremaster.png" num="46">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>In Mora&apos;s Shadow</name>
+			<text>This spell costs {2} less to cast if a player discarded a card this turn.
+Until end of turn, you may cast target instant or sorcery card from your graveyard with mana value 3 or less without paying its mana cost.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/34_In Mora&apos;s Shadow.png" num="34">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Forgotten Knowledge</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Look at the top seven cards of your library. Put two of them into your hand and the rest into your graveyard.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/5_Forgotten Knowledge.png" num="5">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Dragon</type>
+				<maintype>Instant</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Draconic Divulging</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Draw three cards, then discard a card.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/4_Draconic Divulging.png" num="4">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Dragon</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Winged Descent</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Destroy target creature.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/25_Winged Descent.png" num="25">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Dragon</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Invocation of Fire</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Add {R}{R}{R}.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/35_Invocation of Fire.png" num="35">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Dragon</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dwemer-Made Dovah</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Flying</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/59_Dwemer-Made Dovah.png" num="59">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Doomskater</name>
+			<text>Thu&apos;um
+Flying
+Whenever you cast a Dragon spell, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/15_Doomskater.png" num="15">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eyes Above</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+You draw two cards and you lose 2 life.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/18_Eyes Above.png" num="18">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Dragon</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flight of Soot</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Destroy all non-Dragon creatures. You may cast Dragon spells from your graveyard this turn. If a Dragon would be put into your graveyard from anywhere this turn, put it on the bottom of your library instead.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/19_Flight of Soot.png" num="19">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Dragon</type>
+				<maintype>Sorcery</maintype>
+				<manacost>9BB</manacost>
+				<cmc>11</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Skvorang Cliffwalker</name>
+			<text>Whenever you cast a Dragon spell, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/41_Skvorang Cliffwalker.png" num="41">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skvorang Calvary</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+When this creature enters, up to X target creatures each become 4/4 red Dragon creatures with flying, haste, and lose all other abilities until end of turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/40_Skvorang Calvary.png" num="40">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Dragon Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>XRRR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ruinous Brimstone</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Ruinous Brimstone deals 3 damage to each non-Dragon creature.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/38_Ruinous Brimstone.png" num="38">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Dragon</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Whispers of Apocrypha</name>
+			<text>At the beginning of your upkeep, create a Treasure token.
+Whenever you cast an instant, sorcery, or Dragon spell, copy it for each mana from a Treasure spent to cast it. You may choose new targets for the copies. (Copies of permanent spells become tokens.)</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/Mora-files/img/56_Whispers of Apocrypha.png" num="56">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UBR</manacost>
+				<cmc>6</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stormwing Dovah</name>
+			<text>Flash
+Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Flying
+When this creature enters, each player discards their hand, then draws three cards.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/55_Stormwing Dovah.png" num="55">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>5UB</manacost>
+				<cmc>7</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Paarthurnax, Greybeard Mentor</name>
+			<text>Thu&apos;um
+Flying, vigilance
+{T}: Mill three cards, then an instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost minus the number of Dragon cards milled this way.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/8_Paarthurnax, Greybeard Mentor.png" num="8">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elder Dragon Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Desolation of Alduin</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Each non-Dragon creature gets -X/-X until end of turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/13_Desolation of Alduin.png" num="13">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Dragon</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XXB</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dredged Dovah</name>
+			<text>Thu&apos;um
+Flying
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/16_Dredged Dovah.png" num="16">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>6B</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Durnehviir, Soul-Claimed</name>
+			<text>Thu&apos;um
+Flying
+Whenever another nontoken creature you control dies, you may exile it. If you do, create a token that&apos;s a copy of that creature, except it&apos;s a 2/2 Skeleton.
+{4}{B}, Sacrifice two creatures: Return Durnehviir from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/17_Durnehviir, Soul-Claimed.png" num="17">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goldclaw Dov</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Flying
+Whenever you cast a Dragon spell, create a Treasure token. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/32_Goldclaw Dov.png" num="32">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raining Dragonfire</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Raining Dragonfire deals 3 damage to any target.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/37_Raining Dragonfire.png" num="37">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Instant — Dragon</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Elderboon Dovah</name>
+			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
+Flying
+The first noncreature spell you cast each turn is a kindred Dragon. If it doesn&apos;t have thu&apos;um, it gains thu&apos;um.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/47_Elderboon Dovah.png" num="47">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>4UR</manacost>
+				<cmc>6</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>World-Eaters Dissent</name>
+			<text>Thu&apos;um
+Discard your hand, then draw three cards. Then, return a creature with mana value less than or equal to the number of cards you&apos;ve drawn this turn from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/57_World-Eaters Dissent.png" num="57">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Dragon</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UB</manacost>
+				<cmc>6</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dragontongue Necklace</name>
+			<text>This artifact enters tapped. 
+When this artifact enters, you may discard a card. If you do, draw two cards.
+{3}{R}, {T}, Sacrifice this artifact: Return target instant, sorcery, or Dragon card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/28_Dragontongue Necklace.png" num="28">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fire Wyrm</name>
+			<text>Whenever you cast a Dragon spell, double this creature&apos;s power until end of turn.
+{2}{R}: This creature gains flying until end of turn.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/30_Fire Wyrm.png" num="30">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Firebolt Adept</name>
+			<text>Whenever you cast an instant, sorcery, or Dragon spell, this creature deals 1 damage to each opponent. If this is the second time this ability has resolved this turn, study the voice.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/31_Firebolt Adept.png" num="31">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Immolating Shout</name>
+			<text>Thu&apos;um
+Choose one —
+• Immolating Shout deals 5 damage to target creature without flying.
+• Immolating Shout deals 2 damage to each creature.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/33_Immolating Shout.png" num="33">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Dragon</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Way of the Voice</name>
+			<text>Whenever you cast an instant, sorcery, or Dragon spell, put a number of quest counters on this enchantment equal to that spell&apos;s mana value.
+As long as there are nine or more quest counters on this enchantment, it has flying and is a 4/4 Dragon creature in addition to its other types.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/43_Way of the Voice.png" num="43">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Enchantment — Dragon</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Winged Snow Hunter</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/Mora-files/img/44_Winged Snow Hunter.png" num="44">Mora</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Saga Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Talisman of Dominance</name>
+			<text>{T}: Add {C}.
+{T}: Add {U} or {B}. This artifact deals 1 damage to you.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/61_Talisman of Dominance.png" num="61">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Miraak&apos;s Unraveling</name>
+			<text>Whenever you cast an instant, sorcery, or Dragon spell, choose one —
+• Draw a card.
+• Create a Treasure token. 
+At the beginning of your end step, discard your hand.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/51_Miraak&apos;s Unraveling.png" num="51">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Discerning the Transmundane</name>
+			<text>When this enchantment enters, study the voice twice. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other. Then do it again.)
+You may cast spells with mana value less than or equal to the number of enchantments you control without paying their mana costs.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/3_Discerning the Transmundane.png" num="3">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Telekinetic Mastery</name>
+			<text>Whenever you cast a spell, return up to one target nonland permanent to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/10_Telekinetic Mastery.png" num="10">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mora&apos;s Loreseeker</name>
+			<text>Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that&apos;s a copy of this creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)
+Instant and sorcery spells you cast cost {1} less to cast.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/52_Mora&apos;s Loreseeker.png" num="52">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Birgi, God of Storytelling</name>
+			<text>Whenever you cast a spell, add {R}. Until end of turn, you don&apos;t lose this mana as steps and phases end.
+Creatures you control can boast twice during each of your turns rather than once.
+---
+(Back): Harnfel, Horn of Bounty</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/26_Birgi, God of Storytelling_front.png" num="26a">Mora</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Harnfel, Horn of Bounty</related>
+		</card>
+		<card>
+			<name>Harnfel, Horn of Bounty</name>
+			<text>Discard a card: Exile the top two cards of your library. You may play those cards this turn.
+---
+(Front): Birgi, God of Storytelling</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/26_Birgi, God of Storytelling_back.png" num="26b">Mora</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Birgi, God of Storytelling</related>
+		</card>
+		<card>
+			<name>Stormscale Scion</name>
+			<text>Flying
+Other Dragons you control get +1/+1.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. Copies become tokens.)</text>
+			<set rarity="mythic" picurl="https://hkrat.github.io/sets/Mora-files/img/42_Stormscale Scion.png" num="42">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Miraak&apos;s Study</name>
+			<text>This land enters tapped.
+{T}: Add {B} or {R}.
+{3}{BR}, {T}, Sacrifice this land: Draw a card. This ability costs {1} less to activate for each opponent you have.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/74_Miraak&apos;s Study.png" num="74">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sigils of Fate</name>
+			<text>This land enters tapped.
+{T}: Add {U} or {B}.
+{3}{UB}, {T}, Sacrifice this land: Draw a card. This ability costs {1} less to activate for each opponent you have.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/78_Sigils of Fate.png" num="78">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Luminous Reef</name>
+			<text>As Luminous Reef enters, you may reveal an Island or Swamp card from your hand. If you don&apos;t, Luminous Reef enters the battlefield tapped.
+{T}, Sacrifice Luminous Reef: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/73_Luminous Reef.png" num="73">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Smoking Crater</name>
+			<text>As Smoking Crater enters, you may reveal an Island or Mountain card from your hand. If you don&apos;t, Smoking Crater enters the battlefield tapped.
+{T}, Sacrifice Smoking Crater: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/80_Smoking Crater.png" num="80">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ancient Forge</name>
+			<text>Ancient Forge enters tapped.
+{T}: Add {U}, {B}, or {R}.
+Cycling {2}{B}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/63_Ancient Forge.png" num="63">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Barren Moor</name>
+			<text>Barren Moor enters tapped.
+{T}: Add {B}.
+Cycling {B}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/64_Barren Moor.png" num="64">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forgotten Cave</name>
+			<text>Forgotten Cave enters tapped.
+{T}: Add {R}.
+Cycling {R}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/70_Forgotten Cave.png" num="70">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Lonely Sandbar</name>
+			<text>Lonely Sandbar enters tapped.
+{T}: Add {U}.
+Cycling {U}</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/72_Lonely Sandbar.png" num="72">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Primal Isle</name>
+			<text>({T}: Add {U}, {B}, or {R}.)
+Primal Isle enters tapped unless you control two or more basic lands.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/76_Primal Isle.png" num="76">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Oblivion Deadlands</name>
+			<text>({T}: Add {B}.)
+Oblivion Deadlands enters tapped unless you control an Island or Mountain.
+{1}, {T}: Add {U}{R}.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/75_Oblivion Deadlands.png" num="75">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BUR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Smokeheap Slums</name>
+			<text>({T}: Add {B} or {R}.)
+Smokeheap Slums enters tapped.
+Cycling {BR} ({BR}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/79_Smokeheap Slums.png" num="79">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Weathered Slums</name>
+			<text>({T}: Add {U} or {B}.)
+Weathered Slums enters tapped.
+Cycling {UB} ({UB}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/82_Weathered Slums.png" num="82">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Foreboding Ruins</name>
+			<text>As this land enters, you may reveal a Swamp or Mountain card from your hand. If you don&apos;t, this land enters tapped.
+{T}: Add {B} or {R}.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/69_Foreboding Ruins.png" num="69">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Choked Estuary</name>
+			<text>As this land enters, you may reveal an Island or Swamp card from your hand. If you don&apos;t, this land enters tapped.
+{T}: Add {U} or {B}.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/65_Choked Estuary.png" num="65">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Snowswept Peak</name>
+			<text>As this land enters, you may reveal an Island or Mountain card from your hand. If you don&apos;t, this land enters tapped.
+{T}: Add {U} or {R}.</text>
+			<set rarity="uncommon" picurl="https://hkrat.github.io/sets/Mora-files/img/81_Snowswept Peak.png" num="81">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Evolving Wilds</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/68_Evolving Wilds.png" num="68">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/85_Mountain.png" num="85">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/84_Swamp.png" num="84">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/83_Island.png" num="83">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Crystal Coasts</name>
+			<text>Crystal Coasts enters tapped.
+When Crystal Coasts enters, return a land you control to its owner&apos;s hand.
+{T}: Add {U}{R}.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/67_Crystal Coasts.png" num="67">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Shaded Cove</name>
+			<text>Shaded Cove enters tapped.
+When Shaded Cove enters, return a land you control to its owner&apos;s hand.
+{T}: Add {U}{B}.</text>
+			<set rarity="common" picurl="https://hkrat.github.io/sets/Mora-files/img/77_Shaded Cove.png" num="77">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Commander&apos;s Insight</name>
+			<text>Target player draws X cards plus an additional card for each time they&apos;ve cast a commander from the command zone this game.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Mora-files/img/2_Commander&apos;s Insight.png" num="2">Mora</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XUUU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
