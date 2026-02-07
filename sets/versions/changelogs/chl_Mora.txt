@@ -1,4 +1,17 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Hermaeus Mora, Gardner of Men
+
+Miraak, the Pawn
+pt: 4/3 => 3/4
+
+Miraak's Unraveling
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

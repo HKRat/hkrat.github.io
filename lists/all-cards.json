@@ -27337,7 +27337,7 @@
             "set": "Mora",
             "loyalty": "",
             "artist": "Alex Lesnov",
-            "notes": "!sort commander\n\n!tag commander\n\nTarget instant or sorcery card in your graveyard with mana value X gains flashback until end of turn. The flashback cost is equal to its mana cost. When you cast that card this turn, it gains cipher.",
+            "notes": "\n\nTarget instant or sorcery card in your graveyard with mana value X gains flashback until end of turn. The flashback cost is equal to its mana cost. When you cast that card this turn, it gains cipher.",
             "image_type": "png"
         },
         {
@@ -27426,13 +27426,13 @@
             "cost": "{2}{U}{R}",
             "rules_text": "Whenever you cast an instant, sorcery, or Dragon spell, create an X/X red Dragon creature token with flying, where X is that spell's mana value.\nAt the beginning of your end step, sacrifice a Dragon and create a tapped Treasure token.\nPartner\u2013Daedra [i](You can have two commanders if both have this ability.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "4/3",
+            "pt": "3/4",
             "special_text": "",
             "shape": "normal",
             "set": "Mora",
             "loyalty": "",
             "artist": "Alfred Khamidullin",
-            "notes": "!sort commander\n\n!tag commander\n\n\nWard\u2014Pay 3 life \nR, T: Create an X/X red Dragon creature token with flying, then Miraak deals X damage to any target. X is the number of spells you've cast this turn.",
+            "notes": "\n\nWard\u2014Pay 3 life \nR, T: Create an X/X red Dragon creature token with flying, then Miraak deals X damage to any target. X is the number of spells you've cast this turn.",
             "image_type": "png"
         },
         {
@@ -28381,7 +28381,7 @@
             "shape": "normal",
             "set": "Mora",
             "loyalty": "",
-            "artist": "Mamuka20",
+            "artist": "marie carles",
             "notes": "Kill",
             "image_type": "png"
         },
