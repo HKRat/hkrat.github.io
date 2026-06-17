@@ -1,4 +1,332 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Deepspace Herald added.
+Dragonfire Galleon added.
+Callous Relic Hunter added.
+Illypso, Guide to Glory added.
+Draining Exoflow added.
+Eroded Range added.
+Flyby Basin added.
+Frozen Spill added.
+Mycelium Grove added.
+Noxious Canyon added.
+Strange Reaches added.
+Sublimated River added.
+Subterranean Expanse added.
+Upper Atmosphere added.
+Innovation added.
+Arlinn Kord, the Outcast added.
+Tymna, Fate-Woven added.
+Siebren de Kuiper, Astrophysicist added.
+Stumbling Giant added.
+Through the Multiverse added.
+Suspect at Large added.
+Gilded Herald added.
+Telekinetic Mastery added.
+Journey to the Lowlands added.
+Journey to the Underkeep added.
+Relic Hunter added.
+Astral Ring added.
+Matter Extruder added.
+Bloodletter Falcon added.
+Bosmer Pathcutter added.
+Tombs Unplundered added.
+Conjure Dremora Lord added.
+Way of the Voice added.
+Durnehviir, Soul-Claimed added.
+Fire Wyrm added.
+Alduin's Wall added.
+Alduin, First-Born of Akatosh added.
+Paarthurnax, Greybeard Mentor added.
+Unrelenting Force added.
+Invocation of Fire added.
+Mirrorborn Dovah added.
+Draconic Divulging added.
+Haunting Dovah added.
+Attentive Jarl added.
+O' Fortune, O' Arrogance added.
+Ruinous End added.
+Immolating Shout added.
+Alduin, the Catalyst added.
+Burdened Houscarl added.
+Leave the Tomb added.
+Dragon Rising added.
+Dovah's Ire added.
+Azura's Many Visions added.
+Kinsfield Coin-Cutters added.
+Sanctified Halls added.
+Elderboon Dovah added.
+Miraak's Unraveling added.
+Verdant Shellwurm added.
+Good as New added.
+Neoflore Dataweaver added.
+Bug in the System added.
+Nexus of Investment added.
+Senate Hopeful Norm Elm added.
+Governess's Might added.
+Hermaeus Mora added.
+Forgotten Horrors added.
+The Elder Scroll added.
+Helvalla the Hearth God added.
+Skvorang Cliffwalker added.
+Skvorang Calvary added.
+Brigantine Bombardier added.
+Eyes Above added.
+Skeletal Dovah added.
+Call the Elder Gods added.
+Fort Brimwip Massacre added.
+Prismatic Spring added.
+Start of a Journey added.
+Year of the Long Eclipse added.
+Atraxa added.
+The Call added.
+Adventurer added.
+Soldier added.
+Pirate added.
+Treasure added.
+Clue added.
+Herald of the Change added.
+Knight added.
+Citizen added.
+Phyrexian Mite added.
+Equipment added.
+Servo added.
+Soldier added.
+Spirit added.
+Crab added.
+Spirit Pirate added.
+Construct added.
+
+Cryptic Sphinx removed.
+Odelia Huntwarden removed.
+Elder Skaal of Odelia removed.
+Plema, Titan of Life's Spiral removed.
+Province Guardian removed.
+Nest Watchers removed.
+Shining Legionnaire removed.
+Bitter Brawler removed.
+Archer of Old Hunts removed.
+Spirit Speaker removed.
+Goblin Snowriders removed.
+Mockery of Death removed.
+Olfdenmyr Prowler removed.
+Ravage the Guild removed.
+Winter Wanders Near removed.
+Completely Frozen removed.
+Stormsight removed.
+Trail of Irrblossoms removed.
+Bear-King of Hrostgard removed.
+Charging Yeti removed.
+Frost-Den Spider removed.
+Province Conqueror removed.
+Run Over removed.
+Valley Crusher removed.
+Wayward Seeker removed.
+Fervor of Frost removed.
+Fjall Scavenger removed.
+Psychotic Strike removed.
+Runescribe of Stribius removed.
+Snowbreach Packmaster removed.
+Frostbite removed.
+Second Chances removed.
+Black Lotus removed.
+Cybertech Sparkworker removed.
+Source Code Engineer removed.
+Doomed Detective removed.
+Speakeasy Stalker removed.
+Call to the Ravens removed.
+Gana-Mali Procession removed.
+Unbecome removed.
+Helvalla, God of Glory removed.
+Hermaeus Mora, Lorekeeper removed.
+Snowsculptor removed.
+Helvalla Warmonger removed.
+Lost in the Drifts removed.
+Bonechilling Bite removed.
+Valley Pouncer removed.
+Province Banner removed.
+Bitter Spawn removed.
+Chill of the Grave removed.
+Demon Bear removed.
+Wandering Yeti removed.
+Unhallowed Dead removed.
+Aurora Reader removed.
+Frost-Weald Explorer removed.
+Angel removed.
+Frostweaver removed.
+In Good Health removed.
+Chilling Constellation removed.
+Glacial Wonder removed.
+Lumbering Valley removed.
+Muckroot Falls removed.
+Ravaging Runes removed.
+Roaming Remains removed.
+Sleeping Cairn removed.
+Spirit Valley removed.
+Sundering Terrain removed.
+Unshaken Oak removed.
+Constant Genesis removed.
+Karstaag, Ghost Titan removed.
+Njolbur, Aurorascale removed.
+Aurora Lotus removed.
+Pale Valley removed.
+Hand of Ravenwood removed.
+Forced Penance removed.
+Ejuld the Blizzard Queen removed.
+Forsaken Banneret removed.
+Lunar Theorist removed.
+Winter Sun removed.
+Nehel's Envoy removed.
+Badlands Ranger removed.
+Honor Calling removed.
+Vitalia Express removed.
+Construct Caverns removed.
+Marauder's Tomb removed.
+Nast, Rimewaste Explorer removed.
+Cat removed.
+
+Her Majesty Justicia
+rules_text: Her Majesty Justicia has indestructible as long as it's attacking.
+Creatures your opponents control lose all abilities and can't have or gain abilities. => Her Majesty Justicia has indestructible as long as she attacked this turn.
+Creatures your opponents control lose all abilities and can't have or gain abilities.
+
+Miraak's Dragon Uprising
+special_text: 
+I — Gain control of target creature and untap it. That creature gains haste.
+II — You may put a creature card from your hand onto the battlefield. It gains haste.
+III — Exile each creature you control. Create a 2/2 black Zombie creature token. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Gain control of target creature and untap it. That creature gains haste.
+II — You may put a creature card from your hand onto the battlefield. It gains haste.
+III — Exile each creature you control. Create a 2/2 black Zombie creature token.
+
+Dexion Reads the Elder Scroll
+special_text: 
+I — Search your library for a creature card, reveal it, put it into your hand, then shuffle.
+II — Search your library for an artifact card, reveal it, put it into your hand, then shuffle.
+III — For each permanent type, you may put a card of that type from your hand onto the battlefield. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Search your library for a creature card, reveal it, put it into your hand, then shuffle.
+II — Search your library for an artifact card, reveal it, put it into your hand, then shuffle.
+III — For each permanent type, you may put a card of that type from your hand onto the battlefield.
+
+Gather at the Scene
+rules_text: Create two 1/1 white Citizen creature tokens. You gain 1 life. => Create two 1/1 green and white Citizen creature tokens. You gain 1 life.
+
+Citizen
+pt: 1/1 => 2/1
+
+Adventurous Messenger
+rules_text: Improvise [i](Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i]
+Flying
+Whenever Adventurous Messenger deals combat damage to a player, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => Improvise [i](Your artifacts can help cast this spell. Each artifact you tap after you're done activating mana abilities pays for {1}.)[/i]
+Flying
+Whenever Adventurous Messenger deals combat damage to a player, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Whispers Thief
+rules_text: Flying
+{T}: Investigate, then discard a card. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i] => Flying
+{T}: Investigate, then discard a card. [i](To investigate, create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+
+Election Campaign
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create two tapped Treasure tokens.
+Create a 2/1 white Citizen creature token.
+Up to one target creature gets +3/+3 and gains trample until end of turn.
+When you sacrifice Election Campaign, it deals damage to any target equal to the number of tokens you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create two tapped Treasure tokens.
+Create a 2/1 white Citizen creature token.
+II — Up to one target creature gets +3/+3 and gains trample until end of turn.
+III — When you sacrifice Election Campaign, it deals damage to any target equal to the number of tokens you control.
+
+Spirit of Adventure
+rules_text: Flash
+flying
+Whenever you draw a card, create a 1/1 colorless Spirit creature token. => Flash
+Flying
+Whenever you draw a card, create a 1/1 colorless Spirit Pirate creature token.
+
+Induction Ceremony
+rules_text: At the beginning of your upkeep, create a 1/1 white Assassin creature token.
+{1}, Sacrifice an Assassin: Target creature you control gains protection from the color of your choice until end of turn. => At the beginning of your upkeep, create a 1/1 red Assassin creature token.
+{1}, Sacrifice an Assassin: Target creature you control gains protection from the color of your choice until end of turn.
+
+Overwhelming Advantage
+rules_text: Choose X. You may choose the same mode more than once.
+• Create two 1/1 white Assassin creature tokens.
+• Return target nonland permanent card with mana value 2 or less from your graveyard to the battlefield.
+• Creatures you control gain your choice of first strike, vigilance, or lifelink until end of turn. => Choose X. You may choose the same mode more than once.
+• Create two 1/1 red Assassin creature tokens.
+• Return target nonland permanent card with mana value 2 or less from your graveyard to the battlefield.
+• Creatures you control gain your choice of first strike, vigilance, or lifelink until end of turn.
+
+Ondu Wayguide
+rules_text: Vigilance
+Creature tokens you control get +1/+1 and have vigilance.
+[i]Wanderlust [/i]— When Ondu Wayguide enters, if you control four or more differently named lands, create two 1/1 white Soldier Ally creature tokens. => Vigilance
+Creature tokens you control get +1/+1 and have vigilance.
+[i]Wanderlust [/i]— When Ondu Wayguide enters, if you control four or more differently named lands, create two 1/1 white Soldier creature tokens.
+
+Veteran Cathar
+rules_text: When Veteran Cathar enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Sacrifice three Clues: Search your library for a creature with mana value 1, put it onto the battlefield, then shuffle. => When Veteran Cathar enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Sacrifice three Clues: Search your library for a creature with mana value 1, put it onto the battlefield, then shuffle.
+
+Bestoleth Charm
+type: Tribal Instant — Wizard => Kindred Instant — Wizard
+
+Forguard Summons
+rules_text: Create two 1/1 red Dwarf Soldier creature tokens. Creature tokens you control gain indestructible until end of turn. => Create two 1/1 red Dwarf Warrior creature tokens. Creature tokens you control gain indestructible until end of turn.
+
+Hired Investigator
+rules_text: Vigilance
+Whenever Hired Investigator attacks, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+{1}{W}, Sacrifice two Clues: Put Hired Investigator from your hand onto the battlefield. => Vigilance
+Whenever Hired Investigator attacks, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+{1}{W}, Sacrifice two Clues: Put Hired Investigator from your hand onto the battlefield.
+
+Homicide Detectives
+rules_text: When Homicide Detectives enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Whenever you sacrifice a Clue, create a 2/1 white Citizen creature token. => When Homicide Detectives enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Whenever you sacrifice a Clue, create a 2/1 white Citizen creature token.
+
+Astral Overlook
+rules_text: When Astral Overlook enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this artifact: Draw a card.”)[/i]
+Whenever you sacrifice a Clue, exile target nonenchantment permanent you control. Return that card to the battlefield under its owner's control at the beginning of the next end step. => When Astral Overlook enters, investigate. [i](Create a Clue token. It's an artifact with “{2}, Sacrifice this token: Draw a card.”)[/i]
+Whenever you sacrifice a Clue, exile target nonenchantment permanent you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+
+Last Dragonborn's Awakening
+rules_text: When Last Dragonborn's Awakening enters, exile target creature or planeswalker an opponent controls until Last Dragonborn's Awakening leaves the battlefield.
+Creatures you control get +2/+1. => When Last Dragonborn's Awakening enters, exile target creature or planeswalker an opponent controls until Last Dragonborn's Awakening leaves the battlefield.
+Creatures you control get +1/+1.
+
+A Pirate's Life for Me
+special_text: 
+I — Destroy target nonland permanent you don't control.
+II — You may sacrifice a permanent. If you do, create two Treasure tokens.
+III — Draw a card for each artifact you control. Each opponent loses that much life. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Destroy target nonland permanent you don't control.
+II — You may sacrifice a permanent. If you do, create two Treasure tokens.
+III — Draw a card for each artifact you control. Each opponent loses that much life.
+
+Herald of Hildrjorn
+rules_text: Survivalist — At the beginning of each end step, if you gained life this turn, draw a card unless an opponent pays {1}. => [i]Survivalist[/i] — At the beginning of each end step, if you gained life this turn, draw a card unless an opponent pays {1}.
+
+Gang of Thieves
+rules_text: Survivalist — When Gang of Thieves enters, if you gained life this turn, you may put three -1/-1 counters on target creature. => [i]Survivalist [/i]— When Gang of Thieves enters, if you gained life this turn, you may put three -1/-1 counters on target creature.
+
+Gaffe Artist
+rules_text: Whenever another creature dies, put a +1/+1 counter on Gaffe Artist.
+{T}: Destroy target creature with mana value equal to Gaffe Artist's power. => Whenever another creature dies, you may put a +1/+1 counter on Gaffe Artist.
+{T}: Destroy target creature with mana value equal to Gaffe Artist's power.
+
+Conquer the Deadlands
+rules_text: Until end of turn, target creature you control gets +1/+1 and gains double strike, vigilance, menace, and haste. Whenever that creature deals combat damage to a player this turn, you may put a creature card from your hand onto the battlefield. => Put a +1/+1 counter on target creature you control. Until end of turn, that creature gains vigilance, trample, and haste. Whenever that creature deals combat damage to a player this turn, you may put a creature card from your hand onto the battlefield.
+
+Human
+pt: 1/1 => 2/2
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

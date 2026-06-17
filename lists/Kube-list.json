@@ -17,7 +17,7 @@
     },
     {
         "card_name": "Aetherborn Renegade",
-        "number": 133,
+        "number": 132,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -25,7 +25,7 @@
     },
     {
         "card_name": "Akatosh's Intervention",
-        "number": 199,
+        "number": 198,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -33,7 +33,7 @@
     },
     {
         "card_name": "Aedra Chaplain",
-        "number": 265,
+        "number": 263,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -56,8 +56,8 @@
         "position": ""
     },
     {
-        "card_name": "Astrid the Black Hand",
-        "number": 134,
+        "card_name": "Alduin, the Catalyst",
+        "number": 133,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -65,15 +65,15 @@
     },
     {
         "card_name": "Archbishop of Discord",
-        "number": 200,
+        "number": 199,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Archer of Old Hunts",
-        "number": 266,
+        "card_name": "Bosmer Pathcutter",
+        "number": 264,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -88,16 +88,16 @@
         "position": ""
     },
     {
-        "card_name": "Backdoor",
+        "card_name": "Azura's Many Visions",
         "number": 69,
-        "shape": "normal",
+        "shape": "saga",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Bitter Brawler",
-        "number": 135,
+        "card_name": "Astrid the Black Hand",
+        "number": 134,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -105,15 +105,15 @@
     },
     {
         "card_name": "Ashen Atronach",
-        "number": 201,
+        "number": 200,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Bear-King of Hrostgard",
-        "number": 267,
+        "card_name": "Braid of Growth",
+        "number": 265,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -128,7 +128,7 @@
         "position": ""
     },
     {
-        "card_name": "Bestoleth Charm",
+        "card_name": "Backdoor",
         "number": 70,
         "shape": "normal",
         "set": "Kube",
@@ -136,8 +136,8 @@
         "position": ""
     },
     {
-        "card_name": "Bitter Spawn",
-        "number": 136,
+        "card_name": "Blood Sacrament",
+        "number": 135,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -145,22 +145,22 @@
     },
     {
         "card_name": "Assault Strategist",
-        "number": 202,
+        "number": 201,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Braid of Growth",
-        "number": 268,
+        "card_name": "Callous Relic Hunter",
+        "number": 267,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Badlands Ranger",
+        "card_name": "Attentive Jarl",
         "number": 5,
         "shape": "normal",
         "set": "Kube",
@@ -168,7 +168,7 @@
         "position": ""
     },
     {
-        "card_name": "Caitisan's Conquest",
+        "card_name": "Bestoleth Charm",
         "number": 71,
         "shape": "normal",
         "set": "Kube",
@@ -176,8 +176,8 @@
         "position": ""
     },
     {
-        "card_name": "Blood Sacrament",
-        "number": 137,
+        "card_name": "Brotherhood Conspirant",
+        "number": 136,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -185,15 +185,15 @@
     },
     {
         "card_name": "Beauty of Prose",
-        "number": 203,
+        "number": 202,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Charging Yeti",
-        "number": 269,
+        "card_name": "Chart New Lands",
+        "number": 268,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -208,7 +208,7 @@
         "position": ""
     },
     {
-        "card_name": "Cassowary Warden",
+        "card_name": "Bloodletter Falcon",
         "number": 72,
         "shape": "normal",
         "set": "Kube",
@@ -216,8 +216,8 @@
         "position": ""
     },
     {
-        "card_name": "Bonechilling Bite",
-        "number": 138,
+        "card_name": "Chaos in Bloom",
+        "number": 137,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -232,8 +232,8 @@
         "position": ""
     },
     {
-        "card_name": "Chart New Lands",
-        "number": 270,
+        "card_name": "City Sprawl",
+        "number": 269,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -241,14 +241,14 @@
     },
     {
         "card_name": "Conscripted Service",
-        "number": 7,
+        "number": 8,
         "shape": "transform double faced",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Completely Frozen",
+        "card_name": "Caitisan's Conquest",
         "number": 73,
         "shape": "normal",
         "set": "Kube",
@@ -256,9 +256,9 @@
         "position": ""
     },
     {
-        "card_name": "Brotherhood Conspirant",
-        "number": 139,
-        "shape": "normal",
+        "card_name": "Conjure Dremora Lord",
+        "number": 138,
+        "shape": "saga",
         "set": "Kube",
         "rotated": false,
         "position": ""
@@ -272,8 +272,8 @@
         "position": ""
     },
     {
-        "card_name": "City Sprawl",
-        "number": 271,
+        "card_name": "Earthcrafter Mage",
+        "number": 270,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -281,14 +281,14 @@
     },
     {
         "card_name": "Court Marshal",
-        "number": 8,
+        "number": 9,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Cosmic Insight",
+        "card_name": "Cassowary Warden",
         "number": 74,
         "shape": "normal",
         "set": "Kube",
@@ -296,8 +296,8 @@
         "position": ""
     },
     {
-        "card_name": "Call to the Ravens",
-        "number": 140,
+        "card_name": "Constant Conjuring",
+        "number": 139,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -312,23 +312,23 @@
         "position": ""
     },
     {
-        "card_name": "Earthcrafter Mage",
-        "number": 272,
+        "card_name": "Elvish Opportunist",
+        "number": 271,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Dexion Reads the Elder Scroll",
-        "number": 9,
-        "shape": "saga",
+        "card_name": "Deepspace Herald",
+        "number": 10,
+        "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Crypt Discovery",
+        "card_name": "Cosmic Insight",
         "number": 75,
         "shape": "normal",
         "set": "Kube",
@@ -336,8 +336,8 @@
         "position": ""
     },
     {
-        "card_name": "Chaos in Bloom",
-        "number": 141,
+        "card_name": "Creeping Crypts",
+        "number": 140,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -352,23 +352,23 @@
         "position": ""
     },
     {
-        "card_name": "Elvish Opportunist",
-        "number": 273,
+        "card_name": "Elvish Scoutwarden",
+        "number": 272,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Disgruntled Nord",
-        "number": 10,
-        "shape": "transform double faced",
+        "card_name": "Dexion Reads the Elder Scroll",
+        "number": 11,
+        "shape": "saga",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Cybertech Sparkworker",
+        "card_name": "Crypt Discovery",
         "number": 76,
         "shape": "normal",
         "set": "Kube",
@@ -376,8 +376,8 @@
         "position": ""
     },
     {
-        "card_name": "Chill of the Grave",
-        "number": 142,
+        "card_name": "Cut-Sails Ulril",
+        "number": 141,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -392,17 +392,17 @@
         "position": ""
     },
     {
-        "card_name": "Elvish Scoutwarden",
-        "number": 274,
+        "card_name": "Engulf",
+        "number": 273,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Eldra, Strength of the City",
-        "number": 11,
-        "shape": "normal",
+        "card_name": "Disgruntled Nord",
+        "number": 12,
+        "shape": "transform double faced",
         "set": "Kube",
         "rotated": false,
         "position": ""
@@ -416,8 +416,8 @@
         "position": ""
     },
     {
-        "card_name": "Constant Conjuring",
-        "number": 143,
+        "card_name": "Decaying Decadence",
+        "number": 142,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -432,16 +432,16 @@
         "position": ""
     },
     {
-        "card_name": "Engulf",
-        "number": 275,
+        "card_name": "Envoy of Autumn",
+        "number": 274,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Enduring Adventure",
-        "number": 12,
+        "card_name": "Eldra, Strength of the City",
+        "number": 13,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -456,15 +456,15 @@
         "position": ""
     },
     {
-        "card_name": "Creeping Crypts",
-        "number": 144,
-        "shape": "normal",
+        "card_name": "Dies",
+        "number": 143,
+        "shape": "aftermath",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Doomed Detective",
+        "card_name": "Dovah's Ire",
         "number": 210,
         "shape": "normal",
         "set": "Kube",
@@ -472,16 +472,16 @@
         "position": ""
     },
     {
-        "card_name": "Envoy of Autumn",
-        "number": 276,
+        "card_name": "Ever-Twisting Cycle",
+        "number": 275,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Errant Castaway",
-        "number": 13,
+        "card_name": "Enduring Adventure",
+        "number": 14,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -496,33 +496,33 @@
         "position": ""
     },
     {
-        "card_name": "Cut-Sails Ulril",
-        "number": 145,
+        "card_name": "Doomed Sauropod",
+        "number": 144,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Election Campaign",
+        "card_name": "Dragon Rising",
         "number": 211,
-        "shape": "saga",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Ever-Twisting Cycle",
-        "number": 277,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Fjorda's Oath",
-        "number": 14,
-        "shape": "transform double faced",
+        "card_name": "Everblossom Spriggan",
+        "number": 276,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Errant Castaway",
+        "number": 15,
+        "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
@@ -536,15 +536,15 @@
         "position": ""
     },
     {
-        "card_name": "Decaying Decadence",
-        "number": 146,
+        "card_name": "Dread Resurrection",
+        "number": 145,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Fell the Feeble",
+        "card_name": "Dragonfire Galleon",
         "number": 212,
         "shape": "normal",
         "set": "Kube",
@@ -552,7 +552,7 @@
         "position": ""
     },
     {
-        "card_name": "Everblossom Spriggan",
+        "card_name": "Gigantimorph",
         "number": 278,
         "shape": "normal",
         "set": "Kube",
@@ -560,39 +560,39 @@
         "position": ""
     },
     {
-        "card_name": "Forguard Summons",
-        "number": 15,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Dungeon Dive",
-        "number": 81,
+        "card_name": "Fjorda's Oath",
+        "number": 16,
         "shape": "transform double faced",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Dies",
-        "number": 147,
-        "shape": "aftermath",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Fervor of Frost",
-        "number": 213,
+        "card_name": "Draconic Divulging",
+        "number": 81,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Frost-Den Spider",
+        "card_name": "Durnehviir, Soul-Claimed",
+        "number": 146,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Election Campaign",
+        "number": 213,
+        "shape": "saga",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Good as New",
         "number": 279,
         "shape": "normal",
         "set": "Kube",
@@ -600,47 +600,7 @@
         "position": ""
     },
     {
-        "card_name": "Frostbite",
-        "number": 16,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Dungeon Tinkerer",
-        "number": 82,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Doomed Sauropod",
-        "number": 148,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Fjall Scavenger",
-        "number": 214,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Gigantimorph",
-        "number": 280,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Frostweaver",
+        "card_name": "Forguard Summons",
         "number": 17,
         "shape": "normal",
         "set": "Kube",
@@ -648,24 +608,24 @@
         "position": ""
     },
     {
-        "card_name": "Dwemer-Bound Specter",
-        "number": 83,
+        "card_name": "Dungeon Dive",
+        "number": 82,
+        "shape": "transform double faced",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Embrace Shadows",
+        "number": 147,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Dread Resurrection",
-        "number": 149,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Flame Axe",
-        "number": 215,
+        "card_name": "Fell the Feeble",
+        "number": 214,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -673,7 +633,7 @@
     },
     {
         "card_name": "Hardened Grovetender",
-        "number": 281,
+        "number": 280,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -688,24 +648,24 @@
         "position": ""
     },
     {
-        "card_name": "Ebilir the Change God",
-        "number": 84,
+        "card_name": "Dungeon Tinkerer",
+        "number": 83,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Embrace Shadows",
-        "number": 150,
+        "card_name": "Eyes Above",
+        "number": 148,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Frost-Weald Explorer",
-        "number": 216,
+        "card_name": "Fire Wyrm",
+        "number": 215,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -713,7 +673,7 @@
     },
     {
         "card_name": "Herald of Spring's Bounty",
-        "number": 282,
+        "number": 281,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -728,24 +688,24 @@
         "position": ""
     },
     {
-        "card_name": "Eldritch Intrusion",
-        "number": 85,
+        "card_name": "Dwemer-Bound Specter",
+        "number": 84,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Forced Penance",
-        "number": 151,
+        "card_name": "Forgotten Horrors",
+        "number": 149,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Goblin Snowriders",
-        "number": 217,
+        "card_name": "Flame Axe",
+        "number": 216,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -753,7 +713,7 @@
     },
     {
         "card_name": "Huiltaii Hydra",
-        "number": 283,
+        "number": 282,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -768,8 +728,8 @@
         "position": ""
     },
     {
-        "card_name": "Elsweyr Marshlurker",
-        "number": 86,
+        "card_name": "Ebilir the Change God",
+        "number": 85,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -777,7 +737,7 @@
     },
     {
         "card_name": "Gaffe Artist",
-        "number": 152,
+        "number": 150,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -785,7 +745,7 @@
     },
     {
         "card_name": "Grok, Vengeful Giant",
-        "number": 218,
+        "number": 217,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -793,47 +753,7 @@
     },
     {
         "card_name": "Impromptu Fortifications",
-        "number": 284,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Gana-Mali Procession",
-        "number": 21,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Fated Challenge",
-        "number": 87,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Gang of Thieves",
-        "number": 153,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Guild Opportunist",
-        "number": 219,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Incense Expert",
-        "number": 285,
+        "number": 283,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -841,39 +761,39 @@
     },
     {
         "card_name": "Gather at the Scene",
-        "number": 22,
+        "number": 21,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Geistcaller Cathar",
-        "number": 88,
+        "card_name": "Eldritch Intrusion",
+        "number": 86,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Gibbering Scamp",
-        "number": 154,
+        "card_name": "Gang of Thieves",
+        "number": 151,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Gwendyla, Senator of Arts",
-        "number": 220,
+        "card_name": "Guild Opportunist",
+        "number": 218,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Into Strange Unknowns",
-        "number": 286,
+        "card_name": "Incense Expert",
+        "number": 284,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -881,39 +801,39 @@
     },
     {
         "card_name": "Giant's Wake",
-        "number": 23,
+        "number": 22,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Gelessa, Senator of Sciences",
-        "number": 89,
+        "card_name": "Elsweyr Marshlurker",
+        "number": 87,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Gifter of Lineages",
-        "number": 155,
+        "card_name": "Gibbering Scamp",
+        "number": 152,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Haul Harvester",
-        "number": 221,
+        "card_name": "Gwendyla, Senator of Arts",
+        "number": 219,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Kyne's Anamist",
-        "number": 287,
+        "card_name": "Into Strange Unknowns",
+        "number": 285,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -921,6 +841,46 @@
     },
     {
         "card_name": "Gilded Slicer",
+        "number": 23,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Fated Challenge",
+        "number": 88,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gifter of Lineages",
+        "number": 153,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Haul Harvester",
+        "number": 220,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Kyne's Anamist",
+        "number": 286,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Grave of the Sparrow",
         "number": 24,
         "shape": "normal",
         "set": "Kube",
@@ -928,16 +888,16 @@
         "position": ""
     },
     {
-        "card_name": "Grave of the Obsidian Heart",
-        "number": 90,
+        "card_name": "Geistcaller Cathar",
+        "number": 89,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Hand of Ravenwood",
-        "number": 156,
+        "card_name": "Governess's Might",
+        "number": 154,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -945,7 +905,7 @@
     },
     {
         "card_name": "Heraldry of Flame",
-        "number": 222,
+        "number": 221,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -953,14 +913,14 @@
     },
     {
         "card_name": "Life Unfettered",
-        "number": 288,
+        "number": 287,
         "shape": "transform double faced",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Grave of the Sparrow",
+        "card_name": "Guide to Grace",
         "number": 25,
         "shape": "normal",
         "set": "Kube",
@@ -968,8 +928,8 @@
         "position": ""
     },
     {
-        "card_name": "Greedy Hands",
-        "number": 91,
+        "card_name": "Gelessa, Senator of Sciences",
+        "number": 90,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -977,7 +937,7 @@
     },
     {
         "card_name": "Haranguing Hanged",
-        "number": 157,
+        "number": 155,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -985,7 +945,7 @@
     },
     {
         "card_name": "Illicit Operations",
-        "number": 223,
+        "number": 222,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -993,14 +953,14 @@
     },
     {
         "card_name": "Lost to the Ages",
-        "number": 289,
+        "number": 288,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Guide to Grace",
+        "card_name": "Gunvar Stillgrave",
         "number": 26,
         "shape": "normal",
         "set": "Kube",
@@ -1008,8 +968,8 @@
         "position": ""
     },
     {
-        "card_name": "Hard Daze Knight",
-        "number": 92,
+        "card_name": "Grave of the Obsidian Heart",
+        "number": 91,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1017,7 +977,47 @@
     },
     {
         "card_name": "Heavy-weapons Buyer",
-        "number": 158,
+        "number": 156,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Immolating Shout",
+        "number": 223,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Lotus Dryad",
+        "number": 289,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Helvalla the Hearth God",
+        "number": 27,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Greedy Hands",
+        "number": 92,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Hermaeus Mora",
+        "number": 157,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1032,7 +1032,7 @@
         "position": ""
     },
     {
-        "card_name": "Lotus Dryad",
+        "card_name": "Lumbering Rootmender",
         "number": 290,
         "shape": "normal",
         "set": "Kube",
@@ -1040,24 +1040,24 @@
         "position": ""
     },
     {
-        "card_name": "Gunvar Stillgrave",
-        "number": 27,
+        "card_name": "Her Majesty Justicia",
+        "number": 28,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Jorundar Aspirant",
+        "card_name": "Hard Daze Knight",
         "number": 93,
-        "shape": "transform double faced",
+        "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Hermaeus Mora, Lorekeeper",
-        "number": 159,
+        "card_name": "Impending Doom",
+        "number": 158,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1072,7 +1072,7 @@
         "position": ""
     },
     {
-        "card_name": "Lumbering Rootmender",
+        "card_name": "Magicka Instructor",
         "number": 291,
         "shape": "normal",
         "set": "Kube",
@@ -1080,47 +1080,7 @@
         "position": ""
     },
     {
-        "card_name": "Helvalla, God of Glory",
-        "number": 28,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Jorundar Starscribe",
-        "number": 94,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Impending Doom",
-        "number": 160,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "J'hiari, Secunda's Might",
-        "number": 226,
-        "shape": "planeswalker",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Magicka Instructor",
-        "number": 292,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Her Majesty Justicia",
+        "card_name": "Herald of Hildrjorn",
         "number": 29,
         "shape": "normal",
         "set": "Kube",
@@ -1128,24 +1088,24 @@
         "position": ""
     },
     {
-        "card_name": "Kefnet's Denial",
-        "number": 95,
-        "shape": "normal",
+        "card_name": "Jorundar Aspirant",
+        "number": 94,
+        "shape": "transform double faced",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
         "card_name": "Influence Exerter",
-        "number": 161,
+        "number": 159,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Kwama Tender",
-        "number": 227,
+        "card_name": "Invocation of Fire",
+        "number": 226,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1153,14 +1113,14 @@
     },
     {
         "card_name": "Mim-Reiki Caeseus",
-        "number": 293,
+        "number": 292,
         "shape": "planeswalker",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Herald of Hildrjorn",
+        "card_name": "Herald of the Change",
         "number": 30,
         "shape": "normal",
         "set": "Kube",
@@ -1168,8 +1128,8 @@
         "position": ""
     },
     {
-        "card_name": "Kelp Sifter",
-        "number": 96,
+        "card_name": "Jorundar Starscribe",
+        "number": 95,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1177,23 +1137,23 @@
     },
     {
         "card_name": "Invasion of Festenya",
-        "number": 162,
+        "number": 160,
         "shape": "transform double faced split",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Last Lash",
-        "number": 228,
-        "shape": "normal",
+        "card_name": "J'hiari, Secunda's Might",
+        "number": 227,
+        "shape": "planeswalker",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
         "card_name": "Moment of Growth",
-        "number": 294,
+        "number": 293,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1208,24 +1168,24 @@
         "position": ""
     },
     {
-        "card_name": "Lost in the Drifts",
-        "number": 97,
+        "card_name": "Kefnet's Denial",
+        "number": 96,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Ketheric, Undying General",
-        "number": 163,
+        "card_name": "Journey to the Underkeep",
+        "number": 161,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Linebreaker Assassin",
-        "number": 229,
+        "card_name": "Kwama Tender",
+        "number": 228,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1233,7 +1193,7 @@
     },
     {
         "card_name": "Oakblossom Druid",
-        "number": 295,
+        "number": 294,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1248,24 +1208,24 @@
         "position": ""
     },
     {
-        "card_name": "Lunar Theorist",
-        "number": 98,
+        "card_name": "Kelp Sifter",
+        "number": 97,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Liliana, Dread Reckoner",
-        "number": 164,
-        "shape": "planeswalker",
+        "card_name": "Ketheric, Undying General",
+        "number": 162,
+        "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Maddening Compulsion",
-        "number": 230,
+        "card_name": "Last Lash",
+        "number": 229,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1273,14 +1233,14 @@
     },
     {
         "card_name": "Olfdenmyr All-Seer",
-        "number": 296,
+        "number": 295,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Honor Calling",
+        "card_name": "Humble",
         "number": 33,
         "shape": "normal",
         "set": "Kube",
@@ -1289,38 +1249,38 @@
     },
     {
         "card_name": "Lurk from Above",
-        "number": 99,
+        "number": 98,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Loose Cargo",
-        "number": 165,
+        "card_name": "Kinsfield Coin-Cutters",
+        "number": 163,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Miraak's Dragon Uprising",
-        "number": 231,
-        "shape": "saga",
+        "card_name": "Linebreaker Assassin",
+        "number": 230,
+        "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
         "card_name": "Prismatic Elf",
-        "number": 297,
+        "number": 296,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Humble",
+        "card_name": "The Hunt Begins!",
         "number": 34,
         "shape": "normal",
         "set": "Kube",
@@ -1329,23 +1289,23 @@
     },
     {
         "card_name": "Memory Palace",
-        "number": 100,
+        "number": 99,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Machiavelle, Senator of Commerce",
-        "number": 166,
+        "card_name": "Leave the Tomb",
+        "number": 164,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Night's Ring Instructor",
-        "number": 232,
+        "card_name": "Maddening Compulsion",
+        "number": 231,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1360,8 +1320,48 @@
         "position": ""
     },
     {
-        "card_name": "The Hunt Begins!",
+        "card_name": "Induction Ceremony",
         "number": 35,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mirrorborn Dovah",
+        "number": 100,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Liliana, Dread Reckoner",
+        "number": 165,
+        "shape": "planeswalker",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Miraak's Dragon Uprising",
+        "number": 232,
+        "shape": "saga",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Proclaimer of Ages",
+        "number": 299,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Into Port",
+        "number": 36,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1376,15 +1376,15 @@
         "position": ""
     },
     {
-        "card_name": "M'aiq the Liar",
-        "number": 167,
+        "card_name": "Loose Cargo",
+        "number": 166,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Noble's Shadow",
+        "card_name": "Night's Ring Instructor",
         "number": 233,
         "shape": "normal",
         "set": "Kube",
@@ -1392,16 +1392,16 @@
         "position": ""
     },
     {
-        "card_name": "Proclaimer of Ages",
-        "number": 299,
+        "card_name": "Rampaging Springhide",
+        "number": 300,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "In Good Health",
-        "number": 36,
+        "card_name": "Journey to the Lowlands",
+        "number": 37,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1416,15 +1416,15 @@
         "position": ""
     },
     {
-        "card_name": "Mephidross Devastator",
-        "number": 168,
-        "shape": "adventure",
+        "card_name": "Machiavelle, Senator of Commerce",
+        "number": 167,
+        "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Nose to the Grindstone",
+        "card_name": "Noble's Shadow",
         "number": 234,
         "shape": "normal",
         "set": "Kube",
@@ -1432,23 +1432,23 @@
         "position": ""
     },
     {
-        "card_name": "Province Conqueror",
-        "number": 300,
-        "shape": "normal",
+        "card_name": "Rebuilding Towashi",
+        "number": 301,
+        "shape": "adventure",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Induction Ceremony",
-        "number": 37,
-        "shape": "normal",
+        "card_name": "Krxtach, Anointed Chorus",
+        "number": 38,
+        "shape": "planeswalker",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Nast, Rimewaste Explorer",
+        "card_name": "Niblis of Regret",
         "number": 103,
         "shape": "normal",
         "set": "Kube",
@@ -1456,15 +1456,15 @@
         "position": ""
     },
     {
-        "card_name": "Mockery of Death",
-        "number": 169,
+        "card_name": "M'aiq the Liar",
+        "number": 168,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Obliterating Lightning",
+        "card_name": "Nose to the Grindstone",
         "number": 235,
         "shape": "normal",
         "set": "Kube",
@@ -1472,24 +1472,64 @@
         "position": ""
     },
     {
-        "card_name": "Rampaging Springhide",
-        "number": 301,
+        "card_name": "Romana, Senator of Tradition",
+        "number": 302,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Into Port",
-        "number": 38,
+        "card_name": "Last Dragonborn's Awakening",
+        "number": 39,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Niblis of Regret",
+        "card_name": "Nocturnal's Informant",
         "number": 104,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mephidross Devastator",
+        "number": 169,
+        "shape": "adventure",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "O' Fortune, O' Arrogance",
+        "number": 236,
+        "shape": "class",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sage of All",
+        "number": 303,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Maelo, Corrupt Official",
+        "number": 40,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Nulling Atronach",
+        "number": 105,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1504,32 +1544,32 @@
         "position": ""
     },
     {
-        "card_name": "Peakpoint Presence",
-        "number": 236,
+        "card_name": "Obliterating Lightning",
+        "number": 237,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Rebuilding Towashi",
-        "number": 302,
-        "shape": "adventure",
+        "card_name": "Seek Gold",
+        "number": 304,
+        "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Krxtach, Anointed Chorus",
-        "number": 39,
-        "shape": "planeswalker",
+        "card_name": "Matter Extruder",
+        "number": 41,
+        "shape": "leveler",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Nocturnal's Informant",
-        "number": 105,
+        "card_name": "On a Journey",
+        "number": 106,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1544,47 +1584,7 @@
         "position": ""
     },
     {
-        "card_name": "Province Guardian",
-        "number": 237,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Romana, Senator of Tradition",
-        "number": 303,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Last Dragonborn's Awakening",
-        "number": 40,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Nulling Atronach",
-        "number": 106,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Murder Most Foul",
-        "number": 172,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Psychotic Strike",
+        "card_name": "Peakpoint Presence",
         "number": 238,
         "shape": "normal",
         "set": "Kube",
@@ -1592,47 +1592,7 @@
         "position": ""
     },
     {
-        "card_name": "Run Over",
-        "number": 304,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Maelo, Corrupt Official",
-        "number": 41,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "On a Journey",
-        "number": 107,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Nehel the Empty God",
-        "number": 173,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Punk Prowler",
-        "number": 239,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Sage of All",
+        "card_name": "Serpent's Diviner",
         "number": 305,
         "shape": "normal",
         "set": "Kube",
@@ -1648,6 +1608,46 @@
         "position": ""
     },
     {
+        "card_name": "Paarthurnax, Greybeard Mentor",
+        "number": 107,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Murder Most Foul",
+        "number": 172,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Punk Prowler",
+        "number": 239,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Shifting Groves Druid",
+        "number": 306,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Neoflore Dataweaver",
+        "number": 43,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Patient Skald",
         "number": 108,
         "shape": "normal",
@@ -1656,8 +1656,8 @@
         "position": ""
     },
     {
-        "card_name": "Nehel's Envoy",
-        "number": 174,
+        "card_name": "Nehel the Empty God",
+        "number": 173,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1672,8 +1672,8 @@
         "position": ""
     },
     {
-        "card_name": "Seek Gold",
-        "number": 306,
+        "card_name": "Slay the Beast",
+        "number": 307,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1681,7 +1681,7 @@
     },
     {
         "card_name": "Ondu Wayguide",
-        "number": 43,
+        "number": 44,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1696,8 +1696,8 @@
         "position": ""
     },
     {
-        "card_name": "Nest Watchers",
-        "number": 175,
+        "card_name": "Nighthallow Ritual",
+        "number": 174,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1712,8 +1712,8 @@
         "position": ""
     },
     {
-        "card_name": "Serpent's Diviner",
-        "number": 307,
+        "card_name": "Snowfield Mother",
+        "number": 308,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1721,7 +1721,7 @@
     },
     {
         "card_name": "Overwhelming Advantage",
-        "number": 44,
+        "number": 45,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1736,8 +1736,8 @@
         "position": ""
     },
     {
-        "card_name": "Nighthallow Ritual",
-        "number": 176,
+        "card_name": "Oblivion Invader",
+        "number": 175,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1752,8 +1752,8 @@
         "position": ""
     },
     {
-        "card_name": "Shifting Groves Druid",
-        "number": 308,
+        "card_name": "Splitting Bloom",
+        "number": 309,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1761,7 +1761,7 @@
     },
     {
         "card_name": "Power Savant",
-        "number": 45,
+        "number": 46,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1776,8 +1776,8 @@
         "position": ""
     },
     {
-        "card_name": "Oblivion Invader",
-        "number": 177,
+        "card_name": "Party Crasher",
+        "number": 176,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1792,8 +1792,8 @@
         "position": ""
     },
     {
-        "card_name": "Slay the Beast",
-        "number": 309,
+        "card_name": "Stern Groundskeepers",
+        "number": 311,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1801,7 +1801,7 @@
     },
     {
         "card_name": "Razorwind Griffin",
-        "number": 46,
+        "number": 47,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1816,15 +1816,15 @@
         "position": ""
     },
     {
-        "card_name": "Olfdenmyr Prowler",
-        "number": 178,
+        "card_name": "Plaguerend",
+        "number": 177,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Runescribe of Stribius",
+        "card_name": "Ruinous End",
         "number": 244,
         "shape": "normal",
         "set": "Kube",
@@ -1832,8 +1832,8 @@
         "position": ""
     },
     {
-        "card_name": "Snowfield Mother",
-        "number": 310,
+        "card_name": "Storage Hub",
+        "number": 312,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1841,7 +1841,7 @@
     },
     {
         "card_name": "Realmhopper Giant",
-        "number": 47,
+        "number": 48,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1856,8 +1856,8 @@
         "position": ""
     },
     {
-        "card_name": "Party Crasher",
-        "number": 179,
+        "card_name": "Ransacking Ruffian",
+        "number": 178,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1872,8 +1872,8 @@
         "position": ""
     },
     {
-        "card_name": "Spirit Speaker",
-        "number": 311,
+        "card_name": "Survive the Hunt",
+        "number": 313,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1881,7 +1881,7 @@
     },
     {
         "card_name": "Rear Admiral",
-        "number": 48,
+        "number": 49,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1896,8 +1896,8 @@
         "position": ""
     },
     {
-        "card_name": "Plaguerend",
-        "number": 180,
+        "card_name": "Relic Hunter",
+        "number": 179,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1912,8 +1912,8 @@
         "position": ""
     },
     {
-        "card_name": "Splitting Bloom",
-        "number": 312,
+        "card_name": "Tezoculpa Rust-Priest",
+        "number": 314,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1921,7 +1921,7 @@
     },
     {
         "card_name": "Reunification of Tamriel",
-        "number": 49,
+        "number": 50,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1936,8 +1936,8 @@
         "position": ""
     },
     {
-        "card_name": "Ransacking Ruffian",
-        "number": 181,
+        "card_name": "Sanctified Halls",
+        "number": 180,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1952,8 +1952,8 @@
         "position": ""
     },
     {
-        "card_name": "Stern Groundskeepers",
-        "number": 313,
+        "card_name": "Through the Multiverse",
+        "number": 315,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1961,7 +1961,7 @@
     },
     {
         "card_name": "Ring of Calamity",
-        "number": 50,
+        "number": 51,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -1976,15 +1976,15 @@
         "position": ""
     },
     {
-        "card_name": "Ravage the Guild",
-        "number": 182,
+        "card_name": "Scavenging Grounds",
+        "number": 181,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Shining Legionnaire",
+        "card_name": "Six Feet and Sixty Pence",
         "number": 248,
         "shape": "normal",
         "set": "Kube",
@@ -1992,8 +1992,8 @@
         "position": ""
     },
     {
-        "card_name": "Storage Hub",
-        "number": 314,
+        "card_name": "Toxic Ventilation",
+        "number": 316,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2001,7 +2001,7 @@
     },
     {
         "card_name": "Roaming Negotiator",
-        "number": 51,
+        "number": 52,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2016,48 +2016,8 @@
         "position": ""
     },
     {
-        "card_name": "Scavenging Grounds",
-        "number": 183,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Six Feet and Sixty Pence",
-        "number": 249,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Survive the Hunt",
-        "number": 315,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Royal Helmsguard",
-        "number": 52,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Skosgred Runesmith",
-        "number": 118,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
         "card_name": "Scavenging Trek",
-        "number": 184,
+        "number": 182,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2065,87 +2025,7 @@
     },
     {
         "card_name": "Skittering Fiend",
-        "number": 250,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Tezoculpa Rust-Priest",
-        "number": 316,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Sauren, Asari Sun-Chief",
-        "number": 53,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Snowsculptor",
-        "number": 119,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Selhoff Ritualist",
-        "number": 185,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Snowbreach Packmaster",
-        "number": 251,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Toxic Ventilation",
-        "number": 317,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Second Chances",
-        "number": 54,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Spellbane",
-        "number": 120,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Sheoldred, Doom Engine",
-        "number": 186,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Solar Flare",
-        "number": 252,
+        "number": 249,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2153,7 +2033,87 @@
     },
     {
         "card_name": "Trace the Aurora",
+        "number": 317,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Royal Helmsguard",
+        "number": 53,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Siebren de Kuiper, Astrophysicist",
+        "number": 118,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Selhoff Ritualist",
+        "number": 183,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skvorang Calvary",
+        "number": 250,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Tracker's Revelation",
         "number": 318,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sauren, Asari Sun-Chief",
+        "number": 54,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skosgred Runesmith",
+        "number": 119,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sheoldred, Doom Engine",
+        "number": 184,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skvorang Cliffwalker",
+        "number": 251,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Traversal",
+        "number": 319,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2168,32 +2128,32 @@
         "position": ""
     },
     {
-        "card_name": "Spirit of Adventure",
-        "number": 121,
-        "shape": "adventure",
+        "card_name": "Spellbane",
+        "number": 120,
+        "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
         "card_name": "Silumgar Gravecaller",
-        "number": 187,
+        "number": 185,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Source Code Engineer",
-        "number": 253,
+        "card_name": "Solar Flare",
+        "number": 252,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Tracker's Revelation",
-        "number": 319,
+        "card_name": "Verdant Shellwurm",
+        "number": 320,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2208,32 +2168,32 @@
         "position": ""
     },
     {
-        "card_name": "Stormsight",
-        "number": 122,
+        "card_name": "Spirit of Adventure",
+        "number": 121,
+        "shape": "adventure",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Skeletal Dovah",
+        "number": 186,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Smash and Grab",
-        "number": 188,
+        "card_name": "Towering Heights Peddler",
+        "number": 253,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Speakeasy Stalker",
-        "number": 254,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Traversal",
-        "number": 320,
+        "card_name": "Wandering Caravan",
+        "number": 321,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2248,6 +2208,46 @@
         "position": ""
     },
     {
+        "card_name": "Telekinetic Mastery",
+        "number": 122,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Smash and Grab",
+        "number": 187,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Unstable Ground",
+        "number": 254,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Warpath Carnivore",
+        "number": 322,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sparking Automaton",
+        "number": 58,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Think Ahead",
         "number": 123,
         "shape": "normal",
@@ -2257,14 +2257,14 @@
     },
     {
         "card_name": "Soulfire Rogue",
-        "number": 189,
+        "number": 188,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Towering Heights Peddler",
+        "card_name": "Viridan Harvester",
         "number": 255,
         "shape": "normal",
         "set": "Kube",
@@ -2272,16 +2272,16 @@
         "position": ""
     },
     {
-        "card_name": "Valley Crusher",
-        "number": 321,
+        "card_name": "Weald Walker",
+        "number": 323,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Sparking Automaton",
-        "number": 58,
+        "card_name": "Squadron Surgeon",
+        "number": 59,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2297,14 +2297,14 @@
     },
     {
         "card_name": "Spiritweaver",
-        "number": 190,
+        "number": 189,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Unstable Ground",
+        "card_name": "Vitalia Freelancer",
         "number": 256,
         "shape": "normal",
         "set": "Kube",
@@ -2312,16 +2312,16 @@
         "position": ""
     },
     {
-        "card_name": "Wandering Caravan",
-        "number": 322,
+        "card_name": "Weathered Wanderer",
+        "number": 324,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Squadron Surgeon",
-        "number": 59,
+        "card_name": "Streetwise Urchin",
+        "number": 60,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2337,14 +2337,14 @@
     },
     {
         "card_name": "Studious Scribe",
-        "number": 191,
+        "number": 190,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Valley Pouncer",
+        "card_name": "Vitalia Historian",
         "number": 257,
         "shape": "normal",
         "set": "Kube",
@@ -2352,48 +2352,8 @@
         "position": ""
     },
     {
-        "card_name": "Warpath Carnivore",
-        "number": 323,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Streetwise Urchin",
-        "number": 60,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Torment Halls",
-        "number": 126,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Tavern Traveler",
-        "number": 192,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Viridan Harvester",
-        "number": 258,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Wayward Seeker",
-        "number": 324,
+        "card_name": "Winterheath Druid",
+        "number": 325,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2408,39 +2368,39 @@
         "position": ""
     },
     {
-        "card_name": "Trail of Irrblossoms",
-        "number": 127,
+        "card_name": "Torment Halls",
+        "number": 126,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Thieving Stray",
-        "number": 193,
+        "card_name": "Tavern Traveler",
+        "number": 191,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Vitalia Freelancer",
-        "number": 259,
+        "card_name": "War-Horn Raider",
+        "number": 258,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Weald Walker",
-        "number": 325,
+        "card_name": "Wonder of Worlds",
+        "number": 326,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Ulfric's Legion",
+        "card_name": "Suspect at Large",
         "number": 62,
         "shape": "normal",
         "set": "Kube",
@@ -2449,38 +2409,38 @@
     },
     {
         "card_name": "Ulvenwald Haunt",
-        "number": 128,
+        "number": 127,
         "shape": "adventure",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Unbound Dremora",
-        "number": 194,
+        "card_name": "Thieving Stray",
+        "number": 192,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Vitalia Historian",
-        "number": 260,
+        "card_name": "Warpath Orahan",
+        "number": 259,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Weathered Wanderer",
-        "number": 326,
-        "shape": "normal",
+        "card_name": "Wuuld Nomad",
+        "number": 327,
+        "shape": "adventure",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Unbecome",
+        "card_name": "Ulfric's Legion",
         "number": 63,
         "shape": "normal",
         "set": "Kube",
@@ -2488,32 +2448,32 @@
         "position": ""
     },
     {
-        "card_name": "Volitan Lurker",
-        "number": 129,
+        "card_name": "Unrelenting Force",
+        "number": 128,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Under Heel",
-        "number": 195,
+        "card_name": "Tombs Unplundered",
+        "number": 193,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "War-Horn Raider",
-        "number": 261,
+        "card_name": "Way of the Voice",
+        "number": 260,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Winterheath Druid",
-        "number": 327,
+        "card_name": "Xotiala the Ritualist",
+        "number": 328,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2528,9 +2488,79 @@
         "position": ""
     },
     {
+        "card_name": "Volitan Lurker",
+        "number": 129,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Unbound Dremora",
+        "number": 194,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Winter's Exhaustion",
+        "number": 261,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Veteran Cathar",
+        "number": 65,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Volta Hearth",
         "number": 130,
         "shape": "planeswalker",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Under Heel",
+        "number": 195,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Wispheim Titan",
+        "number": 262,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Wayward Traveler",
+        "number": 66,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Whispers Thief",
+        "number": 131,
+        "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
@@ -2544,36 +2574,16 @@
         "position": ""
     },
     {
-        "card_name": "Warpath Orahan",
-        "number": 262,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
+        "card_name": "e"
     },
     {
-        "card_name": "Wonder of Worlds",
-        "number": 328,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
+        "card_name": "e"
     },
     {
-        "card_name": "Veteran Cathar",
-        "number": 65,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
+        "card_name": "e"
     },
     {
-        "card_name": "Wandering Yeti",
-        "number": 131,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
+        "card_name": "e"
     },
     {
         "card_name": "Wandering Khenra",
@@ -2584,60 +2594,10 @@
         "position": ""
     },
     {
-        "card_name": "Winter's Exhaustion",
-        "number": 263,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
+        "card_name": "e"
     },
     {
-        "card_name": "Wuuld Nomad",
-        "number": 329,
-        "shape": "adventure",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Wayward Traveler",
-        "number": 66,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Whispers Thief",
-        "number": 132,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Winter Wanders Near",
-        "number": 198,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Wispheim Titan",
-        "number": 264,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Xotiala the Ritualist",
-        "number": 330,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -2654,7 +2614,7 @@
     "a->gold",
     {
         "card_name": "Free as the Sea",
-        "number": 346,
+        "number": 344,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2662,23 +2622,23 @@
     },
     {
         "card_name": "Hentus, Seed of Doubt",
-        "number": 350,
+        "number": 347,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "The Dark Urge",
-        "number": 342,
-        "shape": "modal double faced",
+        "card_name": "Alduin, First-Born of Akatosh",
+        "number": 329,
+        "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
         "card_name": "Cerat, Asari Hunter",
-        "number": 337,
+        "number": 336,
         "shape": "planeswalker",
         "set": "Kube",
         "rotated": false,
@@ -2686,7 +2646,7 @@
     },
     {
         "card_name": "Harriet Tev Tevlar",
-        "number": 348,
+        "number": 346,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2694,7 +2654,7 @@
     },
     {
         "card_name": "Remorse",
-        "number": 363,
+        "number": 360,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2702,23 +2662,23 @@
     },
     {
         "card_name": "Meeting at Midnight",
-        "number": 356,
+        "number": 353,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Destiny Approaches",
-        "number": 343,
-        "shape": "normal",
+        "card_name": "The Dark Urge",
+        "number": 340,
+        "shape": "modal double faced",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Constant Genesis",
-        "number": 341,
+        "card_name": "Roaming Band",
+        "number": 361,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2726,7 +2686,7 @@
     },
     {
         "card_name": "Smug Saboteur",
-        "number": 365,
+        "number": 363,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2734,62 +2694,30 @@
     },
     {
         "card_name": "Volta Hearth, Technoadept",
-        "number": 371,
+        "number": 368,
         "shape": "planeswalker",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Unhallowed Dead",
-        "number": 369,
+        "card_name": "Miraak's Unraveling",
+        "number": 354,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "A Pirate's Life for Me",
-        "number": 361,
-        "shape": "saga",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Roaming Band",
-        "number": 364,
+        "card_name": "Destiny Approaches",
+        "number": 341,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Yvara Springhart",
-        "number": 374,
-        "shape": "planeswalker",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Unraveling Zero Dawn",
-        "number": 470,
-        "shape": "transform double faced",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Cryptic Sphinx",
-        "number": 464,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Profane Aristocrat",
+        "card_name": "Senate Hopeful Norm Elm",
         "number": 362,
         "shape": "normal",
         "set": "Kube",
@@ -2797,20 +2725,72 @@
         "position": ""
     },
     {
-        "card_name": "Elder Skaal of Odelia",
-        "number": 466,
+        "card_name": "Yvara Springhart",
+        "number": 372,
+        "shape": "planeswalker",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Unraveling Zero Dawn",
+        "number": 467,
+        "shape": "transform double faced",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Haunting Dovah",
+        "number": 464,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Plema, Titan of Life's Spiral",
-        "number": 469,
+        "card_name": "A Pirate's Life for Me",
+        "number": 358,
+        "shape": "saga",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Arlinn Kord, the Outcast",
+        "number": 458,
+        "shape": "transform double faced",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Gilded Herald",
+        "number": 463,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Profane Aristocrat",
+        "number": 359,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -2820,7 +2800,7 @@
     },
     {
         "card_name": "Death Incarnate",
-        "number": 465,
+        "number": 462,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2849,14 +2829,6 @@
     },
     {
         "card_name": "Avatar of the Sister Gods",
-        "number": 334,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Aurora Reader",
         "number": 333,
         "shape": "normal",
         "set": "Kube",
@@ -2864,8 +2836,16 @@
         "position": ""
     },
     {
+        "card_name": "Cinder Scholar",
+        "number": 337,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Bull Netch",
-        "number": 336,
+        "number": 335,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2873,38 +2853,6 @@
     },
     {
         "card_name": "Conquer the Deadlands",
-        "number": 340,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Arngeir, Greybeard's Voice",
-        "number": 332,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Blood on the Ice",
-        "number": 335,
-        "shape": "saga",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Cinder Scholar",
-        "number": 338,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Clay-Clad Brawler",
         "number": 339,
         "shape": "normal",
         "set": "Kube",
@@ -2912,40 +2860,32 @@
         "position": ""
     },
     {
-        "card_name": "Helvalla Warmonger",
-        "number": 349,
+        "card_name": "Arngeir, Greybeard's Voice",
+        "number": 331,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Oko, Feywild Thief",
-        "number": 360,
-        "shape": "planeswalker",
+        "card_name": "Blood on the Ice",
+        "number": 334,
+        "shape": "saga",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Justicia, Ordeal and Order",
-        "number": 353,
+        "card_name": "Elderboon Dovah",
+        "number": 342,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Stormshell, Voracious Terror",
-        "number": 367,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Here be Dragons",
-        "number": 351,
+        "card_name": "Clay-Clad Brawler",
+        "number": 338,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2953,23 +2893,63 @@
     },
     {
         "card_name": "Mjeld Bonebreaker",
+        "number": 355,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Illypso, Guide to Glory",
+        "number": 349,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Justicia, Ordeal and Order",
+        "number": 351,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Stormshell, Voracious Terror",
+        "number": 365,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Here be Dragons",
+        "number": 348,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Year of the Long Eclipse",
+        "number": 370,
+        "shape": "saga",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Oko, Feywild Thief",
         "number": 357,
-        "shape": "normal",
+        "shape": "planeswalker",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "You Hear a Noise",
-        "number": 373,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Forsaken Banneret",
-        "number": 467,
+        "card_name": "Tymna, Fate-Woven",
+        "number": 466,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2977,7 +2957,7 @@
     },
     {
         "card_name": "Bloodsea Privateer",
-        "number": 461,
+        "number": 459,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2985,7 +2965,7 @@
     },
     {
         "card_name": "Vile Rotbile",
-        "number": 370,
+        "number": 367,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -2993,39 +2973,44 @@
     },
     {
         "card_name": "Caravan Recruiter",
-        "number": 462,
+        "number": 460,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
+    },
+    {
+        "card_name": "You Hear a Noise",
+        "number": 371,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Stumbling Giant",
+        "number": 465,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "Crossways Bandit",
-        "number": 463,
+        "number": 461,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Odelia Huntwarden",
-        "number": 468,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -3044,7 +3029,7 @@
     },
     {
         "card_name": "Lord Enver Gortash",
-        "number": 355,
+        "number": 352,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3052,7 +3037,7 @@
     },
     {
         "card_name": "Apocrypha Loremaster",
-        "number": 331,
+        "number": 330,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3060,7 +3045,7 @@
     },
     {
         "card_name": "Web-Ridden Den",
-        "number": 372,
+        "number": 369,
         "shape": "transform double faced",
         "set": "Kube",
         "rotated": false,
@@ -3068,7 +3053,7 @@
     },
     {
         "card_name": "General Tullius",
-        "number": 347,
+        "number": 345,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3076,7 +3061,7 @@
     },
     {
         "card_name": "Solitude Warden",
-        "number": 366,
+        "number": 364,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3087,7 +3072,7 @@
     },
     {
         "card_name": "Nicol Bolas, Mastermind",
-        "number": 358,
+        "number": 356,
         "shape": "planeswalker",
         "set": "Kube",
         "rotated": false,
@@ -3121,16 +3106,11 @@
         "card_name": "e"
     },
     {
-        "card_name": "Ejuld the Blizzard Queen",
-        "number": 344,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
+        "card_name": "e"
     },
     {
         "card_name": "Jarl's Brutalizer",
-        "number": 352,
+        "number": 350,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3138,7 +3118,7 @@
     },
     {
         "card_name": "Explorer's Crew",
-        "number": 345,
+        "number": 343,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3146,7 +3126,7 @@
     },
     {
         "card_name": "Tales Retold",
-        "number": 368,
+        "number": 366,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3166,7 +3146,7 @@
     },
     {
         "card_name": "Zenith, Chitinous Isle",
-        "number": 375,
+        "number": 373,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3188,20 +3168,15 @@
         "card_name": "er"
     },
     {
-        "card_name": "Karstaag, Ghost Titan",
-        "number": 354,
-        "shape": "normal",
+        "card_name": "Atraxa",
+        "number": 332,
+        "shape": "transform double faced",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Njolbur, Aurorascale",
-        "number": 359,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -3226,8 +3201,16 @@
     },
     "a->colorless",
     {
+        "card_name": "Alduin's Wall",
+        "number": 374,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Ancient Guardstone",
-        "number": 376,
+        "number": 375,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3235,7 +3218,7 @@
     },
     {
         "card_name": "Ancient Heirloom",
-        "number": 377,
+        "number": 376,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3243,14 +3226,22 @@
     },
     {
         "card_name": "Ardent Guardians",
-        "number": 378,
+        "number": 377,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Aurora Lotus",
+        "card_name": "Astral Ring",
+        "number": 378,
+        "shape": "leveler",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Bug in the System",
         "number": 379,
         "shape": "normal",
         "set": "Kube",
@@ -3266,7 +3257,7 @@
         "position": ""
     },
     {
-        "card_name": "Construct Caverns",
+        "card_name": "Damping Stone",
         "number": 381,
         "shape": "normal",
         "set": "Kube",
@@ -3274,16 +3265,8 @@
         "position": ""
     },
     {
-        "card_name": "Damping Stone",
-        "number": 382,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
         "card_name": "Dubious Designs",
-        "number": 383,
+        "number": 382,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3298,7 +3281,7 @@
         "position": ""
     },
     {
-        "card_name": "Kingmaker, Gem of Authority",
+        "card_name": "Innovation",
         "number": 385,
         "shape": "normal",
         "set": "Kube",
@@ -3306,7 +3289,7 @@
         "position": ""
     },
     {
-        "card_name": "Magus's Talisman",
+        "card_name": "Kingmaker, Gem of Authority",
         "number": 386,
         "shape": "normal",
         "set": "Kube",
@@ -3314,7 +3297,7 @@
         "position": ""
     },
     {
-        "card_name": "Marauder's Tomb",
+        "card_name": "Magus's Talisman",
         "number": 387,
         "shape": "normal",
         "set": "Kube",
@@ -3322,7 +3305,7 @@
         "position": ""
     },
     {
-        "card_name": "Obsidian Manalith",
+        "card_name": "Nexus of Investment",
         "number": 388,
         "shape": "normal",
         "set": "Kube",
@@ -3330,7 +3313,7 @@
         "position": ""
     },
     {
-        "card_name": "Otherworldly Orrery",
+        "card_name": "Obsidian Manalith",
         "number": 389,
         "shape": "normal",
         "set": "Kube",
@@ -3338,7 +3321,7 @@
         "position": ""
     },
     {
-        "card_name": "Pilfered Purse",
+        "card_name": "Otherworldly Orrery",
         "number": 390,
         "shape": "normal",
         "set": "Kube",
@@ -3346,7 +3329,7 @@
         "position": ""
     },
     {
-        "card_name": "Prizewinner",
+        "card_name": "Pilfered Purse",
         "number": 391,
         "shape": "normal",
         "set": "Kube",
@@ -3354,7 +3337,7 @@
         "position": ""
     },
     {
-        "card_name": "Province Banner",
+        "card_name": "Prizewinner",
         "number": 392,
         "shape": "normal",
         "set": "Kube",
@@ -3410,20 +3393,7 @@
         "position": ""
     },
     {
-        "card_name": "Vitalia Express",
-        "number": 399,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Winter Sun",
-        "number": 400,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -3441,40 +3411,40 @@
         "card_name": "er"
     },
     {
-        "card_name": "Chilling Constellation",
-        "number": 404,
-        "shape": "normal",
+        "card_name": "Frozen Spill",
+        "number": 412,
+        "shape": "leveler",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Sleeping Cairn",
-        "number": 436,
-        "shape": "normal",
+        "card_name": "Draining Exoflow",
+        "number": 406,
+        "shape": "leveler",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Ravaging Runes",
-        "number": 431,
-        "shape": "normal",
+        "card_name": "Flyby Basin",
+        "number": 411,
+        "shape": "leveler",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Greengate Mall",
-        "number": 413,
-        "shape": "normal",
+        "card_name": "Eroded Range",
+        "number": 408,
+        "shape": "leveler",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
         "card_name": "Expansive Sprawl",
-        "number": 410,
+        "number": 409,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3490,7 +3460,7 @@
     },
     {
         "card_name": "Weathered Slums",
-        "number": 447,
+        "number": 444,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3498,24 +3468,24 @@
     },
     {
         "card_name": "Smokeheap Slums",
-        "number": 437,
+        "number": 433,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Unshaken Oak",
-        "number": 446,
+        "card_name": "Greengate Mall",
+        "number": 413,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Lumbering Valley",
-        "number": 420,
-        "shape": "normal",
+        "card_name": "Mycelium Grove",
+        "number": 423,
+        "shape": "leveler",
         "set": "Kube",
         "rotated": false,
         "position": ""
@@ -3545,47 +3515,7 @@
     },
     {
         "card_name": "Coral Pools",
-        "number": 406,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Muckroot Falls",
-        "number": 424,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Ritual Stones",
-        "number": 432,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Glacial Wonder",
-        "number": 412,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Roaming Remains",
-        "number": 433,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Spirit Valley",
-        "number": 439,
+        "number": 403,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3593,15 +3523,15 @@
     },
     {
         "card_name": "Stagnant Bog",
-        "number": 440,
+        "number": 435,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Sundering Terrain",
-        "number": 442,
+        "card_name": "Ritual Stones",
+        "number": 430,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3609,8 +3539,48 @@
     },
     {
         "card_name": "Tropical Estuary",
-        "number": 445,
+        "number": 442,
         "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Noxious Canyon",
+        "number": 425,
+        "shape": "leveler",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Sublimated River",
+        "number": 438,
+        "shape": "leveler",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Subterranean Expanse",
+        "number": 439,
+        "shape": "leveler",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Strange Reaches",
+        "number": 437,
+        "shape": "leveler",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Upper Atmosphere",
+        "number": 443,
+        "shape": "leveler",
         "set": "Kube",
         "rotated": false,
         "position": ""
@@ -3632,7 +3602,7 @@
     },
     {
         "card_name": "Ancestor Glade",
-        "number": 401,
+        "number": 399,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3640,7 +3610,7 @@
     },
     {
         "card_name": "Bruma Guildhall",
-        "number": 402,
+        "number": 400,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3648,7 +3618,7 @@
     },
     {
         "card_name": "Burial Grounds",
-        "number": 403,
+        "number": 401,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3656,7 +3626,7 @@
     },
     {
         "card_name": "Cold Pass",
-        "number": 405,
+        "number": 402,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3664,7 +3634,7 @@
     },
     {
         "card_name": "Cumulozoa",
-        "number": 407,
+        "number": 404,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3672,7 +3642,7 @@
     },
     {
         "card_name": "Desert Bluffs",
-        "number": 408,
+        "number": 405,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3680,7 +3650,7 @@
     },
     {
         "card_name": "Endorheic Lake",
-        "number": 409,
+        "number": 407,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3688,7 +3658,7 @@
     },
     {
         "card_name": "Field of Regrowth",
-        "number": 411,
+        "number": 410,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3728,7 +3698,7 @@
     },
     {
         "card_name": "Luminous Reef",
-        "number": 421,
+        "number": 420,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3736,7 +3706,7 @@
     },
     {
         "card_name": "Magmatic Horizon",
-        "number": 422,
+        "number": 421,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3744,7 +3714,7 @@
     },
     {
         "card_name": "Market Center",
-        "number": 423,
+        "number": 422,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3752,7 +3722,7 @@
     },
     {
         "card_name": "Northern Holdout",
-        "number": 425,
+        "number": 424,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3775,7 +3745,7 @@
         "position": ""
     },
     {
-        "card_name": "Pale Valley",
+        "card_name": "Planar Market",
         "number": 428,
         "shape": "normal",
         "set": "Kube",
@@ -3783,7 +3753,7 @@
         "position": ""
     },
     {
-        "card_name": "Planar Market",
+        "card_name": "Pristine Pools",
         "number": 429,
         "shape": "normal",
         "set": "Kube",
@@ -3791,16 +3761,8 @@
         "position": ""
     },
     {
-        "card_name": "Pristine Pools",
-        "number": 430,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
         "card_name": "Rooted Falls",
-        "number": 434,
+        "number": 431,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3808,7 +3770,7 @@
     },
     {
         "card_name": "Skyshard Sanctuary",
-        "number": 435,
+        "number": 432,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3816,7 +3778,7 @@
     },
     {
         "card_name": "Smoking Crater",
-        "number": 438,
+        "number": 434,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3824,7 +3786,7 @@
     },
     {
         "card_name": "Stranding Shoal",
-        "number": 441,
+        "number": 436,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3832,7 +3794,7 @@
     },
     {
         "card_name": "Sunken Depths",
-        "number": 443,
+        "number": 440,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3840,7 +3802,7 @@
     },
     {
         "card_name": "Thawing Township",
-        "number": 444,
+        "number": 441,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3848,7 +3810,7 @@
     },
     {
         "card_name": "Weirding Tropics",
-        "number": 448,
+        "number": 445,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3856,7 +3818,7 @@
     },
     {
         "card_name": "Winterheath Snowbanks",
-        "number": 449,
+        "number": 446,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3864,11 +3826,14 @@
     },
     {
         "card_name": "Winterheath Tundra",
-        "number": 450,
+        "number": 447,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
         "position": ""
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -3887,70 +3852,6 @@
     },
     {
         "card_name": "Snow-Covered Forest",
-        "number": 460,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Snow-Covered Island",
-        "number": 454,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Snow-Covered Mountain",
-        "number": 458,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Snow-Covered Plains",
-        "number": 452,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Snow-Covered Swamp",
-        "number": 455,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Swamp",
-        "number": 456,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Island",
-        "number": 453,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Plains",
-        "number": 451,
-        "shape": "normal",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Mountain",
         "number": 457,
         "shape": "normal",
         "set": "Kube",
@@ -3958,8 +3859,72 @@
         "position": ""
     },
     {
+        "card_name": "Snow-Covered Island",
+        "number": 451,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Snow-Covered Mountain",
+        "number": 455,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Snow-Covered Plains",
+        "number": 449,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Snow-Covered Swamp",
+        "number": 452,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Swamp",
+        "number": 453,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Island",
+        "number": 450,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Plains",
+        "number": 448,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mountain",
+        "number": 454,
+        "shape": "normal",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Forest",
-        "number": 459,
+        "number": 456,
         "shape": "normal",
         "set": "Kube",
         "rotated": false,
@@ -3979,7 +3944,7 @@
     },
     "a->token",
     {
-        "card_name": "Eldrazi Horror",
+        "card_name": "The Call",
         "number": 1,
         "shape": "token",
         "set": "Kube",
@@ -3987,7 +3952,15 @@
         "position": ""
     },
     {
-        "card_name": "Eldrazi Spawn",
+        "card_name": "Adventurer",
+        "number": 1,
+        "shape": "token",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Eldrazi Horror",
         "number": 2,
         "shape": "token",
         "set": "Kube",
@@ -3995,15 +3968,7 @@
         "position": ""
     },
     {
-        "card_name": "Black Lotus",
-        "number": 22,
-        "shape": "token",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Angel",
+        "card_name": "Eldrazi Spawn",
         "number": 3,
         "shape": "token",
         "set": "Kube",
@@ -4011,7 +3976,7 @@
         "position": ""
     },
     {
-        "card_name": "Citizen",
+        "card_name": "Spirit Pirate",
         "number": 4,
         "shape": "token",
         "set": "Kube",
@@ -4019,7 +3984,71 @@
         "position": ""
     },
     {
-        "card_name": "Giant",
+        "card_name": "Pirate",
+        "number": 26,
+        "shape": "token",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Soldier",
+        "number": 27,
+        "shape": "token",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Clue",
+        "number": 28,
+        "shape": "token",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Construct",
+        "number": 29,
+        "shape": "token",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Equipment",
+        "number": 30,
+        "shape": "token",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Phyrexian Mite",
+        "number": 31,
+        "shape": "token",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Servo",
+        "number": 32,
+        "shape": "token",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Treasure",
+        "number": 33,
+        "shape": "token",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Citizen",
         "number": 5,
         "shape": "token",
         "set": "Kube",
@@ -4027,7 +4056,7 @@
         "position": ""
     },
     {
-        "card_name": "Human",
+        "card_name": "Giant",
         "number": 6,
         "shape": "token",
         "set": "Kube",
@@ -4043,7 +4072,7 @@
         "position": ""
     },
     {
-        "card_name": "Soldier",
+        "card_name": "Human",
         "number": 8,
         "shape": "token",
         "set": "Kube",
@@ -4051,7 +4080,7 @@
         "position": ""
     },
     {
-        "card_name": "Warrior",
+        "card_name": "Knight",
         "number": 9,
         "shape": "token",
         "set": "Kube",
@@ -4059,7 +4088,7 @@
         "position": ""
     },
     {
-        "card_name": "Cat",
+        "card_name": "Soldier",
         "number": 10,
         "shape": "token",
         "set": "Kube",
@@ -4067,7 +4096,7 @@
         "position": ""
     },
     {
-        "card_name": "Phyrexian Sphinx",
+        "card_name": "Soldier",
         "number": 11,
         "shape": "token",
         "set": "Kube",
@@ -4075,7 +4104,7 @@
         "position": ""
     },
     {
-        "card_name": "Demon Bear",
+        "card_name": "Spirit",
         "number": 12,
         "shape": "token",
         "set": "Kube",
@@ -4083,7 +4112,7 @@
         "position": ""
     },
     {
-        "card_name": "Zombie",
+        "card_name": "Warrior",
         "number": 13,
         "shape": "token",
         "set": "Kube",
@@ -4091,7 +4120,7 @@
         "position": ""
     },
     {
-        "card_name": "Assassin",
+        "card_name": "Crab",
         "number": 14,
         "shape": "token",
         "set": "Kube",
@@ -4099,7 +4128,7 @@
         "position": ""
     },
     {
-        "card_name": "Dwarf Warrior",
+        "card_name": "Phyrexian Sphinx",
         "number": 15,
         "shape": "token",
         "set": "Kube",
@@ -4107,7 +4136,7 @@
         "position": ""
     },
     {
-        "card_name": "Elf Warrior",
+        "card_name": "Dinosaur",
         "number": 16,
         "shape": "token",
         "set": "Kube",
@@ -4115,7 +4144,7 @@
         "position": ""
     },
     {
-        "card_name": "Spirit Bear",
+        "card_name": "Zombie",
         "number": 17,
         "shape": "token",
         "set": "Kube",
@@ -4123,7 +4152,7 @@
         "position": ""
     },
     {
-        "card_name": "Wolf",
+        "card_name": "Assassin",
         "number": 18,
         "shape": "token",
         "set": "Kube",
@@ -4131,15 +4160,7 @@
         "position": ""
     },
     {
-        "card_name": "Dinosaur",
-        "number": 20,
-        "shape": "token",
-        "set": "Kube",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Detective Army",
+        "card_name": "Dwarf Warrior",
         "number": 19,
         "shape": "token",
         "set": "Kube",
@@ -4147,7 +4168,15 @@
         "position": ""
     },
     {
-        "card_name": "Merfolk Beast",
+        "card_name": "Elf Warrior",
+        "number": 20,
+        "shape": "token",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Spirit Bear",
         "number": 21,
         "shape": "token",
         "set": "Kube",
@@ -4155,7 +4184,28 @@
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Wolf",
+        "number": 22,
+        "shape": "token",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Detective Army",
+        "number": 24,
+        "shape": "token",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Merfolk Beast",
+        "number": 25,
+        "shape": "token",
+        "set": "Kube",
+        "rotated": false,
+        "position": ""
     },
     {
         "card_name": "e"
