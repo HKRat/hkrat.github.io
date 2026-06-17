@@ -62,7 +62,7 @@ Counter target spell.</text>
 		<card>
 			<name>Death Incarnate</name>
 			<text>Whenever you sacrifice a permanent, put a quest counter on Death Incarnate. If there are four or more quest counters on Death Incarnate, each opponent sacrifices a permanent instead.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/462_Death Incarnate.png" num="462">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/465_Death Incarnate.png" num="465">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -79,7 +79,7 @@ Counter target spell.</text>
 			<name>Unraveling Zero Dawn</name>
 			<text>---
 (Back): Reflection of Elisabet</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/467_Unraveling Zero Dawn_front.png" num="467a">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/470_Unraveling Zero Dawn_front.png" num="470a">Kube</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -99,7 +99,7 @@ Counter target spell.</text>
 Once during each of your turns, you may cast an artifact spell from your graveyard.
 ---
 (Front): Unraveling Zero Dawn</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/467_Unraveling Zero Dawn_back.png" num="467b">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/470_Unraveling Zero Dawn_back.png" num="470b">Kube</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -117,7 +117,7 @@ Once during each of your turns, you may cast an artifact spell from your graveya
 		<card>
 			<name>Caravan Recruiter</name>
 			<text>Whenever you attack, create a token that&apos;s a copy of up to one other target attacking creature, except the token isn&apos;t legendary. Exile that token at end of combat unless it dealt damage to an opponent this turn.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/460_Caravan Recruiter.png" num="460">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/463_Caravan Recruiter.png" num="463">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -136,7 +136,7 @@ Once during each of your turns, you may cast an artifact spell from your graveya
 			<text>Flash
 As long as it&apos;s not your turn, spells you cast cost {1} less to cast.
 Whenever you cast another spell during an opponent&apos;s turn, scry 1. You gain 1 life.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/461_Crossways Bandit.png" num="461">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/464_Crossways Bandit.png" num="464">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -170,7 +170,7 @@ Whenever you cast another spell during an opponent&apos;s turn, scry 1. You gain
 		<card>
 			<name>Serpent&apos;s Diviner</name>
 			<text>{T}: Target creature you control gains hexproof from the color of your choice until end of turn.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/305_Serpent&apos;s Diviner.png" num="305">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/307_Serpent&apos;s Diviner.png" num="307">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -402,7 +402,7 @@ Whenever a creature dealt damage by Huiltaii Hydra this turn dies, put two +1/+1
 			<name>Oakblossom Druid</name>
 			<text>Whenever you tap a creature for mana, put a +1/+1 counter on it.
 At the beginning of combat on your turn, if you control four or more differently named lands, put three +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with haste that&apos;s still a land.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/294_Oakblossom Druid.png" num="294">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/295_Oakblossom Druid.png" num="295">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -455,7 +455,7 @@ When Court Marshal enters, exile target creature an opponent controls until Cour
 			<name>Cold Grave</name>
 			<text>When Cold Grave enters, exile target card in a graveyard.
 {1}, {T}, Sacrifice Cold Grave: Exile all cards from target player&apos;s graveyard. Scry 1.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/380_Cold Grave.png" num="380">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/383_Cold Grave.png" num="383">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -486,7 +486,7 @@ When Court Marshal enters, exile target creature an opponent controls until Cour
 			<name>Fell the Feeble</name>
 			<text>Attacking creatures get +2/+0 until end of turn.
 Whenever one or more creatures deals combat damage to a player, you may pay {5}{R}{R} and exile Fell the Feeble from your graveyard. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/214_Fell the Feeble.png" num="214">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/213_Fell the Feeble.png" num="213">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -554,7 +554,7 @@ Choose one or both—
 			<name>Splitting Bloom</name>
 			<text>{T}, Sacrifice a creature: Add one mana of any color.
 Landfall — Whenever a land you control enters, create a 1/1 green Saproling creature token.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/309_Splitting Bloom.png" num="309">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/311_Splitting Bloom.png" num="311">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -571,7 +571,7 @@ Landfall — Whenever a land you control enters, create a 1/1 green Saproling cr
 		<card>
 			<name>Stalwart Galleon</name>
 			<text>Crew 4</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/397_Stalwart Galleon.png" num="397">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/400_Stalwart Galleon.png" num="400">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -602,7 +602,7 @@ Landfall — Whenever a land you control enters, create a 1/1 green Saproling cr
 		<card>
 			<name>Charted Course</name>
 			<text>Create three Treasure tokens. If a permanent you control left the battlefield this turn, create four of those tokens instead.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/206_Charted Course.png" num="206">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/205_Charted Course.png" num="205">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -743,7 +743,7 @@ Whenever this creature attacks, proliferate.</text>
 			<name>Wandering Caravan</name>
 			<text>Whenever your second land enters each turn, claim a territory. (If you don&apos;t have a territory, choose a land type from among lands you control to represent it. Otherwise, put a +1/+1 counter on a creature you control.)
 Untap each land in your territory during each other player&apos;s untap step.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/321_Wandering Caravan.png" num="321">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/324_Wandering Caravan.png" num="324">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -761,7 +761,7 @@ Untap each land in your territory during each other player&apos;s untap step.</t
 			<name>Warpath Carnivore</name>
 			<text>Haste
 Dominance — At the beginning of combat on your turn, if you control the creature with the greatest power or tied for greatest, create a 3/3 green Dinosaur creature token. Otherwise, put a +1/+1 counter on each creature you control.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/322_Warpath Carnivore.png" num="322">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/325_Warpath Carnivore.png" num="325">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -778,7 +778,7 @@ Dominance — At the beginning of combat on your turn, if you control the creatu
 		<card>
 			<name>Survive the Hunt</name>
 			<text>Dominance — Put a +1/+1 counter on target creature, then that creature gains indestructible and trample until end of turn if you control the creature with the greatest power or tied for greatest.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/313_Survive the Hunt.png" num="313">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/315_Survive the Hunt.png" num="315">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -795,7 +795,7 @@ Dominance — At the beginning of combat on your turn, if you control the creatu
 			<name>Sanctuary Door</name>
 			<text>When Sanctuary Door enters, create a Gem token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)
 {T}, Sacrifice an artifact or creature: Add {C}.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/394_Sanctuary Door.png" num="394">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/397_Sanctuary Door.png" num="397">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -990,7 +990,7 @@ The first time one or more counters would be put on a single creature you contro
 			<name>Traversal</name>
 			<text>You may inspect a card any time.
 You may play lands from the top of your library.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/319_Traversal.png" num="319">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/321_Traversal.png" num="321">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1006,7 +1006,7 @@ You may play lands from the top of your library.</text>
 		<card>
 			<name>Catalyzing Lightning</name>
 			<text>Catalyzing Lightning deals 3 damage to any target. Add {R}{R}.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/205_Catalyzing Lightning.png" num="205">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/204_Catalyzing Lightning.png" num="204">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1232,7 +1232,7 @@ As long as there are three or more quest counters on Lost to the Ages, if a land
 			<name>Ashen Atronach</name>
 			<text>As an additional cost to cast this spell, exile X cards from your graveyard.
 When Ashen Atronach enters, discard your hand, then draw X cards. Ashen Atronach deals 7 minus X damage to you.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/200_Ashen Atronach.png" num="200">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/199_Ashen Atronach.png" num="199">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1351,7 +1351,7 @@ When enchanted creature dies, exile Constant Conjuring. Return it to the battlef
 			<text>Unbound Dremora can&apos;t block.
 When Unbound Dremora enters, each player discards a card.
 Whenever you sacrifice a creature, if it&apos;s the second creature you&apos;ve sacrificed this turn, return Unbound Dremora from your graveyard to the battlefield.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/194_Unbound Dremora.png" num="194">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/193_Unbound Dremora.png" num="193">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1617,7 +1617,7 @@ At the beginning of your end step, if you control an artifact, create a 1/1 whit
 			<text>Trample
 Whenever a player attacks an opponent with one or more creatures, that player untaps a land they control for each attacking creature they control.
 Partner (You can have two commanders if both have partner.)</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/328_Xotiala the Ritualist.png" num="328">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/331_Xotiala the Ritualist.png" num="331">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1951,7 +1951,7 @@ Whenever you cast a spell during an opponent&apos;s turn, you may exile target n
 			<name>Sage of All</name>
 			<text>Trample, vigilance
 Whenever Sage of All deals excess damage to a player or planeswalker, draw that many cards.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/303_Sage of All.png" num="303">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/305_Sage of All.png" num="305">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1969,7 +1969,7 @@ Whenever Sage of All deals excess damage to a player or planeswalker, draw that 
 			<name>Tezoculpa Rust-Priest</name>
 			<text>Activated abilities of artifacts can&apos;t be activated unless they&apos;re mana abilities.
 Prevent all combat damage that would be dealt by artifact creatures.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/314_Tezoculpa Rust-Priest.png" num="314">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/316_Tezoculpa Rust-Priest.png" num="316">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2118,7 +2118,7 @@ Whenever Wisened Matron deals combat damage to a player, you may draw a card.
 			<name>Proclaimer of Ages</name>
 			<text>When Proclaimer of Ages enters, put two -1/-1 counters on target creature you control.
 Whenever one or more creatures you control with a counter on them attack, create a 1/1 green Elf Warrior creature token.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/299_Proclaimer of Ages.png" num="299">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/301_Proclaimer of Ages.png" num="301">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2135,7 +2135,7 @@ Whenever one or more creatures you control with a counter on them attack, create
 		<card>
 			<name>Winterheath Druid</name>
 			<text>{T}: Add {G}. If you control lands named Winterheath Tundra, Winterheath Snowbanks, and Northern Holdout, add {G}{G}{G} instead.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/325_Winterheath Druid.png" num="325">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/328_Winterheath Druid.png" num="328">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2230,7 +2230,7 @@ Target opponent reveals his or her hand. You choose a nonland card from it. That
 			<name>Wandering Khenra</name>
 			<text>Whenever a permanent you control enters from your graveyard, you draw a card and lose 1 life.
 Whenever you cast a spell from your graveyard, you draw a card and lose 1 life.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/197_Wandering Khenra.png" num="197">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/196_Wandering Khenra.png" num="196">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2437,7 +2437,7 @@ Whenever Skosgred Runesmith attacks, you may put an artifact card from your hand
 		<card>
 			<name>Prismatic Elf</name>
 			<text>{T}: Add one mana of any color among permanents you control.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/296_Prismatic Elf.png" num="296">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/298_Prismatic Elf.png" num="298">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2454,7 +2454,7 @@ Whenever Skosgred Runesmith attacks, you may put an artifact card from your hand
 		<card>
 			<name>Akatosh&apos;s Intervention</name>
 			<text>Exile the top two cards of your library. Target opponent may have Akatosh&apos;s Intervention deal damage to them equal to the total mana value of those cards. If that player doesn&apos;t, you may cast up to one card exiled this way without paying its mana cost.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/198_Akatosh&apos;s Intervention.png" num="198">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/197_Akatosh&apos;s Intervention.png" num="197">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2615,7 +2615,7 @@ Fright — At the beginning of each end step, if five or more cards were put int
 			<name>Archbishop of Discord</name>
 			<text>Menace
 {1}{R}, Sacrifice a permanent: Target opponent chooses a card type from among permanents they control, then sacrifices a permanent of the chosen type at random.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/199_Archbishop of Discord.png" num="199">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/198_Archbishop of Discord.png" num="198">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2818,7 +2818,7 @@ Whenever you cast a spell during an opponent&apos;s turn, put a +1/+1 counter on
 			<text>Flash
 Whenever you cast a spell during an opponent&apos;s turn, surveil 1.
 Olfdenmyr All-Seer gets +2/+2 and has trample as long as there are seven or more cards in your graveyard.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/295_Olfdenmyr All-Seer.png" num="295">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/296_Olfdenmyr All-Seer.png" num="296">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2836,7 +2836,7 @@ Olfdenmyr All-Seer gets +2/+2 and has trample as long as there are seven or more
 			<name>Rampaging Springhide</name>
 			<text>Flash
 When Rampaging Springhide enters, destroy up to one target artifact, enchantment, or land an opponent controls. That player may search their library for a basic land card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/300_Rampaging Springhide.png" num="300">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/302_Rampaging Springhide.png" num="302">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2854,7 +2854,7 @@ When Rampaging Springhide enters, destroy up to one target artifact, enchantment
 			<name>Snowfield Mother</name>
 			<text>When Snowfield Mother enters, you gain 4 life.
 When Snowfield Mother leaves the battlefield, create a 2/2 green Bear creature token.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/308_Snowfield Mother.png" num="308">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/310_Snowfield Mother.png" num="310">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2871,7 +2871,7 @@ When Snowfield Mother leaves the battlefield, create a 2/2 green Bear creature t
 		<card>
 			<name>Slay the Beast</name>
 			<text>Choose target creature you control and target creature you don&apos;t control. If you control four or more differently named lands, put a +1/+1 counter on the creature you control. Then those creatures fight each other.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/307_Slay the Beast.png" num="307">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/309_Slay the Beast.png" num="309">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2887,7 +2887,7 @@ When Snowfield Mother leaves the battlefield, create a 2/2 green Bear creature t
 		<card>
 			<name>Trace the Aurora</name>
 			<text>Return up to three target land cards from your graveyard to your hand. You may play an additional land this turn.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/317_Trace the Aurora.png" num="317">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/319_Trace the Aurora.png" num="319">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2904,7 +2904,7 @@ When Snowfield Mother leaves the battlefield, create a 2/2 green Bear creature t
 			<name>Wonder of Worlds</name>
 			<text>{S}, {T}: Add two mana in any combination of colors.
 {W}{U}{B}{R}{G}: Put five +1/+1 counters on Wonder of Worlds. It gains flying, first strike, vigilance, trample, and lifelink until end of turn.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/326_Wonder of Worlds.png" num="326">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/329_Wonder of Worlds.png" num="329">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2922,7 +2922,7 @@ When Snowfield Mother leaves the battlefield, create a 2/2 green Bear creature t
 			<name>Weald Walker</name>
 			<text>When Weald Walker enters, create a 2/2 green Wolf creature token.
 Whenever you attack, target attacking creature explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/323_Weald Walker.png" num="323">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/326_Weald Walker.png" num="326">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2940,7 +2940,7 @@ Whenever you attack, target attacking creature explores. (Reveal the top card of
 			<name>Conduit of Stribius</name>
 			<text>Haste
 Whenever Conduit of Stribius attacks, exile the top card of your library. If that card&apos;s mana value is even, Conduit of Stribius gains double strike until end of turn. If that card&apos;s mana value is odd, you may cast it this turn. (Zero is even.)</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/207_Conduit of Stribius.png" num="207">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/206_Conduit of Stribius.png" num="206">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2957,7 +2957,7 @@ Whenever Conduit of Stribius attacks, exile the top card of your library. If tha
 		<card>
 			<name>Consuming Fire</name>
 			<text>Consuming Fire deals 4 damage to up to X target creatures and/or planeswalkers.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/208_Consuming Fire.png" num="208">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/207_Consuming Fire.png" num="207">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2989,7 +2989,7 @@ Whenever Conduit of Stribius attacks, exile the top card of your library. If tha
 		<card>
 			<name>Flame Axe</name>
 			<text>Flame Axe deals 3 damage to target player and 1 damage to each creature and each planeswalker they control.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/216_Flame Axe.png" num="216">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/215_Flame Axe.png" num="215">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3131,7 +3131,7 @@ Whenever you attack with one or more creatures with counters on them, inspect th
 			<name>Under Heel</name>
 			<text>As an additional cost to cast this spell, discard a card or pay {3}.
 Destroy target creature or planeswalker.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/195_Under Heel.png" num="195">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/194_Under Heel.png" num="194">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3198,7 +3198,7 @@ When you cycle Data Convergence, shuffle it into its owner&apos;s library.</text
 			<name>Toxic Ventilation</name>
 			<text>Destroy target noncreature permanent.
 Flashback {4}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/316_Toxic Ventilation.png" num="316">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/318_Toxic Ventilation.png" num="318">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3214,7 +3214,7 @@ Flashback {4}{G}{G} (You may cast this card from your graveyard for its flashbac
 		<card>
 			<name>Storage Hub</name>
 			<text>Energize 4 (This enters with four +1/+1 counters and has &quot;{T}: Move a counter from this onto another target permanent. Activate only as a sorcery.&quot;)</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/312_Storage Hub.png" num="312">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/314_Storage Hub.png" num="314">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3231,7 +3231,7 @@ Flashback {4}{G}{G} (You may cast this card from your graveyard for its flashbac
 			<name>Weathered Wanderer</name>
 			<text>Energize 1 (This enters with a +1/+1 counter and has &quot;{T}: Move a counter from this onto another target permanent. Activate only as a sorcery.&quot;)
 {T}, Remove a counter from Weathered Wanderer: Add one mana of any color.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/324_Weathered Wanderer.png" num="324">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/327_Weathered Wanderer.png" num="327">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3415,24 +3415,6 @@ Whenever you sacrifice an artifact or creature, put a +1/+1 counter on Machiavel
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Thieving Stray</name>
-			<text>Whenever Thieving Stray attacks, defending player loses 1 life and you gain 1 life.
-Exile another permanent card from your graveyard that was put there this turn: Return Thieving Stray from your graveyard to the battlefield tapped.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/192_Thieving Stray.png" num="192">Kube</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Cat</type>
-				<maintype>Creature</maintype>
-				<manacost>B</manacost>
-				<cmc>1</cmc>
-				<colors>B</colors>
-				<coloridentity>B</coloridentity>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Adventurous Messenger</name>
 			<text>Improvise (Your artifacts can help cast this spell. Each artifact you tap after you&apos;re done activating mana abilities pays for {1}.)
 Flying
@@ -3509,7 +3491,7 @@ Equip {2}{U}</text>
 		<card>
 			<name>Moment of Growth</name>
 			<text>Create a tapped token that is a copy of target land you control. The token isn&apos;t legendary.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/293_Moment of Growth.png" num="293">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/294_Moment of Growth.png" num="294">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3526,7 +3508,7 @@ Equip {2}{U}</text>
 			<name>Romana, Senator of Tradition</name>
 			<text>Romana enters with twice X +1/+1 counters.
 {2}{G}: Remove X +1/+1 counters from among creatures you control: Return from your graveyard to your hand any number of target cards that each have a different mana value X or less.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/302_Romana, Senator of Tradition.png" num="302">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/304_Romana, Senator of Tradition.png" num="304">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3544,7 +3526,7 @@ Equip {2}{U}</text>
 			<name>Stern Groundskeepers</name>
 			<text>Flash
 {3}{U}{U}: Exile target card from a graveyard. If a noncreature card is exiled this way, draw a card. Otherwise, create a blue Faerie Rogue enchantment creature token with flying and &quot;This creature&apos;s power and toughness are each equal to the number of cards in your hand.&quot;</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/311_Stern Groundskeepers.png" num="311">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/313_Stern Groundskeepers.png" num="313">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3562,7 +3544,7 @@ Equip {2}{U}</text>
 			<name>Dealbroker</name>
 			<text>Menace
 When Dealbroker enters, you may pay {X}. When you do, create a token that&apos;s a copy of another target creature you control with mana value X. It gains haste until end of turn. Sacrifice it at the beginning of your next end step.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/209_Dealbroker.png" num="209">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/208_Dealbroker.png" num="208">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3579,7 +3561,7 @@ When Dealbroker enters, you may pay {X}. When you do, create a token that&apos;s
 		<card>
 			<name>Election Campaign</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/213_Election Campaign.png" num="213">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/212_Election Campaign.png" num="212">Kube</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -3780,7 +3762,7 @@ Skulduggery—{2}{U}{U}, {T}, Exile Volitan Lurker: Exile all cards from a playe
 			<name>Broadside!</name>
 			<text>This spell can&apos;t be countered.
 Broadside! deals 3 damage to each creature, planeswalker, and battle.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/204_Broadside!.png" num="204">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/203_Broadside!.png" num="203">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3924,7 +3906,7 @@ Whenever one or more creatures you control deal combat damage to an opponent, yo
 		<card>
 			<name>Assault Strategist</name>
 			<text>At the beginning of combat on your turn, create a 1/1 red Assassin creature token with haste. When that creature attacks this turn, it gets +1/+0 until end of turn for each other attacking Assassin you control.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/201_Assault Strategist.png" num="201">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/200_Assault Strategist.png" num="200">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3997,7 +3979,7 @@ When Influence Exerter enters, if you cast it for its opportune cost, target pla
 		<card>
 			<name>Blood on the Ice</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/334_Blood on the Ice.png" num="334">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/337_Blood on the Ice.png" num="337">Kube</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -4054,7 +4036,7 @@ Choose target creature card in your graveyard that was put there from the battle
 			<text>Prowess
 Whenever you cast a noncreature spell from your hand, you may exile the top card of your library. You may play that card this turn. Do this only once each turn.
 Spells you cast with mana value less than or equal to Bloodsea Privateer&apos;s power cost {1} less to cast.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/459_Bloodsea Privateer.png" num="459">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/462_Bloodsea Privateer.png" num="462">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4071,7 +4053,7 @@ Spells you cast with mana value less than or equal to Bloodsea Privateer&apos;s 
 		<card>
 			<name>Volta Hearth, Technoadept</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/368_Volta Hearth, Technoadept.png" num="368">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/371_Volta Hearth, Technoadept.png" num="371">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4141,7 +4123,7 @@ When Peakpoint Presence enters, add {R}{R}. Peakpoint Presence deals 2 damage to
 		<card>
 			<name>Valus, Gold-Crowned</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/196_Valus, Gold-Crowned.png" num="196">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/195_Valus, Gold-Crowned.png" num="195">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4161,7 +4143,7 @@ When Peakpoint Presence enters, add {R}{R}. Peakpoint Presence deals 2 damage to
 Choose one. X is the mana value of the creature tapped to pay this spell&apos;s additional cost. 
 • Search the Area — You gain half X life and draw half X cards. Round down each time.
 • Must be the Wind — Counter target spell with mana value X or less.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/371_You Hear a Noise.png" num="371">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/374_You Hear a Noise.png" num="374">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4177,7 +4159,7 @@ Choose one. X is the mana value of the creature tapped to pay this spell&apos;s 
 		<card>
 			<name>Mim-Reiki Caeseus</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/292_Mim-Reiki Caeseus.png" num="292">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/293_Mim-Reiki Caeseus.png" num="293">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4250,7 +4232,7 @@ When Grok, Vengeful Giant enters, gain control of target creature with power 4 o
 			<name>Arngeir, Greybeard&apos;s Voice</name>
 			<text>Whenever you cast a spell, put a number of +1/+1 counters on Arngeir, Greybeard&apos;s Voice equal to its mana value.
 {X}{X}, Remove X +1/+1 counters from Arngeir: Target player draws X cards.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/331_Arngeir, Greybeard&apos;s Voice.png" num="331">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/334_Arngeir, Greybeard&apos;s Voice.png" num="334">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4303,7 +4285,7 @@ When Grok, Vengeful Giant enters, gain control of target creature with power 4 o
 		<card>
 			<name>Destiny Approaches</name>
 			<text>At the beginning of each player&apos;s upkeep, that player discards a card. Then if that player has no cards in hand, sacrifice Destiny Approaches. It deals 3 damage to each opponent and you create a 4/4 red Dragon creature token with flying.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/341_Destiny Approaches.png" num="341">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/344_Destiny Approaches.png" num="344">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4498,7 +4480,7 @@ Tap an untapped creature you control: You gain 1 life.
 		<card>
 			<name>Yvara Springhart</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/372_Yvara Springhart.png" num="372">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/375_Yvara Springhart.png" num="375">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4584,7 +4566,7 @@ Create a 1/1 red Dwarf Warrior creature token. If a creature died this turn, cre
 		<card>
 			<name>Seek Gold</name>
 			<text>Search your library for a land card, reveal it, put it into your hand, then shuffle. Create a Treasure token.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/304_Seek Gold.png" num="304">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/306_Seek Gold.png" num="306">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4677,7 +4659,7 @@ Create a create a colorless Equipment token with &quot;Equipped creature gets +1
 			<text>Ward—Discard a card.
 When Avatar of the Sister Gods enters and whenever you cast your second spell each turn, exile up to one target nonland permanent until Avatar of the Sister Gods leaves the battlefield.
 Whenever an opponent casts a spell that shares a card type with a card exiled by Avatar of the Sister Gods, that player loses 2 life.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/333_Avatar of the Sister Gods.png" num="333">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/336_Avatar of the Sister Gods.png" num="336">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4695,7 +4677,7 @@ Whenever an opponent casts a spell that shares a card type with a card exiled by
 			<name>Desert Bluffs</name>
 			<text>As Desert Bluffs enters, you may reveal a Mountain or Plains card from your hand. If you don&apos;t, Irrigated Terrace enters tapped.
 {T}, Sacrifice Desert Bluffs: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/405_Desert Bluffs.png" num="405">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/408_Desert Bluffs.png" num="408">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4710,7 +4692,7 @@ Whenever an opponent casts a spell that shares a card type with a card exiled by
 			<name>Endorheic Lake</name>
 			<text>As Endorheic Lake enters, you may reveal a Plains or Swamp card from your hand. If you don&apos;t, Endorheic Lake enters tapped.
 {T}, Sacrifice Endorheic Lake: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/407_Endorheic Lake.png" num="407">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/410_Endorheic Lake.png" num="410">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4725,7 +4707,7 @@ Whenever an opponent casts a spell that shares a card type with a card exiled by
 			<name>Irrigated Terrace</name>
 			<text>As Irrigated Terrace enters, you may reveal a Forest or Plains card from your hand. If you don&apos;t, Irrigated Terrace enters tapped.
 {T}, Sacrifice Irrigated Terrace: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/417_Irrigated Terrace.png" num="417">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/420_Irrigated Terrace.png" num="420">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4740,7 +4722,7 @@ Whenever an opponent casts a spell that shares a card type with a card exiled by
 			<name>Luminous Reef</name>
 			<text>As Luminous Reef enters, you may reveal an Island or Swamp card from your hand. If you don&apos;t, Luminous Reef enters tapped.
 {T}, Sacrifice Luminous Reef: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/420_Luminous Reef.png" num="420">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/423_Luminous Reef.png" num="423">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4755,7 +4737,7 @@ Whenever an opponent casts a spell that shares a card type with a card exiled by
 			<name>Pristine Pools</name>
 			<text>As Pristine Pools enters, you may reveal a Plains or Island card from your hand. If you don&apos;t, Pristine Pools enters tapped.
 {T}, Sacrifice Pristine Pools: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/429_Pristine Pools.png" num="429">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/432_Pristine Pools.png" num="432">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4770,7 +4752,7 @@ Whenever an opponent casts a spell that shares a card type with a card exiled by
 			<name>Rooted Falls</name>
 			<text>As Rooted Falls enters, you may reveal a Forest or Island card from your hand. If you don&apos;t, Rooted Falls enters tapped.
 {T}, Sacrifice Rooted Falls: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/431_Rooted Falls.png" num="431">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/434_Rooted Falls.png" num="434">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4785,7 +4767,7 @@ Whenever an opponent casts a spell that shares a card type with a card exiled by
 			<name>Smoking Crater</name>
 			<text>As Smoking Crater enters, you may reveal an Island or Mountain card from your hand. If you don&apos;t, Smoking Crater enters tapped.
 {T}, Sacrifice Smoking Crater: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/434_Smoking Crater.png" num="434">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/437_Smoking Crater.png" num="437">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4800,7 +4782,7 @@ Whenever an opponent casts a spell that shares a card type with a card exiled by
 			<name>Stranding Shoal</name>
 			<text>As Stranding Shoal enters, you may reveal a Swamp or Mountain card from your hand. If you don&apos;t, Stranding Shoal enters tapped.
 {T}, Sacrifice Stranding Shoal: Search your library for a Mountain or Swamp card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/436_Stranding Shoal.png" num="436">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/439_Stranding Shoal.png" num="439">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4815,7 +4797,7 @@ Whenever an opponent casts a spell that shares a card type with a card exiled by
 			<name>Sunken Depths</name>
 			<text>As Sunken Depths enters, you may reveal a Swamp or Forest card from your hand. If you don&apos;t, Sunken Depths enters tapped.
 {T}, Sacrifice Sunken Depths: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/440_Sunken Depths.png" num="440">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/443_Sunken Depths.png" num="443">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4830,7 +4812,7 @@ Whenever an opponent casts a spell that shares a card type with a card exiled by
 			<name>Weirding Tropics</name>
 			<text>As Weirding Tropics enters, you may reveal a Mountain or Forest card from your hand. If you don&apos;t, Weirding Tropics enters tapped.
 {T}, Sacrifice Weirding Tropics: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/445_Weirding Tropics.png" num="445">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/448_Weirding Tropics.png" num="448">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4880,7 +4862,7 @@ Whenever an opponent casts a spell that shares a card type with a card exiled by
 			<text>Choose one—
 • Draw a card. You may put a land card from your hand or graveyard onto the battlefield tapped.
 • Destroy target creature or enchantment with mana value 3 or less.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/348_Here be Dragons.png" num="348">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/351_Here be Dragons.png" num="351">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4897,7 +4879,7 @@ Whenever an opponent casts a spell that shares a card type with a card exiled by
 			<name>Hentus, Seed of Doubt</name>
 			<text>Hentus&apos;s power is equal to the number of card types among cards in all graveyards.
 Whenever a player mills one or more cards, exile up to one card from among the milled cards. You may play that card for as long as it remains exiled and mana of any type can be spent to cast it.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/347_Hentus, Seed of Doubt.png" num="347">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/350_Hentus, Seed of Doubt.png" num="350">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4935,7 +4917,7 @@ Whenever you cast a creature spell, Sandstone Berserker has base power and tough
 • You may play an additional land this turn.
 • You gain 1 life for each differently named land you control.
 • Return target permanent card from your graveyard to your hand.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/318_Tracker&apos;s Revelation.png" num="318">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/320_Tracker&apos;s Revelation.png" num="320">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4970,7 +4952,7 @@ When Razorwind Griffin enters, exile target attacking creature.</text>
 		<card>
 			<name>Cerat, Asari Hunter</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/336_Cerat, Asari Hunter.png" num="336">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/339_Cerat, Asari Hunter.png" num="339">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5114,7 +5096,7 @@ Tap three untapped creatures you control: Put a +1/+1 counter on each creature y
 		<card>
 			<name>Remorse</name>
 			<text>Put all creatures on the bottom of their owner&apos;s libraries.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/360_Remorse.png" num="360">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/363_Remorse.png" num="363">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5167,7 +5149,7 @@ When Elvish Scoutwarden enters and whenever you or a permanent you control becom
 		<card>
 			<name>Beauty of Prose</name>
 			<text>Opulent — Add two mana in any combination of colors. Then if you have more life than an opponent, you may put a card from your hand on the bottom of your library and draw a card.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/202_Beauty of Prose.png" num="202">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/201_Beauty of Prose.png" num="201">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5202,7 +5184,7 @@ When Elvish Scoutwarden enters and whenever you or a permanent you control becom
 			<name>Northern Holdout</name>
 			<text>{T}: Add {C}.
 {S}: Add one mana of any color. Activate only if you control a land named Winterheath Snowbanks and Winterheath Tundra.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/424_Northern Holdout.png" num="424">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/427_Northern Holdout.png" num="427">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5216,7 +5198,7 @@ When Elvish Scoutwarden enters and whenever you or a permanent you control becom
 		<card>
 			<name>Winterheath Snowbanks</name>
 			<text>{T}: Add {C}. If you control a land named Winterheath Tundra and Northern Holdout, add {C}{C}.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/446_Winterheath Snowbanks.png" num="446">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/449_Winterheath Snowbanks.png" num="449">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5230,7 +5212,7 @@ When Elvish Scoutwarden enters and whenever you or a permanent you control becom
 		<card>
 			<name>Winterheath Tundra</name>
 			<text>{T}: Add {C}. If you control a land named Winterheath Snowbanks and Northern Holdout, add {C}{C}{C}.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/447_Winterheath Tundra.png" num="447">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/450_Winterheath Tundra.png" num="450">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5246,7 +5228,7 @@ When Elvish Scoutwarden enters and whenever you or a permanent you control becom
 			<text>({T}: Add {G} or {W}.)
 Expansive Sprawl enters tapped.
 Cycling {GW}</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/409_Expansive Sprawl.png" num="409">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/412_Expansive Sprawl.png" num="412">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5263,7 +5245,7 @@ Cycling {GW}</text>
 			<text>({T}: Add {U} or {B}.)
 Weathered Slums enters tapped.
 Cycling {UB}</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/444_Weathered Slums.png" num="444">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/447_Weathered Slums.png" num="447">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5280,7 +5262,7 @@ Cycling {UB}</text>
 			<text>({T}: Add {R} or {G}.)
 Greengate Mall enters tapped.
 Cycling {RG}</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/413_Greengate Mall.png" num="413">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/416_Greengate Mall.png" num="416">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5297,7 +5279,7 @@ Cycling {RG}</text>
 			<text>({T}: Add {W} or {U}.)
 Lakeside Market enters tapped.
 Cycling {WU}</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/418_Lakeside Market.png" num="418">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/421_Lakeside Market.png" num="421">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5314,7 +5296,7 @@ Cycling {WU}</text>
 			<text>({T}: Add {B} or {R}.)
 Smokeheap Slums enters tapped.
 Cycling {BR}</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/433_Smokeheap Slums.png" num="433">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/436_Smokeheap Slums.png" num="436">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5331,7 +5313,7 @@ Cycling {BR}</text>
 			<text>({T}: Add {W} or {B}.)
 Lowland Mire enters tapped.
 Cycling {WB}</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/419_Lowland Mire.png" num="419">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/422_Lowland Mire.png" num="422">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5348,7 +5330,7 @@ Cycling {WB}</text>
 			<text>({T}: Add {U} or {R}.)
 Coral Pools enters tapped.
 Cycling {UR}</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/403_Coral Pools.png" num="403">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/406_Coral Pools.png" num="406">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5365,7 +5347,7 @@ Cycling {UR}</text>
 			<text>({T}: Add {B} or {G}.)
 Stagnant Bog enters tapped.
 Cycling {BG}</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/435_Stagnant Bog.png" num="435">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/438_Stagnant Bog.png" num="438">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5382,7 +5364,7 @@ Cycling {BG}</text>
 			<text>({T}: Add {G} or {U}.)
 Tropical Estuary enters tapped.
 Cycling {GU}</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/442_Tropical Estuary.png" num="442">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/445_Tropical Estuary.png" num="445">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5399,7 +5381,7 @@ Cycling {GU}</text>
 			<text>({T}: Add {R} or {W}.)
 Ritual Stones enters tapped.
 Cycling {RW}</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/430_Ritual Stones.png" num="430">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/433_Ritual Stones.png" num="433">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5416,7 +5398,7 @@ Cycling {RW}</text>
 			<text>Cumulozoa enters tapped. As it enters, choose a color.
 {T}: Add one mana of the chosen color.
 {4}: Cumulozoa becomes a 3/3 Elemental Jellyfish creature of the chosen color with flying and ward {1}. Spend at least two mana of the chosen color to activate this ability.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/404_Cumulozoa.png" num="404">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/407_Cumulozoa.png" num="407">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5431,7 +5413,7 @@ Cycling {RW}</text>
 			<name>Field of Regrowth</name>
 			<text>{T}: Add {C}.
 {2}, {T}, Sacrifice Field of Regrowth: Destroy target nonbasic land. Its controller searches their library for a basic land card, reveals it, puts it into hand, then shuffles.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/410_Field of Regrowth.png" num="410">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/413_Field of Regrowth.png" num="413">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5555,7 +5537,7 @@ Whenever another creature is exiled from the battlefield, you gain 2 life and in
 Each other Crab, Homarid, and Trilobite creature you control has base power and toughness 6/9.
 At the beginning of each upkeep, create a 0/3 blue Crab creature token.
 Sacrifice five Crabs: Return Zenith from your graveyard to the battlefield.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/373_Zenith, Chitinous Isle.png" num="373">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/376_Zenith, Chitinous Isle.png" num="376">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5575,7 +5557,7 @@ Sacrifice five Crabs: Return Zenith from your graveyard to the battlefield.</tex
 As long as it&apos;s not your turn, Stormshell, Voracious Terror is an Island Mountain land.
 When Stormshell enters, it deals 3 damage to each other creature and each planeswalker and you draw three cards.
 Cycling {1}{U}{R}</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/365_Stormshell, Voracious Terror.png" num="365">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/368_Stormshell, Voracious Terror.png" num="368">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5596,7 +5578,7 @@ Untap Otherworldly Orrery during each other player&apos;s untap step.
 {T}: Add {C}{C}{C}{C}.
 {X}{X}, {T}: Draw X cards.
 {5}, {T}: Search your library for a card, put it into your hand, then shuffle.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/390_Otherworldly Orrery.png" num="390">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/393_Otherworldly Orrery.png" num="393">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5610,7 +5592,7 @@ Untap Otherworldly Orrery during each other player&apos;s untap step.
 		<card>
 			<name>Nicol Bolas, Mastermind</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/356_Nicol Bolas, Mastermind.png" num="356">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/359_Nicol Bolas, Mastermind.png" num="359">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5629,7 +5611,7 @@ Untap Otherworldly Orrery during each other player&apos;s untap step.
 			<text>As Ardent Guardians enters, choose a creature or planeswalker card name.
 Ardent Guardians isn&apos;t a creature unless an opponent controls a permanent with the chosen name.
 Prevent all damage sources with the chosen name would deal to Ardent Guardians.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/377_Ardent Guardians.png" num="377">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/380_Ardent Guardians.png" num="380">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5645,7 +5627,7 @@ Prevent all damage sources with the chosen name would deal to Ardent Guardians.<
 			<name>Spellweaver&apos;s Vial</name>
 			<text>Hideaway 4
 {T}, Sacrifice Spellweaver&apos;s Vial: You may cast the exiled card without paying its mana cost if its mana value is less than or equal to the number of spells you&apos;ve cast this turn.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/396_Spellweaver&apos;s Vial.png" num="396">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/399_Spellweaver&apos;s Vial.png" num="399">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5660,7 +5642,7 @@ Prevent all damage sources with the chosen name would deal to Ardent Guardians.<
 			<name>Obsidian Manalith</name>
 			<text>Obsidian Manalith enters tapped. As it enters, choose a color.
 {T}: Add one mana of any color. You lose 1 life unless it was mana of the chosen color.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/389_Obsidian Manalith.png" num="389">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/392_Obsidian Manalith.png" num="392">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5676,7 +5658,7 @@ Prevent all damage sources with the chosen name would deal to Ardent Guardians.<
 			<text>Kingmaker enters with X regal counters.
 At the beginning of your upkeep, if you have fewer cards in hand than regal counters on Kingmaker, you may pay {1}. When you do, draw cards equal to the difference.
 {3}, {T}: Put a regal counter on Kingmaker.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/386_Kingmaker, Gem of Authority.png" num="386">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/389_Kingmaker, Gem of Authority.png" num="389">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5691,7 +5673,7 @@ At the beginning of your upkeep, if you have fewer cards in hand than regal coun
 			<name>Fossil Slab</name>
 			<text>When Fossil Slab enters, surveil 3.
 {2}, Sacrifice Fossil Slab: Draw a card.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/384_Fossil Slab.png" num="384">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/387_Fossil Slab.png" num="387">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5707,7 +5689,7 @@ At the beginning of your upkeep, if you have fewer cards in hand than regal coun
 			<text>As Magus&apos;s Talisman enters, choose a color.
 Whenever you cast a spell of the chosen color, you gain 1 life.
 {T}: Add {C}.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/387_Magus&apos;s Talisman.png" num="387">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/390_Magus&apos;s Talisman.png" num="390">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5722,7 +5704,7 @@ Whenever you cast a spell of the chosen color, you gain 1 life.
 			<name>Pilfered Purse</name>
 			<text>Whenever Pilfered Purse enters or leaves the battlefield, create a tapped Treasure token.
 {2}, Sacrifice Pilfered Purse: Draw a card.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/391_Pilfered Purse.png" num="391">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/394_Pilfered Purse.png" num="394">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5737,7 +5719,7 @@ Whenever you cast a spell of the chosen color, you gain 1 life.
 			<name>Prizewinner</name>
 			<text>Prizewinner&apos;s power and toughness are each equal to the number of artifacts and/or enchantments you control.
 Whenever one or more creatures dealt damage by Prizewinner this turn die, create that many Treasure tokens.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/392_Prizewinner.png" num="392">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/395_Prizewinner.png" num="395">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5754,7 +5736,7 @@ Whenever one or more creatures dealt damage by Prizewinner this turn die, create
 			<text>Dubious Designs enters with X charge counters. X can&apos;t be zero.
 At the beginning of your first main phase, you may cast a spell with mana value less than or equal to the number of charge counters on Dubious Designs without paying its mana cost.
 {1}, {T}: Put a charge counter on Dubious Designs.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/382_Dubious Designs.png" num="382">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/385_Dubious Designs.png" num="385">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5769,7 +5751,7 @@ At the beginning of your first main phase, you may cast a spell with mana value 
 			<name>Thawing Township</name>
 			<text>Thawing Township enters tapped with two ice counters.
 {T}: Remove an ice counter from Thawing Township, then add {C}. If there are no ice counters on Thawing Township, add three mana of any one color instead.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/441_Thawing Township.png" num="441">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/444_Thawing Township.png" num="444">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5784,7 +5766,7 @@ At the beginning of your first main phase, you may cast a spell with mana value 
 			<name>Magmatic Horizon</name>
 			<text>{T}: Add {C}.
 {2}, {T}, Sacrifice Magmatic Horizon: Destroy target nonbasic land. You and that land&apos;s controller create Wastes, a basic land token with &quot;{T}: Add {C}.&quot;</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/421_Magmatic Horizon.png" num="421">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/424_Magmatic Horizon.png" num="424">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5799,7 +5781,7 @@ At the beginning of your first main phase, you may cast a spell with mana value 
 			<name>Ancestor Glade</name>
 			<text>{T}: Add {C}.
 {T}: Draw a card if there are exactly seven cards in your graveyard.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/399_Ancestor Glade.png" num="399">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/402_Ancestor Glade.png" num="402">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5815,7 +5797,7 @@ At the beginning of your first main phase, you may cast a spell with mana value 
 			<text>({T}: Add {G}.)
 Hist Grove enters tapped unless you control a Mountain or Plains.
 {1}, {T}: Add {R}{W}.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/416_Hist Grove.png" num="416">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/419_Hist Grove.png" num="419">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5832,7 +5814,7 @@ Hist Grove enters tapped unless you control a Mountain or Plains.
 			<text>({T}: Add {U}.)
 Numidium&apos;s Tomb enters tapped unless you control a Plains or Swamp.
 {1}, {T}: Add {W}{B}.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/426_Numidium&apos;s Tomb.png" num="426">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/429_Numidium&apos;s Tomb.png" num="429">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5849,7 +5831,7 @@ Numidium&apos;s Tomb enters tapped unless you control a Plains or Swamp.
 			<text>({T}: Add {R}.)
 Bruma Guildhall enters tapped unless you control a Swamp or Forest.
 {1}, {T}: Add {B}{G}.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/400_Bruma Guildhall.png" num="400">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/403_Bruma Guildhall.png" num="403">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5866,7 +5848,7 @@ Bruma Guildhall enters tapped unless you control a Swamp or Forest.
 			<text>({T}: Add {W}.)
 Skyshard Sanctuary enters tapped unless you control a Forest or Island.
 {1}, {T}: Add {G}{U}.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/432_Skyshard Sanctuary.png" num="432">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/435_Skyshard Sanctuary.png" num="435">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5883,7 +5865,7 @@ Skyshard Sanctuary enters tapped unless you control a Forest or Island.
 			<text>({T}: Add {B}.)
 Oblivion Deadlands enters tapped unless you control an Island or Mountain.
 {1}, {T}: Add {U}{R}.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/427_Oblivion Deadlands.png" num="427">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/430_Oblivion Deadlands.png" num="430">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5900,7 +5882,7 @@ Oblivion Deadlands enters tapped unless you control an Island or Mountain.
 			<text>({T}: Add {G}.)
 Harvest Fields enters tapped unless you control an Island or Swamp.
 {1}, {T}: Add {U}{B}.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/415_Harvest Fields.png" num="415">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/418_Harvest Fields.png" num="418">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5917,7 +5899,7 @@ Harvest Fields enters tapped unless you control an Island or Swamp.
 			<text>({T}: Add {U}.)
 Cold Pass enters tapped unless you control a Mountain or Forest.
 {1}, {T}: Add {R}{G}.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/402_Cold Pass.png" num="402">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/405_Cold Pass.png" num="405">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5934,7 +5916,7 @@ Cold Pass enters tapped unless you control a Mountain or Forest.
 			<text>({T}: Add {R}.)
 Guild Tower enters tapped unless you control a Plains or Island.
 {1}, {T}: Add {W}{U}.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/414_Guild Tower.png" num="414">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/417_Guild Tower.png" num="417">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5951,7 +5933,7 @@ Guild Tower enters tapped unless you control a Plains or Island.
 			<text>({T}: Add {W}.)
 Market Center enters tapped unless you control a Swamp or Mountain.
 {1}, {T}: Add {B}{R}.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/422_Market Center.png" num="422">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/425_Market Center.png" num="425">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5968,7 +5950,7 @@ Market Center enters tapped unless you control a Swamp or Mountain.
 			<text>({T}: Add {B}.)
 Burial Grounds enters tapped unless you control a Forest or Plains.
 {1}, {T}: Add {G}{W}.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/401_Burial Grounds.png" num="401">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/404_Burial Grounds.png" num="404">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5984,7 +5966,7 @@ Burial Grounds enters tapped unless you control a Forest or Plains.
 			<name>Planar Market</name>
 			<text>{T}: Add {C}.
 {1}, {T}: Draw a card, then discard two cards.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/428_Planar Market.png" num="428">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/431_Planar Market.png" num="431">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5998,7 +5980,7 @@ Burial Grounds enters tapped unless you control a Forest or Plains.
 		<card>
 			<name>Snow-Covered Forest</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/457_Snow-Covered Forest.png" num="457">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/460_Snow-Covered Forest.png" num="460">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6013,7 +5995,7 @@ Burial Grounds enters tapped unless you control a Forest or Plains.
 		<card>
 			<name>Snow-Covered Island</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/451_Snow-Covered Island.png" num="451">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/454_Snow-Covered Island.png" num="454">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6028,7 +6010,7 @@ Burial Grounds enters tapped unless you control a Forest or Plains.
 		<card>
 			<name>Snow-Covered Mountain</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/455_Snow-Covered Mountain.png" num="455">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/458_Snow-Covered Mountain.png" num="458">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6043,7 +6025,7 @@ Burial Grounds enters tapped unless you control a Forest or Plains.
 		<card>
 			<name>Snow-Covered Plains</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/449_Snow-Covered Plains.png" num="449">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/452_Snow-Covered Plains.png" num="452">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6058,7 +6040,7 @@ Burial Grounds enters tapped unless you control a Forest or Plains.
 		<card>
 			<name>Snow-Covered Swamp</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/452_Snow-Covered Swamp.png" num="452">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/455_Snow-Covered Swamp.png" num="455">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6073,7 +6055,7 @@ Burial Grounds enters tapped unless you control a Forest or Plains.
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/453_Swamp.png" num="453">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/456_Swamp.png" num="456">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6088,7 +6070,7 @@ Burial Grounds enters tapped unless you control a Forest or Plains.
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/450_Island.png" num="450">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/453_Island.png" num="453">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6103,7 +6085,7 @@ Burial Grounds enters tapped unless you control a Forest or Plains.
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/448_Plains.png" num="448">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/451_Plains.png" num="451">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6118,7 +6100,7 @@ Burial Grounds enters tapped unless you control a Forest or Plains.
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/454_Mountain.png" num="454">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/457_Mountain.png" num="457">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6133,7 +6115,7 @@ Burial Grounds enters tapped unless you control a Forest or Plains.
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/456_Forest.png" num="456">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/459_Forest.png" num="459">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6152,7 +6134,7 @@ Burial Grounds enters tapped unless you control a Forest or Plains.
 ---
 
 Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/327_Wuuld Nomad.png" num="327">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/330_Wuuld Nomad.png" num="330">Kube</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -6205,7 +6187,7 @@ When Warpath Orahan enters, destroy target nonbasic land for each time it was ki
 			<name>Damping Stone</name>
 			<text>Damping Stone enters with X charge counters.
 Nonartifact permanents with mana value equal to the number of charge counters on Damping Stone lose all abilities that aren&apos;t mana abilities.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/381_Damping Stone.png" num="381">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/384_Damping Stone.png" num="384">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6220,7 +6202,7 @@ Nonartifact permanents with mana value equal to the number of charge counters on
 			<name>Ruination Engine</name>
 			<text>Whenever an opponent casts a spell, that player loses life equal to the number of cards in their graveyard.
 {T}: Each opponent mills a card.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/393_Ruination Engine.png" num="393">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/396_Ruination Engine.png" num="396">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6238,7 +6220,7 @@ Remove an ancestry counter from Ancient Heirloom: Choose one —
 • Put a +1/+1 counter on equipped creature.
 • Create a Treasure token.
 Equip {1}</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/376_Ancient Heirloom.png" num="376">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/379_Ancient Heirloom.png" num="379">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6253,7 +6235,7 @@ Equip {1}</text>
 			<name>Ancient Guardstone</name>
 			<text>{T}: Each player exiles a card from their graveyard. Then if one or more cards were exiled this way and there are no cards in all graveyards, sacrifice Ancient Guardstone.
 When Ancient Guardstone is put into your graveyard from the battlefield, create a 5/5 Golem artifact creature token.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/375_Ancient Guardstone.png" num="375">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/378_Ancient Guardstone.png" num="378">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6268,7 +6250,7 @@ When Ancient Guardstone is put into your graveyard from the battlefield, create 
 			<name>The Second Wave</name>
 			<text>Whenever you activate an ability of an artifact or creature, if it isn&apos;t a mana or crew ability, copy it. You may choose new targets for the copy.
 Crew 3</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/395_The Second Wave.png" num="395">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/398_The Second Wave.png" num="398">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6285,7 +6267,7 @@ Crew 3</text>
 			<text>Vigilance, haste
 Combat damage dealt by creatures attacking your opponents can&apos;t be prevented.
 Prevent all noncombat damage that would be dealt to creatures attacking your opponents.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/355_Mjeld Bonebreaker.png" num="355">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/358_Mjeld Bonebreaker.png" num="358">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6359,7 +6341,7 @@ Whenever Titan of Cold Nights enters or you cast a noncreature spell, choose one
 			<name>Profane Aristocrat</name>
 			<text>Flying
 Whenever you sacrifice a permanent, exile the top card of your library. Until end of turn, you may play that card. When you do, Profane Aristocrat deals damage to target opponent equal to that card&apos;s mana value.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/359_Profane Aristocrat.png" num="359">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/362_Profane Aristocrat.png" num="362">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6396,7 +6378,7 @@ Pay 2 life, Exile two cards from your graveyard: Draw a card.</text>
 			<name>Vile Rotbile</name>
 			<text>Whenever one or more counters are placed on Vile Rotbile, up to one other target creature gets -1/-1 until end of turn for each of those counters. Do this only once each turn.
 {X}: Exile target card from a graveyard with mana value X. Put X +1/+1 counters on Vile Rotbile.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/367_Vile Rotbile.png" num="367">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/370_Vile Rotbile.png" num="370">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6436,7 +6418,7 @@ Target player discards a card, then loses 3 life if they didn&apos;t discard a n
 			<name>Apocrypha Loremaster</name>
 			<text>Flying
 Whenever a player discards a card for the first time each turn, you draw a card and you lose 1 life.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/330_Apocrypha Loremaster.png" num="330">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/333_Apocrypha Loremaster.png" num="333">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6455,7 +6437,7 @@ Whenever a player discards a card for the first time each turn, you draw a card 
 			<text>Vigilance
 {T}: Other creatures you control get +1/+1 until end of turn.
 {T}: Another target creature you control gains hexproof until end of turn.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/364_Solitude Warden.png" num="364">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/367_Solitude Warden.png" num="367">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6475,7 +6457,7 @@ Whenever a player discards a card for the first time each turn, you draw a card 
 Tap seven untapped Spiders you control: Transform Web-Ridden Den.
 ---
 (Back): Frostbite Gargantuan</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/369_Web-Ridden Den_front.png" num="369a">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/372_Web-Ridden Den_front.png" num="372a">Kube</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -6496,7 +6478,7 @@ Whenever you sacrifice a non-Spider permanent, create a 1/2 green Spider creatur
 Whenever Frostbite Gargantuan attacks, it deals damage to any target equal to the number of Spiders you control.
 ---
 (Front): Web-Ridden Den</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/369_Web-Ridden Den_back.png" num="369b">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/372_Web-Ridden Den_back.png" num="372b">Kube</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -6516,7 +6498,7 @@ Whenever Frostbite Gargantuan attacks, it deals damage to any target equal to th
 At the beginning of your end step, if you descended this turn, The Dark Urge deals 2 damage to each player and you draw a card.
 ---
 (Back): The Urge Redeemed</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/340_The Dark Urge_front.png" num="340a">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/343_The Dark Urge_front.png" num="343a">Kube</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -6537,7 +6519,7 @@ At the beginning of your end step, if you descended this turn, The Dark Urge dea
 At the beginning of your end step, if a creature card left your graveyard this turn, you gain 2 life and draw a card.
 ---
 (Front): The Dark Urge</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/340_The Dark Urge_back.png" num="340b">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/343_The Dark Urge_back.png" num="343b">Kube</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -6556,7 +6538,7 @@ At the beginning of your end step, if a creature card left your graveyard this t
 			<name>Lord Enver Gortash</name>
 			<text>You have hexproof.
 At the beginning of your end step and whenever an opponent casts a spell during your turn, create a 0/0 colorless Soldier artifact creature token with &quot;This creature gets +1/+1 for each artifact you control.&quot;</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/352_Lord Enver Gortash.png" num="352">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/355_Lord Enver Gortash.png" num="355">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6573,7 +6555,7 @@ At the beginning of your end step and whenever an opponent casts a spell during 
 		<card>
 			<name>Tales Retold</name>
 			<text>Exile up to X target creatures your opponents control and/or creature cards from your opponent&apos;s graveyards. You may cast any number of nonland cards with mana value X or less from among them without paying their mana costs.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/366_Tales Retold.png" num="366">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/369_Tales Retold.png" num="369">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6591,7 +6573,7 @@ At the beginning of your end step and whenever an opponent casts a spell during 
 			<text>You may sacrifice seven permanents rather than pay this spell&apos;s mana cost.
 Hexproof, indestructible
 When Jarl&apos;s Brutalizer is put into your graveyard from anywhere, shuffle your graveyard into your library.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/350_Jarl&apos;s Brutalizer.png" num="350">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/353_Jarl&apos;s Brutalizer.png" num="353">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6610,7 +6592,7 @@ When Jarl&apos;s Brutalizer is put into your graveyard from anywhere, shuffle yo
 			<text>Whenever you cast a noncreature spell, create a Treasure token.
 At the beginning of your end step, sacrifice each Treasure you control. You gain that much life.
 Trove — {6}: Shuffle your library, then exile the top card. Until end of turn, you may cast it without paying its mana cost. Activate only if your team controls three or more tokens.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/343_Explorer&apos;s Crew.png" num="343">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/346_Explorer&apos;s Crew.png" num="346">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6628,7 +6610,7 @@ Trove — {6}: Shuffle your library, then exile the top card. Until end of turn,
 			<name>General Tullius</name>
 			<text>Haste, vigilance
 You may cast creature spells you control with power 4 or greater without paying their mana cost by tapping any number of creatures you control with total power X, where X is the creature spell&apos;s power.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/345_General Tullius.png" num="345">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/348_General Tullius.png" num="348">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6699,7 +6681,7 @@ Creatures you control get +1/+1.</text>
 			<text>Trample
 Whenever a modified permanent you control leaves the battlefield, each opponent sacrifices a nonbasic permanent. (Equipment, Auras you control, and counters are modifications.)
 {2}{G}: Adapt 2.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/338_Clay-Clad Brawler.png" num="338">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/341_Clay-Clad Brawler.png" num="341">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6717,7 +6699,7 @@ Whenever a modified permanent you control leaves the battlefield, each opponent 
 			<name>Justicia, Ordeal and Order</name>
 			<text>Indestructible
 Whenever Justicia blocks or becomes blocked, an opponent opponent may untap her and remove her from combat. When that player does, they discard a card and lose 1 life, and you gain 1 life and you draw a card.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/351_Justicia, Ordeal and Order.png" num="351">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/354_Justicia, Ordeal and Order.png" num="354">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6734,7 +6716,7 @@ Whenever Justicia blocks or becomes blocked, an opponent opponent may untap her 
 		<card>
 			<name>A Pirate&apos;s Life for Me</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/358_A Pirate&apos;s Life for Me.png" num="358">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/361_A Pirate&apos;s Life for Me.png" num="361">Kube</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -6750,7 +6732,7 @@ Whenever Justicia blocks or becomes blocked, an opponent opponent may untap her 
 		<card>
 			<name>Free as the Sea</name>
 			<text>At the beginning of your end step, exile up to one target creature you control. You may return that card to the battlefield under its owner&apos;s control. If you don&apos;t, search your library for a creature card with mana value equal to 1 plus the exiled creature&apos;s mana value, put that card onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/344_Free as the Sea.png" num="344">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/347_Free as the Sea.png" num="347">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6768,7 +6750,7 @@ Whenever Justicia blocks or becomes blocked, an opponent opponent may untap her 
 			<text>Prowess
 Whenever you cast a noncreature spell, create a 1/1 blue and red Wizard creature token.
 Cycling {UR}</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/337_Cinder Scholar.png" num="337">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/340_Cinder Scholar.png" num="340">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6785,7 +6767,7 @@ Cycling {UR}</text>
 		<card>
 			<name>Roaming Band</name>
 			<text>When Roaming Band enters, draw a card, then you may put a land card from your hand onto the battlefield. When you do, Roaming Band deals 2 damage to each opponent.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/361_Roaming Band.png" num="361">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/364_Roaming Band.png" num="364">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6803,7 +6785,7 @@ Cycling {UR}</text>
 			<name>Shifting Groves Druid</name>
 			<text>Whenever a land you control enters, put a +1/+1 counter on Shifting Groves Druid.
 Remove two +1/+1 counters from Shifting Groves Druid: You may play an additional land this turn.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/306_Shifting Groves Druid.png" num="306">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/308_Shifting Groves Druid.png" num="308">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6822,7 +6804,7 @@ Remove two +1/+1 counters from Shifting Groves Druid: You may play an additional
 			<text>Enchant land
 When Pristine Vista enters, draw a card.
 Whenever enchanted land is tapped for mana, add one mana of any color.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/298_Pristine Vista.png" num="298">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/300_Pristine Vista.png" num="300">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6838,7 +6820,7 @@ Whenever enchanted land is tapped for mana, add one mana of any color.</text>
 		<card>
 			<name>Oko, Feywild Thief</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/357_Oko, Feywild Thief.png" num="357">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/360_Oko, Feywild Thief.png" num="360">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6982,7 +6964,7 @@ Ketheric escapes as a 5/3 Demon Avatar with a shield counter and menace.</text>
 		<card>
 			<name>Conquer the Deadlands</name>
 			<text>Put a +1/+1 counter on target creature you control. Until end of turn, that creature gains vigilance, trample, and haste. Whenever that creature deals combat damage to a player this turn, you may put a creature card from your hand onto the battlefield.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/339_Conquer the Deadlands.png" num="339">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/342_Conquer the Deadlands.png" num="342">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7000,7 +6982,7 @@ Ketheric escapes as a 5/3 Demon Avatar with a shield counter and menace.</text>
 			<text>Converge — As Bull Netch enters, choose an attribute for each color of mana spent to cast it. Bull Netch enters with a counter for each of the chosen attributes.
 • +1/+1 • Flying • Deathtouch • Lifelink • Haste
 Each other creature you control enters with the same number of each kind of counter on Bull Netch.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/335_Bull Netch.png" num="335">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/338_Bull Netch.png" num="338">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7021,7 +7003,7 @@ Each other creature you control enters with the same number of each kind of coun
 ---
 
 Create a 1/1 green Human Monk creature token with &quot;{T}: Add {G}.&quot;</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/301_Rebuilding Towashi.png" num="301">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/303_Rebuilding Towashi.png" num="303">Kube</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -7093,7 +7075,7 @@ Draw two cards. [Target opponent creates a 5/5 blue Whale creature token with wa
 			<text>As Meeting at Midnight enters, choose Bewitch or Betray.
 • Bewitch — At the beginning of your upkeep, draw a card, discard a card, then an instant or sorcery card in your graveyard gains flashback {2}{U}{B} until end of turn.
 • Betray — Whenever you cast your second spell each turn, create a 4/4 blue and black Merfolk Beast creature token with menace.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/353_Meeting at Midnight.png" num="353">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/356_Meeting at Midnight.png" num="356">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7129,7 +7111,7 @@ Draw two cards. [Target opponent creates a 5/5 blue Whale creature token with wa
 			<text>Flash
 Smug Saboteur&apos;s power and toughness are each equal to the number of nonland permanents you control.
 When Smug Saboteur enters, each token that would be created under an opponent&apos;s control this turn is created under your control instead.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/363_Smug Saboteur.png" num="363">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/366_Smug Saboteur.png" num="366">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7148,7 +7130,7 @@ When Smug Saboteur enters, each token that would be created under an opponent&ap
 			<text>If you would create one or more nonartifact tokens, instead create those tokens plus an additional Clue token.
 Tap two untapped Clues you control: Create a Treasure token.
 Tap three untapped Treasures you control: Put four +1/+1 counters on target creature you control.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/346_Harriet Tev Tevlar.png" num="346">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/349_Harriet Tev Tevlar.png" num="349">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7204,7 +7186,7 @@ When Nehel dies, you may cast him from your graveyard for his impending cost unt
 			<name>Traveler&apos;s Pack</name>
 			<text>Equipped creature gets +1/+1 for each artifact and/or enchantment you control.
 Equip {2}.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/398_Traveler&apos;s Pack.png" num="398">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/401_Traveler&apos;s Pack.png" num="401">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7291,7 +7273,7 @@ Whenever a player sacrifices an artifact, amass Detectives 1. (Put a +1/+1 count
 			<name>Dragonfire Galleon</name>
 			<text>Whenever you cast a noncreature spell, add {R}. Until end of turn, you don&apos;t lose this mana as steps and phases end.
 {X}: Until end of turn, this Vehicle becomes an artifact creature and gets +X/+0. X can&apos;t be 0. Activate only once each turn.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/212_Dragonfire Galleon.png" num="212">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/211_Dragonfire Galleon.png" num="211">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7329,7 +7311,7 @@ You may play land cards from your graveyard.
 			<text>Indestructible
 At the beginning of your upkeep, adventure calls! (You get an emblem named The Call or advance it, then choose your expedition leader.)
 Whenever your expedition leader attacks, surveil 1, then you may reveal the top card of your library. If you reveal a land card this way, put it onto the battlefield tapped.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/349_Illypso, Guide to Glory.png" num="349">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/352_Illypso, Guide to Glory.png" num="352">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7346,7 +7328,7 @@ Whenever your expedition leader attacks, surveil 1, then you may reveal the top 
 		<card>
 			<name>Draining Exoflow</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/406_Draining Exoflow.png" num="406">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/409_Draining Exoflow.png" num="409">Kube</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -7361,7 +7343,7 @@ Whenever your expedition leader attacks, surveil 1, then you may reveal the top 
 		<card>
 			<name>Eroded Range</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/408_Eroded Range.png" num="408">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/411_Eroded Range.png" num="411">Kube</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -7376,7 +7358,7 @@ Whenever your expedition leader attacks, surveil 1, then you may reveal the top 
 		<card>
 			<name>Flyby Basin</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/411_Flyby Basin.png" num="411">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/414_Flyby Basin.png" num="414">Kube</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -7391,7 +7373,7 @@ Whenever your expedition leader attacks, surveil 1, then you may reveal the top 
 		<card>
 			<name>Frozen Spill</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/412_Frozen Spill.png" num="412">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/415_Frozen Spill.png" num="415">Kube</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -7406,7 +7388,7 @@ Whenever your expedition leader attacks, surveil 1, then you may reveal the top 
 		<card>
 			<name>Mycelium Grove</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/423_Mycelium Grove.png" num="423">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/426_Mycelium Grove.png" num="426">Kube</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -7421,7 +7403,7 @@ Whenever your expedition leader attacks, surveil 1, then you may reveal the top 
 		<card>
 			<name>Noxious Canyon</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/425_Noxious Canyon.png" num="425">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/428_Noxious Canyon.png" num="428">Kube</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -7436,7 +7418,7 @@ Whenever your expedition leader attacks, surveil 1, then you may reveal the top 
 		<card>
 			<name>Strange Reaches</name>
 			<text>{T}: Add {C}.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/437_Strange Reaches.png" num="437">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/440_Strange Reaches.png" num="440">Kube</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -7451,7 +7433,7 @@ Whenever your expedition leader attacks, surveil 1, then you may reveal the top 
 		<card>
 			<name>Sublimated River</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/438_Sublimated River.png" num="438">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/441_Sublimated River.png" num="441">Kube</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -7466,7 +7448,7 @@ Whenever your expedition leader attacks, surveil 1, then you may reveal the top 
 		<card>
 			<name>Subterranean Expanse</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/439_Subterranean Expanse.png" num="439">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/442_Subterranean Expanse.png" num="442">Kube</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -7481,7 +7463,7 @@ Whenever your expedition leader attacks, surveil 1, then you may reveal the top 
 		<card>
 			<name>Upper Atmosphere</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/443_Upper Atmosphere.png" num="443">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/446_Upper Atmosphere.png" num="446">Kube</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -7496,9 +7478,9 @@ Whenever your expedition leader attacks, surveil 1, then you may reveal the top 
 		<card>
 			<name>Innovation</name>
 			<text>Ward {3}
-When Innovation enters, you may reveal an artifact or colorless card you own from outside the game and put it into your hand.
+When this creature enters, you may reveal an artifact or colorless card you own from outside the game and put it into your hand.
 Evoke—Exile an artifact or colorless nonland card from your hand.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/385_Innovation.png" num="385">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/388_Innovation.png" num="388">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7514,7 +7496,7 @@ Evoke—Exile an artifact or colorless nonland card from your hand.</text>
 			<name>Arlinn Kord, the Outcast</name>
 			<text>---
 (Back): Arlinn of the Twin Moons</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/458_Arlinn Kord, the Outcast_front.png" num="458a">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/461_Arlinn Kord, the Outcast_front.png" num="461a">Kube</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -7533,7 +7515,7 @@ Evoke—Exile an artifact or colorless nonland card from your hand.</text>
 			<name>Arlinn of the Twin Moons</name>
 			<text>---
 (Front): Arlinn Kord, the Outcast</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/458_Arlinn Kord, the Outcast_back.png" num="458b">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/461_Arlinn Kord, the Outcast_back.png" num="461b">Kube</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -7551,7 +7533,7 @@ Evoke—Exile an artifact or colorless nonland card from your hand.</text>
 			<name>Tymna, Fate-Woven</name>
 			<text>Lifelink
 At the beginning of your second main phase, surveil X, where X is the amount of life you&apos;ve lost this turn. Then return a creature or enchantment card with mana value less than or equal to the amount of life you&apos;ve gained this turn from your graveyard to the battlefield.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/466_Tymna, Fate-Woven.png" num="466">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/469_Tymna, Fate-Woven.png" num="469">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7588,7 +7570,7 @@ I{N}{F} — If you would draw a card, you may instead exile an instant or sorcer
 			<name>Stumbling Giant</name>
 			<text>When this creature enters, you may discard a card. When you do, destroy target nonland permanent with mana value 3 or less.
 Whenever this creature attacks, defending player may discard a card. When they do, remove this creature from combat and create a Food token.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/465_Stumbling Giant.png" num="465">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/468_Stumbling Giant.png" num="468">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7604,9 +7586,9 @@ Whenever this creature attacks, defending player may discard a card. When they d
 		</card>
 		<card>
 			<name>Through the Multiverse</name>
-			<text>When Through the Multiverse enters and at the beginning of your upkeep, choose a basic land type. Create a tapped colorless basic land token of the chosen type.
+			<text>When this enchantment enters and at the beginning of your upkeep, choose a basic land type. Create a tapped colorless basic land token of the chosen type.
 Each creature you control enters with an additional +1/+1 counter for each color of mana spent to cast it.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/315_Through the Multiverse.png" num="315">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/317_Through the Multiverse.png" num="317">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7639,9 +7621,9 @@ Escape—{3}{W}, Collect evidence 6. (For this creature to escape, exile cards w
 		</card>
 		<card>
 			<name>Gilded Herald</name>
-			<text>When Gilded Herald enters, put a +1/+1 counter on target creature you control.
-Whenever Gilded Herald deals combat damage to a player, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/463_Gilded Herald.png" num="463">Kube</set>
+			<text>When this creature enters, put a +1/+1 counter on target creature you control.
+Whenever this creature deals combat damage to a player, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/466_Gilded Herald.png" num="466">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7708,7 +7690,7 @@ Exhaust — {5}: Put a quest counter on this enchantment. Each opponent loses li
 		<card>
 			<name>Relic Hunter</name>
 			<text>Whenever a permanent card is put into your graveyard from anywhere, surveil 1. This ability triggers only once each turn.
-Relic Hunter gets +2/+0 and has menace as long as there are four or more card types among cards in your graveyard.</text>
+This creature gets +2/+0 and has menace as long as there are four or more card types among cards in your graveyard.</text>
 			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/179_Relic Hunter.png" num="179">Kube</set>
 			<prop>
 				<layout>normal</layout>
@@ -7726,7 +7708,7 @@ Relic Hunter gets +2/+0 and has menace as long as there are four or more card ty
 		<card>
 			<name>Astral Ring</name>
 			<text></text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/378_Astral Ring.png" num="378">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/381_Astral Ring.png" num="381">Kube</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -7756,7 +7738,7 @@ Relic Hunter gets +2/+0 and has menace as long as there are four or more card ty
 		<card>
 			<name>Bloodletter Falcon</name>
 			<text>Flying
-Discard a card: Bloodletter Falcon gets +1/+1 until end of turn.</text>
+Discard a card: This creature gets +1/+1 until end of turn.</text>
 			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/72_Bloodletter Falcon.png" num="72">Kube</set>
 			<prop>
 				<layout>normal</layout>
@@ -7792,7 +7774,7 @@ Discard a card: Bloodletter Falcon gets +1/+1 until end of turn.</text>
 			<name>Tombs Unplundered</name>
 			<text>At the beginning of your upkeep, if you control no Adventurers, create a 2/2 colorless Adventurer creature token. You lose 2 life.
 Whenever you attack, exile up to one target card from a graveyard. If a creature card is exiled this way, you gain 2 life. Otherwise, draw a card.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/193_Tombs Unplundered.png" num="193">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/192_Tombs Unplundered.png" num="192">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7863,7 +7845,7 @@ Whenever another nontoken creature you control dies, you may exile it. If you do
 			<name>Fire Wyrm</name>
 			<text>Whenever you cast a Dragon spell, double this creature&apos;s power until end of turn.
 {2}{R}: This creature gains flying until end of turn.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/215_Fire Wyrm.png" num="215">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/214_Fire Wyrm.png" num="214">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7881,7 +7863,7 @@ Whenever another nontoken creature you control dies, you may exile it. If you do
 			<name>Alduin&apos;s Wall</name>
 			<text>Whenever you cast a Dragon spell from your hand, study the voice. This ability triggers only once each turn. (Look at the top two cards of your library. Exile one face down and create a Saga enchantment token with &quot;r{3}—You may play the exiled card.&quot; Mill the other.)
 {T}: Add {C}{C}.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/374_Alduin&apos;s Wall.png" num="374">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/377_Alduin&apos;s Wall.png" num="377">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -7897,7 +7879,7 @@ Whenever another nontoken creature you control dies, you may exile it. If you do
 			<text>Flying
 Alduin has indestructible as long as you control at least three other Dragons.
 At the beginning of combat on your turn, exile up to one target card from a graveyard. If a creature card is exiled this way, create a token that&apos;s a copy of that card, except it&apos;s a 4/4 red Dragon with flying and haste.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/329_Alduin, First-Born of Akatosh.png" num="329">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/332_Alduin, First-Born of Akatosh.png" num="332">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8005,7 +7987,7 @@ Draw three cards, then discard a card.</text>
 			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
 Flying
 During your turn, each Dragon card in your graveyard has escape. The escape cost is equal to the card&apos;s mana cost plus exile three other cards from your graveyard.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/464_Haunting Dovah.png" num="464">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/467_Haunting Dovah.png" num="467">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8109,7 +8091,7 @@ When Alduin enters, you may sacrifice another creature and/or land. You draw a c
 		</card>
 		<card>
 			<name>Burdened Houscarl</name>
-			<text>Whenever Burdened Houscarl deals combat damage to a player, put a +1/+1 counter on it. Then if there are two or more +1/+1 counters on Burdened Houscarl, remove all counters from it and put a +1/+1 counter on each other creature you control.</text>
+			<text>Whenever this creature deals combat damage to a player, put a +1/+1 counter on it. Then if there are two or more +1/+1 counters on this creature, remove all counters from it and put a +1/+1 counter on each other creature you control.</text>
 			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/7_Burdened Houscarl.png" num="7">Kube</set>
 			<prop>
 				<layout>normal</layout>
@@ -8143,9 +8125,9 @@ Return target creature card from your graveyard to the battlefield.</text>
 		</card>
 		<card>
 			<name>Dragon Rising</name>
-			<text>Whenever you cast a red spell, put a quest counter on Dragon Rising.
-Remove five quest counters from Dragon Rising and sacrifice it: Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/211_Dragon Rising.png" num="211">Kube</set>
+			<text>Whenever you cast a red spell, put a quest counter on this enchantment.
+Remove five quest counters from this enchantment and sacrifice it: Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/210_Dragon Rising.png" num="210">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8162,7 +8144,7 @@ Remove five quest counters from Dragon Rising and sacrifice it: Search your libr
 			<name>Dovah&apos;s Ire</name>
 			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
 Dovah&apos;s Ire deals 3 damage to any target. If a creature dealt damage this way would die this turn, exile it instead.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/210_Dovah&apos;s Ire.png" num="210">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/209_Dovah&apos;s Ire.png" num="209">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8194,7 +8176,7 @@ Dovah&apos;s Ire deals 3 damage to any target. If a creature dealt damage this w
 		<card>
 			<name>Kinsfield Coin-Cutters</name>
 			<text>Flying
-Discard a card: Kinsfield Coin-Cutters gets -2/-0 until end of turn. If a land card is discarded this way, Kinsfield Coin-Cutters&apos;s controller creates a tapped Treasure token. Any player may activate this ability.</text>
+Discard a card: This creature gets -2/-0 until end of turn. If a land card is discarded this way, this creature&apos;s controller creates a tapped Treasure token. Any player may activate this ability.</text>
 			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/163_Kinsfield Coin-Cutters.png" num="163">Kube</set>
 			<prop>
 				<layout>normal</layout>
@@ -8230,7 +8212,7 @@ Discard a card: Kinsfield Coin-Cutters gets -2/-0 until end of turn. If a land c
 			<text>Thu&apos;um (This spell costs {1} less to cast for each Dragon you control and each Dragon card in your graveyard.)
 Flying
 The first noncreature spell you cast each turn is a kindred Dragon. If it doesn&apos;t have thu&apos;um, it gains thu&apos;um.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/342_Elderboon Dovah.png" num="342">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/345_Elderboon Dovah.png" num="345">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8250,7 +8232,7 @@ The first noncreature spell you cast each turn is a kindred Dragon. If it doesn&
 • Draw a card.
 • Create a Treasure token. 
 At the beginning of your end step, discard your hand.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/354_Miraak&apos;s Unraveling.png" num="354">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/357_Miraak&apos;s Unraveling.png" num="357">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8266,9 +8248,9 @@ At the beginning of your end step, discard your hand.</text>
 		<card>
 			<name>Verdant Shellwurm</name>
 			<text>Ward {2}
-Whenever Verdant Shellwurm attacks, create a token that&apos;s a copy of target land you control except it&apos;s not legendary.
+Whenever this creature attacks, create a token that&apos;s a copy of target land you control except it&apos;s not legendary.
 If you tap a token for mana, it produces twice as much of that mana instead.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/320_Verdant Shellwurm.png" num="320">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/322_Verdant Shellwurm.png" num="322">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8284,7 +8266,7 @@ If you tap a token for mana, it produces twice as much of that mana instead.</te
 		</card>
 		<card>
 			<name>Good as New</name>
-			<text>When Good as New enters, return target permanent card from your graveyard to your hand.
+			<text>When this enchantment enters, return target permanent card from your graveyard to your hand.
 At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.</text>
 			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/279_Good as New.png" num="279">Kube</set>
 			<prop>
@@ -8301,8 +8283,8 @@ At the beginning of combat on your turn, put a +1/+1 counter on target creature 
 		</card>
 		<card>
 			<name>Neoflore Dataweaver</name>
-			<text>Whenever you cast your second spell each turn, draw your second card each turn, and/or have your second creature enter the battlefield each turn, put a +1/+1 counter on Neoflore Dataweaver.
-Remove two +1/+1 counters from Neoflore Dataweaver: Create a 1/1 colorless artifact Servo creature token.</text>
+			<text>Whenever you cast your second spell each turn, draw your second card each turn, and/or have your second creature enter the battlefield each turn, put a +1/+1 counter on this creature.
+Remove two +1/+1 counters from this creature: Create a 1/1 colorless artifact Servo creature token.</text>
 			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/43_Neoflore Dataweaver.png" num="43">Kube</set>
 			<prop>
 				<layout>normal</layout>
@@ -8321,7 +8303,7 @@ Remove two +1/+1 counters from Neoflore Dataweaver: Create a 1/1 colorless artif
 			<name>Bug in the System</name>
 			<text>Whenever you cast an artifact spell, create a token that&apos;s a copy of this artifact.
 As long as you control six or more artifacts, this artifact is a colorless X/X Construct artifact creature, where X is the number of artifacts you control.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/379_Bug in the System.png" num="379">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/382_Bug in the System.png" num="382">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8335,7 +8317,7 @@ As long as you control six or more artifacts, this artifact is a colorless X/X C
 		<card>
 			<name>Nexus of Investment</name>
 			<text>At the beginning of your upkeep, create X Treasure tokens, where X is 1 plus the number of Treasures you control.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/388_Nexus of Investment.png" num="388">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/391_Nexus of Investment.png" num="391">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8349,7 +8331,7 @@ As long as you control six or more artifacts, this artifact is a colorless X/X C
 		<card>
 			<name>Senate Hopeful Norm Elm</name>
 			<text>When Senate Hopeful Norm Elm enters and whenever you create your first token each turn, inspect a card. If it&apos;s a land card, you may put it onto the battlefield tapped. Otherwise, put it into your hand.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/362_Senate Hopeful Norm Elm.png" num="362">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/365_Senate Hopeful Norm Elm.png" num="365">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8366,8 +8348,8 @@ As long as you control six or more artifacts, this artifact is a colorless X/X C
 		<card>
 			<name>Governess&apos;s Might</name>
 			<text>Flying
-Governess&apos;s Might can&apos;t block.
-You may cast Governess&apos;s Might from your graveyard as long as you control a Dragon.</text>
+This creature can&apos;t block.
+You may cast this creature from your graveyard as long as you control a Dragon.</text>
 			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/154_Governess&apos;s Might.png" num="154">Kube</set>
 			<prop>
 				<layout>normal</layout>
@@ -8425,7 +8407,7 @@ Target player reveals their hand. You choose a nonland card from it. That player
 • You lose 3 life.
 • Draw two cards.
 • End the turn.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/383_The Elder Scroll.png" num="383">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/386_The Elder Scroll.png" num="386">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8492,9 +8474,9 @@ When this creature enters, up to X target creatures each become 4/4 red Dragon c
 		</card>
 		<card>
 			<name>Brigantine Bombardier</name>
-			<text>When Brigantine Bombardier enters, if it was cast, discover 4.
-Whenever an artifact you control enters, Brigantine Bombardier deals 1 damage to each opponent.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/203_Brigantine Bombardier.png" num="203">Kube</set>
+			<text>When this creature enters, if it was cast, discover 4.
+Whenever an artifact you control enters, this creature deals 1 damage to each opponent.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/202_Brigantine Bombardier.png" num="202">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8562,8 +8544,8 @@ At the beginning of your upkeep, if Call the Elder Gods is in your graveyard, yo
 		</card>
 		<card>
 			<name>Fort Brimwip Massacre</name>
-			<text>When Fort Brimwip Massacre enters, put a +1/+1 counter on each of up to three target creatures.
-Whenever a creature deals combat damage to Fort Brimwip Massacre, double the number of +1/+1 counters on that creature.
+			<text>When this Seige enters, put a +1/+1 counter on each of up to three target creatures.
+Whenever a creature deals combat damage to this Seige, double the number of +1/+1 counters on that creature.
 ---
 (Back): Ample Supplies</text>
 			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/277_Fort Brimwip Massacre_front.png" num="277a">Kube</set>
@@ -8606,7 +8588,7 @@ If an effect would put one or more counters on a permanent you control, it puts 
 			<name>Prismatic Spring</name>
 			<text>Creatures you control have ward {1} and &quot;{T}: Add one mana of any color.&quot;
 {4}{G}: Create a 2/2 green Dryad creature token.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/297_Prismatic Spring.png" num="297">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/299_Prismatic Spring.png" num="299">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8621,9 +8603,9 @@ If an effect would put one or more counters on a permanent you control, it puts 
 		</card>
 		<card>
 			<name>Start of a Journey</name>
-			<text>When Start of a Journey enters, create a Clue, Food, Gem, and Treasure token. (Gems are artifacts with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)
+			<text>When this enchantment enters, create a Clue, Food, Gem, and Treasure token. (Gems are artifacts with &quot;{1}, {T}, Sacrifice this artifact: Surveil 2.&quot;)
 {2}, Sacrifice a token: Put a +1/+1 counter on each creature you control. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/310_Start of a Journey.png" num="310">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/312_Start of a Journey.png" num="312">Kube</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -8639,7 +8621,7 @@ If an effect would put one or more counters on a permanent you control, it puts 
 		<card>
 			<name>Year of the Long Eclipse</name>
 			<text>{2}{B}{B}, {T}: Return target non-Aura enchantment card from your graveyard to the battlefield. It enters as a 2/2 Zombie creature with a finality counter in addition to its other types and can&apos;t block this turn. You lose life equal to its mana value.</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/370_Year of the Long Eclipse.png" num="370">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/373_Year of the Long Eclipse.png" num="373">Kube</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -8659,7 +8641,7 @@ Whenever you cast a nonred spell, create a number of 1/1 colorless Phyrexian Mit
 {3}{G}{W}{U}{B}: Exile Atraxa, then return her to the battlefield transformed under its owner&apos;s control. Activate only as a sorcery.
 ---
 (Back): The Grand Singularity</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/332_Atraxa_front.png" num="332a">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/335_Atraxa_front.png" num="335a">Kube</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -8678,7 +8660,7 @@ Whenever you cast a nonred spell, create a number of 1/1 colorless Phyrexian Mit
 			<name>The Grand Singularity</name>
 			<text>---
 (Front): Atraxa</text>
-			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/332_Atraxa_back.png" num="332b">Kube</set>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/335_Atraxa_back.png" num="335b">Kube</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -8787,7 +8769,7 @@ Whenever you cast a nonred spell, create a number of 1/1 colorless Phyrexian Mit
 		<card>
 			<name>Herald of the Change</name>
 			<text>Flying
-When Herald of the Change enters, create a 2/2 white Knight creature token with vigilance.
+When this creature enters, create a 2/2 white Knight creature token with vigilance.
 Whenever you create a token, put a +1/+1 counter on target creature.</text>
 			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/30_Herald of the Change.png" num="30">Kube</set>
 			<prop>
@@ -8991,6 +8973,74 @@ Equip {2}</text>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
+		</card>
+		<card>
+			<name>Forging the Sun</name>
+			<text>Whenever you cast an instant or sorcery spell, add {R}.
+Whenever you cast your twentieth noncreature spell each turn, you win the game.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/216_Forging the Sun.png" num="216">Kube</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Voracious Hydradile</name>
+			<text>Whenever one or more counters are placed on one or more creatures you control, you may create a token that is a copy of this creature.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/323_Voracious Hydradile.png" num="323">Kube</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hydra Crocodile</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mammalian Dawn</name>
+			<text>At the beginning of your end step, you may sacrifice permanent. If you do, search your library for a green creature card with mana value equal to 1 plus the sacrificed permanent&apos;s mana value, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/292_Mammalian Dawn.png" num="292">Kube</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Peltkeeper Yeti</name>
+			<text>Vigilance, trample
+When this creature enters, discard a card. Then, return it to its owner&apos;s hand unless there are four or more card types among cards in your graveyard.</text>
+			<set rarity="rare" picurl="https://hkrat.github.io/sets/Kube-files/img/297_Peltkeeper Yeti.png" num="297">Kube</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Snow Creature — Yeti</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

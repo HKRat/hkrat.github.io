@@ -1,4 +1,117 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Forging the Sun added.
+Voracious Hydradile added.
+Mammalian Dawn added.
+Peltkeeper Yeti added.
+
+Thieving Stray removed.
+
+Unraveling Zero Dawn
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Surveil 2, then draw a card. You gain 2 life.
+Exile this Saga, then return it to the battlefield transformed under your control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Surveil 2, then draw a card. You gain 2 life.
+III — Exile this Saga, then return it to the battlefield transformed under your control.
+
+Innovation
+rules_text: Ward {3}
+When Innovation enters, you may reveal an artifact or colorless card you own from outside the game and put it into your hand.
+Evoke—Exile an artifact or colorless nonland card from your hand. => Ward {3}
+When this creature enters, you may reveal an artifact or colorless card you own from outside the game and put it into your hand.
+Evoke—Exile an artifact or colorless nonland card from your hand.
+
+Through the Multiverse
+rules_text: When Through the Multiverse enters and at the beginning of your upkeep, choose a basic land type. Create a tapped colorless basic land token of the chosen type.
+Each creature you control enters with an additional +1/+1 counter for each color of mana spent to cast it. => When this enchantment enters and at the beginning of your upkeep, choose a basic land type. Create a tapped colorless basic land token of the chosen type.
+Each creature you control enters with an additional +1/+1 counter for each color of mana spent to cast it.
+
+Gilded Herald
+rules_text: When Gilded Herald enters, put a +1/+1 counter on target creature you control.
+Whenever Gilded Herald deals combat damage to a player, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => When this creature enters, put a +1/+1 counter on target creature you control.
+Whenever this creature deals combat damage to a player, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Relic Hunter
+rules_text: Whenever a permanent card is put into your graveyard from anywhere, surveil 1. This ability triggers only once each turn.
+Relic Hunter gets +2/+0 and has menace as long as there are four or more card types among cards in your graveyard. => Whenever a permanent card is put into your graveyard from anywhere, surveil 1. This ability triggers only once each turn.
+This creature gets +2/+0 and has menace as long as there are four or more card types among cards in your graveyard.
+
+Bloodletter Falcon
+rules_text: Flying
+Discard a card: Bloodletter Falcon gets +1/+1 until end of turn. => Flying
+Discard a card: This creature gets +1/+1 until end of turn.
+
+Burdened Houscarl
+rules_text: Whenever Burdened Houscarl deals combat damage to a player, put a +1/+1 counter on it. Then if there are two or more +1/+1 counters on Burdened Houscarl, remove all counters from it and put a +1/+1 counter on each other creature you control. => Whenever this creature deals combat damage to a player, put a +1/+1 counter on it. Then if there are two or more +1/+1 counters on this creature, remove all counters from it and put a +1/+1 counter on each other creature you control.
+
+Dragon Rising
+rules_text: Whenever you cast a red spell, put a quest counter on Dragon Rising.
+Remove five quest counters from Dragon Rising and sacrifice it: Search your library for a Dragon card, reveal it, put it into your hand, then shuffle. => Whenever you cast a red spell, put a quest counter on this enchantment.
+Remove five quest counters from this enchantment and sacrifice it: Search your library for a Dragon card, reveal it, put it into your hand, then shuffle.
+
+Kinsfield Coin-Cutters
+rules_text: Flying
+Discard a card: Kinsfield Coin-Cutters gets -2/-0 until end of turn. If a land card is discarded this way, Kinsfield Coin-Cutters's controller creates a tapped Treasure token. Any player may activate this ability. => Flying
+Discard a card: This creature gets -2/-0 until end of turn. If a land card is discarded this way, this creature's controller creates a tapped Treasure token. Any player may activate this ability.
+
+Verdant Shellwurm
+rules_text: Ward {2}
+Whenever Verdant Shellwurm attacks, create a token that's a copy of target land you control except it's not legendary.
+If you tap a token for mana, it produces twice as much of that mana instead. => Ward {2}
+Whenever this creature attacks, create a token that's a copy of target land you control except it's not legendary.
+If you tap a token for mana, it produces twice as much of that mana instead.
+
+Good as New
+rules_text: When Good as New enters, return target permanent card from your graveyard to your hand.
+At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. => When this enchantment enters, return target permanent card from your graveyard to your hand.
+At the beginning of combat on your turn, put a +1/+1 counter on target creature you control.
+
+Neoflore Dataweaver
+rules_text: Whenever you cast your second spell each turn, draw your second card each turn, and/or have your second creature enter the battlefield each turn, put a +1/+1 counter on Neoflore Dataweaver.
+Remove two +1/+1 counters from Neoflore Dataweaver: Create a 1/1 colorless artifact Servo creature token. => Whenever you cast your second spell each turn, draw your second card each turn, and/or have your second creature enter the battlefield each turn, put a +1/+1 counter on this creature.
+Remove two +1/+1 counters from this creature: Create a 1/1 colorless artifact Servo creature token.
+
+Governess's Might
+rules_text: Flying
+Governess's Might can't block.
+You may cast Governess's Might from your graveyard as long as you control a Dragon. => Flying
+This creature can't block.
+You may cast this creature from your graveyard as long as you control a Dragon.
+
+Brigantine Bombardier
+rules_text: When Brigantine Bombardier enters, if it was cast, discover 4.
+Whenever an artifact you control enters, Brigantine Bombardier deals 1 damage to each opponent. => When this creature enters, if it was cast, discover 4.
+Whenever an artifact you control enters, this creature deals 1 damage to each opponent.
+
+Fort Brimwip Massacre
+rules_text: When Fort Brimwip Massacre enters, put a +1/+1 counter on each of up to three target creatures.
+Whenever a creature deals combat damage to Fort Brimwip Massacre, double the number of +1/+1 counters on that creature. => When this Seige enters, put a +1/+1 counter on each of up to three target creatures.
+Whenever a creature deals combat damage to this Seige, double the number of +1/+1 counters on that creature.
+
+Start of a Journey
+rules_text: When Start of a Journey enters, create a Clue, Food, Gem, and Treasure token. [i](Gems are artifacts with “{1}, {T}, Sacrifice this artifact: Surveil 2.”)[/i]
+{2}, Sacrifice a token: Put a +1/+1 counter on each creature you control. Activate only as a sorcery. => When this enchantment enters, create a Clue, Food, Gem, and Treasure token. [i](Gems are artifacts with “{1}, {T}, Sacrifice this artifact: Surveil 2.”)[/i]
+{2}, Sacrifice a token: Put a +1/+1 counter on each creature you control. Activate only as a sorcery.
+
+Year of the Long Eclipse
+special_text: Omit {R}{W} [i](When you cast this Saga for its omit cost, it starts on a chapter of your choice, then sacrifice it.)[/i]
+I — This Saga deals 2 damage to each creature and you gain 2 life.
+II — Whenever a creature you control enters this turn, it gets +1/+1 and gains haste until end of turn.
+III — Target creature you don't control blocks this turn if able, and you choose how that creature blocks this turn. => Omit {R}{W} [i](When you cast this Saga for its omit cost, it starts on a chapter of your choice, then sacrifice it.)[/i]
+This Saga deals 2 damage to each creature and you gain 2 life.
+I — Whenever a creature you control enters this turn, it gets +1/+1 and gains haste until end of turn.
+II — Target creature you don't control blocks this turn if able, and you choose how that creature blocks this turn.
+
+Herald of the Change
+rules_text: Flying
+When Herald of the Change enters, create a 2/2 white Knight creature token with vigilance.
+Whenever you create a token, put a +1/+1 counter on target creature. => Flying
+When this creature enters, create a 2/2 white Knight creature token with vigilance.
+Whenever you create a token, put a +1/+1 counter on target creature.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Deepspace Herald added.
